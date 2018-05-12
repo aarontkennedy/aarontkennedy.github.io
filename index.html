@@ -1,24 +1,267 @@
-<!doctype html>
+<!DOCTYPE html>
+<html class="no-js" lang="en">
 
-<html lang="en">
 <head>
-  <meta charset="utf-8">
-
-  <title>Aaron Kennedy</title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <meta name="description" content="Aaron Kennedy">
   <meta name="author" content="Aaron Kennedy">
 
-  <link rel="stylesheet" href="reset.css">
+  <title>Aaron Kennedy</title>
+
+  <link href="https://fonts.googleapis.com/css?family=Poppins:400,600" rel="stylesheet">
+  <!-- Compressed CSS -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/foundation-sites@6.4.3/dist/css/foundation.min.css" integrity="sha256-GSio8qamaXapM8Fq9JYdGNTvk/dgs+cMLgPeevOYEx0= sha384-wAweiGTn38CY2DSwAaEffed6iMeflc0FMiuptanbN4J+ib+342gKGpvYRWubPd/+ sha512-QHEb6jOC8SaGTmYmGU19u2FhIfeG+t/hSacIWPpDzOp5yygnthL3JwnilM7LM1dOAbJv62R+/FICfsrKUqv4Gg=="
+    crossorigin="anonymous">
+
   <link rel="stylesheet" href="style.css">
 
 </head>
 
 <body>
 
-  <a href="https://aarontkennedy.github.io/Responsive-Portfolio/">
-    <img src="me.jpg">
-    <h1>Aaron Kennedy - Enter</h1>
-  </a>
-  
+  <nav>
+    <div class="title-bar hide-for-medium hide-for-large" data-responsive-toggle="navMenu" data-hide-for="large">
+      <button class="menu-icon" type="button" data-toggle="navMenu"></button>
+      <div class="title-bar-title">Menu</div>
+    </div>
+
+    <div class="top-bar hide-for-medium hide-for-large" id="navMenu">
+        <ul class="dropdown vertical menu" data-dropdown-menu>
+          <li>
+            <a href="#portfolio">Portfolio</a>
+          </li>
+          <li>
+            <a href="#aboutMe">About Me</a>
+          </li>
+          <li>
+            <a href="#workExperience">Work</a>
+          </li>
+          <li>
+              <a href="#education">Education</a>
+            </li>
+        </ul>
+    </div>
+  </nav>
+
+  <header>
+    <div class="addSomeHeight">
+      <a name="top"></a>
+    </div>
+    <div class="grid-x">
+      <div class="cell medium-2 large-3 introFiller"></div>
+      <div class="cell medium-8 large-6 introduction">
+        <img id="portrait" src="images/PostIndianapolisTrailMarathon.jpg" alt="Portrait">
+        <h1>Aaron Kennedy</h1>
+        <h3>Web Developer</h3>
+        <ul>
+          <li>
+            <b>Home:</b> Minneapolis, MN
+          </li>
+          <li>
+            <b>Email:</b>
+            <a href="mailto:aarontkennedy@gmail.com">aarontkennedy@gmail.com</a>
+          </li>
+          <li>
+            <b>Resumé:</b>
+            <a href="#">PDF
+              <i title="PDF" class="far fa-file-pdf"></i>
+            </a> &bull;
+            <a href="#">Google Doc</a>
+          </li>
+        </ul>
+        <ul class="socialMedia">
+          <li>
+            <a href="http://www.linkedin.com/in/aaron-kennedy-6a221a156">
+              <i title="LinkedIn" class="fab fa-linkedin"></i>
+            </a>
+          </li>
+          <li>
+            <a href="https://www.youtube.com/channel/UC3NtgCyX7qGbdKblxWGRwSw">
+              <i title="YouTube" class="fab fa-youtube"></i>
+            </a>
+          </li>
+          <li>
+            <a href="https://github.com/aarontkennedy">
+              <i title="GitHub" class="fab fa-github"></i>
+            </a>
+          </li>
+        </ul>
+      </div>
+      <div class="cell medium-2 large-3 introFiller"></div>
+    </div>
+  </header>
+
+  <section class="portfolio">
+    <div class="cell medium-offset-1 medium-11">
+      <a name="portfolio"></a>
+      <h2 class="">Portfolio</h2>
+    </div>
+    <ul class="grid-x grid-margin-x medium-up-2 large-up-3">
+      <li class="cell" id="RPSFirebaseGame">
+        <p>
+          RPS Firebase Game
+          <a href="">
+            <i title="GitHub" class="fab fa-github"></i>
+          </a>
+          <a href="">
+            <i title="View Live" class="fas fa-eye"></i>
+          </a>
+        </p>
+      </li>
+      <li class="cell" id="RoadRover">
+        <p>
+          Road Rover Travel Planner
+          <a href="">
+            <i title="GitHub" class="fab fa-github"></i>
+          </a>
+          <a href="">
+            <i title="View Live" class="fas fa-eye"></i>
+          </a>
+        </p>
+      </li>
+      <li class="cell" id="GIFMadness">
+        <p>
+          GIFMadness
+          <a href="">
+            <i title="GitHub" class="fab fa-github"></i>
+          </a>
+          <a href="">
+            <i title="View Live" class="fas fa-eye"></i>
+          </a>
+        </p>
+      </li>
+      <li class="cell" id="HangmanGame">
+        <p>
+          Hangman Game
+          <a href="">
+            <i title="GitHub" class="fab fa-github"></i>
+          </a>
+          <a href="">
+            <i title="View Live" class="fas fa-eye"></i>
+          </a>
+        </p>
+      </li>
+      <li class="cell" id="StarWarsRPG">
+        <p>
+          Star Wars RPG
+          <a href="">
+            <i title="GitHub" class="fab fa-github"></i>
+          </a>
+          <a href="">
+            <i title="View Live" class="fas fa-eye"></i>
+          </a>
+        </p>
+      </li>
+      <li class="cell" id="WrestlingTriviaGame">
+        <p>
+          Wrestling Trivia Game
+          <a href="">
+            <i title="GitHub" class="fab fa-github"></i>
+          </a>
+          <a href="">
+            <i title="View Live" class="fas fa-eye"></i>
+          </a>
+        </p>
+      </li>
+    </ul>
+  </section>
+
+  <section class="aboutMe grid-x">
+    <div class="cell medium-offset-1 medium-4">
+      <a name="aboutMe"></a>
+      <h2 class="">About Me</h2>
+    </div>
+    <div class="cell medium-6">
+      <p>
+        I like to push myself and take on difficult challenges. After working as a software engineer at National Instruments, I volunteered in the US Peace
+        Corps. I taught high school in Kwethluk, Alaska, and have been teaching middle school math near Minneapolis.
+      </p>
+      <p>
+        I am looking to get back to working with computers and technology as a web developer. I've returned to the University
+        of Minnesota for a web developers bootcamp. It will be a challenge to learn all the technologies needed to implement
+        web sites and applications, but I am looking forward to it.
+      </p>
+    </div>
+  </section>
+
+  <section class="workExperience grid-x">
+    <div class="cell medium-offset-1 medium-4">
+      <a name="workExperience"></a>
+      <h2 class="">Work Experience</h2>
+    </div>
+    <ol class="cell medium-6">
+      <li>
+        <h4>Middle School Math Teacher</h4>
+        <h5>Columbia Academy</h5>
+        <h6>September 2012 - June 2018</h6>
+        <p>In addition to teaching middle school math for six years, I started and coached the Columbia Academy FTC Robotics
+          teams for six years.</p>
+      </li>
+      <li>
+        <h4>High School Math Teacher</h4>
+        <h5>Ket'acik & Aapalluk Memorial School</h5>
+        <h6>August 2008 - May 2012</h6>
+        <p>Taught high school math and coached FTC Robotics for 3 years.</p>
+      </li>
+      <li>
+        <h4>Math & Science Teacher</h4>
+        <h5>Onamutai Combined School</h5>
+        <h6>October 2004 - October 2006</h6>
+        <p>As a Peace Corps volunteer, I taught math, computers, and science in northern Namibia with the Owambo people.</p>
+      </li>
+      <li>
+        <h4>Software Engineer</h4>
+        <h5>National Instruments</h5>
+        <h6>July 2002 - September 2004</h6>
+        <p>I worked with the platform abstraction team to write tools to allow NI software to run on multiple systems and platforms.
+          I specifically worked on remote procedure calls and porting code to the Mac OS X kernel. </p>
+      </li>
+    </ol>
+  </section>
+
+  <section class="education grid-x">
+    <div class="cell medium-offset-1 medium-4">
+        <a name="education"></a>
+      <h2 class="">Education</h2>
+    </div>
+    <ol class="cell medium-6">
+      <li>
+        <h4>Web Developer Boot Camp</h4>
+        <h5>University of Minnesota</h5>
+        <h6>Graduating August 2018</h6>
+        <p>Learned and applied HTML, CSS, Javascript, Bootstrap, jQuery, and more. See projects in
+          <a href="https://github.com/aarontkennedy">GitHub</a>.</p>
+      </li>
+      <li>
+        <h4>Math Education License</h4>
+        <h5>University of Minnesota</h5>
+        <h6>Graduated June 2008</h6>
+      </li>
+      <li>
+        <h4>Computer Science BA</h4>
+        <h5>University of Minnesota</h5>
+        <h6>Graduated May 2002</h6>
+      </li>
+    </ol>
+  </section>
+
+  <footer class="">
+    Aaron Kennedy ©
+    <span id="yearId">2018</span>
+    </div>
+  </footer>
+
+  <!-- Compressed JavaScript -->
+  <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
+    crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/foundation-sites@6.4.3/dist/js/foundation.min.js" integrity="sha256-mRYlCu5EG+ouD07WxLF8v4ZAZYCA6WrmdIXyn1Bv9Vk= sha384-KzKofw4qqetd3kvuQ5AdapWPqV1ZI+CnfyfEwZQgPk8poOLWaabfgJOfmW7uI+AV sha512-0gHfaMkY+Do568TgjJC2iMAV0dQlY4NqbeZ4pr9lVUTXQzKu8qceyd6wg/3Uql9qA2+3X5NHv3IMb05wb387rA=="
+    crossorigin="anonymous"></script>
+  <script defer src="https://use.fontawesome.com/releases/v5.0.13/js/all.js" integrity="sha384-xymdQtn1n3lH2wcu0qhcdaOpQwyoarkgLVxC/wZ5q7h9gHtxICrpcaSUfygqZGOe"
+    crossorigin="anonymous"></script>
+  <script src="app.js"></script>
+
 </body>
+
 </html>

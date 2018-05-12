@@ -1,24 +1,213 @@
-img {
-    margin: 1em auto;
-    width:100%;
+body {
+    /* The image used */
+    background-image: url("images/backgroundImageComputer.jpg");
+
+    /* Center and scale the image nicely */
+    /*background-position: center;*/
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-color: #4F5D75;
+    color: #2D3142;
+    font-family: 'Poppins', sans-serif;
+}
+
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+}
+
+/* Necessary, the margins were breaking foundation. */
+ol, ul {
+    margin: 0;
+    list-style-type: none;
 }
 
 a {
-    margin: 1em auto;
-    width: 75%;
-    display:block;
-    position: relative;
+    color: #EF8354;
 }
 
-h1 {
+header {
+    height: 80vh;
+}
+
+#portrait {
+    width: 180px;
+    border-radius:50%;
+    margin: 1em;
+}
+
+.addSomeHeight {
+    height: 8em;
+}
+
+.introduction {
+    height: 80vh;
+    background-color: white;
+    padding: 1em 1em 3em 1em;
+    text-align:center;
+    color: #2D3142;
+}
+
+.introduction a {
+    color: #4F5D75;
+}
+
+.socialMedia li {
+    display: inline-block;
+}
+
+.socialMedia svg {
+    color: #4F5D75;
+    font-size: 2em;
+    margin: 1em .25em;
+}
+
+.portfolio {
+    background-color: white;
+    padding: 3em 1em;
+}
+
+.portfolio li {
+    position: relative;
+    width:444px;
+    height:333px;
+    background-size: cover;
+    margin: 1em 0;
     color: white;
-    position: absolute;
-    width: 100%;
-    top: 50%;
     text-align: center;
-    text-decoration: none;
-    font-weight: bolder;
-    font-size: 300%;
-    text-shadow: 2px 2px black;
+    border-radius: 3px;
+    border: 1px solid #BFC0C0;
+}
+
+.portfolio p {
+    width:100%;
+    position: absolute;
+    bottom: 0;
+    margin: 0;
+    padding: 1em 0;
+    background-color: #4F5D75;
+    opacity: .8;
+    font-weight: bold;
+}
+
+.portfolio svg {
+    color: white;
+    font-size: 1.5em;
+    margin: 0 .1em;
+}
+
+#RPSFirebaseGame {
+    background-image: url(images/rps.png);
+}
+
+#GIFMadness {
+    background-image: url(images/wrestlingGIFapp.png);
+}
+
+#HangmanGame {
+    background-image: url(images/hangman.jpg);
+}
+
+#StarWarsRPG {
+    background-image: url(images/starwars.png);
+}
+
+#WrestlingTriviaGame {
+    background-image: url(images/wrestlingTrivia.png);
+}
+
+#RoadRover {
+    background-image: url(images/roadRover.png);
+} 
+
+.aboutMe {
+    background-color: white;
+    padding: 3em 1em;
+}
+
+.workExperience {
+    background-color: #2D3142;
+    color: white;
+    padding: 3em 1em;
+}
+
+.workExperience ul {
+    padding: 1em 1em 1em 2em;
+}
+
+.workExperience li {
+    padding: 0 0 1.5em 0;
+}
+
+.workExperience h5 {
+    color: #EF8354;
+}
+
+.education {
+    background-color: white;
+    padding: 3em 1em;
+}
+
+.education ul {
+    padding: 1em 1em 1em 2em;
+}
+
+.education li {
+    padding: 0 0 1.5em 0;
+}
+
+.education h5 {
+    color: #EF8354;
+}
+
+footer {
+    background-color: #2D3142;
+    color: #BFC0C0;
+    text-align: center;
+    padding:2em;
+}
+
+section h2:before {
+    background-color: #EF8354;
+    border-radius: 5px;
+    box-sizing: border-box;
+    content: "";
+    display: block;
+    height: 10px;
+    margin-bottom: 20px;
+    width: 50px;
+}
+
+@media only screen and (max-width: 1024px)  {
+    .addSomeHeight {
+        height: 6em;
+    }
+}
+@media only screen and (max-width: 640px)  {
+    .title-bar {
+        background-color: #2D3142;
+        color: #BFC0C0;
+    }
+    
+    .top-bar, .top-bar ul, .top-bar a {
+        background-color: #4F5D75;
+        color: white;
+    }
+    .addSomeHeight {
+        height: 0;
+    }
+    h2 {
+        font-size: 1.5em;
+    }
+    header {
+        height: auto;
+        margin-bottom:0;
+        padding-bottom:0;
+    }
+    .introduction {
+        height: auto;
+        margin-bottom:0;
+        padding-bottom:0;
     }
 }
