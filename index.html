@@ -45,37 +45,14 @@
         </ul>
       </div>
     </div>
-    <!--
-    <div class="title-bar" data-responsive-toggle="navMenu" data-hide-for="medium large">
-      <button class="menu-icon" type="button" data-toggle="navMenu"></button>
-    </div>
-
-    <div class="top-bar" id="navMenu">
-      <div class="top-bar-left">
-        <ul class="dropdown vertical menu" data-dropdown-menu>
-          <li>
-            <a href="#portfolio">Portfolio</a>
-          </li>
-          <li>
-            <a href="#aboutMe">About Me</a>
-          </li>
-          <li>
-            <a href="#workExperience">Work</a>
-          </li>
-          <li>
-            <a href="#education">Education</a>
-          </li>
-        </ul>
-      </div>
-    </div>-->
   </nav>
 
   <header>
-    <div class="addSomeHeight">
+    <div class="grid-x addSomeHeight">
+      <div class="cell"></div>
     </div>
     <div class="grid-x">
-      <div class="cell medium-2 large-3 introFiller"></div>
-      <div class="cell medium-8 large-6 introduction">
+      <div class="cell medium-8 large-6 medium-offset-2 large-offset-3 introduction">
         <img id="portrait" src="images/inASuit.jpg" alt="Portrait">
         <h1>Aaron Kennedy</h1>
         <h3>Web Developer</h3>
@@ -113,14 +90,15 @@
           </li>
         </ul>
       </div>
-      <div class="cell medium-2 large-3 introFiller"></div>
     </div>
   </header>
 
-  <section class="portfolio">
-    <div class="cell medium-offset-1 medium-11">
-      <a class="topLink" name="portfolio" href="#top"></a>
-      <h2 class="">Portfolio</h2>
+  <section class="portfolio container">
+    <div class="grid-x medium-offset-1 medium-11">
+      <div class="cell">
+        <a class="topLink" name="portfolio" href="#top"></a>
+        <h2>Portfolio</h2>
+      </div>
     </div>
     <ul class="grid-x grid-margin-x medium-up-2 large-up-3">
       <li class="cell" id="RPSFirebaseGame">
@@ -195,7 +173,7 @@
   <section class="aboutMe grid-x">
     <div class="cell medium-offset-1 medium-4">
       <a class="topLink" name="aboutMe" href="#top"></a>
-      <h2 class="">About Me</h2>
+      <h2>About Me</h2>
     </div>
     <div class="cell medium-6">
       <p>
@@ -207,13 +185,27 @@
         Minnesota for a web developers bootcamp. It will be a challenge to learn all the technologies needed to implement
         web sites and applications, but I am looking forward to it.
       </p>
+      <ul class="inTheNews">
+        <li>
+          <a href="http://www.hightechkids.org/sites/default/files/FTC/2017/State_Feb9_10/2017-18%20MN%20FTC%20State%20Championship%20Awards%20Relic%20Recovery.V1.pdf">2018 High Tech Kids High Tech Kids Community Award</a>
+        </li>
+        <li>
+          <a href="https://www.hometownsource.com/sun_focus/news/education/district-educators-honored-as-ties-exceptional-teachers/article_320a9be9-4a19-5eb9-b632-d28de27c31df.html">2013 ISD 13 TIES Exceptional Teacher</a>
+        </li>
+        <li>
+          <a href="https://www.hometownsource.com/sun_focus/news/local/columbia-heights-robotics-team-advances-to-state-competition/article_beaa19a8-ef89-531f-a97c-1b2c579bd62b.html">2016 CA Robotics Goes to MN FTC State Competition</a>
+        </li>
+        <li>
+          <a href="https://www.hometownsource.com/sun_focus/news/local/columbia-academy-robotics-team-earns-trip-to-state/article_67bd6ebc-b49e-53ef-aa8e-7d79097486b2.html">2014 CA Robotics Goes to MN FTC State Competition</a>
+        </li>
+      </ul>
     </div>
   </section>
 
   <section class="workExperience grid-x">
     <div class="cell medium-offset-1 medium-4">
       <a class="topLink" name="workExperience" href="#top"></a>
-      <h2 class="">Work Experience</h2>
+      <h2>Work Experience</h2>
     </div>
     <ol class="cell medium-6">
       <li>
@@ -248,7 +240,7 @@
   <section class="education grid-x">
     <div class="cell medium-offset-1 medium-4">
       <a class="topLink" name="education" href="#top"></a>
-      <h2 class="">Education</h2>
+      <h2>Education</h2>
     </div>
     <ol class="cell medium-6">
       <li>
@@ -271,7 +263,7 @@
     </ol>
   </section>
 
-  <footer class="">
+  <footer>
     Aaron Kennedy ©
     <span id="yearId">2018</span>
     </div>

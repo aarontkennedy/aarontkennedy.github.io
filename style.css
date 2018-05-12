@@ -4,8 +4,8 @@ body {
 
     /* Center and scale the image nicely */
     /*background-position: center;*/
-    background-repeat: no-repeat;
-    background-size: 100%;
+    background-repeat: repeat-y;
+    background-size: auto 100vh;
     background-color: #4F5D75;
     color: #2D3142;
     font-family: 'Poppins', sans-serif;
@@ -15,6 +15,7 @@ body {
 h1, h2, h3, h4, h5, h6 {
     font-family: 'Poppins', sans-serif;
     font-weight: 600;
+    overflow: hidden;
 }
 
 /* Necessary, the margins were breaking foundation. */
@@ -29,6 +30,16 @@ a {
 
 header {
     height: 80vh;
+    min-height: 30em;
+}
+
+.introduction {
+    height: 80vh;
+    min-height: 30em;
+    background-color: white;
+    padding: 1em 1em 3em 1em;
+    text-align:center;
+    color: #2D3142;
 }
 
 #portrait {
@@ -39,14 +50,6 @@ header {
 
 .addSomeHeight {
     height: 8em;
-}
-
-.introduction {
-    height: 80vh;
-    background-color: white;
-    padding: 1em 1em 3em 1em;
-    text-align:center;
-    color: #2D3142;
 }
 
 .introduction a {
@@ -61,6 +64,10 @@ header {
     color: #4F5D75;
     font-size: 2em;
     margin: 1em .25em;
+}
+
+.socialMedia svg:hover {
+    color: #EF8354;
 }
 
 .portfolio {
@@ -81,9 +88,9 @@ header {
 }
 
 .portfolio p {
-    width:100%;
     position: absolute;
-    bottom: 0;
+    bottom: 1em;
+    width:100%;
     margin: 0;
     padding: 1em 0;
     background-color: #4F5D75;
@@ -95,6 +102,9 @@ header {
     color: white;
     font-size: 1.5em;
     margin: 0 .1em;
+}
+.portfolio svg:hover {
+    color: #EF8354;
 }
 
 #RPSFirebaseGame {
@@ -126,6 +136,31 @@ header {
     padding: 3em 1em;
 }
 
+.inTheNews {
+    list-style-type: none; /* no default bullets */
+}
+
+.inTheNews a {
+    color:  #2D3142;
+    cursor: pointer;
+}
+
+.inTheNews a:hover {
+    color:  #EF8354;
+    cursor: pointer;
+}
+  
+.inTheNews li:before { /* the custom styled bullets */
+    background-color: #EF8354;
+    border-radius: 50%;
+    content: "";
+    display: inline-block;
+    margin-right: 10px;
+    margin-bottom: 2px;
+    height: 10px;
+    width: 10px;
+}
+
 .workExperience {
     background-color: #2D3142;
     color: white;
@@ -144,6 +179,10 @@ header {
     color: #EF8354;
 }
 
+.workExperience h6 {
+    text-transform: uppercase;
+}
+
 .education {
     background-color: white;
     padding: 3em 1em;
@@ -159,6 +198,10 @@ header {
 
 .education h5 {
     color: #EF8354;
+}
+
+.education h6 {
+    text-transform: uppercase;
 }
 
 footer {
@@ -212,6 +255,10 @@ a.topLink {
     }
 }
 @media only screen and (max-width: 640px)  {
+    /* The image used */
+    body {
+        background-image: none;
+    }
     .title-bar {
         background-color: #2D3142;
     }
