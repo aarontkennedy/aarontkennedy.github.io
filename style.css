@@ -168,16 +168,43 @@ footer {
     padding:2em;
 }
 
-section h2:before {
+a.topLink {
+    display:block;
     background-color: #EF8354;
     border-radius: 5px;
     box-sizing: border-box;
     content: "";
-    display: block;
     height: 10px;
     margin-bottom: 20px;
     width: 50px;
 }
+
+.title-bar { 
+    background-color: transparent;
+}
+
+.top-bar, .top-bar ul {
+    text-align: center;
+    background-color: transparent;
+    color: white;
+}
+
+.top-bar li {
+    margin: 0 auto;
+    background-color: #2D3142;
+    border-radius: 1em;
+    opacity: .8;
+}
+
+.top-bar li:hover {
+    opacity: 1;
+}
+
+.top-bar a {
+    color: white;
+}
+
+
 
 @media only screen and (max-width: 1024px)  {
     .addSomeHeight {
@@ -187,9 +214,10 @@ section h2:before {
 @media only screen and (max-width: 640px)  {
     .title-bar {
         background-color: #2D3142;
-        color: #BFC0C0;
     }
-    
+    .top-bar li {
+        margin: inherit;
+    }
     .top-bar, .top-bar ul, .top-bar a {
         background-color: #4F5D75;
         color: white;

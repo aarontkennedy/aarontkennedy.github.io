@@ -22,12 +22,36 @@
 <body>
 
   <nav>
-    <div class="title-bar hide-for-medium hide-for-large" data-responsive-toggle="navMenu" data-hide-for="large">
-      <button class="menu-icon" type="button" data-toggle="navMenu"></button>
+    <div class="title-bar" data-responsive-toggle="responsive-menu" data-hide-for="medium">
+      <button class="menu-icon" type="button" data-toggle="responsive-menu"></button>
       <div class="title-bar-title">Menu</div>
     </div>
 
-    <div class="top-bar hide-for-medium hide-for-large" id="navMenu">
+    <div class="top-bar" id="responsive-menu">
+      <div class="top-bar-left">
+        <ul class="dropdown vertical medium-horizontal menu" data-dropdown-menu>
+          <li>
+            <a href="#portfolio">Portfolio</a>
+          </li>
+          <li>
+            <a href="#aboutMe">About Me</a>
+          </li>
+          <li>
+            <a href="#workExperience">Work</a>
+          </li>
+          <li>
+            <a href="#education">Education</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+    <!--
+    <div class="title-bar" data-responsive-toggle="navMenu" data-hide-for="medium large">
+      <button class="menu-icon" type="button" data-toggle="navMenu"></button>
+    </div>
+
+    <div class="top-bar" id="navMenu">
+      <div class="top-bar-left">
         <ul class="dropdown vertical menu" data-dropdown-menu>
           <li>
             <a href="#portfolio">Portfolio</a>
@@ -39,20 +63,20 @@
             <a href="#workExperience">Work</a>
           </li>
           <li>
-              <a href="#education">Education</a>
-            </li>
+            <a href="#education">Education</a>
+          </li>
         </ul>
-    </div>
+      </div>
+    </div>-->
   </nav>
 
   <header>
     <div class="addSomeHeight">
-      <a name="top"></a>
     </div>
     <div class="grid-x">
       <div class="cell medium-2 large-3 introFiller"></div>
       <div class="cell medium-8 large-6 introduction">
-        <img id="portrait" src="images/PostIndianapolisTrailMarathon.jpg" alt="Portrait">
+        <img id="portrait" src="images/inASuit.jpg" alt="Portrait">
         <h1>Aaron Kennedy</h1>
         <h3>Web Developer</h3>
         <ul>
@@ -63,7 +87,7 @@
             <b>Email:</b>
             <a href="mailto:aarontkennedy@gmail.com">aarontkennedy@gmail.com</a>
           </li>
-          <li>
+          <li class="notFinished" style="display:none">
             <b>Resumé:</b>
             <a href="#">PDF
               <i title="PDF" class="far fa-file-pdf"></i>
@@ -95,7 +119,7 @@
 
   <section class="portfolio">
     <div class="cell medium-offset-1 medium-11">
-      <a name="portfolio"></a>
+      <a class="topLink" name="portfolio" href="#top"></a>
       <h2 class="">Portfolio</h2>
     </div>
     <ul class="grid-x grid-margin-x medium-up-2 large-up-3">
@@ -170,17 +194,17 @@
 
   <section class="aboutMe grid-x">
     <div class="cell medium-offset-1 medium-4">
-      <a name="aboutMe"></a>
+      <a class="topLink" name="aboutMe" href="#top"></a>
       <h2 class="">About Me</h2>
     </div>
     <div class="cell medium-6">
       <p>
-        I like to push myself and take on difficult challenges. After working as a software engineer at National Instruments, I volunteered in the US Peace
-        Corps. I taught high school in Kwethluk, Alaska, and have been teaching middle school math near Minneapolis.
+        I like to push myself and take on difficult challenges. After working as a software engineer at National Instruments, I volunteered
+        in the US Peace Corps. I taught high school in Kwethluk, Alaska, and have been teaching middle school math near Minneapolis.
       </p>
       <p>
-        I am looking to get back to working with computers and technology as a web developer. I've returned to the University
-        of Minnesota for a web developers bootcamp. It will be a challenge to learn all the technologies needed to implement
+        I am looking to get back to working with computers and technology as a web developer. I've returned to the University of
+        Minnesota for a web developers bootcamp. It will be a challenge to learn all the technologies needed to implement
         web sites and applications, but I am looking forward to it.
       </p>
     </div>
@@ -188,7 +212,7 @@
 
   <section class="workExperience grid-x">
     <div class="cell medium-offset-1 medium-4">
-      <a name="workExperience"></a>
+      <a class="topLink" name="workExperience" href="#top"></a>
       <h2 class="">Work Experience</h2>
     </div>
     <ol class="cell medium-6">
@@ -223,7 +247,7 @@
 
   <section class="education grid-x">
     <div class="cell medium-offset-1 medium-4">
-        <a name="education"></a>
+      <a class="topLink" name="education" href="#top"></a>
       <h2 class="">Education</h2>
     </div>
     <ol class="cell medium-6">
