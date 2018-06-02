@@ -131,6 +131,10 @@ header {
     background-image: url(images/roadRover.png);
 } 
 
+#bamazonCLIGame {
+    background-image: url(images/fakeAmazonCLI.png);
+}
+
 .aboutMe {
     background-color: white;
     padding: 3em 1em;
