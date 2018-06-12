@@ -75,7 +75,7 @@ header {
     padding: 3em 1em;
 }
 
-.portfolio li {
+.portfolioItems li {
     position: relative;
     width:444px;
     height:333px;
@@ -87,7 +87,7 @@ header {
     border: 1px solid #BFC0C0;
 }
 
-.portfolio p {
+.portfolioItems p {
     position: absolute;
     bottom: 1em;
     width:100%;
@@ -98,12 +98,12 @@ header {
     font-weight: bold;
 }
 
-.portfolio svg {
+.portfolioItems svg {
     color: white;
     font-size: 1.5em;
     margin: 0 .1em;
 }
-.portfolio svg:hover {
+.portfolioItems svg:hover {
     color: #EF8354;
 }
 
@@ -131,8 +131,12 @@ header {
     background-image: url(images/roadRover.png);
 } 
 
-#bamazonCLIGame {
+#bamazonCLI {
     background-image: url(images/fakeAmazonCLI.png);
+}
+
+#friendliness {
+    background-image: url(images/friendliness.png);
 }
 
 .aboutMe {
@@ -251,6 +255,24 @@ a.topLink {
     color: white;
 }
 
+#technologies {
+    list-style-type: none;
+    text-align: center;
+}
+
+#technologies li {
+    margin: 0;
+    padding: 0;
+    display: inline;
+}
+
+#technologies li:after {
+    content: " . ";
+}
+
+#technologies li:last-child:after {
+    content: "";
+}
 
 
 @media only screen and (max-width: 1024px)  {
