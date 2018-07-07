@@ -143,6 +143,10 @@ header {
     background-image: url("images/kingsburgers.png");
 }
 
+#beerDiary {
+    background-image: url("images/beerDiary.png");
+}
+
 .aboutMe {
     background-color: white;
     padding: 3em 1em;
