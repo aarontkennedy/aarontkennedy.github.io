@@ -58,6 +58,7 @@ header {
 
 .socialMedia li {
     display: inline-block;
+    vertical-align: middle;
 }
 
 .socialMedia svg {
