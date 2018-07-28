@@ -120,6 +120,10 @@ header {
     background-image: url("images/hangman.jpg");
 }
 
+#BrainReactGame {
+    background-image: url("images/brainReact.png");
+}
+
 #StarWarsRPG {
     background-image: url("images/starwars.png");
 }
