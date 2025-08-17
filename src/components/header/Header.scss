@@ -1,0 +1,21 @@
+@import "../../styles/variables";
+
+.header {
+  &__container {
+    height: $menuHeight;
+    width: 100%;
+    background-color: white;
+    display: flex;
+    vertical-align: center;
+    border-bottom: 1px solid black;
+  }
+
+  &__nav {
+    display: flex;
+  }
+
+  &__logo {
+    padding: 5px 10px;
+    height: 100px;
+  }
+}

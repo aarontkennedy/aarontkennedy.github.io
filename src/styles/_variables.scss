@@ -1,0 +1,18 @@
+$menuHeight: 110px;
+$footerHeight: 1em;
+// $brandingIconHeight: 55px;
+// $color: black;
+// $hoverColor: #666666;
+// $maxWidth: 900px;
+
+// $tabletBreakpoint: 768px;
+// $desktopBreakpoint: 1024px;
+
+// $mobileMargin: 25px;
+// $tabletMargin: 75px;
+// $desktopMargin: 75px;
+
+:export {
+  menuHeight: $menuHeight;
+  footerHeight: $footerHeight;
+}

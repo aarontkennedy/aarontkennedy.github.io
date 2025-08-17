@@ -1,0 +1,79 @@
+@import "../../../styles/variables";
+
+.latLongRecorder {
+  .leaflet-control-container .leaflet-top.leaflet-left {
+    top: $menuHeight;
+  }
+
+  &__container {
+    display: flex;
+    flex-direction: column;
+    z-index: 1001;
+    position: absolute;
+    height: 50vh;
+    bottom: 20px;
+    right: 3px;
+    left: 3px;
+    background-color: white;
+    border: 2px solid rgba(0, 0, 0, 0.2);
+    border-radius: 4px;
+  }
+
+  &__button-wrap {
+    display: flex;
+    justify-content: space-evenly;
+  }
+
+  &__button {
+    background-color: white;
+    border-right: 1px solid rgba(0, 0, 0, 0.2);
+    border-bottom: 2px solid rgba(0, 0, 0, 0.2);
+    border-top: none;
+    border-left: none;
+    height: 30px;
+    cursor: pointer;
+    font-family: "Helvetica", "Arial", sans-serif;
+    padding-left: 10px;
+    padding-right: 10px;
+    flex-grow: 1;
+    width: 25%;
+
+    &:hover {
+      background-color: rgb(244, 244, 244);
+    }
+  }
+
+  &__list {
+    list-style-type: none;
+    overflow: scroll;
+    padding: 5px;
+    height: 100%;
+    font-family: "Helvetica", "Arial", sans-serif;
+  }
+
+  &__back-link {
+    border-top: 1px solid rgba(0, 0, 0, 0.2);
+    text-align: center;
+    font-family: "Helvetica", "Arial", sans-serif;
+
+    a {
+      color: black;
+      text-decoration: none;
+      &:hover {
+        text-decoration: underline;
+      }
+    }
+  }
+}
+
+@media only screen and (min-width: 768px) {
+  .latLongRecorder {
+    &__container {
+      height: calc(100vh - ($menuHeight + 10px + 20px));
+      left: unset;
+      bottom: 20px;
+      right: 10px;
+      width: 360px;
+    }
+  }
+}

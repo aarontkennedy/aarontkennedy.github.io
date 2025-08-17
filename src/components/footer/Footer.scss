@@ -1,0 +1,19 @@
+@import "../../styles/variables";
+
+.footer {
+  &__container {
+    width: 100%;
+    max-width: 100%;
+    background-color: white;
+    height: $footerHeight;
+    text-align: center;
+
+    a {
+      color: black;
+      text-decoration: none;
+      &:hover {
+        text-decoration: underline;
+      }
+    }
+  }
+}

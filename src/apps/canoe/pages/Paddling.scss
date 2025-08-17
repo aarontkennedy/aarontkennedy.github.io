@@ -1,0 +1,164 @@
+@import "../../../styles/variables";
+body {
+  font-family: Arial;
+}
+
+.paddling {
+  // .leaflet-control-container .leaflet-top.leaflet-left {
+  //   top: $menuHeight;
+  // }
+
+  // .leaflet-control.leaflet-bar {
+  //   top: $menuHeight;
+  // }
+
+  // .leaflet-control-zoom.leaflet-bar.leaflet-control {
+  //   top: unset;
+  // }
+}
+
+.paddling-hero {
+  position: relative;
+
+  &__background-video {
+    // position: fixed;
+    // left: 0;
+    // top: 0;
+    // background-size: cover;
+    // background: no-repeat center;
+    // margin-left: 50vw;
+    user-select: none;
+    pointer-events: none;
+
+    /*custom styles, for example grayscale appearance*/
+    // filter: grayscale(0.8);
+
+    /*additional tweaks for positioning, read more in the link above*/
+    // height: 100%;
+    // width: 177.77777778vh; /* 100 * 16 / 9 */
+    // min-width: 100%;
+    // min-height: 56.25vw; /* 100 * 9 / 16 */
+    width: 100%;
+    // max-width: 100%;
+    aspect-ratio: 16/9;
+  }
+
+  &__content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    max-width: 100%;
+    height: 100%;
+    text-align: center;
+    color: white;
+    background-image: linear-gradient(
+      to bottom,
+      rgba(0, 0, 0, 0),
+      /* Fully transparent black at the top */ rgba(0, 0, 0, 0.1) 30%,
+      /* Fades to 80% opaque black by 20% down */ rgba(0, 0, 0, 0.4) 50%,
+      /* Becomes fully opaque black at the midpoint (darkest point) */
+        rgba(0, 0, 0, 0.1) 70%,
+      /* Fades back to 80% opaque black by 80% down */ rgba(0, 0, 0, 0)
+        /* Fully transparent black at the bottom */
+    );
+    padding: 25px 5px;
+    font-family: Arial;
+    // font-weight: bold;
+    font-size: 24px;
+  }
+
+  &__header {
+    text-transform: uppercase;
+    max-width: 700px;
+  }
+  &__sub-header {
+    display: none;
+  }
+}
+
+.carousel {
+  height: 200px;
+  display: flex;
+  overflow-x: scroll;
+  width: 100%;
+  max-width: 100%;
+  img {
+    height: 200px;
+  }
+}
+
+.footer {
+  background-color: rgb(204, 197, 197);
+  color: white;
+}
+
+.video_search {
+  min-height: 350px;
+  &__input input {
+    padding: 5px;
+    margin: 15px;
+  }
+  &__input input {
+    padding: 5px;
+    margin: 15px;
+  }
+  &__tags {
+    width: 100%;
+    overflow-x: scroll;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+  }
+  &__tag {
+    text-transform: lowercase;
+    padding: 0px 10px;
+    cursor: pointer;
+    margin: 15px;
+  }
+  &__results {
+    width: 100%;
+    overflow-x: scroll;
+    display: flex;
+    flex-direction: row;
+    justify-self: center;
+
+    a {
+      text-decoration: none;
+    }
+  }
+  &__card {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    margin: 5px;
+    padding: 10px;
+    height: 200px;
+    width: 250px;
+    min-width: 250px;
+    &:hover {
+      background-color: rgb(240, 240, 240);
+      border-radius: 8px;
+    }
+  }
+  &__video-thumbnail {
+    display: block;
+    width: 100%;
+    border-radius: 8px;
+    margin-bottom: 5px;
+  }
+  &__title {
+    color: black;
+    max-height: fit-content;
+    font-size: 20px;
+    line-height: 20px;
+  }
+  &__sub-text {
+    color: gray;
+  }
+}

@@ -1,0 +1,10 @@
+@import "../../../styles/variables";
+
+.home {
+  &__wrap {
+    display: block;
+    width: 100%;
+    padding-top: $menuHeight;
+    min-height: calc(100vh - ($menuHeight + $footerHeight));
+  }
+}
