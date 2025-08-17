@@ -7,6 +7,7 @@ import "./LatLongRecorder.scss";
 import { Link } from "react-router-dom";
 import Header from "../../../components/header/Header";
 import { useMap } from "react-leaflet/hooks";
+import * as L from "leaflet";
 
 const ResetButton = ({ reset }: { reset: () => void }) => {
   const map = useMap();
@@ -127,8 +128,9 @@ const LatLongRecorder = () => {
                 }
 
                 const stringArray = latLongList.map((ll) => {
-                  const { lat, lng } = ll;
-                  return `[${lat},${lng}]`;
+                  // const { lat, lng } = ll;
+                  const latLngObject = L.latLng(ll);
+                  return `[${latLngObject.lat},${latLngObject.lng}]`;
                 });
                 const finalString = `[\n${stringArray.join(",\n")}\n]`;
 
@@ -141,10 +143,10 @@ const LatLongRecorder = () => {
           <ol className="latLongRecorder__list">
             {latLongList &&
               latLongList.map((ll, index) => {
-                const { lat, lng } = ll;
+                const latLngObject = L.latLng(ll);
                 return (
                   <li key={`${index}-${ll.toString()}`}>
-                    {lat},{lng}
+                    {latLngObject.lat},{latLngObject.lng}
                   </li>
                 );
               })}

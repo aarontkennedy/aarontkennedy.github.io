@@ -1,8 +1,8 @@
-import React, { useRef, useState, useEffect } from "react";
+import { useRef, useState, useEffect } from "react";
 import "./EllipsisText.scss";
 
 const EllipsisText = ({ text }: { text: string }) => {
-  const textRef = useRef(null);
+  const textRef = useRef<HTMLDivElement>(null);
   const [showTooltip, setShowTooltip] = useState(false);
   const [isOverflowing, setIsOverflowing] = useState(false);
 

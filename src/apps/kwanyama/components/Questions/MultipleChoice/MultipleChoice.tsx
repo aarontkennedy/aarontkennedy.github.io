@@ -21,12 +21,12 @@ const MultipleChoice = ({
   score: number;
   setScore: (n: number) => void;
   selectedOption: any;
-  setSelectedOption: (selected) => void;
+  setSelectedOption: (selected: string) => void;
   getCurrentQuestion: () => Question;
 }): JSX.Element => {
   console.log(`MultipleChoice ${isCorrect}`);
 
-  const checkAnswer = (selected) => {
+  const checkAnswer = (selected: string) => {
     setSelectedOption(selected);
     const currentQ = getCurrentQuestion() as MultipleChoiceQuestion;
 

@@ -1,8 +1,8 @@
 import Home from "./pages/home/Home";
 import LessonSelection from "./pages/LessonSelection/LessonSelection";
-import QuizPage from "./components/Quiz/Quiz";
-import ProverbsLesson from "./pages/ProverbsLesson/ProverbsLesson";
-import { Routes, Route, Link } from "react-router-dom";
+// import QuizPage from "./components/Quiz/Quiz";
+// import ProverbsLesson from "./pages/ProverbsLesson/ProverbsLesson";
+import { Routes, Route } from "react-router-dom";
 import Layout from "./components/Layout/Layout";
 import GreetingsLesson from "./pages/GreetingsLesson";
 

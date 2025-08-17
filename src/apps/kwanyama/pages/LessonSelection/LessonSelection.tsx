@@ -1,22 +1,22 @@
-import { useContext, useState } from "react";
-import ButtonWithTranslation from "../../components/ButtonWithTranslation/ButtonWithTranslation";
+import { useContext } from "react";
+// import ButtonWithTranslation from "../../components/ButtonWithTranslation/ButtonWithTranslation";
 import PageTitle from "../../components/PageTitle";
 import { GameContext } from "../../GameContext";
 import "./LessonSelection.scss";
-import { useNavigate } from "react-router-dom";
-import { kwanyamaUrl } from "../../helpers/urlHelper";
+// import { useNavigate } from "react-router-dom";
+// import { kwanyamaUrl } from "../../helpers/urlHelper";
 
-const lessons = [
-  {
-    path: "greetings",
-    title: "Greetings",
-    description: "Learn basic greetings in Oshikwanyama",
-  },
-];
+// const lessons = [
+//   {
+//     path: "greetings",
+//     title: "Greetings",
+//     description: "Learn basic greetings in Oshikwanyama",
+//   },
+// ];
 
 const LessonSelection = () => {
   const {} = useContext(GameContext);
-  const navigate = useNavigate();
+  // const navigate = useNavigate();
 
   return (
     <>
@@ -26,7 +26,7 @@ const LessonSelection = () => {
       />
 
       <div className="lesson-selection">
-        {lessons.map((lesson, index) => (
+        {/* {lessons.map((lesson, index) => (
           <div
             key={lesson.path}
             // className={`lesson ${
@@ -70,11 +70,11 @@ const LessonSelection = () => {
                 />
               </div>
               <div className="lesson__excercises">
-                {/* {lesson.questions.length} exercises */}
+                {lesson.questions.length} exercises
               </div>
             </div>
-          </div>
-        ))}
+        </div>
+        ))} */}
       </div>
     </>
   );

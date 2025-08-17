@@ -1,70 +1,70 @@
 import {
-  FillInTheBlankQuestion,
-  MatchingQuestion,
-  MultipleChoiceQuestion,
-  OrderingQuestion,
+  // FillInTheBlankQuestion,
+  // MatchingQuestion,
+  // MultipleChoiceQuestion,
+  // OrderingQuestion,
   Question,
-  Section,
+  // Section,
 } from "../../types/types";
 import "./Quiz.scss";
-import FillInTheBlank from "../Questions/FillInTheBlank/FillInTheBlank";
-import Ordering from "../Questions/Ordering/Ordering";
-import Matching from "../Questions/Matching/Matching";
-import MultipleChoice from "../Questions/MultipleChoice/MultipleChoice";
-import ButtonWithTranslation from "../ButtonWithTranslation/ButtonWithTranslation";
-import { useContext, useState } from "react";
-import { GameContext } from "../../GameContext";
-import { useNavigate } from "react-router-dom";
-import { kwanyamaUrl } from "../../helpers/urlHelper";
+// import FillInTheBlank from "../Questions/FillInTheBlank/FillInTheBlank";
+// import Ordering from "../Questions/Ordering/Ordering";
+// import Matching from "../Questions/Matching/Matching";
+// import MultipleChoice from "../Questions/MultipleChoice/MultipleChoice";
+// import ButtonWithTranslation from "../ButtonWithTranslation/ButtonWithTranslation";
+// import { useState } from "react";
+// import { GameContext } from "../../GameContext";
+// import { useNavigate } from "react-router-dom";
+// import { kwanyamaUrl } from "../../helpers/urlHelper";
 
-const Quiz = ({ questions }: { questions: Question[] }): JSX.Element | null => {
-  const {
-    score,
-    setScore,
-    streak,
-    setStreak,
-    completedLessons,
-    setCompletedLessons,
-  } = useContext(GameContext);
-  const navigate = useNavigate();
+const Quiz = ({}: { questions: Question[] }): JSX.Element | null => {
+  // const {
+  //   score,
+  //   setScore,
+  //   streak,
+  //   setStreak,
+  //   // completedLessons,
+  //   // setCompletedLessons,
+  // } = useContext(GameContext);
+  // const navigate = useNavigate();
   // if (currentLesson === null) return null;
-  const [currentQuestion, setCurrentQuestion] = useState(0);
-  const [isCorrect, setIsCorrect] = useState<boolean | null>(null);
-  const [selectedOption, setSelectedOption] = useState(null);
+  // const [currentQuestion, setCurrentQuestion] = useState(0);
+  // const [isCorrect, setIsCorrect] = useState<boolean | null>(null);
+  // const [selectedOption, setSelectedOption] = useState(null);
 
-  const getCurrentQuestion = (): Question => {
-    return questions[currentQuestion];
-  };
+  // const getCurrentQuestion = (): Question => {
+  //   return questions[currentQuestion];
+  // };
 
-  const nextQuestion = () => {
-    console.log(`nextQuestion()`);
+  // const nextQuestion = () => {
+  //   console.log(`nextQuestion()`);
 
-    if (currentQuestion < questions.length - 1) {
-      setCurrentQuestion((prev) => prev++);
-      // setSelectedOption(null);
-      // setIsCorrect(null);
-    } else {
-      // Lesson complete
-      // if (!completedLessons.includes(lessons[currentLesson].id)) {
-      //   setCompletedLessons([...completedLessons, lessons[currentLesson].id]);
-      // }
+  //   if (currentQuestion < questions.length - 1) {
+  //     setCurrentQuestion((prev) => prev++);
+  //     // setSelectedOption(null);
+  //     // setIsCorrect(null);
+  //   } else {
+  //     // Lesson complete
+  //     // if (!completedLessons.includes(lessons[currentLesson].id)) {
+  //     //   setCompletedLessons([...completedLessons, lessons[currentLesson].id]);
+  //     // }
 
-      navigate(kwanyamaUrl("lessons"));
-    }
-  };
+  //     navigate(kwanyamaUrl("lessons"));
+  //   }
+  // };
 
-  const question = questions[currentQuestion];
+  // const question = questions[currentQuestion];
 
   return (
     <>
       <div className="quiz-page__question-tracker">
-        Question {currentQuestion + 1} of {questions.length}
+        {/* Question {currentQuestion + 1} of {questions.length} */}
       </div>
 
       <div className="question">
-        <h2 className="question__prompt">{question.prompt}</h2>
+        {/* <h2 className="question__prompt">{question.prompt}</h2> */}
 
-        {question.type === "multiple-choice" && (
+        {/* {question.type === "multiple-choice" && (
           <MultipleChoice
             question={question as MultipleChoiceQuestion}
             isCorrect={isCorrect}
@@ -77,7 +77,7 @@ const Quiz = ({ questions }: { questions: Question[] }): JSX.Element | null => {
             setScore={setScore}
             getCurrentQuestion={getCurrentQuestion}
           />
-        )}
+        )} */}
         {/* 
         {question.type === "matching" && (
           <Matching question={question as MatchingQuestion} />

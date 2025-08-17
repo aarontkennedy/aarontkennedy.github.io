@@ -101,18 +101,18 @@ body {
   min-height: 350px;
   &__input input {
     padding: 5px;
-    margin: 15px;
+    margin: 10px;
   }
   &__input input {
     padding: 5px;
-    margin: 15px;
+    margin: 10px;
   }
   &__tags {
     width: 100%;
     overflow-x: scroll;
     display: flex;
     flex-direction: row;
-    justify-content: center;
+    justify-content: flex-start;
     align-items: center;
   }
   &__tag {

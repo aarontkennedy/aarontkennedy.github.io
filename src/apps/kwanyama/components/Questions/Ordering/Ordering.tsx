@@ -1,4 +1,4 @@
-import { useEffect, useState } from "react";
+import { DragEvent, useEffect, useState } from "react";
 import { OrderingQuestion } from "../../../types/types";
 import "./Ordering.scss";
 
@@ -30,13 +30,13 @@ const Ordering = ({
   };
 
   // Handle dragging over a different item
-  const handleDragOver = (e, index: number) => {
+  const handleDragOver = (e: DragEvent<HTMLDivElement>, index: number) => {
     e.preventDefault();
     setDraggedOverIndex(index);
   };
 
   // Handle dropping an item
-  const handleDrop = (e, dropIndex: number) => {
+  const handleDrop = (e: DragEvent<HTMLDivElement>, dropIndex: number) => {
     e.preventDefault();
     if (draggedItem !== null) {
       const newItems = [...items];

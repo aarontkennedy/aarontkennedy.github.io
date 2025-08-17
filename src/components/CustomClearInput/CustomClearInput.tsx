@@ -1,7 +1,13 @@
-import React, { useState } from "react";
-
-const CustomClearInput = ({ inputValue, setInputValue, name }) => {
-  const handleChange = (event) => {
+const CustomClearInput = ({
+  inputValue,
+  setInputValue,
+  name,
+}: {
+  inputValue: string;
+  setInputValue: (value: string) => void;
+  name: string;
+}) => {
+  const handleChange = (event: { target: { value: any } }) => {
     setInputValue(event.target.value);
   };
 

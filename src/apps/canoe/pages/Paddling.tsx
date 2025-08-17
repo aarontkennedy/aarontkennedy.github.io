@@ -113,7 +113,7 @@ const convertYoutubeUrlToThumbnailUrl = (youtubeURL: string): string => {
 
 const formatDate = (date: string): string => {
   try {
-    const options = { year: "numeric", month: "long" };
+    const options = { year: "numeric", month: "long" } as const;
     const formatter = new Intl.DateTimeFormat("en-US", options); // 'en-US' for English (United States)
     return formatter.format(new Date(date)); // e.g., "August 2024"
   } catch (e) {
@@ -148,7 +148,9 @@ const Paddling = () => {
   const filterVideos = (value: string): void => {
     // get the relevant records.
     const filtered = paddleData.filter(
-      (p) => p.name.includes(value) || p.tags.includes(value)
+      (p) =>
+        p.name.toLowerCase().includes(value.toLowerCase()) ||
+        p.tags.includes(value.toLowerCase())
     );
 
     const converted = filtered

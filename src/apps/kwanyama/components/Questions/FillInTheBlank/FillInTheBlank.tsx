@@ -10,7 +10,7 @@ const FillInTheBlank = ({
   setStreak,
   score,
   setScore,
-  selectedOption,
+  // selectedOption,
   setSelectedOption,
   getCurrentQuestion,
 }: {
@@ -22,12 +22,12 @@ const FillInTheBlank = ({
   score: number;
   setScore: (n: number) => void;
   selectedOption: any;
-  setSelectedOption: (selected) => void;
+  setSelectedOption: (selected: string) => void;
   getCurrentQuestion: () => Question;
 }): JSX.Element => {
   const [answer, setAnswer] = useState("");
 
-  const handleInputChange = (event) => {
+  const handleInputChange = (event: React.ChangeEvent<HTMLInputElement>) => {
     setAnswer(event.target.value);
   };
 

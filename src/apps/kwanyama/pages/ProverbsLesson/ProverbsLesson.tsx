@@ -4,7 +4,7 @@ import { Section } from "../../types/types";
 import PageTitle from "../../components/PageTitle";
 
 const ProverbsLesson = ({
-  setSection,
+  // setSection,
   startQuiz,
 }: {
   setSection: (section: Section) => void;
