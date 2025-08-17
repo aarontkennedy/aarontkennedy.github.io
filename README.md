@@ -32,3 +32,7 @@ export default {
 ## Running the development server
 
 - npm run dev
+
+## Deploy
+
+https://www.geeksforgeeks.org/reactjs/deployment-of-react-application-using-github-pages/
