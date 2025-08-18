@@ -34,5 +34,4 @@ export default {
 - npm run dev
 
 ## Deploy
-
-https://www.geeksforgeeks.org/reactjs/deployment-of-react-application-using-github-pages/
+https://vite.dev/guide/static-deploy
