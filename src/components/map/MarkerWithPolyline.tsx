@@ -1,4 +1,4 @@
-import { useState, useRef } from "react";
+import { useRef } from "react";
 import { Marker, Popup, Polyline, Tooltip } from "react-leaflet";
 import { LatLngExpression, PathOptions } from "leaflet";
 import { Icon } from "leaflet";
@@ -19,7 +19,7 @@ const MarkerWithPolyline = ({
   toolTipContents?: JSX.Element | string;
 }) => {
   const markerRef = useRef(null);
-  const [showPolyline, setShowPolyline] = useState(true);
+  // const [showPolyline, setShowPolyline] = useState(true);
   return (
     <Marker
       ref={markerRef}
@@ -36,7 +36,12 @@ const MarkerWithPolyline = ({
     >
       {popUpContents && <Popup>{popUpContents}</Popup>}
       {toolTipContents && <Tooltip>{toolTipContents}</Tooltip>}
-      {showPolyline && <Polyline pathOptions={pathOptions} positions={path} />}
+      {
+        /*showPolyline &&*/ <Polyline
+          pathOptions={pathOptions}
+          positions={path}
+        />
+      }
     </Marker>
   );
 };
