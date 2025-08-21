@@ -215,7 +215,7 @@ const Paddling = () => {
         </div>
         <div className="video_search__results">
           {filteredVideos.map((v: VideoLink) => (
-            <a href={v.url}>
+            <a key={v.url} href={v.url}>
               <div className="video_search__card">
                 <img
                   className="video_search__video-thumbnail"
@@ -271,7 +271,11 @@ const Paddling = () => {
                 icon={canoeIcon}
                 popUpContents={contents}
                 path={paddle.route.length > 1 ? paddle.route : []}
-                pathOptions={{ color: "blue" }}
+                pathOptions={{
+                  color: ["blue", "red", "orange", "yellow", "green", "purple"][
+                    Math.floor(Math.random() * 6)
+                  ],
+                }}
               ></MarkerWithPolyline>
             );
           })}

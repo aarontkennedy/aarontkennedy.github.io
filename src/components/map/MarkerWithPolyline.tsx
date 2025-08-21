@@ -19,20 +19,20 @@ const MarkerWithPolyline = ({
   toolTipContents?: JSX.Element | string;
 }) => {
   const markerRef = useRef(null);
-  const [showPolyline, setShowPolyline] = useState(false);
+  const [showPolyline, setShowPolyline] = useState(true);
   return (
     <Marker
       ref={markerRef}
       position={position}
       icon={icon}
-      eventHandlers={{
-        mouseover() {
-          setShowPolyline(true);
-        },
-        mouseout() {
-          setShowPolyline(false);
-        },
-      }}
+      // eventHandlers={{
+      //   mouseover() {
+      //     setShowPolyline(true);
+      //   },
+      //   mouseout() {
+      //     setShowPolyline(false);
+      //   },
+      // }}
     >
       {popUpContents && <Popup>{popUpContents}</Popup>}
       {toolTipContents && <Tooltip>{toolTipContents}</Tooltip>}

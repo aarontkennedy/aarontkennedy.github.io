@@ -12,6 +12,16 @@
 
   &__nav {
     display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 100%;
+
+    &-right {
+      display: flex;
+      flex-direction: row;
+      justify-content: end;
+      padding: 5px;
+    }
   }
 
   &__logo {
