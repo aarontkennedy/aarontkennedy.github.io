@@ -3,6 +3,7 @@ import Home from "./apps/portfolio/pages/Home";
 import Paddling from "./apps/canoe/pages/Paddling";
 import LatLongRecorder from "./apps/tools/pages/LatLongRecorder";
 import Kwanyama from "./apps/kwanyama/Kwanyama";
+import Running from "./apps/running/pages/Running";
 
 function App() {
   return (
@@ -10,6 +11,7 @@ function App() {
       <Routes>
         <Route path="/" element={<Paddling />} />
         <Route path="/paddling" element={<Paddling />} />
+        <Route path="/running" element={<Running />} />
         <Route path="/about" element={<Home />} />
         <Route path="/latlongrecorder" element={<LatLongRecorder />} />
         <Route path="/kwanyama/*" element={<Kwanyama />} />

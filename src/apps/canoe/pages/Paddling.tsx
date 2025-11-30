@@ -139,7 +139,10 @@ const allVideos = paddleData
   .map((record) =>
     record.urls.map((u) => new VideoLink(record.name, u.url, u.date))
   )
-  .flat();
+  .flat()
+  .sort((v1, v2) => {
+    return getYear(v2.date) - getYear(v1.date);
+  });
 
 const Paddling = () => {
   const screenSize = useScreenSize();
@@ -157,7 +160,10 @@ const Paddling = () => {
       .map((record) =>
         record.urls.map((u) => new VideoLink(record.name, u.url, u.date))
       )
-      .flat();
+      .flat()
+      .sort((v1, v2) => {
+        return getYear(v2.date) - getYear(v1.date);
+      });
     setFilteredVideos(converted);
   };
 

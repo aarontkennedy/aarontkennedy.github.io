@@ -1,0 +1,1040 @@
+[
+  {
+    "name": "London",
+    "location": "London, England",
+    "results": [{ "date": "2000-04-01", "distanceMiles": 26.2, "time": "NA" }],
+    "url": "",
+    "latLng": [51.47, -0.1],
+    "tags": [],
+    "notes": "Ran Bandit - Not allowed to finish"
+  },
+  {
+    "name": "Motorola",
+    "location": "Austin, TX",
+    "results": [
+      { "date": "2003-02-01", "distanceMiles": 26.2, "time": "03:20:35" },
+      { "date": "2004-02-01", "distanceMiles": 26.2, "time": "03:15:48" }
+    ],
+    "url": "",
+    "latLng": [30.2646, -97.7431],
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "name": "Alpharetta",
+    "location": "Alpharetta, GA",
+    "results": [
+      { "date": "2007-03-04", "distanceMiles": 26.2, "time": "03:36:07" }
+    ],
+    "url": "",
+    "latLng": [34.075627, -84.294541],
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "name": "Med City",
+    "location": "Rochester, MN",
+    "results": [
+      { "date": "2007-05-01", "distanceMiles": 26.2, "time": "03:15:58" }
+    ],
+    "url": "",
+    "latLng": [43.8967, -92.5028],
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "name": "Paavo Nurmi",
+    "location": "Hurley, WI",
+    "results": [
+      { "date": "2016-08-13", "distanceMiles": 26.2, "time": "03:39:51" },
+      { "date": "2007-08-01", "distanceMiles": 26.2, "time": "03:11:12" }
+    ],
+    "url": "",
+    "latLng": [46.36669, -90.40912],
+    "tags": [],
+    "notes": "15th"
+  },
+  {
+    "name": "North Country",
+    "location": "Walker, MN",
+    "results": [
+      { "date": "2007-09-01", "distanceMiles": 26.2, "time": "03:31:36" }
+    ],
+    "url": "",
+    "latLng": [47.098, -94.579],
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "name": "Des Moines",
+    "location": "Des Moines, IA",
+    "results": [
+      { "date": "2007-10-01", "distanceMiles": 26.2, "time": "03:13:30" }
+    ],
+    "url": "",
+    "latLng": [41.58, -93.62],
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "name": "Twin Cities",
+    "location": "Twin Cities, MN",
+    "results": [
+      { "date": "2007-10-01", "distanceMiles": 26.2, "time": "03:36:25" },
+      { "date": "2013-10-01", "distanceMiles": 26.2, "time": "03:45:00" },
+      { "date": "2016-10-09", "distanceMiles": 26.2, "time": "04:39:57" }
+    ],
+    "url": "",
+    "latLng": [44.9754, -93.2644],
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "name": "Fargo",
+    "location": "Fargo, ND",
+    "results": [
+      { "date": "2008-05-01", "distanceMiles": 26.2, "time": "03:25:55" }
+    ],
+    "url": "",
+    "latLng": [46.88, -96.79],
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "name": "Mayors",
+    "location": "Anchorage, AK",
+    "results": [
+      { "date": "2009-06-01", "distanceMiles": 26.2, "time": "03:13:32" }
+    ],
+    "url": "",
+    "latLng": [61.1396, -149.9571],
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "name": "Run for the Ranch",
+    "location": "Springfield, MO",
+    "results": [
+      { "date": "2009-12-01", "distanceMiles": 26.2, "time": "03:42:50" }
+    ],
+    "url": "",
+    "latLng": [37.196225, -93.280112],
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "name": "Deseret",
+    "location": "Salt Lake City, UT",
+    "results": [
+      { "date": "2010-07-01", "distanceMiles": 26.2, "time": "03:17:09" }
+    ],
+    "url": "",
+    "latLng": [40.828, -111.653],
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "name": "Choteau",
+    "location": "Choteau, MT",
+    "results": [
+      { "date": "2010-07-01", "distanceMiles": 26.2, "time": "03:36:02" }
+    ],
+    "url": "",
+    "latLng": [47.816667, -112.183333],
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "name": "Jackson",
+    "location": "Jackson, MS",
+    "results": [
+      { "date": "2011-01-01", "distanceMiles": 26.2, "time": "03:26:42" }
+    ],
+    "url": "",
+    "latLng": [32.30639, -90.18152],
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "name": "Grandma's",
+    "location": "Duluth, MN",
+    "results": [
+      { "date": "2011-06-01", "distanceMiles": 26.2, "time": "03:04:33" },
+      { "date": "2014-06-01", "distanceMiles": 26.2, "time": "03:23:30" },
+      { "date": "2019-06-22", "distanceMiles": 26.2, "time": "03:39:36" },
+      { "date": "2025-06-20", "distanceMiles": 26.2, "time": "03:42:24" }
+    ],
+    "url": "",
+    "latLng": [47.0142, -91.5642],
+    "tags": [],
+    "notes": "Best!"
+  },
+  {
+    "name": "Rock'n'Roll",
+    "location": "Seattle, WA",
+    "results": [
+      { "date": "2011-06-01", "distanceMiles": 26.2, "time": "03:40:21" }
+    ],
+    "url": "",
+    "latLng": [47.62077, -122.34759],
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "name": "Foot Traffic Flat",
+    "location": "Portland, OR",
+    "results": [
+      { "date": "2011-07-01", "distanceMiles": 26.2, "time": "03:55:00" }
+    ],
+    "url": "",
+    "latLng": [45.64201, -122.78639],
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "name": "50 Mile Running with an Angel",
+    "location": "Las Vegas, NV",
+    "results": [
+      { "date": "2012-01-01", "distanceMiles": 50, "time": "08:43:20" }
+    ],
+    "url": "",
+    "latLng": [35.8812, -115.5348],
+    "tags": [],
+    "notes": "50 Mile Ultra"
+  },
+  {
+    "name": "Boston",
+    "location": "Boston, MA",
+    "results": [
+      { "date": "2012-04-01", "distanceMiles": 26.2, "time": "03:51:22" }
+    ],
+    "url": "",
+    "latLng": [42.2298, -71.5182],
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "name": "Brookings",
+    "location": "Brookings, SD",
+    "results": [
+      { "date": "2013-05-01", "distanceMiles": 26.2, "time": "03:28:19" }
+    ],
+    "url": "",
+    "latLng": [44.311, -96.842],
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "name": "Minneapolis",
+    "location": "Minneapolis, MN",
+    "results": [
+      { "date": "2013-06-01", "distanceMiles": 26.2, "time": "03:42:55" }
+    ],
+    "url": "",
+    "latLng": [44.98, -93.27],
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "name": "Hatcher Pass",
+    "location": "Willow, AK",
+    "results": [
+      { "date": "2013-07-01", "distanceMiles": 26.2, "time": "04:41:48" }
+    ],
+    "url": "",
+    "latLng": [61.761, -149.771],
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "name": "Hatcher Pass",
+    "location": "Willow, AK",
+    "results": [
+      { "date": "2017-07-08", "distanceMiles": 26.2, "time": "04:10:00" },
+      { "date": "2013-07-01", "distanceMiles": 26.2, "time": "05:09:48" }
+    ],
+    "url": "",
+    "latLng": [61.761, -149.771],
+    "tags": [],
+    "notes": "10th"
+  },
+  {
+    "name": "St. Paul Urban Trail Marathon",
+    "location": "St. Paul, MN",
+    "results": [
+      { "date": "2013-08-01", "distanceMiles": 26.2, "time": "04:23:44" }
+    ],
+    "url": "",
+    "latLng": [44.95, -93.09],
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "name": "North Country",
+    "location": "Walker, MN",
+    "results": [
+      { "date": "2013-09-01", "distanceMiles": 26.2, "time": "03:59:00" }
+    ],
+    "url": "",
+    "latLng": [46.415, -96.6151],
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "name": "Moose Mountain ",
+    "location": "Lutsen, MN",
+    "results": [
+      { "date": "2013-09-01", "distanceMiles": 26.2, "time": "05:06:35" }
+    ],
+    "url": "",
+    "latLng": [47.647, -90.675],
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "name": "Blue Ox",
+    "location": "Bemidji, MN",
+    "results": [
+      { "date": "2013-10-01", "distanceMiles": 26.2, "time": "03:55:30" }
+    ],
+    "url": "",
+    "latLng": [47.4633, -94.85555],
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "name": "Mankato",
+    "location": "Mankato, MN",
+    "results": [
+      { "date": "2013-10-01", "distanceMiles": 26.2, "time": "04:19:05" }
+    ],
+    "url": "",
+    "latLng": [44.163515, -94.010908],
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "name": "Run for the Lakes",
+    "location": "Brainerd, MN",
+    "results": [
+      { "date": "2014-04-01", "distanceMiles": 26.2, "time": "03:20:09" }
+    ],
+    "url": "",
+    "latLng": [46.4024, -94.2541],
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "name": "Eugene Curnow Trail Marathon",
+    "location": "Duluth, MN",
+    "results": [
+      { "date": "2014-07-01", "distanceMiles": 26.2, "time": "04:12:00" },
+      { "date": "2015-07-01", "distanceMiles": 26.2, "time": "04:35:56" },
+      { "date": "2016-07-16", "distanceMiles": 26.2, "time": "04:15:21" },
+      { "date": "2017-07-15", "distanceMiles": 26.2, "time": "04:35:50" },
+      { "date": "2019-07-13", "distanceMiles": 26.2, "time": "05:22:10" },
+      { "date": "2024-07-13", "distanceMiles": 26.2, "time": "05:20:45" }
+    ],
+    "url": "",
+    "latLng": [46.72, -92.22],
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "name": "Grand Mesa 50",
+    "location": "Grand Mesa, CO",
+    "results": [
+      { "date": "2014-07-01", "distanceMiles": 50, "time": "DNF" },
+      { "date": "2015-07-01", "distanceMiles": 50, "time": "10:58:43" },
+      { "date": "2017-07-29", "distanceMiles": 50, "time": "DNF" }
+    ],
+    "url": "",
+    "latLng": [39.06895, -108.09019],
+    "tags": [],
+    "notes": "Made it about 37 miles..."
+  },
+  {
+    "name": "Lake Superior 100",
+    "location": "Lutsen, MN",
+    "results": [
+      { "date": "2014-09-01", "distanceMiles": 103, "time": "11:05:43" }
+    ],
+    "url": "",
+    "latLng": [47.13986, -91.47335],
+    "tags": [],
+    "notes": "100 Ultra (actually 103 miles)"
+  },
+  {
+    "name": "Yankee Springs Trail Run",
+    "location": "Middleville, MI",
+    "results": [
+      { "date": "2015-05-30", "distanceMiles": 26.2, "time": "04:12:00" }
+    ],
+    "url": "",
+    "latLng": [42.614381, -85.488739],
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "name": "Rockford Marathon",
+    "location": "Rockford, IL",
+    "results": [
+      { "date": "2015-05-31", "distanceMiles": 26.2, "time": "04:01:00" }
+    ],
+    "url": "",
+    "latLng": [42.2662, -89.0906],
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "name": "Afton Trail Run",
+    "location": "Afton, MN",
+    "results": [
+      { "date": "2015-06-01", "distanceMiles": 31, "time": "05:22:00" },
+      { "date": "2016-07-02", "distanceMiles": 15.5, "time": "02:07:43" },
+      { "date": "2017-07-01", "distanceMiles": 15.5, "time": "02:10:05" },
+      { "date": "2019-07-06", "distanceMiles": 15.5, "time": "02:16:51" },
+      { "date": "2021-07-03", "distanceMiles": 15.5, "time": "02:27:09" }
+    ],
+    "url": "",
+    "latLng": [44.85383049919629, -92.77700901031494],
+    "tags": [],
+    "notes": "50km"
+  },
+  {
+    "name": "Barr Trail Mountain Race",
+    "location": "Manitou Springs, CO",
+    "results": [
+      { "date": "2015-07-01", "distanceMiles": 12.6, "time": "02:28:19" }
+    ],
+    "url": "",
+    "latLng": [38.8557, -104.9339],
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "name": "Montana de Oro",
+    "location": "Los Osos, CA",
+    "results": [
+      { "date": "2015-08-01", "distanceMiles": 15.5, "time": "02:45:56" }
+    ],
+    "url": "",
+    "latLng": [35.336, -120.928],
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "name": "Zumbro",
+    "location": "Theilman, MN",
+    "results": [
+      { "date": "2016-04-09", "distanceMiles": 17, "time": "02:33:00" },
+      { "date": "2017-04-09", "distanceMiles": 17, "time": "02:33:00" },
+      { "date": "2018-04-01", "distanceMiles": 100, "time": "DNF" },
+      { "date": "2021-04-11", "distanceMiles": 17, "time": "02:48:07" },
+      { "date": "2023-04-07", "distanceMiles": 102, "time": "03:22:42" }
+    ],
+    "url": "",
+    "latLng": [44.32, -92.15],
+    "tags": [],
+    "notes": "23rd"
+  },
+  {
+    "name": "Lake Wobegon",
+    "location": "St. Cloud, MN",
+    "results": [
+      { "date": "2016-05-01", "distanceMiles": 26.2, "time": "03:36:35" }
+    ],
+    "url": "",
+    "latLng": [45.7197, -94.4601],
+    "tags": [],
+    "notes": "92 out of 326"
+  },
+  {
+    "name": "Mohican Trail Marathon",
+    "location": "Loudenville, OH",
+    "results": [
+      { "date": "2016-06-18", "distanceMiles": 26.2, "time": "04:25:28" }
+    ],
+    "url": "",
+    "latLng": [40.6175, -82.2535],
+    "tags": [],
+    "notes": "12 out of 272"
+  },
+  {
+    "name": "Antelope Butte 50k",
+    "location": "Antelope Butee, WY",
+    "results": [
+      { "date": "2016-07-01", "distanceMiles": 31, "time": "DNF" },
+      { "date": "2017-07-22", "distanceMiles": 31, "time": "06:56:19" }
+    ],
+    "url": "",
+    "latLng": [44.585, -107.494],
+    "tags": [],
+    "notes": " "
+  },
+  {
+    "name": "Pikes Peak Ultra - 50",
+    "location": "Colorado Springs, CO",
+    "results": [
+      { "date": "2016-07-30", "distanceMiles": 50, "time": "13:11:03" }
+    ],
+    "url": "",
+    "latLng": [38.82299, -104.86139],
+    "tags": [],
+    "notes": "32nd"
+  },
+  {
+    "name": "Lean Horse 100",
+    "location": "Custer, SD",
+    "results": [
+      { "date": "2016-08-27", "distanceMiles": 100, "time": "23:10:34" }
+    ],
+    "url": "",
+    "latLng": [43.80283823235328, -103.63512496692272],
+    "tags": [],
+    "notes": "10th place - 100 mile PR"
+  },
+
+  {
+    "name": "Trail Mix 25k",
+    "location": "Rockford, MN",
+    "results": [
+      { "date": "2017-04-22", "distanceMiles": 15.5, "time": "02:00:31" }
+    ],
+    "url": "",
+    "latLng": [45.052884, -93.747681],
+    "tags": [],
+    "notes": "25 out of 223"
+  },
+  {
+    "name": "Booneville 50k",
+    "location": "Booneville, IA",
+    "results": [
+      { "date": "2017-05-27", "distanceMiles": 31, "time": "04:45:28" }
+    ],
+    "url": "",
+    "latLng": [41.524156, -93.883837],
+    "tags": [],
+    "notes": "7 out of 56 finishers"
+  },
+  {
+    "name": "Logan Valley Run",
+    "location": "Logan View, NE",
+    "results": [
+      { "date": "2018-08-18", "distanceMiles": 26.2, "time": "04:18:27" }
+    ],
+    "url": "",
+    "latLng": [41.599, -96.381],
+    "tags": [],
+    "notes": "Bad right foot ankle/foot"
+  },
+  {
+    "name": "John Dick Memorial 50k",
+    "location": "Southern Kettle Moraine, WI",
+    "results": [
+      { "date": "2018-02-07", "distanceMiles": 31, "time": "05:19:49" }
+    ],
+    "url": "",
+    "latLng": [42.94, -88.46],
+    "tags": [],
+    "notes": "16th out of 148 - shoes were too thin, rocky"
+  },
+  {
+    "name": "Psyco Wyco",
+    "location": "Kansas City, KS",
+    "results": [
+      { "date": "2018-02-24", "distanceMiles": 31, "time": "06:35:17" },
+      { "date": "2019-02-23", "distanceMiles": 31, "time": "06:02:04" }
+    ],
+    "url": "",
+    "latLng": [39.1465, -94.7554],
+    "tags": [],
+    "notes": "Very Muddy"
+  },
+  {
+    "name": "Arbuckle",
+    "location": "Ardmore, OK",
+    "results": [
+      { "date": "2018-03-25", "distanceMiles": 26.2, "time": "03:36:19" }
+    ],
+    "url": "",
+    "latLng": [34.4215, -97.167],
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "name": "Surf the Murph",
+    "location": "Savage, MN",
+    "results": [
+      { "date": "2018-10-01", "distanceMiles": 26.2, "time": "04:24:00" },
+      { "date": "2019-10-01", "distanceMiles": 15.5, "time": "02:50:59" },
+      { "date": "2003-10-21", "distanceMiles": 33, "time": "06:00:32" }
+    ],
+    "url": "",
+    "latLng": [44.711, -93.3364],
+    "tags": [],
+    "notes": "1st Place (Out of 20)"
+  },
+  {
+    "name": "Music City Trail Ultra",
+    "location": "Pegram, TN",
+    "results": [
+      { "date": "2019-03-15", "distanceMiles": 31, "time": "06:05:58" }
+    ],
+    "url": "",
+    "latLng": [36.13603, -87.02201],
+    "tags": [],
+    "notes": "Very hilly, (17th out of 48 finishers)"
+  },
+  {
+    "name": "Urban Trail Loppet",
+    "location": "Minneapolis, MN",
+    "results": [
+      { "date": "2019-05-19", "distanceMiles": 10, "time": "01:15:01" }
+    ],
+    "url": "",
+    "latLng": [44.981881, -93.313426],
+    "tags": [],
+    "notes": ""
+  },
+  {
+    "name": "Taos Marathon",
+    "location": "Taos, NM",
+    "results": [
+      { "date": "2019-06-02", "distanceMiles": 26.2, "time": "03:32:32" }
+    ],
+    "url": "",
+    "latLng": [36.603348, -105.474441],
+    "tags": [],
+    "notes": "First place"
+  },
+  {
+    "name": "Stanhope ",
+    "location": "Ketchum, ID",
+    "results": [
+      { "date": "2019-07-27", "distanceMiles": 39, "time": "11:07:42" }
+    ],
+    "url": "",
+    "latLng": [43.9189, -114.354],
+    "tags": [],
+    "notes": "Tough, 4 big climbs"
+  },
+  {
+    "name": "Ely Marathon",
+    "location": "Ely, MN",
+    "results": [
+      { "date": "Sept 21, 2019", "distanceMiles": 26.2, "time": "03:58:08" }
+    ],
+    "url": "",
+    "latLng": [47.9859, -91.8906],
+    "tags": [],
+    "notes": "Right foot is still cramping (~15 miles in)"
+  },
+  {
+    "name": "Mesquite Canyon 50k",
+    "location": "Phoenix, AZ",
+    "results": [
+      { "date": "2020-03-07", "distanceMiles": 31, "time": "07:32:52" }
+    ],
+    "url": "",
+    "latLng": [33.5911556, -112.522912],
+    "tags": [],
+    "notes": "Very hot, wasn't in as good of shape as I should have been"
+  },
+  {
+    "name": "Not canceled Marathon",
+    "location": "Oconomowoc, WI",
+    "results": [
+      { "date": "2021-05-01", "distanceMiles": 26.2, "time": "03:48:56" }
+    ],
+    "url": "",
+    "latLng": [43.111431, -88.49944],
+    "tags": [],
+    "notes": "51 of 141 - back tightened with about 7 left"
+  },
+  {
+    "name": "Chester Woods ",
+    "location": "Rochester, MN",
+    "results": [
+      { "date": "2021-06-06", "distanceMiles": 10, "time": "01:21:25" }
+    ],
+    "url": "",
+    "latLng": [43.99926801, -92.31230036],
+    "tags": [],
+    "notes": "12th out of ~155 - warm conditions"
+  },
+  {
+    "name": "Storm the Farm",
+    "location": "Winona, MN",
+    "results": [
+      { "date": "2021-07-24", "distanceMiles": 13, "time": "02:26:33" }
+    ],
+    "url": "",
+    "latLng": [43.94, -91.58],
+    "tags": [],
+    "notes": "2 bluff climbs x 2, 80 degrees and extremely humid. 3rd out of 33"
+  },
+  {
+    "name": "Heineman Hills Marathon at Underwood Rec Area",
+    "location": "Gleason, WI",
+    "results": [
+      { "date": "2021-08-20", "distanceMiles": 26.2, "time": "05:24:22" }
+    ],
+    "url": "",
+    "latLng": [45.272908, -89.587981],
+    "tags": [],
+    "notes": "2nd out of 7, rocky, rooty mountain bike trails, humid"
+  },
+  {
+    "name": "THE MEGUNTICOOK 50",
+    "location": "Camden, ME",
+    "results": [
+      { "date": "2021-09-11", "distanceMiles": 31, "time": "07:29:20" }
+    ],
+    "url": "",
+    "latLng": [44.230138, -69.0473],
+    "tags": [],
+    "notes": "22 out of 75"
+  },
+  {
+    "name": "In Yan Teopa",
+    "location": "Frontenac, MN",
+    "results": [
+      { "date": "2021-09-25", "distanceMiles": 10, "time": "01:24:43" }
+    ],
+    "url": "",
+    "latLng": [44.5393, -92.3529],
+    "tags": [],
+    "notes": "5th out of 47 - fast fun race"
+  },
+  {
+    "name": "Blaze Pioneer Trail Race",
+    "location": "Middleburg, FL",
+    "results": [
+      { "date": "2021-12-11", "distanceMiles": 31, "time": "05:36:51" }
+    ],
+    "url": "",
+    "latLng": [30.1288154, -81.9641853],
+    "tags": [],
+    "notes": "1st out 17 - 80 and humid by the end"
+  },
+  {
+    "name": "Wild Azalea Trail",
+    "location": "Alexandria, LA",
+    "results": [
+      { "date": "2022-01-08", "distanceMiles": 50, "time": "09:56:22" }
+    ],
+    "url": "",
+    "latLng": [31.2392, -92.4141],
+    "tags": [],
+    "notes": "4th out of 15"
+  },
+  {
+    "name": "Rocky Racoon 100",
+    "location": "Huntsville, TX",
+    "results": [
+      { "date": "2022-02-05", "distanceMiles": 100, "time": "23:13:15" }
+    ],
+    "url": "",
+    "latLng": [30.6209, -95.5288],
+    "tags": [],
+    "notes": "63 out of 199 finishers, ~40% dropped.  Fisher paced me to a good finish on the last 40. "
+  },
+  {
+    "name": "Storm the Park",
+    "location": "Whitewater State Park, MN",
+    "results": [
+      { "date": "2022-04-23", "distanceMiles": 18.75, "time": "03:59:00" }
+    ],
+    "url": "",
+    "latLng": [44.0559, -92.0538],
+    "tags": [],
+    "notes": "5 out of 13, tough bluff climbs and still slow from the 100"
+  },
+  {
+    "name": "Maple Syrup Fun Run 25k",
+    "location": "Faribault, MN",
+    "results": [
+      { "date": "2022-05-07", "distanceMiles": 15.5, "time": "02:18:23" }
+    ],
+    "url": "",
+    "latLng": [44.2753, -93.2489],
+    "tags": [],
+    "notes": "9 out of 26, back problems on the second lap"
+  },
+  {
+    "name": "Beaver Chase Trail Marathon",
+    "location": "Indianapolis, IN",
+    "results": [
+      { "date": "2017-08-12", "distanceMiles": 26.2, "time": "00:00:00" }
+    ],
+    "url": "",
+    "latLng": [39.80554, -86.136015],
+    "tags": [],
+    "notes": "?? forgot to record this marathon"
+  },
+  {
+    "name": "LOViT Trail Marathon",
+    "location": "Lake Ouachita, AR",
+    "results": [
+      { "date": "2018-12-01", "distanceMiles": 26.2, "time": "04:59:27" }
+    ],
+    "url": "",
+    "latLng": [34.574051, -93.432116],
+    "tags": [],
+    "notes": "10 out of 57"
+  },
+  {
+    "name": "Hot Dash 5k 2017",
+    "location": "Minneapolis, MN",
+    "results": [
+      { "date": "2017-03-18", "distanceMiles": 3.1, "time": "00:20:23" }
+    ],
+    "url": "",
+    "latLng": [44.98689, -93.25873],
+    "tags": [],
+    "notes": "24 out of 2192"
+  },
+  {
+    "name": "Tacos & Margaritas 5k",
+    "location": "Richfield, MN",
+    "results": [
+      { "date": "2022-08-05", "distanceMiles": 3.1, "time": "00:21:20" }
+    ],
+    "url": "",
+    "latLng": [44.88, -93.26],
+    "tags": [],
+    "notes": "3 out of 259, temperature was 91 degrees (really fourth place there was a kid running bandit)"
+  },
+  {
+    "name": "William O'Brien 10 miler",
+    "location": "William O'Brien State Park, MN",
+    "results": [
+      { "date": "Sept 17, 2022", "distanceMiles": 10.4, "time": "01:25:44" }
+    ],
+    "url": "",
+    "latLng": [45.222375, -92.767696],
+    "tags": [],
+    "notes": "7 out 51"
+  },
+  {
+    "name": "Trout Brook 10 miler",
+    "location": "Willow River State Park, WI",
+    "results": [
+      { "date": "2022-10-08", "distanceMiles": 10, "time": "01:25:37" }
+    ],
+    "url": "",
+    "latLng": [45.012463, -92.67853],
+    "tags": [],
+    "notes": "3 out of 40"
+  },
+  {
+    "name": "Mountain Mist 50k",
+    "location": "Huntsville, AL",
+    "results": [
+      { "date": "2023-01-28", "distanceMiles": 31, "time": "06:34:43" }
+    ],
+    "url": "",
+    "latLng": [34.746, -86.571],
+    "tags": [],
+    "notes": "128 out of 411"
+  },
+  {
+    "name": "Old Pueblo 50 Miler",
+    "location": "Sonoita, AZ",
+    "results": [
+      { "date": "2023-03-04", "distanceMiles": 50, "time": "11:20:25" }
+    ],
+    "url": "",
+    "latLng": [31.745, -110.742],
+    "tags": [],
+    "notes": "9 out of 51"
+  },
+  {
+    "name": "Cantuckey 50k",
+    "location": "Red River Gorge, KY",
+    "results": [
+      { "date": "2023-11-11", "distanceMiles": 32.5, "time": "07:17:49" }
+    ],
+    "url": "",
+    "latLng": [37.7810851, -83.6899573],
+    "tags": [],
+    "notes": "19 out of 94"
+  },
+  {
+    "name": "Folsom Lake Sweetwater Trail Run",
+    "location": "Sacramento, CA",
+    "results": [
+      { "date": "2023-01-27", "distanceMiles": 27, "time": "05:16:59" }
+    ],
+    "url": "",
+    "latLng": [38.77191, -121.04203],
+    "tags": [],
+    "notes": "5 out of 20"
+  },
+  {
+    "name": "Rockin K Trail Marathon",
+    "location": "Kanopolis State Park, KS",
+    "results": [
+      { "date": "2024-04-06", "distanceMiles": 26.2, "time": "04:51:04" }
+    ],
+    "url": "",
+    "latLng": [38.855, -97.794],
+    "tags": [],
+    "notes": "3 out of 28"
+  },
+  {
+    "name": "Frozen Sasquatch 50k",
+    "location": "Charleston, Wv",
+    "results": [
+      { "date": "2025-01-04", "distanceMiles": 31.6, "time": "06:04:32" }
+    ],
+    "url": "",
+    "latLng": [38.28133, -81.64169],
+    "tags": [],
+    "notes": "12 out of 44"
+  },
+  {
+    "name": "Mangum Marathon ",
+    "location": "Ellerbe, NC",
+    "results": [
+      { "date": "2025-01-11", "distanceMiles": 26.2, "time": "03:44:10" }
+    ],
+    "url": "",
+    "latLng": [35.0504, -79.7997],
+    "tags": [],
+    "notes": "3 out of 18 (ice storm night before, 105 originally registered)"
+  },
+  {
+    "name": "Daufuskie Island Marathon",
+    "location": "Daufuskie Island, SC",
+    "results": [
+      { "date": "2025-01-18", "distanceMiles": 26.2, "time": "03:37:13" }
+    ],
+    "url": "",
+    "latLng": [32.13, -80.87],
+    "tags": [],
+    "notes": "11 out 146"
+  },
+  {
+    "name": "Atlanta Marathon",
+    "location": "Atlanta, GA",
+    "results": [
+      { "date": "2025-03-02", "distanceMiles": 26.2, "time": "03:33:34" }
+    ],
+    "url": "",
+    "latLng": [33.7554, -84.4011],
+    "tags": [],
+    "notes": "264th of 1,959"
+  },
+  {
+    "name": "Bel Monte 50k",
+    "location": "Charlottesville, VA",
+    "results": [
+      { "date": "2024-03-15", "distanceMiles": 34, "time": "07:06:23" }
+    ],
+    "url": "",
+    "latLng": [38.0292, -78.4767],
+    "tags": [],
+    "notes": "7th out of 43 finishers (ran some extra due to lack of course markings)"
+  },
+  {
+    "name": "Wawayanda 50k",
+    "location": "Wawayanda State Park, NJ",
+    "results": [
+      { "date": "2025-04-26", "distanceMiles": 31.2, "time": "06:26:00" }
+    ],
+    "url": "",
+    "latLng": [41.198112, -74.397748],
+    "tags": [],
+    "notes": "15th out of 63"
+  },
+  {
+    "name": "Coon Rapids Firecracker 5k",
+    "location": "Coon Rapids, MN",
+    "results": [
+      { "date": "2025-07-04", "distanceMiles": 3.1, "time": "00:19:51" }
+    ],
+    "url": "",
+    "latLng": [45.17073, -93.34246],
+    "tags": [],
+    "notes": "7 out of 236, hot"
+  },
+  {
+    "name": "Moosalamoo 36 Miler",
+    "location": "Goshen, VT",
+    "results": [
+      { "date": "2025-07-26", "distanceMiles": 36, "time": "08:07:45" }
+    ],
+    "url": "",
+    "latLng": [43.869722, -73.020833],
+    "tags": [],
+    "notes": "19 out of 46"
+  },
+  {
+    "name": "Two Hollows Monster Marathon",
+    "location": "Dryden, NY",
+    "results": [
+      { "date": "2025-08-24", "distanceMiles": 26.2, "time": "05:26:25" }
+    ],
+    "url": "",
+    "latLng": [42.490906, -76.297157],
+    "tags": [],
+    "notes": "4th overall, 5th due to age adjustements with an age adusted time of 5:11:25"
+  },
+  {
+    "name": "Bear Brook Trail Marathon",
+    "location": "Manchester, NH",
+    "results": [
+      { "date": "2025-09-20", "distanceMiles": 32, "time": "06:23:47" }
+    ],
+    "url": "",
+    "latLng": [43.12, -71.37],
+    "tags": [],
+    "notes": "4th overall (out of 10), age group champ, had to poop at mile 6 which added at least 5 minutes"
+  },
+  {
+    "name": "Nipmuck Trail Marathon",
+    "location": "Ashford, CT",
+    "results": [
+      { "date": "2025-10-05", "distanceMiles": 26.4, "time": "05:11:06" }
+    ],
+    "url": "",
+    "latLng": [41.8805, -72.0543],
+    "tags": [],
+    "notes": "21 out 75"
+  },
+  {
+    "name": "Newport Marathon",
+    "location": "Newport, RI",
+    "results": [
+      { "date": "2025-10-12", "distanceMiles": 26.2, "time": "03:50:21" }
+    ],
+    "url": "",
+    "latLng": [41.489, -71.312],
+    "tags": [],
+    "notes": "255 out of 1053"
+  },
+  {
+    "name": "Patapsco Valley 50k",
+    "location": "Baltimore, MA",
+    "results": [
+      { "date": "2025-10-25", "distanceMiles": 32.3, "time": "06:45:41" }
+    ],
+    "url": "",
+    "latLng": [39.2789, -76.7469],
+    "tags": [],
+    "notes": "51 out of 180"
+  },
+  {
+    "name": "Philadelphia Marathon",
+    "location": "Philadelphia, PA",
+    "results": [
+      { "date": "2025-11-23", "distanceMiles": 26.3, "time": "03:42:58" }
+    ],
+    "url": "",
+    "latLng": [39.9577, -75.1764],
+    "tags": [],
+    "notes": "3267 out of 12304, beautiful day, great race"
+  }
+]
