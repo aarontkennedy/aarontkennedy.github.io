@@ -11,7 +11,7 @@ import MarkerWithPolyline from "../../../components/map/MarkerWithPolyline";
 import { Paddle, Url } from "../data/paddle";
 import Header from "../../../components/header/Header";
 import "./Paddling.scss";
-import { getYear } from "../../../util/dates";
+import { formatDate, getYear } from "../../../util/dates";
 import { shuffleArray } from "../../../util/shuffle";
 
 import bluebirdPhoto from "../../../images/bluebird.jpeg";
@@ -109,16 +109,6 @@ const convertYoutubeUrlToThumbnailUrl = (youtubeURL: string): string => {
     return `https://img.youtube.com/vi/${videoId}/mqdefault.jpg`;
   }
   return youtubeURL;
-};
-
-const formatDate = (date: string): string => {
-  try {
-    const options = { year: "numeric", month: "long" } as const;
-    const formatter = new Intl.DateTimeFormat("en-US", options); // 'en-US' for English (United States)
-    return formatter.format(new Date(date)); // e.g., "August 2024"
-  } catch (e) {
-    return date;
-  }
 };
 
 const tags = [...new Set(paddleData.map((record) => record.tags).flat())];

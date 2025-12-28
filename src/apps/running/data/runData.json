@@ -2,20 +2,20 @@
   {
     "name": "London",
     "location": "London, England",
-    "results": [{ "date": "2000-04-01", "distanceMiles": 26.2, "time": "NA" }],
-    "url": "",
+    "results": [{ "date": "2000-04-01", "distanceMiles": 26.2, "time": "Ran Bandit" }],
+    "url": "https://www.londonmarathonevents.co.uk/london-marathon",
     "latLng": [51.47, -0.1],
     "tags": [],
     "notes": "Ran Bandit - Not allowed to finish"
   },
   {
-    "name": "Motorola",
+    "name": "Motorola Marathon",
     "location": "Austin, TX",
     "results": [
       { "date": "2003-02-01", "distanceMiles": 26.2, "time": "03:20:35" },
       { "date": "2004-02-01", "distanceMiles": 26.2, "time": "03:15:48" }
     ],
-    "url": "",
+    "url": "https://youraustinmarathon.com",
     "latLng": [30.2646, -97.7431],
     "tags": [],
     "notes": ""
@@ -37,7 +37,7 @@
     "results": [
       { "date": "2007-05-01", "distanceMiles": 26.2, "time": "03:15:58" }
     ],
-    "url": "",
+    "url": "https://www.medcitymarathonmn.com",
     "latLng": [43.8967, -92.5028],
     "tags": [],
     "notes": ""
@@ -49,21 +49,10 @@
       { "date": "2016-08-13", "distanceMiles": 26.2, "time": "03:39:51" },
       { "date": "2007-08-01", "distanceMiles": 26.2, "time": "03:11:12" }
     ],
-    "url": "",
+    "url": "https://www.thepaavo.org",
     "latLng": [46.36669, -90.40912],
     "tags": [],
     "notes": "15th"
-  },
-  {
-    "name": "North Country",
-    "location": "Walker, MN",
-    "results": [
-      { "date": "2007-09-01", "distanceMiles": 26.2, "time": "03:31:36" }
-    ],
-    "url": "",
-    "latLng": [47.098, -94.579],
-    "tags": [],
-    "notes": ""
   },
   {
     "name": "Des Moines",
@@ -71,7 +60,7 @@
     "results": [
       { "date": "2007-10-01", "distanceMiles": 26.2, "time": "03:13:30" }
     ],
-    "url": "",
+    "url": "https://www.desmoinesmarathon.com",
     "latLng": [41.58, -93.62],
     "tags": [],
     "notes": ""
@@ -84,7 +73,7 @@
       { "date": "2013-10-01", "distanceMiles": 26.2, "time": "03:45:00" },
       { "date": "2016-10-09", "distanceMiles": 26.2, "time": "04:39:57" }
     ],
-    "url": "",
+    "url": "https://www.tcmevents.org/alleventsandraces/medtronictwincitiesmarathonweekend",
     "latLng": [44.9754, -93.2644],
     "tags": [],
     "notes": ""
@@ -95,7 +84,7 @@
     "results": [
       { "date": "2008-05-01", "distanceMiles": 26.2, "time": "03:25:55" }
     ],
-    "url": "",
+    "url": "https://fargomarathon.com",
     "latLng": [46.88, -96.79],
     "tags": [],
     "notes": ""
@@ -106,7 +95,7 @@
     "results": [
       { "date": "2009-06-01", "distanceMiles": 26.2, "time": "03:13:32" }
     ],
-    "url": "",
+    "url": "https://www.anchoragemayorsmarathon.com",
     "latLng": [61.1396, -149.9571],
     "tags": [],
     "notes": ""
@@ -117,7 +106,7 @@
     "results": [
       { "date": "2009-12-01", "distanceMiles": 26.2, "time": "03:42:50" }
     ],
-    "url": "",
+    "url": "https://www.run4theranch.com",
     "latLng": [37.196225, -93.280112],
     "tags": [],
     "notes": ""
@@ -128,7 +117,7 @@
     "results": [
       { "date": "2010-07-01", "distanceMiles": 26.2, "time": "03:17:09" }
     ],
-    "url": "",
+    "url": "https://run.deseret.com",
     "latLng": [40.828, -111.653],
     "tags": [],
     "notes": ""
@@ -150,7 +139,7 @@
     "results": [
       { "date": "2011-01-01", "distanceMiles": 26.2, "time": "03:26:42" }
     ],
-    "url": "",
+    "url": "https://runsignup.com/Race/MS/Jackson/MississippiBlues",
     "latLng": [32.30639, -90.18152],
     "tags": [],
     "notes": ""
@@ -164,7 +153,7 @@
       { "date": "2019-06-22", "distanceMiles": 26.2, "time": "03:39:36" },
       { "date": "2025-06-20", "distanceMiles": 26.2, "time": "03:42:24" }
     ],
-    "url": "",
+    "url": "https://grandmasmarathon.com",
     "latLng": [47.0142, -91.5642],
     "tags": [],
     "notes": "Best!"
@@ -186,7 +175,7 @@
     "results": [
       { "date": "2011-07-01", "distanceMiles": 26.2, "time": "03:55:00" }
     ],
-    "url": "",
+    "url": "https://foottraffic.us/races/foot-traffic-flat/https://foottraffic.us/races/foot-traffic-flat/",
     "latLng": [45.64201, -122.78639],
     "tags": [],
     "notes": ""
@@ -208,7 +197,7 @@
     "results": [
       { "date": "2012-04-01", "distanceMiles": 26.2, "time": "03:51:22" }
     ],
-    "url": "",
+    "url": "https://www.baa.org/races/boston-marathon/",
     "latLng": [42.2298, -71.5182],
     "tags": [],
     "notes": ""
@@ -219,7 +208,7 @@
     "results": [
       { "date": "2013-05-01", "distanceMiles": 26.2, "time": "03:28:19" }
     ],
-    "url": "",
+    "url": "https://www.brookingsmarathon.com",
     "latLng": [44.311, -96.842],
     "tags": [],
     "notes": ""
@@ -239,24 +228,13 @@
     "name": "Hatcher Pass",
     "location": "Willow, AK",
     "results": [
-      { "date": "2013-07-01", "distanceMiles": 26.2, "time": "04:41:48" }
+      { "date": "2017-07-01", "distanceMiles": 26.2, "time": "4:10:00" },
+      { "date": "2013-07-01", "distanceMiles": 26.2, "time": "4:41:48" }
     ],
-    "url": "",
+    "url": "https://trailrunner.com/event/hatcher-pass-races/",
     "latLng": [61.761, -149.771],
     "tags": [],
     "notes": ""
-  },
-  {
-    "name": "Hatcher Pass",
-    "location": "Willow, AK",
-    "results": [
-      { "date": "2017-07-08", "distanceMiles": 26.2, "time": "04:10:00" },
-      { "date": "2013-07-01", "distanceMiles": 26.2, "time": "05:09:48" }
-    ],
-    "url": "",
-    "latLng": [61.761, -149.771],
-    "tags": [],
-    "notes": "10th"
   },
   {
     "name": "St. Paul Urban Trail Marathon",
@@ -273,21 +251,11 @@
     "name": "North Country",
     "location": "Walker, MN",
     "results": [
-      { "date": "2013-09-01", "distanceMiles": 26.2, "time": "03:59:00" }
+      { "date": "2013-09-01", "distanceMiles": 26.2, "time": "03:59:00" },
+      { "date": "2007-09-01", "distanceMiles": 26.2, "time": "03:31:36" }
     ],
     "url": "",
-    "latLng": [46.415, -96.6151],
-    "tags": [],
-    "notes": ""
-  },
-  {
-    "name": "Moose Mountain ",
-    "location": "Lutsen, MN",
-    "results": [
-      { "date": "2013-09-01", "distanceMiles": 26.2, "time": "05:06:35" }
-    ],
-    "url": "",
-    "latLng": [47.647, -90.675],
+    "latLng": [47.10134619999999, -94.5872162],
     "tags": [],
     "notes": ""
   },
@@ -297,18 +265,18 @@
     "results": [
       { "date": "2013-10-01", "distanceMiles": 26.2, "time": "03:55:30" }
     ],
-    "url": "",
+    "url": "https://www.bemidjiblueoxmarathon.com",
     "latLng": [47.4633, -94.85555],
     "tags": [],
     "notes": ""
   },
   {
-    "name": "Mankato",
+    "name": "Mankato Marathon",
     "location": "Mankato, MN",
     "results": [
       { "date": "2013-10-01", "distanceMiles": 26.2, "time": "04:19:05" }
     ],
-    "url": "",
+    "url": "https://www.mankatomarathon.com",
     "latLng": [44.163515, -94.010908],
     "tags": [],
     "notes": ""
@@ -319,7 +287,7 @@
     "results": [
       { "date": "2014-04-01", "distanceMiles": 26.2, "time": "03:20:09" }
     ],
-    "url": "",
+    "url": "https://runforthelakes.com",
     "latLng": [46.4024, -94.2541],
     "tags": [],
     "notes": ""
@@ -328,6 +296,7 @@
     "name": "Eugene Curnow Trail Marathon",
     "location": "Duluth, MN",
     "results": [
+      { "date": "2013-07-01", "distanceMiles": 26.2, "time": "05:09:48" },
       { "date": "2014-07-01", "distanceMiles": 26.2, "time": "04:12:00" },
       { "date": "2015-07-01", "distanceMiles": 26.2, "time": "04:35:56" },
       { "date": "2016-07-16", "distanceMiles": 26.2, "time": "04:15:21" },
@@ -335,7 +304,7 @@
       { "date": "2019-07-13", "distanceMiles": 26.2, "time": "05:22:10" },
       { "date": "2024-07-13", "distanceMiles": 26.2, "time": "05:20:45" }
     ],
-    "url": "",
+    "url": "https://nmtc.run/curnow",
     "latLng": [46.72, -92.22],
     "tags": [],
     "notes": ""
@@ -348,7 +317,7 @@
       { "date": "2015-07-01", "distanceMiles": 50, "time": "10:58:43" },
       { "date": "2017-07-29", "distanceMiles": 50, "time": "DNF" }
     ],
-    "url": "",
+    "url": "https://www.bestslopeevents.com",
     "latLng": [39.06895, -108.09019],
     "tags": [],
     "notes": "Made it about 37 miles..."
@@ -357,9 +326,10 @@
     "name": "Lake Superior 100",
     "location": "Lutsen, MN",
     "results": [
-      { "date": "2014-09-01", "distanceMiles": 103, "time": "11:05:43" }
+      { "date": "2014-09-01", "distanceMiles": 103, "time": "35:05:43" },
+      { "date": "2013-09-01", "distanceMiles": 26.2, "time": "05:06:35" }
     ],
-    "url": "",
+    "url": "https://www.superiorfalltrailrace.com",
     "latLng": [47.13986, -91.47335],
     "tags": [],
     "notes": "100 Ultra (actually 103 miles)"
@@ -370,7 +340,7 @@
     "results": [
       { "date": "2015-05-30", "distanceMiles": 26.2, "time": "04:12:00" }
     ],
-    "url": "",
+    "url": "https://switchbackendurance.com/races/yankee-springs-trail-run/",
     "latLng": [42.614381, -85.488739],
     "tags": [],
     "notes": ""
@@ -396,7 +366,7 @@
       { "date": "2019-07-06", "distanceMiles": 15.5, "time": "02:16:51" },
       { "date": "2021-07-03", "distanceMiles": 15.5, "time": "02:27:09" }
     ],
-    "url": "",
+    "url": "https://www.aftontrailrun.com",
     "latLng": [44.85383049919629, -92.77700901031494],
     "tags": [],
     "notes": "50km"
@@ -407,7 +377,7 @@
     "results": [
       { "date": "2015-07-01", "distanceMiles": 12.6, "time": "02:28:19" }
     ],
-    "url": "",
+    "url": "https://barrtrailmountainrace.com",
     "latLng": [38.8557, -104.9339],
     "tags": [],
     "notes": ""
@@ -431,9 +401,9 @@
       { "date": "2017-04-09", "distanceMiles": 17, "time": "02:33:00" },
       { "date": "2018-04-01", "distanceMiles": 100, "time": "DNF" },
       { "date": "2021-04-11", "distanceMiles": 17, "time": "02:48:07" },
-      { "date": "2023-04-07", "distanceMiles": 102, "time": "03:22:42" }
+      { "date": "2023-04-07", "distanceMiles": 102, "time": "27:22:42" }
     ],
-    "url": "",
+    "url": "https://www.zumbroendurancerun.com",
     "latLng": [44.32, -92.15],
     "tags": [],
     "notes": "23rd"
@@ -444,7 +414,7 @@
     "results": [
       { "date": "2016-05-01", "distanceMiles": 26.2, "time": "03:36:35" }
     ],
-    "url": "",
+    "url": "http://www.lakewobegontrailmarathon.org",
     "latLng": [45.7197, -94.4601],
     "tags": [],
     "notes": "92 out of 326"
@@ -455,7 +425,7 @@
     "results": [
       { "date": "2016-06-18", "distanceMiles": 26.2, "time": "04:25:28" }
     ],
-    "url": "",
+    "url": "https://www.ombc.net",
     "latLng": [40.6175, -82.2535],
     "tags": [],
     "notes": "12 out of 272"
@@ -478,7 +448,7 @@
     "results": [
       { "date": "2016-07-30", "distanceMiles": 50, "time": "13:11:03" }
     ],
-    "url": "",
+    "url": "https://www.madmooseevents.com/pikes-peak-ultra",
     "latLng": [38.82299, -104.86139],
     "tags": [],
     "notes": "32nd"
@@ -489,7 +459,7 @@
     "results": [
       { "date": "2016-08-27", "distanceMiles": 100, "time": "23:10:34" }
     ],
-    "url": "",
+    "url": "https://leanhorseultra.com/",
     "latLng": [43.80283823235328, -103.63512496692272],
     "tags": [],
     "notes": "10th place - 100 mile PR"
@@ -501,7 +471,7 @@
     "results": [
       { "date": "2017-04-22", "distanceMiles": 15.5, "time": "02:00:31" }
     ],
-    "url": "",
+    "url": "https://www.threeriversparks.org/page/trail-mix",
     "latLng": [45.052884, -93.747681],
     "tags": [],
     "notes": "25 out of 223"
@@ -512,7 +482,7 @@
     "results": [
       { "date": "2017-05-27", "distanceMiles": 31, "time": "04:45:28" }
     ],
-    "url": "",
+    "url": "https://ultrasignup.com/register.aspx?did=132987",
     "latLng": [41.524156, -93.883837],
     "tags": [],
     "notes": "7 out of 56 finishers"
@@ -534,7 +504,7 @@
     "results": [
       { "date": "2018-02-07", "distanceMiles": 31, "time": "05:19:49" }
     ],
-    "url": "",
+    "url": "https://johndickmemorial50k.blogspot.com/",
     "latLng": [42.94, -88.46],
     "tags": [],
     "notes": "16th out of 148 - shoes were too thin, rocky"
@@ -546,7 +516,7 @@
       { "date": "2018-02-24", "distanceMiles": 31, "time": "06:35:17" },
       { "date": "2019-02-23", "distanceMiles": 31, "time": "06:02:04" }
     ],
-    "url": "",
+    "url": "https://www.wycowolfpack.com/#events",
     "latLng": [39.1465, -94.7554],
     "tags": [],
     "notes": "Very Muddy"
@@ -570,7 +540,7 @@
       { "date": "2019-10-01", "distanceMiles": 15.5, "time": "02:50:59" },
       { "date": "2003-10-21", "distanceMiles": 33, "time": "06:00:32" }
     ],
-    "url": "",
+    "url": "https://www.surfthemurph.org/",
     "latLng": [44.711, -93.3364],
     "tags": [],
     "notes": "1st Place (Out of 20)"
@@ -592,7 +562,7 @@
     "results": [
       { "date": "2019-05-19", "distanceMiles": 10, "time": "01:15:01" }
     ],
-    "url": "",
+    "url": "https://loppet.org/event/citytrail-loppet/",
     "latLng": [44.981881, -93.313426],
     "tags": [],
     "notes": ""
@@ -609,12 +579,12 @@
     "notes": "First place"
   },
   {
-    "name": "Stanhope ",
+    "name": "Stanhope Ultra Challenge",
     "location": "Ketchum, ID",
     "results": [
       { "date": "2019-07-27", "distanceMiles": 39, "time": "11:07:42" }
     ],
-    "url": "",
+    "url": "https://standhopeultrachallenge.wordpress.com/",
     "latLng": [43.9189, -114.354],
     "tags": [],
     "notes": "Tough, 4 big climbs"
@@ -625,7 +595,7 @@
     "results": [
       { "date": "Sept 21, 2019", "distanceMiles": 26.2, "time": "03:58:08" }
     ],
-    "url": "",
+    "url": "https://www.elymarathon.com/",
     "latLng": [47.9859, -91.8906],
     "tags": [],
     "notes": "Right foot is still cramping (~15 miles in)"
@@ -636,7 +606,7 @@
     "results": [
       { "date": "2020-03-07", "distanceMiles": 31, "time": "07:32:52" }
     ],
-    "url": "",
+    "url": "https://www.aravaiparunning.com/drt-series/mesquite-canyon/",
     "latLng": [33.5911556, -112.522912],
     "tags": [],
     "notes": "Very hot, wasn't in as good of shape as I should have been"
@@ -647,7 +617,7 @@
     "results": [
       { "date": "2021-05-01", "distanceMiles": 26.2, "time": "03:48:56" }
     ],
-    "url": "",
+    "url": "https://runsignup.com/Race/Info/WI/Oconomowoc/TheNonCancelledRun?aflt_token=W6EXwRpT3m4gSwNem4LGSt0qe48gEcUW",
     "latLng": [43.111431, -88.49944],
     "tags": [],
     "notes": "51 of 141 - back tightened with about 7 left"
@@ -658,7 +628,7 @@
     "results": [
       { "date": "2021-06-06", "distanceMiles": 10, "time": "01:21:25" }
     ],
-    "url": "",
+    "url": "https://teamredgo.com/",
     "latLng": [43.99926801, -92.31230036],
     "tags": [],
     "notes": "12th out of ~155 - warm conditions"
@@ -669,7 +639,7 @@
     "results": [
       { "date": "2021-07-24", "distanceMiles": 13, "time": "02:26:33" }
     ],
-    "url": "",
+    "url": "https://www.stormsportingevents.org/event-details/storm-the-farm",
     "latLng": [43.94, -91.58],
     "tags": [],
     "notes": "2 bluff climbs x 2, 80 degrees and extremely humid. 3rd out of 33"
@@ -680,7 +650,7 @@
     "results": [
       { "date": "2021-08-20", "distanceMiles": 26.2, "time": "05:24:22" }
     ],
-    "url": "",
+    "url": "https://www.ironbull.org/underdown-schedule",
     "latLng": [45.272908, -89.587981],
     "tags": [],
     "notes": "2nd out of 7, rocky, rooty mountain bike trails, humid"
@@ -691,7 +661,7 @@
     "results": [
       { "date": "2021-09-11", "distanceMiles": 31, "time": "07:29:20" }
     ],
-    "url": "",
+    "url": "https://www.megunticooktrailfestival.com/50k",
     "latLng": [44.230138, -69.0473],
     "tags": [],
     "notes": "22 out of 75"
@@ -702,7 +672,7 @@
     "results": [
       { "date": "2021-09-25", "distanceMiles": 10, "time": "01:24:43" }
     ],
-    "url": "",
+    "url": "https://www.stcroixrunningcompany.com/in-yan-teopa",
     "latLng": [44.5393, -92.3529],
     "tags": [],
     "notes": "5th out of 47 - fast fun race"
@@ -724,7 +694,7 @@
     "results": [
       { "date": "2022-01-08", "distanceMiles": 50, "time": "09:56:22" }
     ],
-    "url": "",
+    "url": "https://www.wildazaleatrail.com/",
     "latLng": [31.2392, -92.4141],
     "tags": [],
     "notes": "4th out of 15"
@@ -735,7 +705,7 @@
     "results": [
       { "date": "2022-02-05", "distanceMiles": 100, "time": "23:13:15" }
     ],
-    "url": "",
+    "url": "https://www.tejastrails.com/rocky100",
     "latLng": [30.6209, -95.5288],
     "tags": [],
     "notes": "63 out of 199 finishers, ~40% dropped.  Fisher paced me to a good finish on the last 40. "
@@ -746,7 +716,7 @@
     "results": [
       { "date": "2022-04-23", "distanceMiles": 18.75, "time": "03:59:00" }
     ],
-    "url": "",
+    "url": "https://www.stormsportingevents.org/event-details/storm-the-park",
     "latLng": [44.0559, -92.0538],
     "tags": [],
     "notes": "5 out of 13, tough bluff climbs and still slow from the 100"
@@ -757,7 +727,7 @@
     "results": [
       { "date": "2022-05-07", "distanceMiles": 15.5, "time": "02:18:23" }
     ],
-    "url": "",
+    "url": "https://rbnc.org/fun-run",
     "latLng": [44.2753, -93.2489],
     "tags": [],
     "notes": "9 out of 26, back problems on the second lap"
@@ -765,10 +735,8 @@
   {
     "name": "Beaver Chase Trail Marathon",
     "location": "Indianapolis, IN",
-    "results": [
-      { "date": "2017-08-12", "distanceMiles": 26.2, "time": "00:00:00" }
-    ],
-    "url": "",
+    "results": [{ "date": "2017-08-12", "distanceMiles": 26.2, "time": "??" }],
+    "url": "https://runsignup.com/Race/IN/NorthSalem/BeaverChaseUrbanTrailRaceRelay/",
     "latLng": [39.80554, -86.136015],
     "tags": [],
     "notes": "?? forgot to record this marathon"
@@ -779,7 +747,7 @@
     "results": [
       { "date": "2018-12-01", "distanceMiles": 26.2, "time": "04:59:27" }
     ],
-    "url": "",
+    "url": "https://www.runarkansas.com/LoVitTrailMarathon.htm",
     "latLng": [34.574051, -93.432116],
     "tags": [],
     "notes": "10 out of 57"
@@ -790,7 +758,7 @@
     "results": [
       { "date": "2017-03-18", "distanceMiles": 3.1, "time": "00:20:23" }
     ],
-    "url": "",
+    "url": "https://www.tcmevents.org/alleventsandraces/hotdash",
     "latLng": [44.98689, -93.25873],
     "tags": [],
     "notes": "24 out of 2192"
@@ -801,7 +769,7 @@
     "results": [
       { "date": "2022-08-05", "distanceMiles": 3.1, "time": "00:21:20" }
     ],
-    "url": "",
+    "url": "https://mnlatinos.com/events/united-states/minnesota/richfield/sport-fit/tacos-margaritas-5k-the-fiesta-of-the-summer/",
     "latLng": [44.88, -93.26],
     "tags": [],
     "notes": "3 out of 259, temperature was 91 degrees (really fourth place there was a kid running bandit)"
@@ -812,7 +780,7 @@
     "results": [
       { "date": "Sept 17, 2022", "distanceMiles": 10.4, "time": "01:25:44" }
     ],
-    "url": "",
+    "url": "https://www.facebook.com/OBrienTrailRaces#",
     "latLng": [45.222375, -92.767696],
     "tags": [],
     "notes": "7 out 51"
@@ -823,7 +791,7 @@
     "results": [
       { "date": "2022-10-08", "distanceMiles": 10, "time": "01:25:37" }
     ],
-    "url": "",
+    "url": "https://www.stcroixrunningcompany.com/trout-brook",
     "latLng": [45.012463, -92.67853],
     "tags": [],
     "notes": "3 out of 40"
@@ -834,7 +802,7 @@
     "results": [
       { "date": "2023-01-28", "distanceMiles": 31, "time": "06:34:43" }
     ],
-    "url": "",
+    "url": "https://huntsvilletrackclub.org/",
     "latLng": [34.746, -86.571],
     "tags": [],
     "notes": "128 out of 411"
@@ -845,7 +813,7 @@
     "results": [
       { "date": "2023-03-04", "distanceMiles": 50, "time": "11:20:25" }
     ],
-    "url": "",
+    "url": "https://oldpueblo50.com/",
     "latLng": [31.745, -110.742],
     "tags": [],
     "notes": "9 out of 51"
@@ -856,7 +824,7 @@
     "results": [
       { "date": "2023-11-11", "distanceMiles": 32.5, "time": "07:17:49" }
     ],
-    "url": "",
+    "url": "https://www.nextopportunityevents.com/home#home-events",
     "latLng": [37.7810851, -83.6899573],
     "tags": [],
     "notes": "19 out of 94"
@@ -867,7 +835,7 @@
     "results": [
       { "date": "2023-01-27", "distanceMiles": 27, "time": "05:16:59" }
     ],
-    "url": "",
+    "url": "https://tctruns.com/folsom-lake-sweetwater-trail-run/",
     "latLng": [38.77191, -121.04203],
     "tags": [],
     "notes": "5 out of 20"
@@ -878,7 +846,7 @@
     "results": [
       { "date": "2024-04-06", "distanceMiles": 26.2, "time": "04:51:04" }
     ],
-    "url": "",
+    "url": "https://www.ksultrarunners.org/",
     "latLng": [38.855, -97.794],
     "tags": [],
     "notes": "3 out of 28"
@@ -889,7 +857,7 @@
     "results": [
       { "date": "2025-01-04", "distanceMiles": 31.6, "time": "06:04:32" }
     ],
-    "url": "",
+    "url": "https://wvmtr.org/races/frozen-sasquatch/",
     "latLng": [38.28133, -81.64169],
     "tags": [],
     "notes": "12 out of 44"
@@ -900,7 +868,7 @@
     "results": [
       { "date": "2025-01-11", "distanceMiles": 26.2, "time": "03:44:10" }
     ],
-    "url": "",
+    "url": "https://runsignup.com/Race/NC/Ellerbe/MangumMarathon",
     "latLng": [35.0504, -79.7997],
     "tags": [],
     "notes": "3 out of 18 (ice storm night before, 105 originally registered)"
@@ -911,7 +879,7 @@
     "results": [
       { "date": "2025-01-18", "distanceMiles": 26.2, "time": "03:37:13" }
     ],
-    "url": "",
+    "url": "https://www.daufuskieislandmarathon.com/",
     "latLng": [32.13, -80.87],
     "tags": [],
     "notes": "11 out 146"
@@ -922,7 +890,7 @@
     "results": [
       { "date": "2025-03-02", "distanceMiles": 26.2, "time": "03:33:34" }
     ],
-    "url": "",
+    "url": "https://www.atlantatrackclub.org/",
     "latLng": [33.7554, -84.4011],
     "tags": [],
     "notes": "264th of 1,959"
@@ -933,7 +901,7 @@
     "results": [
       { "date": "2024-03-15", "distanceMiles": 34, "time": "07:06:23" }
     ],
-    "url": "",
+    "url": "http://belmonteraces.com/index.php/en/",
     "latLng": [38.0292, -78.4767],
     "tags": [],
     "notes": "7th out of 43 finishers (ran some extra due to lack of course markings)"
@@ -944,7 +912,7 @@
     "results": [
       { "date": "2025-04-26", "distanceMiles": 31.2, "time": "06:26:00" }
     ],
-    "url": "",
+    "url": "https://www.redpointproductions.com/",
     "latLng": [41.198112, -74.397748],
     "tags": [],
     "notes": "15th out of 63"
@@ -955,7 +923,7 @@
     "results": [
       { "date": "2025-07-04", "distanceMiles": 3.1, "time": "00:19:51" }
     ],
-    "url": "",
+    "url": "https://www.runcr.org/",
     "latLng": [45.17073, -93.34246],
     "tags": [],
     "notes": "7 out of 236, hot"
@@ -966,7 +934,7 @@
     "results": [
       { "date": "2025-07-26", "distanceMiles": 36, "time": "08:07:45" }
     ],
-    "url": "",
+    "url": "https://www.ironwoodadventureworks.com/moosalamoo-ultra",
     "latLng": [43.869722, -73.020833],
     "tags": [],
     "notes": "19 out of 46"
@@ -977,7 +945,7 @@
     "results": [
       { "date": "2025-08-24", "distanceMiles": 26.2, "time": "05:26:25" }
     ],
-    "url": "",
+    "url": "https://fingerlakesrunners.org/race/monster-marathon-2024/",
     "latLng": [42.490906, -76.297157],
     "tags": [],
     "notes": "4th overall, 5th due to age adjustements with an age adusted time of 5:11:25"
@@ -988,7 +956,7 @@
     "results": [
       { "date": "2025-09-20", "distanceMiles": 32, "time": "06:23:47" }
     ],
-    "url": "",
+    "url": "https://www.facebook.com/BearBrookUltra/",
     "latLng": [43.12, -71.37],
     "tags": [],
     "notes": "4th overall (out of 10), age group champ, had to poop at mile 6 which added at least 5 minutes"
@@ -999,7 +967,7 @@
     "results": [
       { "date": "2025-10-05", "distanceMiles": 26.4, "time": "05:11:06" }
     ],
-    "url": "",
+    "url": "http://shenipsitstriders.org/club-races/nipmuck-trail-marathon.html",
     "latLng": [41.8805, -72.0543],
     "tags": [],
     "notes": "21 out 75"
@@ -1010,7 +978,7 @@
     "results": [
       { "date": "2025-10-12", "distanceMiles": 26.2, "time": "03:50:21" }
     ],
-    "url": "",
+    "url": "https://newportmarathon.com/",
     "latLng": [41.489, -71.312],
     "tags": [],
     "notes": "255 out of 1053"
@@ -1021,7 +989,7 @@
     "results": [
       { "date": "2025-10-25", "distanceMiles": 32.3, "time": "06:45:41" }
     ],
-    "url": "",
+    "url": "https://white-oak-running-company.mailchimpsites.com/",
     "latLng": [39.2789, -76.7469],
     "tags": [],
     "notes": "51 out of 180"
@@ -1030,11 +998,22 @@
     "name": "Philadelphia Marathon",
     "location": "Philadelphia, PA",
     "results": [
-      { "date": "2025-11-23", "distanceMiles": 26.3, "time": "03:42:58" }
+      { "date": "2025-11-23", "distanceMiles": 26.2, "time": "03:42:58" }
     ],
-    "url": "",
+    "url": "https://www.philadelphiamarathon.com/",
     "latLng": [39.9577, -75.1764],
     "tags": [],
     "notes": "3267 out of 12304, beautiful day, great race"
+  },
+  {
+    "name": "Rehoboth Seashore Marathon",
+    "location": "Rehoboth, DE",
+    "results": [
+      { "date": "2025-12-06", "distanceMiles": 26.2, "time": "03:41:06" }
+    ],
+    "url": "https://www.rbmarathon.com",
+    "latLng": [38.7167384, -75.0783798],
+    "tags": [],
+    "notes": "247 out of 980, beautiful day, great race"
   }
 ]
