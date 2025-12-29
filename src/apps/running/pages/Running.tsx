@@ -143,7 +143,7 @@ const favoriteTrailRaces: Race[] = [
   {
     name: "Montana de Oro, CA",
     description:
-      "This race takes place in Montana de Oro State Park, where I camped right in the park. It's absolutely beautiful, perched along the Pacific coast. We started on the beach with the ocean at our backs, climbed up and over two small mountains, and finished right back on the sand. This is what trail running is all about—getting outside, exploring incredible places, and soaking in the beauty along the way.",
+      "This race takes place in Montana de Oro State Park, where I camped right in the park. It's absolutely beautiful, perched along the Pacific coast. We started on the beach with the ocean at our backs, climbed up and over two small mountains, and finished right back on the beach. This is what trail running is all about—getting outside, exploring incredible places, and soaking in the beauty along the way.",
   },
   {
     name: "Eugene Curnow Trail Marathon, MN",
@@ -153,12 +153,12 @@ const favoriteTrailRaces: Race[] = [
   {
     name: "Rockin K Trail Marathon, KS",
     description:
-      "I ran this race on a whim while road-tripping to Texas to see the solar eclipse. It turned out to be a beautiful prairie run—wide open, peaceful, and surprisingly memorable. I really enjoyed it and would definitely recommend it.",
+      "I ran this race on a whim while road-tripping to Texas to see the solar eclipse. It turned out to be a beautiful prairie run—wide open, peaceful, and surprisingly memorable. I really enjoyed it and definitely recommend it.",
   },
   {
     name: "Zumbro Endurance Run, MN",
     description:
-      "Zumbro is a welcome return to racing after the long Minnesota winter—though you might still get a taste of winter weather on race day. It's the first big trail race of the season, and the views from the bluffs are fantastic. I've run the 100, but the 17-miler is the one I really love.",
+      "Zumbro is a welcome return to racing after the long Minnesota winter—though you might still get a blast of winter on race day. It's the first big trail race of the season, and the views from the bluffs are fantastic. I've run the 100, but the 17-miler is the one I usually do and is a ton of fun.",
   },
 ];
 

@@ -50,7 +50,7 @@ const Home = (): JSX.Element => {
               React to PHP and MySQL.
             </p>
             <p>
-              Before moving fully into software development, I worked as a
+              Before moving back into software development, I worked as a
               teacher, teaching computer classes, coaching robotics, and
               integrating technology into the classroom. When I&apos;m not
               coding, you&apos;ll usually find me outdoors, canoeing or trail
