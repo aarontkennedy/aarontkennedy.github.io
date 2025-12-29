@@ -1,0 +1,25 @@
+@import "../../../styles/variables";
+body {
+  font-family: Arial;
+}
+
+.favorite-races {
+  &__title {
+    text-align: center;
+  }
+  &__name {
+    font-weight: bold;
+  }
+  &__description {
+  }
+
+  ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    li {
+      margin: 0 auto;
+      padding: 0;
+    }
+  }
+}

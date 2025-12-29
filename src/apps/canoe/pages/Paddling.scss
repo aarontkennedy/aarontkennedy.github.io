@@ -3,7 +3,9 @@ body {
   font-family: Arial;
 }
 
-.paddling {
+.paddling__map {
+  width: 100%;
+  margin-bottom: 100px;
   // .leaflet-control-container .leaflet-top.leaflet-left {
   //   top: $menuHeight;
   // }
@@ -15,9 +17,16 @@ body {
   // .leaflet-control-zoom.leaflet-bar.leaflet-control {
   //   top: unset;
   // }
+  @media (min-width: 768px) {
+    max-width: 800px;
+    margin-right: auto;
+    margin-left: auto;
+    border-radius: 8px;
+  }
 }
 
 .paddling-hero {
+  margin-top: 100px;
   position: relative;
 
   &__background-video {
@@ -79,35 +88,28 @@ body {
   &__sub-header {
     display: none;
   }
-}
 
-.carousel {
-  height: 200px;
-  display: flex;
-  overflow-x: scroll;
-  width: 100%;
-  max-width: 100%;
-  img {
-    height: 200px;
+  @media (min-width: 768px) {
+    margin-right: auto;
+    margin-left: auto;
+    max-width: 800px;
+    &__background-video {
+      max-width: 800px;
+      border-radius: 8px;
+    }
+    &__content {
+      border-radius: 8px;
+    }
   }
 }
 
-.footer {
-  background-color: rgb(204, 197, 197);
-  color: white;
-}
-
-.video_search {
-  min-height: 350px;
-  &__input input {
+.paddling__video-search {
+  margin-bottom: 50px;
+  &-input input {
     padding: 5px;
     margin: 10px;
   }
-  &__input input {
-    padding: 5px;
-    margin: 10px;
-  }
-  &__tags {
+  &-tags {
     width: 100%;
     overflow-x: scroll;
     display: flex;
@@ -115,13 +117,13 @@ body {
     justify-content: flex-start;
     align-items: center;
   }
-  &__tag {
+  &-tag {
     text-transform: lowercase;
     padding: 0px 10px;
     cursor: pointer;
     margin: 15px;
   }
-  &__results {
+  &-results {
     width: 100%;
     overflow-x: scroll;
     display: flex;
@@ -132,7 +134,7 @@ body {
       text-decoration: none;
     }
   }
-  &__card {
+  &-card {
     display: flex;
     flex-direction: column;
     justify-content: flex-start;
@@ -146,19 +148,25 @@ body {
       border-radius: 8px;
     }
   }
-  &__video-thumbnail {
+  &-video-thumbnail {
     display: block;
     width: 100%;
     border-radius: 8px;
     margin-bottom: 5px;
   }
-  &__title {
+  &-title {
     color: black;
     max-height: fit-content;
     font-size: 20px;
     line-height: 20px;
   }
-  &__sub-text {
+  &-sub-text {
     color: gray;
+  }
+
+  @media (min-width: 768px) {
+    margin-right: auto;
+    margin-left: auto;
+    max-width: 800px;
   }
 }

@@ -1,0 +1,11 @@
+@import "./styles/variables";
+
+/* Ensure anchor and programmatic scrolling accounts for sticky header */
+main > section {
+  scroll-margin-top: $menuHeight;
+}
+
+/* small visual tweak so first content doesn't sit flush under header */
+body {
+  padding-top: 0;
+}

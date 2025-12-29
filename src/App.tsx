@@ -1,20 +1,16 @@
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
-import Home from "./apps/portfolio/pages/Home";
-import Paddling from "./apps/canoe/pages/Paddling";
 import LatLongRecorder from "./apps/tools/pages/LatLongRecorder";
-import Kwanyama from "./apps/kwanyama/Kwanyama";
-import Running from "./apps/running/pages/Running";
+import SinglePage from "./pages/SinglePage";
 
 function App() {
   return (
     <Router>
       <Routes>
-        <Route path="/" element={<Paddling />} />
-        <Route path="/paddling" element={<Paddling />} />
-        <Route path="/running" element={<Running />} />
-        <Route path="/about" element={<Home />} />
+        <Route path="/" element={<SinglePage />} />
+        <Route path="/paddling" element={<SinglePage />} />
+        <Route path="/running" element={<SinglePage />} />
+        <Route path="/about" element={<SinglePage />} />
         <Route path="/latlongrecorder" element={<LatLongRecorder />} />
-        <Route path="/kwanyama/*" element={<Kwanyama />} />
       </Routes>
     </Router>
   );

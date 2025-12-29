@@ -1,4 +1,5 @@
 import React from "react";
+import "./FavoriteRaces.scss";
 
 export type Race = {
   name: string;
@@ -13,14 +14,16 @@ interface Props {
 
 const FavoriteRaces: React.FC<Props> = ({ title, summary, items }) => {
   return (
-    <div>
-      <h1 className="page-title">{title}</h1>
+    <div className="favorite-races">
+      <h1 className="favorite-races__title">{title}</h1>
       {summary && <div>{summary}</div>}
       <ul>
         {items.map((item, index) => (
           <li key={index}>
-            <div>{item.name}</div>
-            <div>{item.description}</div>
+            <div className="favorite-races__name">{item.name}</div>
+            <div className="favorite-races__description">
+              {item.description}
+            </div>
           </li>
         ))}
       </ul>

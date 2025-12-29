@@ -9,50 +9,48 @@ import useScreenSize from "../../../hooks/useScreenSize";
 import MinimapControl from "../../../components/map/MinimapControl";
 import MarkerWithPolyline from "../../../components/map/MarkerWithPolyline";
 import { Paddle, Url } from "../data/paddle";
-import Header from "../../../components/header/Header";
 import "./Paddling.scss";
 import { formatDate, getYear } from "../../../util/dates";
-import { shuffleArray } from "../../../util/shuffle";
+// import { shuffleArray } from "../../../util/shuffle";
 
-import bluebirdPhoto from "../../../images/bluebird.jpeg";
-import chickadeePhoto from "../../../images/chickadee.jpeg";
-import craneBeaverPhoto from "../../../images/craneBeaver.jpeg";
-import damselPhoto from "../../../images/damsel.jpeg";
-import deerPhoto from "../../../images/deer.jpeg";
-import eaglePhoto from "../../../images/eagle.jpeg";
-import fallMoonPhoto from "../../../images/fallMoon.jpeg";
-import greenHeronPhoto from "../../../images/greenHeron.jpeg";
-import gullsPhoto from "../../../images/gulls.jpeg";
-import heronPhoto from "../../../images/heron.jpeg";
-import pelicansPhoto from "../../../images/pelicans.jpeg";
-import racoonPhoto from "../../../images/racoon.jpeg";
-import sunrisePhoto from "../../../images/sunrise.jpeg";
-import surfingPhoto from "../../../images/surfing.jpeg";
-import whitewaterPhoto from "../../../images/whitewater.jpeg";
-import Footer from "../../../components/footer/Footer";
+// import bluebirdPhoto from "../../../images/paddling/bluebird.jpeg";
+// import chickadeePhoto from "../../../images/paddling/chickadee.jpeg";
+// import craneBeaverPhoto from "../../../images/paddling/craneBeaver.jpeg";
+// import damselPhoto from "../../../images/paddling/damsel.jpeg";
+// import deerPhoto from "../../../images/paddling/deer.jpeg";
+// import eaglePhoto from "../../../images/paddling/eagle.jpeg";
+// import fallMoonPhoto from "../../../images/paddling/fallMoon.jpeg";
+// import greenHeronPhoto from "../../../images/paddling/greenHeron.jpeg";
+// import gullsPhoto from "../../../images/paddling/gulls.jpeg";
+// import heronPhoto from "../../../images/paddling/heron.jpeg";
+// import pelicansPhoto from "../../../images/paddling/pelicans.jpeg";
+// import racoonPhoto from "../../../images/paddling/racoon.jpeg";
+// import sunrisePhoto from "../../../images/paddling/sunrise.jpeg";
+// import surfingPhoto from "../../../images/paddling/surfing.jpeg";
+// import whitewaterPhoto from "../../../images/paddling/whitewater.jpeg";
 import { useEffect, useState } from "react";
 import EllipsisText from "../../../components/EllipsisText/EllipsisText";
 import CustomClearInput from "../../../components/CustomClearInput/CustomClearInput";
 
 const youtubeBackgroundVideoId = "1AdQTKX82Mc";
 
-const photoArray = [
-  bluebirdPhoto,
-  chickadeePhoto,
-  craneBeaverPhoto,
-  damselPhoto,
-  deerPhoto,
-  eaglePhoto,
-  fallMoonPhoto,
-  greenHeronPhoto,
-  gullsPhoto,
-  heronPhoto,
-  pelicansPhoto,
-  racoonPhoto,
-  sunrisePhoto,
-  surfingPhoto,
-  whitewaterPhoto,
-];
+// const photoArray = [
+//   bluebirdPhoto,
+//   chickadeePhoto,
+//   craneBeaverPhoto,
+//   damselPhoto,
+//   deerPhoto,
+//   eaglePhoto,
+//   fallMoonPhoto,
+//   greenHeronPhoto,
+//   gullsPhoto,
+//   heronPhoto,
+//   pelicansPhoto,
+//   racoonPhoto,
+//   sunrisePhoto,
+//   surfingPhoto,
+//   whitewaterPhoto,
+// ];
 
 const canoeIcon = new Icon({
   iconUrl: canoeImage,
@@ -171,8 +169,6 @@ const Paddling = () => {
 
   return (
     <>
-      <Header></Header>
-
       <div className="paddling-hero">
         <iframe
           className="paddling-hero__background-video"
@@ -192,16 +188,16 @@ const Paddling = () => {
         </div>
       </div>
 
-      <div className="video_search">
-        <div className="video_search__tags">
+      <div className="paddling__video-search">
+        <div className="paddling__video-search-tags">
           <CustomClearInput
-            name={"video_search__input"}
+            name={"paddling__video-search-input"}
             inputValue={searchValue}
             setInputValue={setSearchValue}
           />
           {tags.map((t: string) => (
             <button
-              className="video_search__tag"
+              className="paddling__video-search-tag"
               key={t}
               onClick={() => handleVideoTagClick(t)}
             >
@@ -209,18 +205,18 @@ const Paddling = () => {
             </button>
           ))}
         </div>
-        <div className="video_search__results">
+        <div className="paddling__video-search-results">
           {filteredVideos.map((v: VideoLink) => (
             <a key={v.url} href={v.url}>
-              <div className="video_search__card">
+              <div className="paddling__video-search-card">
                 <img
-                  className="video_search__video-thumbnail"
+                  className="paddling__video-search-video-thumbnail"
                   src={convertYoutubeUrlToThumbnailUrl(v.url)}
                 />
-                <div className="video_search__title">
+                <div className="paddling__video-search-title">
                   <EllipsisText text={v.name} />{" "}
                 </div>
-                <div className="video_search__sub-text">
+                <div className="paddling__video-search-sub-text">
                   {formatDate(v.date)}
                 </div>
               </div>
@@ -241,7 +237,7 @@ const Paddling = () => {
           width: `100%`,
         }}
         zoomControl={false}
-        className="paddling"
+        className="paddling__map"
       >
         <ZoomControl position="topleft" />
         <TileLayer
@@ -281,14 +277,13 @@ const Paddling = () => {
         )}
       </MapContainer>
 
-      <div className="carousel">
+      {/* <div className="carousel">
         {shuffleArray(photoArray)
           .slice(0, 10)
           .map((photo: string) => (
             <img key={photo} className="" src={photo} />
           ))}
-      </div>
-      <Footer />
+      </div> */}
     </>
   );
 };

@@ -2,12 +2,15 @@
 
 .header {
   &__container {
-    height: $menuHeight;
+    position: sticky;
+    top: 0;
+    z-index: 10000;
     width: 100%;
     background-color: white;
     display: flex;
     vertical-align: center;
-    border-bottom: 1px solid black;
+    // border-bottom: 1px solid black;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.06);
   }
 
   &__nav {
@@ -16,16 +19,32 @@
     justify-content: space-between;
     width: 100%;
 
+    &-left {
+      margin-left: 5px;
+      a {
+        text-decoration: none;
+        font-weight: bold;
+        font-size: 1.2em;
+        color: black;
+      }
+    }
+
     &-right {
       display: flex;
       flex-direction: row;
       justify-content: end;
       padding: 5px;
+      a {
+        text-decoration: none;
+        font-weight: bold;
+        font-size: 1em;
+        color: black;
+        margin-left: 5px;
+        margin-right: 5px;
+        &:hover {
+          text-decoration: underline;
+        }
+      }
     }
-  }
-
-  &__logo {
-    padding: 5px 10px;
-    height: 100px;
   }
 }

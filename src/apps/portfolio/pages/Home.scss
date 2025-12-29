@@ -1,10 +1,92 @@
 @import "../../../styles/variables";
 
 .home {
-  &__wrap {
-    display: block;
-    width: 100%;
-    padding-top: $menuHeight;
-    min-height: calc(100vh - ($menuHeight + $footerHeight));
+  margin-top: 10px;
+  margin-bottom: 50px;
+  /* Header layout: stack on small screens, two columns on larger screens */
+  header {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    align-items: center;
+    justify-content: center;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 1rem;
+
+    .home__header-left {
+      width: 100%;
+    }
+    .home__header-right {
+      display: none;
+    }
+
+    .home__name,
+    .home__title {
+      text-align: center;
+    }
+
+    /* Remove bullets and spacing for contact details list */
+    .home__details {
+      list-style: none;
+      margin: 0;
+      padding: 0;
+
+      li {
+        width: 100%;
+        text-align: center;
+        margin: 0 auto;
+        padding: 0;
+        a {
+          text-decoration: none;
+          color: black;
+          &:hover {
+            text-decoration: underline;
+          }
+        }
+      }
+    }
+
+    .home__social-media {
+      width: 100%;
+      display: flex;
+      list-style: none;
+      margin: 10px auto;
+      padding: 0;
+      justify-content: center;
+
+      li {
+        padding-left: 10px;
+        padding-right: 10px;
+      }
+    }
+
+    .home__summary {
+      p {
+        margin-bottom: 15px;
+      }
+    }
+
+    @media (min-width: 768px) {
+      flex-direction: row;
+      align-items: center;
+
+      .home__header-left {
+        width: 60%;
+      }
+      .home__header-right {
+        display: block;
+        width: 40%;
+      }
+
+      .header__video {
+        width: auto;
+        height: auto;
+        max-height: 80vh;
+        object-fit: cover;
+        margin: 0 auto;
+        border-radius: 8px;
+      }
+    }
   }
 }
