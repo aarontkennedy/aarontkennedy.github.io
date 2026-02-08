@@ -2,7 +2,9 @@
   {
     "name": "London",
     "location": "London, England",
-    "results": [{ "date": "2000-04-01", "distanceMiles": 26.2, "time": "Ran Bandit" }],
+    "results": [
+      { "date": "2000-04-01", "distanceMiles": 26.2, "time": "Ran Bandit" }
+    ],
     "url": "https://www.londonmarathonevents.co.uk/london-marathon",
     "latLng": [51.47, -0.1],
     "tags": [],
@@ -1015,5 +1017,16 @@
     "latLng": [38.7167384, -75.0783798],
     "tags": [],
     "notes": "247 out of 980, beautiful day, great race"
+  },
+  {
+    "name": "Maui Oceanfront Marathon",
+    "location": "Maui, HI",
+    "results": [
+      { "date": "2026-01-18", "distanceMiles": 26.2, "time": "4:04:10" }
+    ],
+    "url": "https://www.mauioceanfrontmarathon.com",
+    "latLng": [20.6872, -156.4392],
+    "tags": [],
+    "notes": "64 out of 205, 50th State"
   }
 ]
