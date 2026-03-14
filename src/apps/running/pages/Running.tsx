@@ -10,18 +10,36 @@ import "./Running.scss";
 import { formatDate, formatTime, getYear } from "../../../util/dates";
 import FavoriteRaces, { Race } from "../components/FavoriteRaces";
 import MarkerWithPopup from "../../../components/map/MarkerWithPopup";
-// import { shuffleArray } from "../../../util/shuffle";
-// import grandMesa50Photo from "../../../images/running/GrandMesa50.jpg";
-// import rockinKPhoto from "../../../images/running/RockinK.jpg";
-// import aaronCrossCountryPhoto from "../../../images/running/aaronCrossCountry.jpg";
-// import mountainMistPhoto from "../../../images/running/mountainmist.jpg";
-// import paavoNurmiPhoto from "../../../images/running/paavonurmi.jpg";
-// import pikes50Photo from "../../../images/running/pikes50.jpg";
-// import twinCities1Mile2007Photo from "../../../images/running/twinCities1Mile2007.jpg";
-// import zumbroPhoto from "../../../images/running/zumbro.jpg";
-// import zumbroDarkPhoto from "../../../images/running/zumbroDark.jpg";
+import { shuffleArray } from "../../../util/shuffle";
+import grandMesa50Photo from "../../../images/running/GrandMesa50.jpg";
+import rockinKPhoto from "../../../images/running/RockinK.jpg";
+import aaronCrossCountryPhoto from "../../../images/running/aaronCrossCountry.jpg";
+import mountainMistPhoto from "../../../images/running/mountainmist.jpg";
+import paavoNurmiPhoto from "../../../images/running/paavonurmi.jpg";
+import pikes50Photo from "../../../images/running/pikes50.jpg";
+import twinCities1Mile2007Photo from "../../../images/running/twinCities1Mile2007.jpg";
+import zumbroPhoto from "../../../images/running/zumbro.jpg";
+import zumbroDarkPhoto from "../../../images/running/zumbroDark.jpg";
+
+import bearBrookPhoto from "../../../images/running/medals/bearBrook.jpg";
+import bemidjiPhoto from "../../../images/running/medals/bemidji.jpg";
+import blazePioneerPhoto from "../../../images/running/medals/blazePioneer.jpg";
+import bostonPhoto from "../../../images/running/medals/boston.jpg";
+import dafunskiePhoto from "../../../images/running/medals/dafunskie.jpg";
+import elyPhoto from "../../../images/running/medals/ely.jpg";
+import eugenePhoto from "../../../images/running/medals/eugene.jpg";
+import grandmasPhoto from "../../../images/running/medals/grandmas.jpg";
+import leanhorsePhoto from "../../../images/running/medals/leanhorse.jpg";
+import moosalamooPhoto from "../../../images/running/medals/moosalamoo.jpg";
+import oldPuebloPhoto from "../../../images/running/medals/oldPueblo.jpg";
+import philadelphiaPhoto from "../../../images/running/medals/philadelphia.jpg";
+import psychoWycoPhoto from "../../../images/running/medals/psychoWyco.jpg";
+import rockyPhoto from "../../../images/running/medals/rocky.jpg";
+import rehobothPhoto from "../../../images/running/medals/rehoboth.jpg";
+import superiorPhoto from "../../../images/running/medals/superior.jpg";
+import zumbroBucklePhoto from "../../../images/running/medals/zumbro.jpg";
+
 import L from "leaflet";
-import { useRef } from "react";
 import {
   is100miler,
   is10k,
@@ -33,18 +51,39 @@ import {
   is25k,
   isMarathon,
 } from "../../../util/distance";
+import Carousel from "../components/Carousel/Carousel";
 
-// const photoArray = [
-//   grandMesa50Photo,
-//   rockinKPhoto,
-//   aaronCrossCountryPhoto,
-//   mountainMistPhoto,
-//   paavoNurmiPhoto,
-//   pikes50Photo,
-//   twinCities1Mile2007Photo,
-//   zumbroPhoto,
-//   zumbroDarkPhoto,
-// ];
+const photoArray = [
+  grandMesa50Photo,
+  rockinKPhoto,
+  aaronCrossCountryPhoto,
+  mountainMistPhoto,
+  paavoNurmiPhoto,
+  pikes50Photo,
+  twinCities1Mile2007Photo,
+  zumbroPhoto,
+  zumbroDarkPhoto,
+];
+
+const medalPhotoArray = [
+  bearBrookPhoto,
+  bemidjiPhoto,
+  blazePioneerPhoto,
+  bostonPhoto,
+  dafunskiePhoto,
+  elyPhoto,
+  eugenePhoto,
+  grandmasPhoto,
+  leanhorsePhoto,
+  moosalamooPhoto,
+  oldPuebloPhoto,
+  philadelphiaPhoto,
+  psychoWycoPhoto,
+  rockyPhoto,
+  rehobothPhoto,
+  superiorPhoto,
+  zumbroBucklePhoto,
+];
 
 const formatIfTime = (time: string): string => {
   return time.includes(":") ? formatTime(time) : time;
@@ -76,7 +115,7 @@ const convertRunDataToHtml = (r: Run): JSX.Element => {
 
 const convertRunToColor = (run: Run): string => {
   const longestDistance = run.results.reduce((max, current) =>
-    current.distanceMiles > max.distanceMiles ? current : max
+    current.distanceMiles > max.distanceMiles ? current : max,
   );
 
   if (is5k(longestDistance.distanceMiles)) {
@@ -217,64 +256,27 @@ const getIconHtml = (hexColor: string): string => {
 
 const Running = () => {
   const screenSize = useScreenSize();
-  const carouselRef = useRef<HTMLDivElement | null>(null);
+  const favorites = [
+    <FavoriteRaces
+      title="Favorite Road Marathons"
+      items={favoriteRoadMarathons}
+    />,
+    <FavoriteRaces title="Favorite Trail Races" items={favoriteTrailRaces} />,
+    <FavoriteRaces title="Favorite Trail Ultras" items={favoriteTrailUltras} />,
+  ];
 
   return (
     <>
-      <div className="favorite-races-wrapper">
-        <button
-          className="carousel-button left"
-          aria-label="Previous favorites"
-          onClick={() => {
-            if (carouselRef.current) {
-              carouselRef.current.scrollBy({
-                left: -carouselRef.current.clientWidth,
-                behavior: "smooth",
-              });
-            }
-          }}
-        >
-          ‹
-        </button>
+      <Carousel
+        namespace="running-photos"
+        contents={shuffleArray(medalPhotoArray)
+          .slice(0, 10)
+          .map((photo: string) => (
+            <img key={photo} src={photo} />
+          ))}
+      />
 
-        <div className="favorite-races-carousel" ref={carouselRef}>
-          <div className="favorite-race-card">
-            <FavoriteRaces
-              title="Favorite Road Marathons"
-              items={favoriteRoadMarathons}
-            />
-          </div>
-
-          <div className="favorite-race-card">
-            <FavoriteRaces
-              title="Favorite Trail Races"
-              items={favoriteTrailRaces}
-            />
-          </div>
-
-          <div className="favorite-race-card">
-            <FavoriteRaces
-              title="Favorite Trail Ultras"
-              items={favoriteTrailUltras}
-            />
-          </div>
-        </div>
-
-        <button
-          className="carousel-button right"
-          aria-label="Next favorites"
-          onClick={() => {
-            if (carouselRef.current) {
-              carouselRef.current.scrollBy({
-                left: carouselRef.current.clientWidth,
-                behavior: "smooth",
-              });
-            }
-          }}
-        >
-          ›
-        </button>
-      </div>
+      <Carousel namespace="favorite-races" contents={favorites}></Carousel>
 
       <MapContainer
         center={centerOfUsa}
@@ -337,13 +339,14 @@ const Running = () => {
         )}
       </MapContainer>
 
-      {/* <div className="carousel">
-        {shuffleArray(photoArray)
+      <Carousel
+        namespace="running-photos"
+        contents={shuffleArray(photoArray)
           .slice(0, 10)
           .map((photo: string) => (
-            <img key={photo} className="" src={photo} />
+            <img key={photo} src={photo} />
           ))}
-      </div> */}
+      />
     </>
   );
 };

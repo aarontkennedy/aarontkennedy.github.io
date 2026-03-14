@@ -5,7 +5,7 @@ body {
 
 .running__map {
   width: 100%;
-  margin-bottom: 100px;
+  margin-bottom: 10px;
 
   @media (min-width: 768px) {
     max-width: 800px;
@@ -16,7 +16,8 @@ body {
 }
 
 /* Favorite races carousel */
-.favorite-races-wrapper {
+.favorite-races__wrapper,
+.running-photos__wrapper {
   position: relative;
   margin: 2rem 0;
   width: 100%;
@@ -28,7 +29,8 @@ body {
   }
 }
 
-.favorite-races-carousel {
+.favorite-races__carousel,
+.running-photos__carousel {
   display: flex;
   gap: 1rem;
   overflow-x: auto;
@@ -37,7 +39,7 @@ body {
   padding: 1rem 0;
 }
 
-.favorite-race-card {
+.favorite-races__card {
   flex: 0 0 100%;
   max-width: 720px;
   scroll-snap-align: center;
@@ -52,7 +54,14 @@ body {
   box-sizing: border-box;
 }
 
-.carousel-button {
+@media (min-width: 768px) {
+  .favorite-races__card {
+    max-width: 720px;
+  }
+}
+
+.favorite-races__button,
+.running-photos__button {
   position: absolute;
   top: 25%;
   transform: translateY(-50%);
@@ -68,16 +77,31 @@ body {
   z-index: 10;
 }
 
-.carousel-button.left {
+.running-photos__button {
+  top: 50%;
+}
+
+.favorite-races__button.left,
+.running-photos__button.left {
   left: 8px;
 }
 
-.carousel-button.right {
+.favorite-races__button.right,
+.running-photos__button.right {
   right: 8px;
 }
 
-@media (min-width: 768px) {
-  .favorite-race-card {
-    max-width: 720px;
+.running-photos__card {
+  max-width: 150px;
+  width: 150px;
+  height: 150px;
+  flex: 0 0 100%;
+  scroll-snap-align: center;
+  background: #fff;
+  margin: 0 auto;
+  box-sizing: border-box;
+  img {
+    border-radius: 8px;
+    object-fit: cover;
   }
 }
