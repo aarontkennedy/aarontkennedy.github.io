@@ -54,21 +54,21 @@ const DropdownMenu = ({
   };
 
   return (
-    <div ref={dropdownRef} className={className}>
-      <button onClick={toggleDropdown} className="">
-        {title} +
+    <div ref={dropdownRef} className={`dropdown ${className}`}>
+      <button onClick={toggleDropdown} className="dropdown-toggle">
+        {title}
       </button>
 
       {isOpen && (
-        <div className="" role="menu" aria-orientation="vertical">
-          <div className="" role="none">
+        <div className="dropdown-menu" role="menu" aria-orientation="vertical">
+          <div className="dropdown-menu__items" role="none">
             {items.map((item, index) =>
               item.to ? (
                 <Link
                   key={index}
-                  to={item.href || "#"}
+                  to={item.to}
                   onClick={() => handleItemClick(item)}
-                  className=""
+                  className="dropdown-item"
                   role="menuitem"
                 >
                   {item.label}
@@ -78,12 +78,12 @@ const DropdownMenu = ({
                   key={index}
                   href={item.href || "#"}
                   onClick={() => handleItemClick(item)}
-                  className=""
+                  className="dropdown-item"
                   role="menuitem"
                 >
                   {item.label}
                 </a>
-              )
+              ),
             )}
           </div>
         </div>

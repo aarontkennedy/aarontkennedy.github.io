@@ -1,0 +1,261 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Image Url Viewer</title>
+    <style>
+      @charset "utf-8";
+      /***
+    The new CSS reset - version 1.8.5 (last updated 14.6.2023)
+    GitHub page: https://github.com/elad2412/the-new-css-reset
+***/
+
+      /*
+    Remove all the styles of the "User-Agent-Stylesheet", except for the 'display' property
+    - The "symbol *" part is to solve Firefox SVG sprite bug
+    - The "html" attribute is exclud, because otherwise a bug in Chrome breaks the CSS hyphens property (https://github.com/elad2412/the-new-css-reset/issues/36)
+ */
+      *:where(
+          :not(
+              html,
+              iframe,
+              canvas,
+              img,
+              svg,
+              video,
+              audio,
+              select,
+              textarea
+            ):not(svg *, symbol *)
+        ) {
+        all: unset;
+        display: revert;
+      }
+
+      /* Preferred box-sizing value */
+      *,
+      *::before,
+      *::after {
+        box-sizing: border-box;
+      }
+
+      /* Reapply the pointer cursor for anchor tags */
+      a,
+      button {
+        cursor: revert;
+      }
+
+      /* Remove list styles (bullets/numbers) */
+      ol,
+      ul,
+      menu {
+        list-style: none;
+      }
+
+      /* For images to not be able to exceed their container */
+      img {
+        max-inline-size: 100%;
+        max-block-size: 100%;
+      }
+
+      /* removes spacing between cells in tables */
+      table {
+        border-collapse: collapse;
+      }
+
+      /* Safari - solving issue when using user-select:none on the <body> text input doesn't working */
+      input,
+      textarea {
+        -webkit-user-select: auto;
+      }
+
+      /* revert the 'white-space' property for textarea elements on Safari */
+      textarea {
+        white-space: revert;
+      }
+
+      /* minimum style to allow to style meter element */
+      meter {
+        -webkit-appearance: revert;
+        appearance: revert;
+      }
+
+      /* preformatted text - use only for this feature */
+      :where(pre) {
+        all: revert;
+      }
+
+      /* reset default text opacity of input placeholder */
+      ::placeholder {
+        color: unset;
+      }
+
+      /* remove default dot (•) sign */
+      ::marker {
+        content: initial;
+      }
+
+      /* fix the feature of 'hidden' attribute.
+   display:revert; revert to element instead of attribute */
+      :where([hidden]) {
+        display: none;
+      }
+
+      /* revert for bug in Chromium browsers
+   - fix for the content editable attribute will work properly.
+   - webkit-user-select: auto; added for Safari in case of using user-select:none on wrapper element */
+      :where([contenteditable]:not([contenteditable="false"])) {
+        -moz-user-modify: read-write;
+        -webkit-user-modify: read-write;
+        overflow-wrap: break-word;
+        -webkit-line-break: after-white-space;
+        -webkit-user-select: auto;
+      }
+
+      /* apply back the draggable feature - exist only in Chromium and Safari */
+      :where([draggable="true"]) {
+        -webkit-user-drag: element;
+      }
+
+      /* Revert Modal native behavior */
+      :where(dialog:modal) {
+        all: revert;
+      }
+      /* End CSS reset */
+
+      body {
+        padding: 10px;
+      }
+
+      header {
+        display:flex;
+        justify-content: space-between;
+      }
+
+      .url-input {
+        width: 100%;
+        margin: 10px auto;
+      }
+      .url-load-more {
+        display: none;
+        margin: 0 auto;
+      }
+      .url-display {
+        display: none;
+      }
+      .url-display li {
+        width:100%;
+        text-wrap: wrap;
+      }
+      .url-display li img {
+        display: block;
+        border: 1px solid black;
+      }
+    </style>
+    <script>
+      var urls = [];
+      var urlIndex = 0;
+      const maxShow = 10;
+
+      const getDelimiter = (input) => {
+        if (input === "comma") {
+          return ",";
+        }
+        if (input === "semicolon") {
+          return ":";
+        }
+        if (input === "space") {
+          return " ";
+        }
+        return "\n";
+      };
+
+      const createListItem = (parent, url) => {
+        const trimmedUrl = url.trim();
+
+        if (!trimmedUrl) {
+          return;
+        }
+
+        const li = document.createElement("li");
+        li.appendChild(document.createTextNode(trimmedUrl));
+
+        let img = new Image();
+        img.src = trimmedUrl;
+        li.appendChild(img);
+
+        parent.appendChild(li);
+      };
+
+      document.addEventListener("DOMContentLoaded", function () {
+        const urlInputSelector = ".url-input";
+        const urlDisplaySelector = ".url-display";
+        const urlLoadSelector = ".url-load-more";
+        const delimiterSelector = ".delimiter__select";
+
+        const urlInput = document.querySelector(urlInputSelector);
+        const urlDisplay = document.querySelector(urlDisplaySelector);
+        const loadMoreButton = document.querySelector(urlLoadSelector);
+        const delimiterSelect = document.querySelector(delimiterSelector);
+
+        loadMoreButton.addEventListener("input", () => {
+          const max = Math.min(urlIndex + maxShow, urls.length);
+          for (; urlIndex < max; urlIndex++) {
+            createListItem(urlDisplay, urls[urlIndex]);
+          }
+          loadMoreButton.style.display =
+            urlIndex < urls.length ? "block" : "none";
+        });
+
+        urlInput.addEventListener("input", () => {
+          const value = urlInput.value;
+          if (value) {
+            const delimiter = getDelimiter(delimiterSelect.value);
+            urls = value.split(delimiter);
+
+            urlDisplay.innerHTML = "";
+            urlIndex = 0;
+
+            const max = Math.min(maxShow, urls.length);
+            for (urlIndex = 0; urlIndex < max; urlIndex++) {
+              createListItem(urlDisplay, urls[urlIndex]);
+            }
+
+            urlDisplay.style.display = "block";
+            loadMoreButton.style.display =
+              urlIndex < urls.length ? "block" : "none";
+          } else {
+            urlDisplay.style.display = "none";
+            loadMoreButton.style.display = "none";
+          }
+        });
+      });
+    </script>
+  </head>
+
+  <body>
+    <header>
+      <h1 class="delimiter__select">Image Url Viewer</h1>
+      <div>
+        <label for="delimiter">Delimiter</label>
+        <select name="delimiter">
+          <option>newline</option>
+          <option>comma</option>
+          <option>semicolon</option>
+          <option>space</option>
+        </select>
+      </span>
+    </header>
+    <div>
+      <div>
+        <textarea class="url-input"></textarea>
+      </div>
+      <ul class="url-display"></ul>
+      <div class="url-load-more__wrapper">
+        <button class="url-load-more">Load more</button>
+      </div>
+    </div>
+    <footer></footer>
+  </body>
+</html>

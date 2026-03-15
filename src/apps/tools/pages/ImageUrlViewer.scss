@@ -1,0 +1,43 @@
+.image-url-viewer {
+  padding: 10px;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+}
+
+.url-input {
+  width: 100%;
+  margin: 10px auto;
+  display: block;
+}
+
+.url-display {
+  display: block;
+  list-style: none;
+  padding: 0;
+}
+
+.url-display li {
+  width: 100%;
+  text-wrap: wrap;
+  margin-bottom: 10px;
+}
+
+.url-display li img {
+  display: block;
+  border: 1px solid black;
+  max-width: 100%;
+  height: auto;
+}
+
+.url-load-more__wrapper {
+  text-align: center;
+  margin: 10px 0;
+}
+
+.url-load-more {
+  display: block;
+  margin: 0 auto;
+}

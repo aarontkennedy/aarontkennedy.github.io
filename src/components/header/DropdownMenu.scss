@@ -1,1 +1,52 @@
 @import "../../styles/variables";
+
+.dropdown {
+  position: relative;
+  display: inline-block;
+
+  &-toggle {
+    background: none;
+    border: none;
+    font-weight: bold;
+    font-size: 1em;
+    color: black;
+    cursor: pointer;
+    text-decoration: none;
+    margin-left: 5px;
+    margin-right: 5px;
+
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+
+  &-menu {
+    position: absolute;
+    top: 100%;
+    right: 0;
+    background-color: white;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    z-index: 1000;
+    min-width: 200px;
+
+    &__items {
+      padding: 0;
+      margin: 0;
+      list-style: none;
+    }
+  }
+
+  &-item {
+    display: block;
+    padding: 10px 15px;
+    text-decoration: none;
+    color: black;
+    font-size: 0.9em;
+
+    &:hover {
+      background-color: #f8f9fa;
+    }
+  }
+}

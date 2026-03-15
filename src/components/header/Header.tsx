@@ -1,6 +1,12 @@
 import "./Header.scss";
+import DropdownMenu from "./DropdownMenu";
 
 const Header = () => {
+  const menuItems = [
+    { label: "Lat Long Recorder", to: "/latlongrecorder" },
+    { label: "Image URL Viewer", to: "/imageurlviewer" },
+  ];
+
   return (
     <div className="header__container">
       <nav className="header__nav">
@@ -10,6 +16,7 @@ const Header = () => {
         <div className="header__nav-right">
           <a href="/#paddling">Paddling</a>
           <a href="/#running">Running</a>
+          <DropdownMenu title="+" items={menuItems} />
         </div>
       </nav>
     </div>

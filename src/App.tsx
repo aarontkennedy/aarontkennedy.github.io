@@ -1,5 +1,6 @@
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import LatLongRecorder from "./apps/tools/pages/LatLongRecorder";
+import ImageUrlViewer from "./apps/tools/pages/ImageUrlViewer";
 import SinglePage from "./pages/SinglePage";
 
 function App() {
@@ -11,6 +12,7 @@ function App() {
         <Route path="/running" element={<SinglePage />} />
         {/* <Route path="/about" element={<SinglePage />} /> */}
         <Route path="/latlongrecorder" element={<LatLongRecorder />} />
+        <Route path="/imageurlviewer" element={<ImageUrlViewer />} />
       </Routes>
     </Router>
   );
