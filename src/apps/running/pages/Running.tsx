@@ -266,7 +266,7 @@ const Running = () => {
   ];
 
   return (
-    <>
+    <div className="running">
       <Carousel
         namespace="running-photos"
         contents={shuffleArray(medalPhotoArray)
@@ -347,7 +347,7 @@ const Running = () => {
             <img key={photo} src={photo} />
           ))}
       />
-    </>
+    </div>
   );
 };
 

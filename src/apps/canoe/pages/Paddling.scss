@@ -5,7 +5,7 @@ body {
 
 .paddling__map {
   width: 100%;
-  margin-bottom: 100px;
+  margin-bottom: 75px;
   // .leaflet-control-container .leaflet-top.leaflet-left {
   //   top: $menuHeight;
   // }
@@ -26,7 +26,7 @@ body {
 }
 
 .paddling-hero {
-  margin-top: 100px;
+  margin-top: 75px;
   position: relative;
 
   &__background-video {
@@ -71,7 +71,7 @@ body {
       /* Fully transparent black at the top */ rgba(0, 0, 0, 0.1) 30%,
       /* Fades to 80% opaque black by 20% down */ rgba(0, 0, 0, 0.4) 50%,
       /* Becomes fully opaque black at the midpoint (darkest point) */
-        rgba(0, 0, 0, 0.1) 70%,
+      rgba(0, 0, 0, 0.1) 70%,
       /* Fades back to 80% opaque black by 80% down */ rgba(0, 0, 0, 0)
         /* Fully transparent black at the bottom */
     );

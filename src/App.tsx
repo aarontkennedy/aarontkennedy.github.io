@@ -9,7 +9,7 @@ function App() {
         <Route path="/" element={<SinglePage />} />
         <Route path="/paddling" element={<SinglePage />} />
         <Route path="/running" element={<SinglePage />} />
-        <Route path="/about" element={<SinglePage />} />
+        {/* <Route path="/about" element={<SinglePage />} /> */}
         <Route path="/latlongrecorder" element={<LatLongRecorder />} />
       </Routes>
     </Router>

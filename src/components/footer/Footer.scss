@@ -7,9 +7,10 @@
     background-color: white;
     height: $footerHeight;
     text-align: center;
+    margin: 25px auto;
 
     a {
-      color: black;
+      color: #666666;
       text-decoration: none;
       &:hover {
         text-decoration: underline;
