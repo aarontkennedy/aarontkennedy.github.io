@@ -1,0 +1,27 @@
+@import "../../../../styles/variables";
+body {
+  font-family: Arial;
+}
+
+.parks {
+  &__title {
+    font-weight: bold;
+    margin: 10px 0 10px 5px;
+  }
+  &__legend {
+    z-index: 1000;
+    position: absolute;
+    top: 130px;
+    left: 15px;
+  }
+  &__legend-label {
+    display: flex;
+    align-items: center;
+    font-size: 12px;
+    margin-bottom: 5px;
+    input {
+      display: inline-block;
+      margin-right: 5px;
+    }
+  }
+}

@@ -32,7 +32,7 @@ const LatLongRecorder = () => {
   const mapRef = useRef<Map>(null);
   const centerOfMinnesota: LatLngExpression = [46.7296, -94.6859];
   const [latLongList, setLatLongList] = useState<LatLngExpression[] | false>(
-    false
+    false,
   );
 
   const push = (ll: LatLngExpression) => {
@@ -150,6 +150,16 @@ const LatLongRecorder = () => {
                   </li>
                 );
               })}
+            {!latLongList && (
+              <div>
+                <p>Instructions:</p>
+                <p>
+                  First, search for a location on the map. Then click "START".
+                  Drag the marker to record lat/long coordinates. You can use
+                  "COPY" to copy the recorded coordinates to your clipboard.
+                </p>
+              </div>
+            )}
           </ol>
           <div className="latLongRecorder__back-link">
             LatLongRecorder by <Link to="/">Aaron</Link>

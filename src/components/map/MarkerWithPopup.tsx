@@ -11,11 +11,18 @@ const MarkerWithPopup = ({
   position: LatLngExpression;
   popUpContents?: JSX.Element | string;
   toolTipContents?: JSX.Element | string;
-  icon: DivIcon | Icon;
+  icon?: DivIcon | Icon;
 }) => {
   const markerRef = useRef(null);
+
+  const childProps: any = { ref: markerRef, position: position };
+
+  if (icon !== undefined) {
+    childProps.icon = icon;
+  }
+
   return (
-    <Marker ref={markerRef} position={position} icon={icon}>
+    <Marker {...childProps}>
       {popUpContents && <Popup>{popUpContents}</Popup>}
       {toolTipContents && <Tooltip>{toolTipContents}</Tooltip>}
     </Marker>

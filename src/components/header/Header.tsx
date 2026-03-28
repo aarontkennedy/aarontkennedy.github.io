@@ -5,6 +5,7 @@ const Header = () => {
   const menuItems = [
     { label: "Lat Long Recorder", to: "/latlongrecorder" },
     { label: "Image URL Viewer", to: "/imageurlviewer" },
+    { label: "Road Trip Planner", to: "/parks" },
   ];
 
   return (

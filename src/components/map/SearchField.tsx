@@ -36,7 +36,7 @@ const SearchField = ({
       // The marker class extends the layer class,
       // so you can search for it among the layers
       map.eachLayer((item) => {
-        if (item instanceof Marker) {
+        if (item instanceof Marker && setDragEnd) {
           // Once you found it, set the properties
           item.options.draggable = true;
           item.options.autoPan = true;
@@ -48,9 +48,7 @@ const SearchField = ({
             const marker = item;
             if (marker != null) {
               const ll = marker.getLatLng();
-              if (setDragEnd) {
-                setDragEnd(ll);
-              }
+              setDragEnd(ll);
             }
           });
         }
