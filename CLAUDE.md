@@ -60,7 +60,6 @@ All three datasets share the same shape (matches the `Park` interface in `Parks.
 - `nationalParks.json` — NPS units (national parks, monuments, seashores, battlefields, etc.)
 - `stateParks.json` — state parks, state forests, wildlife areas, recreation areas
 - `roadsideAttractions.json` — roadside curiosities (Wall Drug, Corn Palace, etc.), IDs prefixed `so****`
-- Several legacy/intermediate files (`parks2018.json`, `roadsideAttractionsOld.json`, `merged_roadside_attractions.json`, `roadside_attractions_usa.json`) — not imported by the app
 
 ### Paddling (`src/apps/canoe/data/paddleData.json`)
 
