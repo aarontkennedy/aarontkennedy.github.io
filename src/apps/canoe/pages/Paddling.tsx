@@ -92,7 +92,7 @@ const convertPaddleDataToHtml = (p: Paddle): JSX.Element => {
 
 const centerOfMinnesota: LatLngExpression = [46.7296, -94.6859];
 
-const convertYoutubeUrlToThumbnailUrl = (youtubeURL: string): string => {
+export const convertYoutubeUrlToThumbnailUrl = (youtubeURL: string): string => {
   if (youtubeURL.includes("watch?v=")) {
     const videoId = youtubeURL.split("watch?v=")[1].split("&")[0];
     return `https://img.youtube.com/vi/${videoId}/mqdefault.jpg`;

@@ -27,20 +27,100 @@ export interface Park {
   remarks: string | null;
 }
 
+const getMarkerHtmlStyles = (color: string): string => `
+  background-color: ${color};
+  width: 3rem;
+  height: 3rem;
+  display: block;
+  left: -1.5rem;
+  top: -1.5rem;
+  position: relative;
+  border-radius: 3rem 3rem 0;
+  transform: rotate(45deg);
+  border: 1px solid #FFFFFF`;
+
+const centerOfUsa: LatLngExpression = [39.8283, -98.5795];
+
+const createParkMarkers = (parksData: Park[]) => {
+  if (!Array.isArray(parksData)) {
+    console.error("Invalid parks data format:", parksData);
+    return [];
+  }
+
+  return parksData
+    .filter((park) => validateParkData(park))
+    .map((park: Park, index: number) => {
+      const id = park.name + index;
+      const contents = convertParkDataToHtml(park);
+      if (!park.longitudeLatitude || park.longitudeLatitude.length !== 2) {
+        console.warn("Invalid coordinates for park:", park.name);
+        return null;
+      }
+
+      return (
+        <MarkerWithPopup
+          key={id}
+          position={[park.longitudeLatitude[1], park.longitudeLatitude[0]]}
+          popUpContents={contents}
+          icon={L.divIcon({
+            className: "my-custom-pin",
+            iconAnchor: [0, 24],
+            popupAnchor: [0, -36],
+            html: `<span style="${getMarkerHtmlStyles(convertToColor(park)).replace(/"/g, '"')}" />`,
+          })}
+        ></MarkerWithPopup>
+      );
+    })
+    .filter((marker) => marker !== null) as JSX.Element[];
+};
+
+export const validateParkData = (park: any): park is Park => {
+  if (!park || typeof park !== "object") return false;
+  if (typeof park.name !== "string" || park.name.trim() === "") return false;
+  if (typeof park.location !== "string" || park.location.trim() === "")
+    return false;
+  if (typeof park.state !== "string" || park.state.trim() === "") return false;
+  if (typeof park.country !== "string" || park.country.trim() === "")
+    return false;
+  if (park.address && typeof park.address !== "string") return false;
+  if (park.remarks && typeof park.remarks !== "string") return false;
+  if (park.imageURL && typeof park.imageURL !== "string") return false;
+  if (park.longitudeLatitude !== null) {
+    if (
+      !Array.isArray(park.longitudeLatitude) ||
+      park.longitudeLatitude.length !== 2
+    )
+      return false;
+    if (
+      typeof park.longitudeLatitude[0] !== "number" ||
+      typeof park.longitudeLatitude[1] !== "number"
+    )
+      return false;
+  }
+  return true;
+};
+
 const convertParkDataToHtml = (park: Park): JSX.Element => {
+  const name = park.name || "Unknown";
+  const location = park.location || "Unknown location";
+  const state = park.state || "Unknown state";
+  const address = park.address || "Address not available";
+  const remarks = park.remarks || "No remarks available";
+
   return (
     <div>
-      <div>{park.name}</div>
+      <div>{name}</div>
       <div>
-        {park.location}, {park.state}
+        {location}, {state}
       </div>
-      <div>{park.address}</div>
-      <div>{park.remarks}</div>
+      <div>{address}</div>
+      <div>{remarks}</div>
     </div>
   );
 };
 
-const convertToColor = (park: Park): string => {
+export const convertToColor = (park: Park): string => {
+  if (!park.name) return "red";
   const name = park.name.toLocaleLowerCase();
   if (name.includes("national park")) {
     return "#005000";
@@ -80,45 +160,6 @@ const convertToColor = (park: Park): string => {
     return "#0000D0";
   }
   return "red";
-};
-
-const getMarkerHtmlStyles = (color: string): string => `
-  background-color: ${color};
-  width: 3rem;
-  height: 3rem;
-  display: block;
-  left: -1.5rem;
-  top: -1.5rem;
-  position: relative;
-  border-radius: 3rem 3rem 0;
-  transform: rotate(45deg);
-  border: 1px solid #FFFFFF`;
-
-const centerOfUsa: LatLngExpression = [39.8283, -98.5795];
-
-const createParkMarkers = (parksData: Park[]) => {
-  return parksData.map((park: Park, index: number) => {
-    const id = park.name + index;
-    const contents = convertParkDataToHtml(park);
-    if (!park.longitudeLatitude || park.longitudeLatitude.length !== 2) {
-      // console.log(park);
-      return null;
-    }
-
-    return (
-      <MarkerWithPopup
-        key={id}
-        position={[park.longitudeLatitude[1], park.longitudeLatitude[0]]}
-        popUpContents={contents}
-        icon={L.divIcon({
-          className: "my-custom-pin",
-          iconAnchor: [0, 24],
-          popupAnchor: [0, -36],
-          html: `<span style="${getMarkerHtmlStyles(convertToColor(park))}" />`,
-        })}
-      ></MarkerWithPopup>
-    );
-  });
 };
 
 const Parks = () => {

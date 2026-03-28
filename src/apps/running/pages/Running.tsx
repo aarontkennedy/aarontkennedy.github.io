@@ -85,7 +85,7 @@ const medalPhotoArray = [
   zumbroBucklePhoto,
 ];
 
-const formatIfTime = (time: string): string => {
+export const formatIfTime = (time: string): string => {
   return time.includes(":") ? formatTime(time) : time;
 };
 
@@ -113,7 +113,8 @@ const convertRunDataToHtml = (r: Run): JSX.Element => {
   );
 };
 
-const convertRunToColor = (run: Run): string => {
+export const convertRunToColor = (run: Run): string => {
+  if (!run.results || run.results.length === 0) return "#000000";
   const longestDistance = run.results.reduce((max, current) =>
     current.distanceMiles > max.distanceMiles ? current : max,
   );
