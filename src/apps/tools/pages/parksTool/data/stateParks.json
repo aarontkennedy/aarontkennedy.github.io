@@ -141,7 +141,7 @@
     "location": "St. Johns",
     "state": "Florida",
     "imageURL": null,
-    "remarks": "National Historic Landmark originally known as Gracia Real de Santa Teresa de Mos\u00e9",
+    "remarks": "National Historic Landmark originally known as Gracia Real de Santa Teresa de Mosé",
     "__v": 0,
     "longitudeLatitude": [
       -81.325135,
@@ -693,7 +693,7 @@
     "location": "Washington Parish",
     "state": "Louisiana",
     "imageURL": null,
-    "remarks": "Bogue Chitto State Park, pronounced bo\u2013guh chit\u2013uh,",
+    "remarks": "Bogue Chitto State Park, pronounced bo–guh chit–uh,",
     "__v": 0,
     "longitudeLatitude": [
       -90.1446095,
@@ -11849,7 +11849,7 @@
   {
     "country": "USA",
     "_id": "5b53cd880226b800147f3c4b",
-    "name": "Taconic State Park \u2013 Copake Falls area",
+    "name": "Taconic State Park – Copake Falls area",
     "location": "Columbia",
     "state": "New York",
     "imageURL": null,
@@ -11864,7 +11864,7 @@
   {
     "country": "USA",
     "_id": "5b53cd880226b800147f3c4c",
-    "name": "Taconic State Park \u2013 Rudd Pond area",
+    "name": "Taconic State Park – Rudd Pond area",
     "location": "Dutchess",
     "state": "New York",
     "imageURL": null,
@@ -13215,7 +13215,7 @@
     "country": "USA",
     "_id": "5b53cd890226b800147f3cdb",
     "name": "Beech Fork",
-    "location": "Cabell and Wayne38\u00b018\u203205\u2033N 82\u00b019\u203250\u2033W  /  38.30139\u00b0N 82.33056\u00b0W  / 38.30139; -82.33056  (Beech Fork State Park)",
+    "location": "Cabell and Wayne",
     "state": "West Virginia",
     "imageURL": null,
     "remarks": "Includes the 720-acre (290 ha) Beech Fork Lake, a reservoir created by a U.S. Army Corps of Engineers (USACE) dam.",
@@ -13230,7 +13230,7 @@
     "country": "USA",
     "_id": "5b53cd890226b800147f3cdf",
     "name": "Bluestone",
-    "location": "Summers 37\u00b037\u203205\u2033N 80\u00b056\u203209\u2033W  /  37.61806\u00b0N 80.93583\u00b0W  / 37.61806; -80.93583  (Bluestone State Park)",
+    "location": "Summers",
     "state": "West Virginia",
     "imageURL": null,
     "remarks": "Named for the bluish-gray shale between sandstone deposits. Adjoins Bluestone Lake, the state's second largest body of water, which was formed as a result of Bluestone Dam, completed by the USACE in 1948.",
@@ -13245,7 +13245,7 @@
     "country": "USA",
     "_id": "5b53cd890226b800147f3ce1",
     "name": "Camp Creek",
-    "location": "Mercer 37\u00b030\u203229\u2033N 81\u00b007\u203258\u2033W  /  37.50806\u00b0N 81.13278\u00b0W  / 37.50806; -81.13278  (Camp Creek State Park)",
+    "location": "Mercer",
     "state": "West Virginia",
     "imageURL": null,
     "remarks": "Formed from Camp Creek State Forest in 1987, when a tract of 500 acres (202 ha) was set aside to create this recreation area. It is administered with Camp Creek State Forest.",
@@ -13260,7 +13260,7 @@
     "country": "USA",
     "_id": "5b53cd890226b800147f3cea",
     "name": "Greenbrier RiverTrail",
-    "location": "Greenbrier and Pocahontas 37\u00b059\u203242\u2033N 80\u00b017\u203255\u2033W  /  37.99500\u00b0N 80.29861\u00b0W  / 37.99500; -80.29861  (Greenbrier River Trail)",
+    "location": "Greenbrier and Pocahontas",
     "state": "West Virginia",
     "imageURL": null,
     "remarks": "The trail is a 78-mile (126 km) section of a former Chesapeake and Ohio Railway line between North Caldwell and Cass.",
@@ -13275,7 +13275,7 @@
     "country": "USA",
     "_id": "5b53cd890226b800147f3cf6",
     "name": "Tomlinson Run",
-    "location": "Hancock 40\u00b032\u203249\u2033N 80\u00b035\u203232\u2033W  /  40.54694\u00b0N 80.59222\u00b0W  / 40.54694; -80.59222  (Tomlinson Run State Park)",
+    "location": "Hancock",
     "state": "West Virginia",
     "imageURL": null,
     "remarks": "Developed by the West Virginia Conservation Commission with support from the NPS, the park features the 30-acre (12 ha) Tomlinson Run Lake, completed by the WPA in 1942.",
@@ -13290,7 +13290,7 @@
     "country": "USA",
     "_id": "5b53cd890226b800147f3cfa",
     "name": "Valley Falls",
-    "location": "Marion and Taylor39\u00b023\u203225\u2033N 80\u00b005\u203214\u2033W  /  39.39028\u00b0N 80.08722\u00b0W  / 39.39028; -80.08722  (Valley Falls State Park)",
+    "location": "Marion and Taylor",
     "state": "West Virginia",
     "imageURL": null,
     "remarks": "Named for two fast-moving waterfalls of 12 feet (4 m) and 18 feet (5 m) in height on the Tygart Valley River. During the 19th century, a milling and industrial town flourished at this site.",
@@ -13518,7 +13518,7 @@
     "location": "Orange",
     "state": "Florida",
     "imageURL": null,
-    "remarks": "42 million gallons (159 million liters) of 72 \u00b0F (22 \u00b0C) water outflow daily",
+    "remarks": "42 million gallons (159 million liters) of 72 °F (22 °C) water outflow daily",
     "__v": 0,
     "longitudeLatitude": [
       -81.4628177,
@@ -13773,7 +13773,7 @@
     "location": "Marion",
     "state": "Florida",
     "imageURL": null,
-    "remarks": "600 million gallons (2.3 billion liters) of 68 \u00b0F (20 \u00b0C) water outflow daily",
+    "remarks": "600 million gallons (2.3 billion liters) of 68 °F (20 °C) water outflow daily",
     "__v": 0,
     "longitudeLatitude": [
       -82.4219823,
@@ -13788,7 +13788,7 @@
     "location": "Holmes",
     "state": "Florida",
     "imageURL": null,
-    "remarks": "14 million gallons (53 million liters) of 68 \u00b0F (20 \u00b0C) water outflow daily",
+    "remarks": "14 million gallons (53 million liters) of 68 °F (20 °C) water outflow daily",
     "__v": 0,
     "longitudeLatitude": [
       -85.9310567,
@@ -14073,7 +14073,7 @@
     "location": "Leon",
     "state": "Florida",
     "imageURL": null,
-    "remarks": "Fort Walton Culture capital from 1050\u20131500",
+    "remarks": "Fort Walton Culture capital from 1050–1500",
     "__v": 0,
     "longitudeLatitude": [
       -84.31684969999999,
@@ -14397,7 +14397,7 @@
       -157.8249362,
       21.3125434
     ],
-    "address": "Pu\u02bbu \u02bbUalaka\u02bba State Wayside, 2760 Round Top Dr, Honolulu, HI 96822, USA"
+    "address": "Puʻu ʻUalakaʻa State Wayside, 2760 Round Top Dr, Honolulu, HI 96822, USA"
   },
   {
     "country": "USA",
@@ -14414,14 +14414,14 @@
   {
     "country": "USA",
     "_id": "5b53cd7b0226b800147f316a",
-    "name": "Nu\u02bbuanu Pali State Wayside",
+    "name": "Nuʻuanu Pali State Wayside",
     "state": "Hawaii",
     "__v": 0,
     "longitudeLatitude": [
       -157.793125,
       21.3667773
     ],
-    "address": "Nu\u02bbuanu Pali State Wayside, Pali Hwy, Honolulu, HI 96817, USA"
+    "address": "Nuʻuanu Pali State Wayside, Pali Hwy, Honolulu, HI 96817, USA"
   },
   {
     "country": "USA",
@@ -14433,19 +14433,19 @@
       -157.9300068,
       21.6595459
     ],
-    "address": "M\u0101laekahana State Recreation Area, 56-020 Kamehameha Hwy, Laie, HI 96762, USA"
+    "address": "Mālaekahana State Recreation Area, 56-020 Kamehameha Hwy, Laie, HI 96762, USA"
   },
   {
     "country": "USA",
     "_id": "5b53cd7b0226b800147f3168",
-    "name": "Makapu\u2018u Point State Wayside",
+    "name": "Makapu‘u Point State Wayside",
     "state": "Hawaii",
     "__v": 0,
     "longitudeLatitude": [
       -157.6504453,
       21.308778
     ],
-    "address": "Makapu\u2018u Point Lighthouse Trail, Waimanalo, HI 96795, USA"
+    "address": "Makapu‘u Point Lighthouse Trail, Waimanalo, HI 96795, USA"
   },
   {
     "country": "USA",
@@ -14457,7 +14457,7 @@
       -157.9144369,
       21.6484801
     ],
-    "address": "L\u0101\u02bbie Point State Wayside, Off Kamehameha Highway (Hwy 83), Laie, HI 96762, USA"
+    "address": "Lāʻie Point State Wayside, Off Kamehameha Highway (Hwy 83), Laie, HI 96762, USA"
   },
   {
     "country": "USA",
@@ -14469,7 +14469,7 @@
       -157.895971,
       21.3986139
     ],
-    "address": "Kea\u012bwa Heiau State Recreation Area, 99-1849 Aiea Heights Dr, Aiea, HI 96701, USA"
+    "address": "Keaīwa Heiau State Recreation Area, 99-1849 Aiea Heights Dr, Aiea, HI 96701, USA"
   },
   {
     "country": "USA",
@@ -14481,7 +14481,7 @@
       -157.8642225,
       21.2937729
     ],
-    "address": "Kaka\u02bbako Waterfront Park, 102 Ohe St, Honolulu, HI 96813, USA"
+    "address": "Kakaʻako Waterfront Park, 102 Ohe St, Honolulu, HI 96813, USA"
   },
   {
     "country": "USA",
@@ -14493,12 +14493,12 @@
       -157.6554703,
       21.305679
     ],
-    "address": "Kaiwi State Scenic Shoreline, 8751-9057 Kalaniana\u02bbole Hwy, Honolulu, HI 96825, USA"
+    "address": "Kaiwi State Scenic Shoreline, 8751-9057 Kalanianaʻole Hwy, Honolulu, HI 96825, USA"
   },
   {
     "country": "USA",
     "_id": "5b53cd7b0226b800147f3162",
-    "name": "Ka\u02bbena Point State Park",
+    "name": "Kaʻena Point State Park",
     "state": "Hawaii",
     "__v": 0,
     "longitudeLatitude": [
@@ -14510,7 +14510,7 @@
   {
     "country": "USA",
     "_id": "5b53cd7b0226b800147f3161",
-    "name": "\u02bbIolani Palace State Monument",
+    "name": "ʻIolani Palace State Monument",
     "state": "Hawaii",
     "__v": 0,
     "longitudeLatitude": [
@@ -14522,14 +14522,14 @@
   {
     "country": "USA",
     "_id": "5b53cd7b0226b800147f3160",
-    "name": "He\u2018eia State Park",
+    "name": "He‘eia State Park",
     "state": "Hawaii",
     "__v": 0,
     "longitudeLatitude": [
       -157.8099396,
       21.4407696
     ],
-    "address": "He\u02bbeia State Park, 46-465 Kamehameha Hwy, Kaneohe, HI 96744, USA"
+    "address": "Heʻeia State Park, 46-465 Kamehameha Hwy, Kaneohe, HI 96744, USA"
   },
   {
     "country": "USA",
@@ -14565,7 +14565,7 @@
       -157.9356809,
       21.3774515
     ],
-    "address": "\u02bbAiea Bay State Recreation Area, Kamehameha Hwy, Aiea, HI 96701, USA"
+    "address": "ʻAiea Bay State Recreation Area, Kamehameha Hwy, Aiea, HI 96701, USA"
   },
   {
     "country": "USA",
@@ -14577,7 +14577,7 @@
       -157.0084814,
       21.1725485
     ],
-    "address": "P\u0101l\u0101\u02bbau State Park, Highway 47, Ho'olehua, HI 96729, USA"
+    "address": "Pālāʻau State Park, Highway 47, Ho'olehua, HI 96729, USA"
   },
   {
     "country": "USA",
@@ -14625,7 +14625,7 @@
       -156.4472865,
       20.636188
     ],
-    "address": "M\u0101kena State Park, Makena Alanui, Kihei, HI 96753, USA"
+    "address": "Mākena State Park, Makena Alanui, Kihei, HI 96753, USA"
   },
   {
     "country": "USA",
@@ -14642,7 +14642,7 @@
   {
     "country": "USA",
     "_id": "5b53cd7b0226b800147f3154",
-    "name": "\u02bb\u012aao Valley State Monument",
+    "name": "ʻĪao Valley State Monument",
     "state": "Hawaii",
     "__v": 0,
     "longitudeLatitude": [
@@ -14709,7 +14709,7 @@
       -159.639393,
       22.1395756
     ],
-    "address": "K\u014dke\u02bbe State Park, Hanapepe, HI 96716, USA"
+    "address": "Kōkeʻe State Park, Hanapepe, HI 96716, USA"
   },
   {
     "country": "USA",
@@ -14721,7 +14721,7 @@
       -159.5804942,
       22.2208387
     ],
-    "address": "H\u0101\u02bbena State Park, Kapaa, HI 96746, USA"
+    "address": "Hāʻena State Park, Kapaa, HI 96746, USA"
   },
   {
     "country": "USA",
@@ -14781,7 +14781,7 @@
       -155.8191927,
       19.1048594
     ],
-    "address": "Manuk\u0101 State Wayside, Ocean View, HI 96737, USA"
+    "address": "Manukā State Wayside, Ocean View, HI 96737, USA"
   },
   {
     "country": "USA",
@@ -14793,7 +14793,7 @@
       -154.8651908,
       19.4372951
     ],
-    "address": "MacKenzie State Recreation Area, HI-137, P\u0101hoa, HI 96778, USA"
+    "address": "MacKenzie State Recreation Area, HI-137, Pāhoa, HI 96778, USA"
   },
   {
     "country": "USA",
@@ -14805,7 +14805,7 @@
       -154.9026774,
       19.4827815
     ],
-    "address": "Lava Tree State Monument, HI-132, P\u0101hoa, HI 96778, USA"
+    "address": "Lava Tree State Monument, HI-132, Pāhoa, HI 96778, USA"
   },
   {
     "country": "USA",
@@ -14841,7 +14841,7 @@
       -155.4384258,
       20.0375072
     ],
-    "address": "Kal\u014dp\u0101 State Recreation Area, 44-3480 Kalaniai Rd, Honokaa, HI 96727, USA"
+    "address": "Kalōpā State Recreation Area, 44-3480 Kalaniai Rd, Honokaa, HI 96727, USA"
   },
   {
     "country": "USA",
@@ -14853,7 +14853,7 @@
       -155.8250247,
       19.9913871
     ],
-    "address": "H\u0101puna Beach State Park, Old Puako Rd, Waimea, HI 96743, USA"
+    "address": "Hāpuna Beach State Park, Old Puako Rd, Waimea, HI 96743, USA"
   },
   {
     "country": "USA",
@@ -14865,7 +14865,7 @@
       -155.1521859,
       19.8539
     ],
-    "address": "\u02bbAkaka Falls State Park, Akaka Falls Rd, Honomu, HI 96728, USA"
+    "address": "ʻAkaka Falls State Park, Akaka Falls Rd, Honomu, HI 96728, USA"
   },
   {
     "country": "USA",
@@ -15438,7 +15438,7 @@
     "location": "Yavapai",
     "state": "Arizona",
     "imageURL": null,
-    "remarks": "1,316\u20131,664",
+    "remarks": "1,316–1,664",
     "__v": 0,
     "longitudeLatitude": [
       -112.7746441,
@@ -15834,7 +15834,7 @@
       -93.683578,
       33.10197300000001
     ],
-    "address": "33\u00b006'07.1\"N 93\u00b041'00.9\"W, Bradley, AR 71826, United States"
+    "address": "33°06'07.1\"N 93°41'00.9\"W, Bradley, AR 71826, United States"
   },
   {
     "country": "USA",
@@ -15989,7 +15989,7 @@
   {
     "country": "USA",
     "_id": "5b53cd7a0226b800147f304c",
-    "name": "Hobbs State Park \u2013 Conservation Area",
+    "name": "Hobbs State Park – Conservation Area",
     "location": "Benton, Carroll and Madison counties",
     "state": "Arkansas",
     "imageURL": null,
@@ -19550,14 +19550,14 @@
   {
     "country": "USA",
     "_id": "5b53cd7b0226b800147f314d",
-    "name": "N\u0101 Pali Coast State Wilderness Park",
+    "name": "Nā Pali Coast State Wilderness Park",
     "state": "Hawaii",
     "__v": 0,
     "longitudeLatitude": [
       -159.639244,
       22.1667456
     ],
-    "address": "N\u0101pali Coast State Wilderness Park, Kapaa, HI 96746, USA"
+    "address": "Nāpali Coast State Wilderness Park, Kapaa, HI 96746, USA"
   },
   {
     "country": "USA",
@@ -19605,12 +19605,12 @@
       -157.8763274,
       21.5559903
     ],
-    "address": "Ahupua\u02bba \u02bbO Kahana State Park, 52-222 Kamehameha Hwy, Kaaawa, HI 96730, USA"
+    "address": "Ahupuaʻa ʻO Kahana State Park, 52-222 Kamehameha Hwy, Kaaawa, HI 96730, USA"
   },
   {
     "country": "USA",
     "_id": "5b53cd7b0226b800147f3166",
-    "name": "K\u016bkaniloko Birthstones State Monument",
+    "name": "Kūkaniloko Birthstones State Monument",
     "state": "Hawaii",
     "__v": 0,
     "longitudeLatitude": [
@@ -19629,7 +19629,7 @@
       -157.7998669,
       21.3050546
     ],
-    "address": "Wa\u02bbahila Ridge State Recreation Area, 3081B Paty Dr, Honolulu, HI 96822, USA"
+    "address": "Waʻahila Ridge State Recreation Area, 3081B Paty Dr, Honolulu, HI 96822, USA"
   },
   {
     "country": "USA",
@@ -19641,7 +19641,7 @@
       -158.0253599,
       21.4921423
     ],
-    "address": "Wahiaw\u0101 Freshwater State Recreation Area, 380 Walker Ave, Wahiawa, HI 96786, USA"
+    "address": "Wahiawā Freshwater State Recreation Area, 380 Walker Ave, Wahiawa, HI 96786, USA"
   },
   {
     "country": "USA",
@@ -23922,7 +23922,7 @@
     "location": "Evangeline Parish",
     "state": "Louisiana",
     "imageURL": null,
-    "remarks": "Chicot State Park contains the Louisiana State Arboretum, which has a mature beech\u2013magnolia forest.",
+    "remarks": "Chicot State Park contains the Louisiana State Arboretum, which has a mature beech–magnolia forest.",
     "__v": 0,
     "longitudeLatitude": [
       -92.2783898,
@@ -25082,7 +25082,7 @@
   {
     "country": "USA",
     "_id": "5b53cd7e0226b800147f3309",
-    "name": "Clam Gulch State Recreation Area Crooked Creek State Recreation Site Johnson Lake State Recreation Area Kasilof River State Recreation Site Kenai River Special Management Area Morgan\u2019s Landing State Recreation Area Scout Lake State Recreation Site",
+    "name": "Clam Gulch State Recreation Area Crooked Creek State Recreation Site Johnson Lake State Recreation Area Kasilof River State Recreation Site Kenai River Special Management Area Morgan’s Landing State Recreation Area Scout Lake State Recreation Site",
     "state": "Alaska",
     "__v": 0,
     "longitudeLatitude": [
@@ -25106,7 +25106,7 @@
   {
     "country": "USA",
     "_id": "5b53cd7e0226b800147f330f",
-    "name": "Morgan\u2019s Landing State Recreation Area",
+    "name": "Morgan’s Landing State Recreation Area",
     "state": "Alaska",
     "__v": 0,
     "longitudeLatitude": [
@@ -25599,7 +25599,7 @@
     "country": "USA",
     "_id": "5b53cd800226b800147f35c8",
     "name": "Leasburg Dam State Park",
-    "location": "Do\u00f1a Ana",
+    "location": "Doña Ana",
     "state": "New Mexico",
     "imageURL": null,
     "remarks": "1,300",
@@ -25644,7 +25644,7 @@
     "country": "USA",
     "_id": "5b53cd800226b800147f35cb",
     "name": "Mesilla Valley Bosque State Park",
-    "location": "Do\u00f1a Ana",
+    "location": "Doña Ana",
     "state": "New Mexico",
     "imageURL": null,
     "remarks": "1,200",
@@ -26967,7 +26967,7 @@
     "location": "Volusia",
     "state": "Florida",
     "imageURL": null,
-    "remarks": "\"Old Methuselah\" is a 500-year-old bald cypress; previously a private park with Jungle Cruise; 19 million gallons (72 million liters) of 72 \u00b0F (22 \u00b0C) water daily",
+    "remarks": "\"Old Methuselah\" is a 500-year-old bald cypress; previously a private park with Jungle Cruise; 19 million gallons (72 million liters) of 72 °F (22 °C) water daily",
     "__v": 0,
     "longitudeLatitude": [
       -81.36109499999999,
@@ -27612,7 +27612,7 @@
     "location": "BrevardIndian River",
     "state": "Florida",
     "imageURL": null,
-    "remarks": "The Hern\u00e1ndez\u2013Capron Trail was built to link St. Augustine with Fort Pierce during the Second Seminole War",
+    "remarks": "The Hernández–Capron Trail was built to link St. Augustine with Fort Pierce during the Second Seminole War",
     "__v": 0,
     "longitudeLatitude": [
       -80.606928,
@@ -27774,7 +27774,7 @@
     "country": "USA",
     "_id": "5b53cd820226b800147f3710",
     "name": "Androscoggin Wayside Park",
-    "location": "Co\u00f6s",
+    "location": "Coös",
     "state": "New Hampshire",
     "imageURL": null,
     "remarks": null,
@@ -27819,7 +27819,7 @@
     "country": "USA",
     "_id": "5b53cd820226b800147f3713",
     "name": "Beaver Brook Falls Wayside",
-    "location": "Co\u00f6s",
+    "location": "Coös",
     "state": "New Hampshire",
     "imageURL": null,
     "remarks": null,
@@ -27894,7 +27894,7 @@
     "country": "USA",
     "_id": "5b53cd820226b800147f3718",
     "name": "Coleman State Park",
-    "location": "Co\u00f6s",
+    "location": "Coös",
     "state": "New Hampshire",
     "imageURL": null,
     "remarks": null,
@@ -27939,7 +27939,7 @@
     "country": "USA",
     "_id": "5b53cd820226b800147f371b",
     "name": "Deer Mountain Campground",
-    "location": "Co\u00f6s",
+    "location": "Coös",
     "state": "New Hampshire",
     "imageURL": null,
     "remarks": null,
@@ -27954,7 +27954,7 @@
     "country": "USA",
     "_id": "5b53cd820226b800147f371c",
     "name": "Dixville Notch State Park",
-    "location": "Co\u00f6s",
+    "location": "Coös",
     "state": "New Hampshire",
     "imageURL": null,
     "remarks": null,
@@ -27984,7 +27984,7 @@
     "country": "USA",
     "_id": "5b53cd820226b800147f371e",
     "name": "Eisenhower Memorial Wayside Park",
-    "location": "Co\u00f6s",
+    "location": "Coös",
     "state": "New Hampshire",
     "imageURL": null,
     "remarks": null,
@@ -28029,7 +28029,7 @@
     "country": "USA",
     "_id": "5b53cd820226b800147f3721",
     "name": "Forest Lake State Park",
-    "location": "Co\u00f6s",
+    "location": "Coös",
     "state": "New Hampshire",
     "imageURL": null,
     "remarks": null,
@@ -28194,7 +28194,7 @@
     "country": "USA",
     "_id": "5b53cd820226b800147f372c",
     "name": "Jericho Mountain State Park",
-    "location": "Co\u00f6s",
+    "location": "Coös",
     "state": "New Hampshire",
     "imageURL": null,
     "remarks": null,
@@ -28224,7 +28224,7 @@
     "country": "USA",
     "_id": "5b53cd820226b800147f372e",
     "name": "Lake Francis State Park",
-    "location": "Co\u00f6s",
+    "location": "Coös",
     "state": "New Hampshire",
     "imageURL": null,
     "remarks": null,
@@ -28269,7 +28269,7 @@
     "country": "USA",
     "_id": "5b53cd820226b800147f3731",
     "name": "Milan Hill State Park",
-    "location": "Co\u00f6s",
+    "location": "Coös",
     "state": "New Hampshire",
     "imageURL": null,
     "remarks": null,
@@ -28299,7 +28299,7 @@
     "country": "USA",
     "_id": "5b53cd820226b800147f3733",
     "name": "Mollidgewock State Park",
-    "location": "Co\u00f6s",
+    "location": "Coös",
     "state": "New Hampshire",
     "imageURL": null,
     "remarks": null,
@@ -28329,7 +28329,7 @@
     "country": "USA",
     "_id": "5b53cd820226b800147f3735",
     "name": "Moose Brook State Park",
-    "location": "Co\u00f6s",
+    "location": "Coös",
     "state": "New Hampshire",
     "imageURL": null,
     "remarks": null,
@@ -28359,7 +28359,7 @@
     "country": "USA",
     "_id": "5b53cd820226b800147f3737",
     "name": "Mount Washington State Park",
-    "location": "Co\u00f6s",
+    "location": "Coös",
     "state": "New Hampshire",
     "imageURL": null,
     "remarks": null,
@@ -28374,7 +28374,7 @@
     "country": "USA",
     "_id": "5b53cd820226b800147f3738",
     "name": "Nansen Wayside Park",
-    "location": "Co\u00f6s",
+    "location": "Coös",
     "state": "New Hampshire",
     "imageURL": null,
     "remarks": null,
@@ -28599,7 +28599,7 @@
     "country": "USA",
     "_id": "5b53cd820226b800147f3747",
     "name": "Umbagog Lake State Park",
-    "location": "Co\u00f6s",
+    "location": "Coös",
     "state": "New Hampshire",
     "imageURL": null,
     "remarks": null,
@@ -28644,7 +28644,7 @@
     "country": "USA",
     "_id": "5b53cd820226b800147f374a",
     "name": "Weeks State Park",
-    "location": "Co\u00f6s",
+    "location": "Coös",
     "state": "New Hampshire",
     "imageURL": null,
     "remarks": null,
@@ -28688,7 +28688,7 @@
   {
     "country": "USA",
     "_id": "5b53cd820226b800147f374d",
-    "name": "Wentworth\u2013Coolidge Mansion State Historic Site",
+    "name": "Wentworth–Coolidge Mansion State Historic Site",
     "location": "Rockingham",
     "state": "New Hampshire",
     "imageURL": null,
@@ -28719,7 +28719,7 @@
     "country": "USA",
     "_id": "5b53cd800226b800147f351f",
     "name": "Alewife Brook Reservation",
-    "location": "Middlesex 42\u00b023\u203248\u2033N 71\u00b08\u203238\u2033W  /  42.39667\u00b0N 71.14389\u00b0W  / 42.39667; -71.14389  (Alewife Brook Reservation)",
+    "location": "Middlesex",
     "state": "Massachusetts",
     "imageURL": null,
     "remarks": "",
@@ -28734,7 +28734,7 @@
     "country": "USA",
     "_id": "5b53cd800226b800147f3520",
     "name": "Ames Nowell State Park",
-    "location": "Plymouth 42\u00b07\u203212.8994\u2033N 70\u00b059\u203213.632\u2033W  /  42.120249833\u00b0N 70.98712000\u00b0W  / 42.120249833; -70.98712000  (Ames Nowell State Park)",
+    "location": "Plymouth",
     "state": "Massachusetts",
     "imageURL": null,
     "remarks": "",
@@ -28749,7 +28749,7 @@
     "country": "USA",
     "_id": "5b53cd800226b800147f3521",
     "name": "Appalachian Trail",
-    "location": "Berkshire 42\u00b028\u203257.8\u2033N 73\u00b010\u203246.7\u2033W  /  42.482722\u00b0N 73.179639\u00b0W  / 42.482722; -73.179639  (Appalachian Trail)",
+    "location": "Berkshire",
     "state": "Massachusetts",
     "imageURL": null,
     "remarks": "",
@@ -28764,7 +28764,7 @@
     "country": "USA",
     "_id": "5b53cd800226b800147f3522",
     "name": "Ashland State Park",
-    "location": "Middlesex 42\u00b014\u203230\u2033N 71\u00b027\u203258\u2033W  /  42.24167\u00b0N 71.46611\u00b0W  / 42.24167; -71.46611  (Ashland State Park)",
+    "location": "Middlesex",
     "state": "Massachusetts",
     "imageURL": null,
     "remarks": "",
@@ -28779,7 +28779,7 @@
     "country": "USA",
     "_id": "5b53cd800226b800147f3523",
     "name": "Ashuwillticook Rail Trail",
-    "location": "Berkshire 42\u00b033\u203214\u2033N 73\u00b09\u203255\u2033W  /  42.55389\u00b0N 73.16528\u00b0W  / 42.55389; -73.16528  (Ashuwillticook Rail Trail)",
+    "location": "Berkshire",
     "state": "Massachusetts",
     "imageURL": null,
     "remarks": "",
@@ -28794,7 +28794,7 @@
     "country": "USA",
     "_id": "5b53cd800226b800147f3524",
     "name": "Bash Bish Falls State Park",
-    "location": "Berkshire 42\u00b006\u203253\u2033N 73\u00b029\u203234\u2033W  /  42.11472\u00b0N 73.49278\u00b0W  / 42.11472; -73.49278  (Bash Bish Falls State Park)",
+    "location": "Berkshire",
     "state": "Massachusetts",
     "imageURL": null,
     "remarks": "",
@@ -28809,7 +28809,7 @@
     "country": "USA",
     "_id": "5b53cd800226b800147f3525",
     "name": "Beartown State Forest",
-    "location": "Berkshire 42\u00b014\u203200\u2033N 73\u00b016\u203228\u2033W  /  42.23333\u00b0N 73.27444\u00b0W  / 42.23333; -73.27444  (Beartown State Forest)",
+    "location": "Berkshire",
     "state": "Massachusetts",
     "imageURL": null,
     "remarks": "",
@@ -28824,7 +28824,7 @@
     "country": "USA",
     "_id": "5b53cd800226b800147f3526",
     "name": "Beaver Brook Reservation",
-    "location": "Middlesex 42\u00b023\u203226\u2033N 71\u00b011\u203252\u2033W  /  42.39056\u00b0N 71.19778\u00b0W  / 42.39056; -71.19778  (Beaver Brook Reservation)",
+    "location": "Middlesex",
     "state": "Massachusetts",
     "imageURL": null,
     "remarks": "",
@@ -28839,7 +28839,7 @@
     "country": "USA",
     "_id": "5b53cd800226b800147f3527",
     "name": "Belle Isle Marsh Reservation",
-    "location": "Suffolk 42\u00b023\u203221\u2033N 70\u00b059\u203221\u2033W  /  42.38917\u00b0N 70.98917\u00b0W  / 42.38917; -70.98917  (Belle Isle Marsh Reservation)",
+    "location": "Suffolk",
     "state": "Massachusetts",
     "imageURL": null,
     "remarks": "",
@@ -28854,7 +28854,7 @@
     "country": "USA",
     "_id": "5b53cd800226b800147f3528",
     "name": "Blackstone River and Canal Heritage State Park",
-    "location": "Worcester 42\u00b005\u203240\u2033N 71\u00b037\u203223\u2033W  /  42.09444\u00b0N 71.62306\u00b0W  / 42.09444; -71.62306  (Blackstone River and Canal Heritage State Park)",
+    "location": "Worcester",
     "state": "Massachusetts",
     "imageURL": null,
     "remarks": "",
@@ -28869,7 +28869,7 @@
     "country": "USA",
     "_id": "5b53cd800226b800147f3529",
     "name": "Blue Hills Reservation",
-    "location": "Norfolk 42\u00b012\u203240\u2033N 71\u00b07\u203240\u2033W  /  42.21111\u00b0N 71.12778\u00b0W  / 42.21111; -71.12778  (Blue Hills Reservation)",
+    "location": "Norfolk",
     "state": "Massachusetts",
     "imageURL": null,
     "remarks": "",
@@ -28884,7 +28884,7 @@
     "country": "USA",
     "_id": "5b53cd800226b800147f352a",
     "name": "Borderland State Park",
-    "location": "Bristol, Norfolk 42\u00b04\u20323\u2033N 71\u00b09\u203213\u2033W  /  42.06750\u00b0N 71.15361\u00b0W  / 42.06750; -71.15361  (Borderland State Park)",
+    "location": "Bristol, Norfolk",
     "state": "Massachusetts",
     "imageURL": null,
     "remarks": "",
@@ -28899,7 +28899,7 @@
     "country": "USA",
     "_id": "5b53cd800226b800147f352b",
     "name": "Boston Harbor Islands State Park",
-    "location": "Norfolk, Plymouth, Suffolk 42\u00b019\u203211.6\u2033N 70\u00b055\u203245.6\u2033W  /  42.319889\u00b0N 70.929333\u00b0W  / 42.319889; -70.929333  (Boston Harbor Islands State Park)",
+    "location": "Norfolk, Plymouth, Suffolk",
     "state": "Massachusetts",
     "imageURL": null,
     "remarks": "",
@@ -28914,7 +28914,7 @@
     "country": "USA",
     "_id": "5b53cd800226b800147f352c",
     "name": "Bradley Palmer State Park",
-    "location": "Essex 42\u00b038\u20320\u2033N 70\u00b053\u203243\u2033W  /  42.63333\u00b0N 70.89528\u00b0W  / 42.63333; -70.89528  (Bradley Palmer State Park)",
+    "location": "Essex",
     "state": "Massachusetts",
     "imageURL": null,
     "remarks": "",
@@ -28929,7 +28929,7 @@
     "country": "USA",
     "_id": "5b53cd800226b800147f352d",
     "name": "Breakheart Reservation",
-    "location": "Essex, Middlesex 42\u00b029\u203221\u2033N 71\u00b02\u203223\u2033W  /  42.48917\u00b0N 71.03972\u00b0W  / 42.48917; -71.03972  (Breakheart Reservation)",
+    "location": "Essex, Middlesex",
     "state": "Massachusetts",
     "imageURL": null,
     "remarks": "",
@@ -28944,7 +28944,7 @@
     "country": "USA",
     "_id": "5b53cd800226b800147f352e",
     "name": "Brimfield State Forest",
-    "location": "Hampden 42\u00b06\u20320\u2033N 72\u00b014\u203256\u2033W  /  42.10000\u00b0N 72.24889\u00b0W  / 42.10000; -72.24889  (Brimfield State Forest)",
+    "location": "Hampden",
     "state": "Massachusetts",
     "imageURL": null,
     "remarks": "",
@@ -28959,7 +28959,7 @@
     "country": "USA",
     "_id": "5b53cd800226b800147f352f",
     "name": "Bristol Blake State Reservation",
-    "location": "Norfolk 42\u00b06\u203228.6\u2033N 71\u00b019\u20325\u2033W  /  42.107944\u00b0N 71.31806\u00b0W  / 42.107944; -71.31806  (Bristol Blake State Reservation)",
+    "location": "Norfolk",
     "state": "Massachusetts",
     "imageURL": null,
     "remarks": "",
@@ -28974,7 +28974,7 @@
     "country": "USA",
     "_id": "5b53cd800226b800147f3530",
     "name": "Brook Farm Historic Site",
-    "location": "Suffolk 42\u00b017\u203229\u2033N 71\u00b010\u203226.7\u2033W  /  42.29139\u00b0N 71.174083\u00b0W  / 42.29139; -71.174083  (Brook Farm Historic Site)",
+    "location": "Suffolk",
     "state": "Massachusetts",
     "imageURL": null,
     "remarks": "",
@@ -28989,7 +28989,7 @@
     "country": "USA",
     "_id": "5b53cd800226b800147f3531",
     "name": "C. M. Gardner State Park",
-    "location": "Hampden 42\u00b016\u203231\u2033N 72\u00b052\u203214.5\u2033W  /  42.27528\u00b0N 72.870694\u00b0W  / 42.27528; -72.870694  (C. M. Gardner State Park)",
+    "location": "Hampden",
     "state": "Massachusetts",
     "imageURL": null,
     "remarks": "",
@@ -29004,7 +29004,7 @@
     "country": "USA",
     "_id": "5b53cd800226b800147f3532",
     "name": "Callahan State Park",
-    "location": "Middlesex 42\u00b020\u203235\u2033N 71\u00b026\u203255\u2033W  /  42.34306\u00b0N 71.44861\u00b0W  / 42.34306; -71.44861  (Callahan State Park)",
+    "location": "Middlesex",
     "state": "Massachusetts",
     "imageURL": null,
     "remarks": "",
@@ -29019,7 +29019,7 @@
     "country": "USA",
     "_id": "5b53cd800226b800147f3533",
     "name": "Camp Nihan Environmental Education Camp",
-    "location": "Essex 42\u00b029\u203232.6\u2033N 71\u00b01\u203211.4\u2033W  /  42.492389\u00b0N 71.019833\u00b0W  / 42.492389; -71.019833  (Camp Nihan Environmental Education Camp)",
+    "location": "Essex",
     "state": "Massachusetts",
     "imageURL": null,
     "remarks": "",
@@ -29034,7 +29034,7 @@
     "country": "USA",
     "_id": "5b53cd800226b800147f3534",
     "name": "Canalside Rail Trail",
-    "location": "Franklin 42\u00b036\u203237.2\u2033N 72\u00b033\u203218.1\u2033W  /  42.610333\u00b0N 72.555028\u00b0W  / 42.610333; -72.555028  (Canalside Rail Trail)",
+    "location": "Franklin",
     "state": "Massachusetts",
     "imageURL": null,
     "remarks": "",
@@ -29049,7 +29049,7 @@
     "country": "USA",
     "_id": "5b53cd800226b800147f3535",
     "name": "Cape Cod Rail Trail",
-    "location": "Barnstable 41\u00b046\u203232.1\u2033N 70\u00b01\u203254.4\u2033W  /  41.775583\u00b0N 70.031778\u00b0W  / 41.775583; -70.031778  (Cape Cod Rail Trail)",
+    "location": "Barnstable",
     "state": "Massachusetts",
     "imageURL": null,
     "remarks": "",
@@ -29064,7 +29064,7 @@
     "country": "USA",
     "_id": "5b53cd800226b800147f3536",
     "name": "Castle Island",
-    "location": "Suffolk 42\u00b020\u203215\u2033N 71\u00b00\u203238\u2033W  /  42.33750\u00b0N 71.01056\u00b0W  / 42.33750; -71.01056  (Castle Island)",
+    "location": "Suffolk",
     "state": "Massachusetts",
     "imageURL": null,
     "remarks": "",
@@ -29079,7 +29079,7 @@
     "country": "USA",
     "_id": "5b53cd800226b800147f3537",
     "name": "Charles River Reservation",
-    "location": "Suffolk, Middlesex 42\u00b021\u203220\u2033N 71\u00b06\u203256\u2033W  /  42.35556\u00b0N 71.11556\u00b0W  / 42.35556; -71.11556  (Charles River Reservation)",
+    "location": "Suffolk, Middlesex",
     "state": "Massachusetts",
     "imageURL": null,
     "remarks": "",
@@ -29094,7 +29094,7 @@
     "country": "USA",
     "_id": "5b53cd800226b800147f3538",
     "name": "Chester-Blandford State Forest",
-    "location": "Hampden 42\u00b014\u203258\u2033N 72\u00b056\u203258\u2033W  /  42.24944\u00b0N 72.94944\u00b0W  / 42.24944; -72.94944  (Chester-Blandford State Forest)",
+    "location": "Hampden",
     "state": "Massachusetts",
     "imageURL": null,
     "remarks": "",
@@ -29109,7 +29109,7 @@
     "country": "USA",
     "_id": "5b53cd800226b800147f3539",
     "name": "Chestnut Hill Reservation",
-    "location": "Suffolk 42\u00b020\u20327\u2033N 71\u00b09\u203229\u2033W  /  42.33528\u00b0N 71.15806\u00b0W  / 42.33528; -71.15806  (Chestnut Hill Reservation)",
+    "location": "Suffolk",
     "state": "Massachusetts",
     "imageURL": null,
     "remarks": "",
@@ -29124,7 +29124,7 @@
     "country": "USA",
     "_id": "5b53cd800226b800147f353a",
     "name": "Chicopee Memorial State Park",
-    "location": "Hampden 42\u00b010\u203245\u2033N 72\u00b032\u203213\u2033W  /  42.17917\u00b0N 72.53694\u00b0W  / 42.17917; -72.53694  (Chicopee Memorial State Park)",
+    "location": "Hampden",
     "state": "Massachusetts",
     "imageURL": null,
     "remarks": "",
@@ -29139,7 +29139,7 @@
     "country": "USA",
     "_id": "5b53cd800226b800147f353b",
     "name": "Clarksburg State Park",
-    "location": "Berkshire 42\u00b044\u20325\u2033N 73\u00b04\u203235\u2033W  /  42.73472\u00b0N 73.07639\u00b0W  / 42.73472; -73.07639  (Clarksburg State Park)",
+    "location": "Berkshire",
     "state": "Massachusetts",
     "imageURL": null,
     "remarks": "",
@@ -29154,7 +29154,7 @@
     "country": "USA",
     "_id": "5b53cd800226b800147f353c",
     "name": "Cochituate State Park",
-    "location": "Middlesex 42\u00b018\u203245\u2033N 71\u00b022\u203227\u2033W  /  42.31250\u00b0N 71.37417\u00b0W  / 42.31250; -71.37417  (Cochituate State Park)",
+    "location": "Middlesex",
     "state": "Massachusetts",
     "imageURL": null,
     "remarks": "",
@@ -29169,7 +29169,7 @@
     "country": "USA",
     "_id": "5b53cd800226b800147f353d",
     "name": "Connecticut River Greenway State Park",
-    "location": "Franklin, Hampden, Hampshire 42\u00b036\u203227\u2033N 72\u00b032\u203230\u2033W  /  42.60750\u00b0N 72.54167\u00b0W  / 42.60750; -72.54167  (Connecticut River Greenway State Park)",
+    "location": "Franklin, Hampden, Hampshire",
     "state": "Massachusetts",
     "imageURL": null,
     "remarks": "",
@@ -29184,7 +29184,7 @@
     "country": "USA",
     "_id": "5b53cd800226b800147f353e",
     "name": "Constitution Beach",
-    "location": "Suffolk 42\u00b023\u20325.5\u2033N 71\u00b00\u203236.2\u2033W  /  42.384861\u00b0N 71.010056\u00b0W  / 42.384861; -71.010056  (Constitution Beach)",
+    "location": "Suffolk",
     "state": "Massachusetts",
     "imageURL": null,
     "remarks": "",
@@ -29199,7 +29199,7 @@
     "country": "USA",
     "_id": "5b53cd800226b800147f353f",
     "name": "Cutler Park Reservation",
-    "location": "Norfolk 42\u00b016\u203216\u2033N 71\u00b011\u203245\u2033W  /  42.27111\u00b0N 71.19583\u00b0W  / 42.27111; -71.19583  (Cutler Park Reservation)",
+    "location": "Norfolk",
     "state": "Massachusetts",
     "imageURL": null,
     "remarks": "",
@@ -29214,7 +29214,7 @@
     "country": "USA",
     "_id": "5b53cd800226b800147f3540",
     "name": "D.A.R. State Forest",
-    "location": "Hampshire 42\u00b027\u203225\u2033N 72\u00b047\u203250\u2033W  /  42.45694\u00b0N 72.79722\u00b0W  / 42.45694; -72.79722  (D.A.R. State Forest)",
+    "location": "Hampshire",
     "state": "Massachusetts",
     "imageURL": null,
     "remarks": "",
@@ -29229,7 +29229,7 @@
     "country": "USA",
     "_id": "5b53cd800226b800147f3541",
     "name": "Demarest Lloyd State Park",
-    "location": "Bristol 41\u00b031\u203244\u2033N 70\u00b059\u20320\u2033W  /  41.52889\u00b0N 70.98333\u00b0W  / 41.52889; -70.98333  (Demarest Lloyd State Park)",
+    "location": "Bristol",
     "state": "Massachusetts",
     "imageURL": null,
     "remarks": "",
@@ -29244,7 +29244,7 @@
     "country": "USA",
     "_id": "5b53cd800226b800147f3542",
     "name": "Dighton Rock State Park",
-    "location": "Bristol 41\u00b048\u203246\u2033N 71\u00b06\u203223\u2033W  /  41.81278\u00b0N 71.10639\u00b0W  / 41.81278; -71.10639  (Dighton Rock State Park)",
+    "location": "Bristol",
     "state": "Massachusetts",
     "imageURL": null,
     "remarks": "",
@@ -29259,7 +29259,7 @@
     "country": "USA",
     "_id": "5b53cd800226b800147f3543",
     "name": "Dorchester Shores Reservation",
-    "location": "Suffolk 42\u00b017\u203250\u2033N 71\u00b02\u203244\u2033W  /  42.29722\u00b0N 71.04556\u00b0W  / 42.29722; -71.04556  (Dorchester Shores Reservation)",
+    "location": "Suffolk",
     "state": "Massachusetts",
     "imageURL": null,
     "remarks": "",
@@ -29274,7 +29274,7 @@
     "country": "USA",
     "_id": "5b53cd800226b800147f3544",
     "name": "Douglas State Forest",
-    "location": "Worcester 42\u00b03\u203230\u2033N 71\u00b047\u203213\u2033W  /  42.05833\u00b0N 71.78694\u00b0W  / 42.05833; -71.78694  (Douglas State Forest)",
+    "location": "Worcester",
     "state": "Massachusetts",
     "imageURL": null,
     "remarks": "",
@@ -29289,7 +29289,7 @@
     "country": "USA",
     "_id": "5b53cd800226b800147f3545",
     "name": "Dunn State Park",
-    "location": "Worcester 42\u00b034\u203248\u2033N 71\u00b058\u203212\u2033W  /  42.58000\u00b0N 71.97000\u00b0W  / 42.58000; -71.97000  (Dunn State Park)",
+    "location": "Worcester",
     "state": "Massachusetts",
     "imageURL": null,
     "remarks": "",
@@ -29304,7 +29304,7 @@
     "country": "USA",
     "_id": "5b53cd800226b800147f3546",
     "name": "Ellisville Harbor State Park",
-    "location": "Plymouth 41\u00b050\u203234\u2033N 70\u00b032\u203213\u2033W  /  41.84278\u00b0N 70.53694\u00b0W  / 41.84278; -70.53694  (Ellisville Harbor State Park)",
+    "location": "Plymouth",
     "state": "Massachusetts",
     "imageURL": null,
     "remarks": "",
@@ -29319,7 +29319,7 @@
     "country": "USA",
     "_id": "5b53cd800226b800147f3547",
     "name": "Elm Bank Reservation",
-    "location": "Norfolk 42\u00b016\u203234\u2033N 71\u00b018\u20329\u2033W  /  42.27611\u00b0N 71.30250\u00b0W  / 42.27611; -71.30250  (Elm Bank Reservation)",
+    "location": "Norfolk",
     "state": "Massachusetts",
     "imageURL": null,
     "remarks": "",
@@ -29334,7 +29334,7 @@
     "country": "USA",
     "_id": "5b53cd800226b800147f3548",
     "name": "Erving State Forest",
-    "location": "Franklin 42\u00b037\u203221\u2033N 72\u00b022\u203241\u2033W  /  42.62250\u00b0N 72.37806\u00b0W  / 42.62250; -72.37806  (Erving State Forest)",
+    "location": "Franklin",
     "state": "Massachusetts",
     "imageURL": null,
     "remarks": "",
@@ -29349,7 +29349,7 @@
     "country": "USA",
     "_id": "5b53cd800226b800147f3549",
     "name": "F. Gilbert Hills State Forest",
-    "location": "Norfolk 42\u00b03\u203228\u2033N 71\u00b017\u20320\u2033W  /  42.05778\u00b0N 71.28333\u00b0W  / 42.05778; -71.28333  (F. Gilbert Hills State Forest)",
+    "location": "Norfolk",
     "state": "Massachusetts",
     "imageURL": null,
     "remarks": "",
@@ -29364,7 +29364,7 @@
     "country": "USA",
     "_id": "5b53cd800226b800147f354a",
     "name": "Fall River Heritage State Park",
-    "location": "Bristol 41\u00b042\u203220\u2033N 71\u00b09\u203238\u2033W  /  41.70556\u00b0N 71.16056\u00b0W  / 41.70556; -71.16056  (Fall River Heritage State Park)",
+    "location": "Bristol",
     "state": "Massachusetts",
     "imageURL": null,
     "remarks": "",
@@ -29379,7 +29379,7 @@
     "country": "USA",
     "_id": "5b53cd800226b800147f354b",
     "name": "Federated Women's Club State Forest",
-    "location": "Worcester 42\u00b029\u203227\u2033N 72\u00b015\u203215\u2033W  /  42.49083\u00b0N 72.25417\u00b0W  / 42.49083; -72.25417  (Federated Women's Club State Forest)",
+    "location": "Worcester",
     "state": "Massachusetts",
     "imageURL": null,
     "remarks": "",
@@ -29394,7 +29394,7 @@
     "country": "USA",
     "_id": "5b53cd800226b800147f354c",
     "name": "Fort Phoenix State Reservation",
-    "location": "Bristol 41\u00b037\u203227\u2033N 70\u00b053\u203256\u2033W  /  41.62417\u00b0N 70.89889\u00b0W  / 41.62417; -70.89889  (Fort Phoenix State Reservation)",
+    "location": "Bristol",
     "state": "Massachusetts",
     "imageURL": null,
     "remarks": "",
@@ -29409,7 +29409,7 @@
     "country": "USA",
     "_id": "5b53cd800226b800147f354d",
     "name": "Fort Revere Park",
-    "location": "Plymouth 42\u00b018\u203217\u2033N 70\u00b054\u203221\u2033W  /  42.30472\u00b0N 70.90583\u00b0W  / 42.30472; -70.90583  (Fort Revere Park)",
+    "location": "Plymouth",
     "state": "Massachusetts",
     "imageURL": null,
     "remarks": "",
@@ -29424,7 +29424,7 @@
     "country": "USA",
     "_id": "5b53cd800226b800147f354e",
     "name": "Francis D. Martini Memorial Shell Park and Moynihan Recreation Area",
-    "location": "Suffolk 42\u00b014\u203236\u2033N 71\u00b07\u203237\u2033W  /  42.24333\u00b0N 71.12694\u00b0W  / 42.24333; -71.12694  (Francis D. Martini Memorial Shell Park and Moynihan Recreation Area)",
+    "location": "Suffolk",
     "state": "Massachusetts",
     "imageURL": null,
     "remarks": "",
@@ -29439,7 +29439,7 @@
     "country": "USA",
     "_id": "5b53cd800226b800147f354f",
     "name": "Freetown-Fall River State Forest",
-    "location": "Bristol 41\u00b045\u203228\u2033N 71\u00b03\u203248\u2033W  /  41.75778\u00b0N 71.06333\u00b0W  / 41.75778; -71.06333  (Freetown-Fall River State Forest)",
+    "location": "Bristol",
     "state": "Massachusetts",
     "imageURL": null,
     "remarks": "",
@@ -29454,7 +29454,7 @@
     "country": "USA",
     "_id": "5b53cd800226b800147f3550",
     "name": "Gardner Heritage State Park",
-    "location": "Worcester 42\u00b034\u203238\u2033N 71\u00b059\u203239\u2033W  /  42.57722\u00b0N 71.99417\u00b0W  / 42.57722; -71.99417  (Gardner Heritage State Park)",
+    "location": "Worcester",
     "state": "Massachusetts",
     "imageURL": null,
     "remarks": "",
@@ -29469,7 +29469,7 @@
     "country": "USA",
     "_id": "5b53cd800226b800147f3551",
     "name": "Georgetown-Rowley State Forest",
-    "location": "Essex 42\u00b042\u20325\u2033N 70\u00b058\u203226\u2033W  /  42.70139\u00b0N 70.97389\u00b0W  / 42.70139; -70.97389  (Georgetown-Rowley State Forest)",
+    "location": "Essex",
     "state": "Massachusetts",
     "imageURL": null,
     "remarks": "",
@@ -29484,7 +29484,7 @@
     "country": "USA",
     "_id": "5b53cd800226b800147f3552",
     "name": "Granville State Forest",
-    "location": "Hampden 42\u00b03\u203235\u2033N 72\u00b058\u203217\u2033W  /  42.05972\u00b0N 72.97139\u00b0W  / 42.05972; -72.97139  (Granville State Forest)",
+    "location": "Hampden",
     "state": "Massachusetts",
     "imageURL": null,
     "remarks": "",
@@ -29499,7 +29499,7 @@
     "country": "USA",
     "_id": "5b53cd800226b800147f3553",
     "name": "Great Brook Farm State Park",
-    "location": "Middlesex 42\u00b033\u203221\u2033N 71\u00b021\u203212\u2033W  /  42.55583\u00b0N 71.35333\u00b0W  / 42.55583; -71.35333  (Great Brook Farm State Park)",
+    "location": "Middlesex",
     "state": "Massachusetts",
     "imageURL": null,
     "remarks": "",
@@ -29514,7 +29514,7 @@
     "country": "USA",
     "_id": "5b53cd800226b800147f3554",
     "name": "Greycourt State Park",
-    "location": "Essex 42\u00b043\u203246\u2033N 71\u00b010\u203251\u2033W  /  42.72944\u00b0N 71.18083\u00b0W  / 42.72944; -71.18083  (Greycourt State Park)",
+    "location": "Essex",
     "state": "Massachusetts",
     "imageURL": null,
     "remarks": "",
@@ -29529,7 +29529,7 @@
     "country": "USA",
     "_id": "5b53cd800226b800147f3555",
     "name": "Halibut Point State Park",
-    "location": "Essex 42\u00b041\u203222\u2033N 70\u00b037\u203259\u2033W  /  42.68944\u00b0N 70.63306\u00b0W  / 42.68944; -70.63306  (Halibut Point State Park)",
+    "location": "Essex",
     "state": "Massachusetts",
     "imageURL": null,
     "remarks": "",
@@ -29544,7 +29544,7 @@
     "country": "USA",
     "_id": "5b53cd800226b800147f3556",
     "name": "Hammond Pond Reservation",
-    "location": "Middlesex 42\u00b019\u203230\u2033N 71\u00b010\u203236\u2033W  /  42.32500\u00b0N 71.17667\u00b0W  / 42.32500; -71.17667  (Hammond Pond Reservation)",
+    "location": "Middlesex",
     "state": "Massachusetts",
     "imageURL": null,
     "remarks": "",
@@ -29559,7 +29559,7 @@
     "country": "USA",
     "_id": "5b53cd800226b800147f3557",
     "name": "Hampton Ponds State Park",
-    "location": "Hampden 42\u00b010\u203245\u2033N 72\u00b041\u203222\u2033W  /  42.17917\u00b0N 72.68944\u00b0W  / 42.17917; -72.68944  (Hampton Ponds State Park)",
+    "location": "Hampden",
     "state": "Massachusetts",
     "imageURL": null,
     "remarks": "",
@@ -29574,7 +29574,7 @@
     "country": "USA",
     "_id": "5b53cd800226b800147f3558",
     "name": "Harold Parker State Forest",
-    "location": "Essex 42\u00b037\u203233\u2033N 71\u00b04\u203254\u2033W  /  42.62583\u00b0N 71.08167\u00b0W  / 42.62583; -71.08167  (Harold Parker State Forest)",
+    "location": "Essex",
     "state": "Massachusetts",
     "imageURL": null,
     "remarks": "",
@@ -29589,7 +29589,7 @@
     "country": "USA",
     "_id": "5b53cd800226b800147f3559",
     "name": "Hemlock Gorge Reservation",
-    "location": "Middlesex 42\u00b018\u203252\u2033N 71\u00b013\u203235\u2033W  /  42.31444\u00b0N 71.22639\u00b0W  / 42.31444; -71.22639  (Hemlock Gorge Reservation)",
+    "location": "Middlesex",
     "state": "Massachusetts",
     "imageURL": null,
     "remarks": "",
@@ -29604,7 +29604,7 @@
     "country": "USA",
     "_id": "5b53cd800226b800147f355a",
     "name": "Holyoke Heritage State Park",
-    "location": "Hampden 42\u00b012\u203218\u2033N 72\u00b036\u203226\u2033W  /  42.20500\u00b0N 72.60722\u00b0W  / 42.20500; -72.60722  (Holyoke Heritage State Park)",
+    "location": "Hampden",
     "state": "Massachusetts",
     "imageURL": null,
     "remarks": "",
@@ -29619,7 +29619,7 @@
     "country": "USA",
     "_id": "5b53cd800226b800147f355b",
     "name": "Hopkinton State Park",
-    "location": "Middlesex 42\u00b014\u203257\u2033N 71\u00b031\u203232\u2033W  /  42.24917\u00b0N 71.52556\u00b0W  / 42.24917; -71.52556  (Hopkinton State Park)",
+    "location": "Middlesex",
     "state": "Massachusetts",
     "imageURL": null,
     "remarks": "",
@@ -29634,7 +29634,7 @@
     "country": "USA",
     "_id": "5b53cd800226b800147f355c",
     "name": "Horseneck Beach State Reservation",
-    "location": "Bristol 41\u00b030\u203228\u2033N 71\u00b02\u203255\u2033W  /  41.50778\u00b0N 71.04861\u00b0W  / 41.50778; -71.04861  (Horseneck Beach State Reservation)",
+    "location": "Bristol",
     "state": "Massachusetts",
     "imageURL": null,
     "remarks": "",
@@ -32318,7 +32318,7 @@
   {
     "country": "USA",
     "_id": "5b53cd7f0226b800147f336f",
-    "name": "A\u00f1o Nuevo State Park",
+    "name": "Año Nuevo State Park",
     "location": "San Mateo",
     "state": "California",
     "imageURL": null,
@@ -32328,7 +32328,7 @@
       -122.3075945,
       37.1193293
     ],
-    "address": "A\u00f1o Nuevo State Park, 1 New Years Creek Rd, Pescadero, CA 94060, USA"
+    "address": "Año Nuevo State Park, 1 New Years Creek Rd, Pescadero, CA 94060, USA"
   },
   {
     "country": "USA",
@@ -33174,10 +33174,10 @@
     "country": "USA",
     "_id": "5b53cd820226b800147f36f0",
     "name": "Allaire State Park",
-    "location": "Howell and Wall townships in Monmouth County40\u00b09\u203243.60\u2033N 74\u00b07\u203253.62\u2033W  /  40.1621111\u00b0N 74.1315611\u00b0W  / 40.1621111; -74.1315611  (Allaire State Park)",
+    "location": "Howell and Wall townships in Monmouth County",
     "state": "New Jersey",
     "imageURL": null,
-    "remarks": "Features restored nineteenth-century ironworks, Allaire Village; ecosystem and geography of New Jersey's coastal plains region and Manasquan River floodplain\u2014habitat for over 200 species of wildflowers, trees and plants, and birds; includes high-iron and acidic podzolic soils and bog iron deposits. Hosts the Pine Creek Railroad, an excursion rail line operated by the New Jersey Museum of Transportation.",
+    "remarks": "Features restored nineteenth-century ironworks, Allaire Village; ecosystem and geography of New Jersey's coastal plains region and Manasquan River floodplain—habitat for over 200 species of wildflowers, trees and plants, and birds; includes high-iron and acidic podzolic soils and bog iron deposits. Hosts the Pine Creek Railroad, an excursion rail line operated by the New Jersey Museum of Transportation.",
     "__v": 0,
     "longitudeLatitude": [
       -74.1324377,
@@ -33189,7 +33189,7 @@
     "country": "USA",
     "_id": "5b53cd820226b800147f36f1",
     "name": "Allamuchy Mountain State Park",
-    "location": "Green and Byram townships in Sussex County;Allamuchy Township in Warren CountyMount Olive Township in Morris County40\u00b055\u203216.48\u2033N 74\u00b046\u203256.00\u2033W  /  40.9212444\u00b0N 74.7822222\u00b0W  / 40.9212444; -74.7822222  (Allamuchy Mountain State Park)",
+    "location": "Green and Byram townships in Sussex County;Allamuchy Township in Warren CountyMount Olive Township in Morris County",
     "state": "New Jersey",
     "imageURL": null,
     "remarks": "Located along Allamuchy Mountain and Musconetcong River, features 2,440-acre (9.9 km2) Allamuchy Natural Area of mature mixed oak-hardwood forests, natural fields; 14 miles (23 km) of marked and 20 miles (32 km) of unmarked trails including Sussex Branch Trail and Highlands Trail; Waterloo Village a restored eighteenth- and nineteenth-century village associated with the iron industry and Morris Canal.",
@@ -33204,7 +33204,7 @@
     "country": "USA",
     "_id": "5b53cd820226b800147f36f3",
     "name": "Cape May Point State Park",
-    "location": "Lower Township in Cape May County 38\u00b055\u203259.35\u2033N 74\u00b057\u203239.33\u2033W  /  38.9331528\u00b0N 74.9609250\u00b0W  / 38.9331528; -74.9609250  (Cape May Point State Park)",
+    "location": "Lower Township in Cape May County",
     "state": "New Jersey",
     "imageURL": null,
     "remarks": "The site of Cape May Lighthouse (1859); premier location in North America for observing fall bird migration to the south.",
@@ -33222,7 +33222,7 @@
     "location": "Trenton in Mercer County",
     "state": "New Jersey",
     "imageURL": null,
-    "remarks": "Park currently being developed, includes buildings and areas of Trenton's capitol complex, waterfront areas along Delaware River and Assunpink Creek; celebrate Trenton\u2019s Native American, Colonial, Revolutionary War, ethnic, and industrial heritage",
+    "remarks": "Park currently being developed, includes buildings and areas of Trenton's capitol complex, waterfront areas along Delaware River and Assunpink Creek; celebrate Trenton’s Native American, Colonial, Revolutionary War, ethnic, and industrial heritage",
     "__v": 0,
     "longitudeLatitude": [
       -74.77014299999999,
@@ -33234,10 +33234,10 @@
     "country": "USA",
     "_id": "5b53cd820226b800147f36f6",
     "name": "Corson's Inlet State Park",
-    "location": "Corson's Inlet between Ocean City and Strathmere in Cape May County39\u00b013\u20321.95\u2033N 74\u00b038\u203246.52\u2033W  /  39.2172083\u00b0N 74.6462556\u00b0W  / 39.2172083; -74.6462556  (Corson's Inlet State Park)",
+    "location": "Corson's Inlet between Ocean City and Strathmere in Cape May County",
     "state": "New Jersey",
     "imageURL": null,
-    "remarks": "One of the last undeveloped tracts along the state\u2019s oceanfront; features primary and secondary sand dune systems, shoreline overwash, marine estuaries; migratory and residential wildlife species; hiking, fishing, crabbing, boating and sunbathing.",
+    "remarks": "One of the last undeveloped tracts along the state’s oceanfront; features primary and secondary sand dune systems, shoreline overwash, marine estuaries; migratory and residential wildlife species; hiking, fishing, crabbing, boating and sunbathing.",
     "__v": 0,
     "longitudeLatitude": [
       -74.6438383,
@@ -33249,7 +33249,7 @@
     "country": "USA",
     "_id": "5b53cd820226b800147f36f7",
     "name": "Delaware and Raritan Canal State Park",
-    "location": "Over 60 miles (97 km) through Central New Jersey in Middlesex, Somerset, Mercer, and Hunterdon counties.40\u00b022\u20327.27\u2033N 74\u00b036\u203258.14\u2033W  /  40.3686861\u00b0N 74.6161500\u00b0W  / 40.3686861; -74.6161500  (Delaware and Raritan Canal State Park)",
+    "location": "Over 60 miles (97 km) through Central New Jersey in Middlesex, Somerset, Mercer, and Hunterdon counties.",
     "state": "New Jersey",
     "imageURL": null,
     "remarks": "Delaware and Raritan Canal mileage including the 36-mile (58 km) main canal between New Brunswick and Trenton and 22-mile (35 km) feeder canal between Trenton and Frenchtown; many historic structures including buildings, locks, spillways, and towpath; described as \"the longest (and narrowest) recreation area in the state. A greenway that snakes through one of the most heavily populated regions in the world.\"",
@@ -33264,7 +33264,7 @@
     "country": "USA",
     "_id": "5b53cd820226b800147f36f8",
     "name": "Double Trouble State Park",
-    "location": "Lacey and Berkeley townships in Ocean County39\u00b053\u203252.36\u2033N 74\u00b013\u203216.65\u2033W  /  39.8978778\u00b0N 74.2212917\u00b0W  / 39.8978778; -74.2212917  (Double Trouble State Park)",
+    "location": "Lacey and Berkeley townships in Ocean County",
     "state": "New Jersey",
     "imageURL": null,
     "remarks": "Provides \"a window into the Pine Barrens history\" and region's ecosystem; preserved historic village associated with New Jersey cranberry agriculture and Atlantic White Cedar logging and milling industries.",
@@ -33279,7 +33279,7 @@
     "country": "USA",
     "_id": "5b53cd820226b800147f36f9",
     "name": "Edison State Park",
-    "location": "Menlo Park, Edison Township in Middlesex County40\u00b033\u203229\u2033N 74\u00b020\u203226\u2033W  /  40.55806\u00b0N 74.34056\u00b0W  / 40.55806; -74.34056  (Edison State Park)",
+    "location": "Menlo Park, Edison Township in Middlesex County",
     "state": "New Jersey",
     "imageURL": null,
     "remarks": "The site consists of a two-room museum with interpretative and interactive exhibits about Thomas A. Edison's Menlo Park laboratory and the Edison Memorial Tower",
@@ -33294,7 +33294,7 @@
     "country": "USA",
     "_id": "5b53cd820226b800147f36fa",
     "name": "Farny State Park",
-    "location": "Rockaway Township in Morris County40\u00b057\u203244.82\u2033N 74\u00b027\u203228.81\u2033W  /  40.9624500\u00b0N 74.4580028\u00b0W  / 40.9624500; -74.4580028  (Farny State Park)",
+    "location": "Rockaway Township in Morris County",
     "state": "New Jersey",
     "imageURL": null,
     "remarks": "Adjacent to Splitrock Reservoir; features mature mixed oak hardwood forest, swamps, and streams characteristic of the Highlands physiographic province; provides habitat for the endangered red-shouldered hawk and threatened barred owl.",
@@ -33309,7 +33309,7 @@
     "country": "USA",
     "_id": "5b53cd820226b800147f36fc",
     "name": "Hacklebarney State Park",
-    "location": "Located between Long Valley and Chester in Morris County40\u00b045\u20325.04\u2033N 74\u00b044\u20329.63\u2033W  /  40.7514000\u00b0N 74.7360083\u00b0W  / 40.7514000; -74.7360083  (Hacklebarney State Park)",
+    "location": "Located between Long Valley and Chester in Morris County",
     "state": "New Jersey",
     "imageURL": null,
     "remarks": "The glacial valley and gorge of the Black River; features the rock strewn landscape of the glacial moraine from the Wisconsinan glaciation; features three endangered species: American ginseng, leatherwood and Virginia pennywort",
@@ -33324,7 +33324,7 @@
     "country": "USA",
     "_id": "5b53cd820226b800147f36fd",
     "name": "High Point State Park",
-    "location": "Montague Township, Sussex County41\u00b018\u203223.04\u2033N 74\u00b040\u203214.78\u2033W  /  41.3064000\u00b0N 74.6707722\u00b0W  / 41.3064000; -74.6707722  (High Point State Park)",
+    "location": "Montague Township, Sussex County",
     "state": "New Jersey",
     "imageURL": null,
     "remarks": "Donated by Colonel Anthony R. Kuser and wife Susie Dryden Kuser; landscaping designed by the Olmsted Brothers of Boston, sons of Frederick Law Olmsted, designer of New York City's Central Park. Features the highest elevation in New Jersey, High Point, a 1,803-foot (550 m) prominence of Kittatinny Mountain marked by a 220-foot (67 m) granite obelisk erected as veterans memorial.",
@@ -33339,7 +33339,7 @@
     "country": "USA",
     "_id": "5b53cd820226b800147f36fe",
     "name": "Hopatcong State Park",
-    "location": "Landing, Roxbury Township in Morris County; Hopatcong Borough in Sussex County40\u00b054\u203257.32\u2033N 74\u00b039\u203256.71\u2033W  /  40.9159222\u00b0N 74.6657528\u00b0W  / 40.9159222; -74.6657528  (Hopatcong State Park)",
+    "location": "Landing, Roxbury Township in Morris County; Hopatcong Borough in Sussex County",
     "state": "New Jersey",
     "imageURL": null,
     "remarks": "Two separate parcels of land, one on the southwestern shore of state's largest freshwater lake, Lake Hopatcong, another on Lake Musconetcong; the park features remnants of the Morris Canal and Lake Hopatcong Historical Museum.",
@@ -33354,7 +33354,7 @@
     "country": "USA",
     "_id": "5b53cd820226b800147f36ff",
     "name": "Island Beach State Park",
-    "location": "Former borough of Island Beach and Berkeley Township in Ocean County{39\u00b054\u203218.98\u2033N 74\u00b04\u203253.15\u2033W  /  39.9052722\u00b0N 74.0814306\u00b0W  / 39.9052722; -74.0814306  (Island Beach State Park)",
+    "location": "Former borough of Island Beach and Berkeley Township in Ocean County{",
     "state": "New Jersey",
     "imageURL": null,
     "remarks": "Island Beach is a narrow 10-mile (16 km) barrier island between Atlantic Ocean and Barnegat Bay featuring untouched primary dunes, thicket, freshwater wetlands, maritime forest and tidal marshes; also New Jersey's largest osprey colony, peregrine falcons, wading birds, shorebirds, waterfowl, and migrating songbirds.",
@@ -33369,10 +33369,10 @@
     "country": "USA",
     "_id": "5b53cd820226b800147f3700",
     "name": "Kittatinny Valley State Park",
-    "location": "Andover Borough and Andover Township, Sussex County41\u00b00\u203258.86\u2033N 74\u00b044\u203238.10\u2033W  /  41.0163500\u00b0N 74.7439167\u00b0W  / 41.0163500; -74.7439167  (Kittatinny Valley State Park)",
+    "location": "Andover Borough and Andover Township, Sussex County",
     "state": "New Jersey",
     "imageURL": null,
-    "remarks": "Features glacial lakes and limestone outcroppings at the headwaters of the Pequest River; part of the Sussex Branch Trail passes through park; site of the Aeroflex\u2013Andover Airport, a New Jersey Forest Fire Service airbase for aerial wildfire suppression.",
+    "remarks": "Features glacial lakes and limestone outcroppings at the headwaters of the Pequest River; part of the Sussex Branch Trail passes through park; site of the Aeroflex–Andover Airport, a New Jersey Forest Fire Service airbase for aerial wildfire suppression.",
     "__v": 0,
     "longitudeLatitude": [
       -74.73935469999999,
@@ -33384,7 +33384,7 @@
     "country": "USA",
     "_id": "5b53cd820226b800147f3701",
     "name": "Liberty State Park",
-    "location": "Jersey City in Hudson County40\u00b041\u203259.57\u2033N 74\u00b03\u203241.19\u2033W  /  40.6998806\u00b0N 74.0614417\u00b0W  / 40.6998806; -74.0614417  (Liberty State Park)",
+    "location": "Jersey City in Hudson County",
     "state": "New Jersey",
     "imageURL": null,
     "remarks": "Created to commemorate country's bicentennial celebration, features Central Railroad of New Jersey Terminal (CRRNJ); sweeping view of the Hudson River and Manhattan skyline; Liberty Science Center; \"Empty Sky\" Memorial for the September 11 terrorist attacks; ferry service to Ellis Island and the Statue of Liberty.",
@@ -33399,7 +33399,7 @@
     "country": "USA",
     "_id": "5b53cd820226b800147f3703",
     "name": "Monmouth Battlefield State Park",
-    "location": "Manalapan and Freehold, in Monmouth County40\u00b015\u203222.13\u2033N 74\u00b019\u203214.59\u2033W  /  40.2561472\u00b0N 74.3207194\u00b0W  / 40.2561472; -74.3207194  (Monmouth Battlefield State Park)",
+    "location": "Manalapan and Freehold, in Monmouth County",
     "state": "New Jersey",
     "imageURL": null,
     "remarks": "Site of the June 28, 1778 Battle of Monmouth during the American Revolution. George Washington and Continental Army attacked the rear of a British Army column commanded by Lieutenant General Sir Henry Clinton; features interpretative center, annual reenactment battle held in June, the Craig House (1746), the Rhea-Applegate house (1745), and a pick-your-own fruit orchard.",
@@ -33414,10 +33414,10 @@
     "country": "USA",
     "_id": "5b53cd820226b800147f3704",
     "name": "Parvin State Park",
-    "location": "Pittsgrove Township in Salem County39\u00b030\u203239.07\u2033N 75\u00b07\u203257.51\u2033W  /  39.5108528\u00b0N 75.1326417\u00b0W  / 39.5108528; -75.1326417  (Parvin State Park)",
+    "location": "Pittsgrove Township in Salem County",
     "state": "New Jersey",
     "imageURL": null,
-    "remarks": "Features Pine Barrens swamp hardwood and pine forest ecosystem along Muddy Run (Maurice River tributary). Features over 200 flowering plant species including blossoming dogwood, laurel, holly, magnolia, wild azalea. Historically, the home of a CCC camp (1933\u20131941), summer displacement camp for Japanese-American children during World War II; prisoner-of-war camp for German soldiers, and housing for Kalmyk refugees who escaped Eastern Europe and the USSR in 1952.",
+    "remarks": "Features Pine Barrens swamp hardwood and pine forest ecosystem along Muddy Run (Maurice River tributary). Features over 200 flowering plant species including blossoming dogwood, laurel, holly, magnolia, wild azalea. Historically, the home of a CCC camp (1933–1941), summer displacement camp for Japanese-American children during World War II; prisoner-of-war camp for German soldiers, and housing for Kalmyk refugees who escaped Eastern Europe and the USSR in 1952.",
     "__v": 0,
     "longitudeLatitude": [
       -75.1348362,
@@ -33429,10 +33429,10 @@
     "country": "USA",
     "_id": "5b53cd820226b800147f3706",
     "name": "Princeton Battlefield State Park",
-    "location": "Princeton Borough in Mercer County40\u00b019\u203251.09\u2033N 74\u00b040\u203236.68\u2033W  /  40.3308583\u00b0N 74.6768556\u00b0W  / 40.3308583; -74.6768556  (Princeton Battlefield State Park)",
+    "location": "Princeton Borough in Mercer County",
     "state": "New Jersey",
     "imageURL": null,
-    "remarks": "Site of the Battle of Princeton fought between British and American on January 3, 1777 \u2014 a victory that proved decisive in restoring American morale during American Revolution. Includes the Clarke House where General Hugh Mercer died from his wounds nine days later despite the efforts of Dr Benjamin Rush.",
+    "remarks": "Site of the Battle of Princeton fought between British and American on January 3, 1777 — a victory that proved decisive in restoring American morale during American Revolution. Includes the Clarke House where General Hugh Mercer died from his wounds nine days later despite the efforts of Dr Benjamin Rush.",
     "__v": 0,
     "longitudeLatitude": [
       -74.6758103,
@@ -33444,7 +33444,7 @@
     "country": "USA",
     "_id": "5b53cd820226b800147f3707",
     "name": "Rancocas State Park",
-    "location": "Westampton Township in Burlington County40\u00b00\u203227.13\u2033N 74\u00b049\u203259.59\u2033W  /  40.0075361\u00b0N 74.8332194\u00b0W  / 40.0075361; -74.8332194  (Rancocas State Park)",
+    "location": "Westampton Township in Burlington County",
     "state": "New Jersey",
     "imageURL": null,
     "remarks": "Located along the North Branch of the Rancocas Creek and an extensive freshwater tidal marsh.",
@@ -33459,7 +33459,7 @@
     "country": "USA",
     "_id": "5b53cd820226b800147f3708",
     "name": "Ringwood State Park",
-    "location": "Ringwood in Passaic County41\u00b08\u203210.52\u2033N 74\u00b015\u203221.99\u2033W  /  41.1362556\u00b0N 74.2561083\u00b0W  / 41.1362556; -74.2561083  (Ringwood State Park)",
+    "location": "Ringwood in Passaic County",
     "state": "New Jersey",
     "imageURL": null,
     "remarks": "Located on Ramapo Mountain, features historic Ringwood Manor, New Jersey Botanical Garden at Skylands Manor, and Shepherd Lake Recreation Area.",
@@ -33474,10 +33474,10 @@
     "country": "USA",
     "_id": "5b53cd820226b800147f370b",
     "name": "Voorhees State Park",
-    "location": "Glen Gardner Borough, Hunterdon County40\u00b041\u203245.53\u2033N 74\u00b053\u203213.68\u2033W  /  40.6959806\u00b0N 74.8871333\u00b0W  / 40.6959806; -74.8871333  (Voorhees State Park)",
+    "location": "Glen Gardner Borough, Hunterdon County",
     "state": "New Jersey",
     "imageURL": null,
-    "remarks": "Former New Jersey governor Foster M. Voorhees created the park with donation of his 325-acre (1.32 km2) farm; scenic views of Round Valley Reservoir and Spruce Run Reservoir; an observatory and astronomy education center, operated by the New Jersey Astronomical Association, offers the largest working telescope accessible to the public in the state\u2014a 26-inch Cassegrain reflector.",
+    "remarks": "Former New Jersey governor Foster M. Voorhees created the park with donation of his 325-acre (1.32 km2) farm; scenic views of Round Valley Reservoir and Spruce Run Reservoir; an observatory and astronomy education center, operated by the New Jersey Astronomical Association, offers the largest working telescope accessible to the public in the state—a 26-inch Cassegrain reflector.",
     "__v": 0,
     "longitudeLatitude": [
       -74.89603079999999,
@@ -33489,7 +33489,7 @@
     "country": "USA",
     "_id": "5b53cd820226b800147f370c",
     "name": "Washington Crossing State Park",
-    "location": "Washington Crossing and Titusville sections of Hopewell Township in Mercer County40\u00b018\u203217.76\u2033N 74\u00b051\u203224.82\u2033W  /  40.3049333\u00b0N 74.8568944\u00b0W  / 40.3049333; -74.8568944  (Washington Crossing State Park)",
+    "location": "Washington Crossing and Titusville sections of Hopewell Township in Mercer County",
     "state": "New Jersey",
     "imageURL": null,
     "remarks": "Commemorates site where General George Washington and Continental Army crossed the ice-clogged Delaware River on December 25, 1776, before the Battle of Trenton and Battle of Princeton during the American Revolution.",
@@ -33504,7 +33504,7 @@
     "country": "USA",
     "_id": "5b53cd820226b800147f370d",
     "name": "Washington Rock State Park",
-    "location": "Green Brook Township, Somerset County40\u00b036\u203247.65\u2033N 74\u00b028\u203223.70\u2033W  /  40.6132361\u00b0N 74.4732500\u00b0W  / 40.6132361; -74.4732500  (Washington Rock State Park)",
+    "location": "Green Brook Township, Somerset County",
     "state": "New Jersey",
     "imageURL": null,
     "remarks": "Site of a lookout used by George Washington in 1777 monitor British troop movements around New York City and northern New Jersey when the Continental Army was stationed at the Middlebrook encampment.",
@@ -33519,7 +33519,7 @@
     "country": "USA",
     "_id": "5b53cd820226b800147f370e",
     "name": "Wawayanda State Park",
-    "location": "Vernon Township in Sussex County;West Milford in Passaic County41\u00b011\u203253.203\u2033N 74\u00b023\u203251.892\u2033W  /  41.19811194\u00b0N 74.39774778\u00b0W  / 41.19811194; -74.39774778  (Wawayanda State Park)",
+    "location": "Vernon Township in Sussex County;West Milford in Passaic County",
     "state": "New Jersey",
     "imageURL": null,
     "remarks": "Wawayanda offers 60 miles (97 km) of trails including a 20-mile (32 km) segment of the Appalachian Trail. Features 1,325-acre (5.36 km2) Bearfort Mountain Natural Area, 399-acre (1.61 km2) Wawayanda Hemlock Ravine Natural Area (399 acres (1.61 km2)), and 2,167-acre (8.77 km2) Wawayanda Swamp Natural Area",
@@ -34478,7 +34478,7 @@
   {
     "country": "USA",
     "_id": "5b53cd7f0226b800147f33b2",
-    "name": "El Capit\u00e1n State Beach",
+    "name": "El Capitán State Beach",
     "location": "Santa Barbara",
     "state": "California",
     "imageURL": null,
@@ -34503,7 +34503,7 @@
       -119.6989097,
       34.422582
     ],
-    "address": "El Presidio de Santa B\u00e1rbara State Historic Park, 123 E Canon Perdido St, Santa Barbara, CA 93101, USA"
+    "address": "El Presidio de Santa Bárbara State Historic Park, 123 E Canon Perdido St, Santa Barbara, CA 93101, USA"
   },
   {
     "country": "USA",
@@ -35243,7 +35243,7 @@
   {
     "country": "USA",
     "_id": "5b53cd7f0226b800147f33e5",
-    "name": "La Pur\u00edsima Mission State Historic Park",
+    "name": "La Purísima Mission State Historic Park",
     "location": "Santa Barbara",
     "state": "California",
     "imageURL": null,
@@ -35753,7 +35753,7 @@
   {
     "country": "USA",
     "_id": "5b53cd7f0226b800147f3407",
-    "name": "Monta\u00f1a de Oro State Park",
+    "name": "Montaña de Oro State Park",
     "location": "San Luis Obispo",
     "state": "California",
     "imageURL": null,
@@ -35763,7 +35763,7 @@
       -120.8867814,
       35.2723111
     ],
-    "address": "Monta\u00f1a de Oro State Park, 3550 Pecho Valley Rd, Los Osos, CA 93402, USA"
+    "address": "Montaña de Oro State Park, 3550 Pecho Valley Rd, Los Osos, CA 93402, USA"
   },
   {
     "country": "USA",
@@ -36203,7 +36203,7 @@
   {
     "country": "USA",
     "_id": "5b53cd7f0226b800147f3425",
-    "name": "P\u00edo Pico State Historic Park",
+    "name": "Pío Pico State Historic Park",
     "location": "Los Angeles",
     "state": "California",
     "imageURL": null,
@@ -38918,7 +38918,7 @@
   {
     "country": "USA",
     "_id": "5b53cd820226b800147f3752",
-    "name": "Berlin\u2013Ichthyosaur State Park",
+    "name": "Berlin–Ichthyosaur State Park",
     "location": "Nye",
     "state": "Nevada",
     "imageURL": null,
@@ -39038,7 +39038,7 @@
   {
     "country": "USA",
     "_id": "5b53cd820226b800147f375a",
-    "name": "Kershaw\u2013Ryan State Park",
+    "name": "Kershaw–Ryan State Park",
     "location": "Lincoln",
     "state": "Nevada",
     "imageURL": null,
@@ -39068,7 +39068,7 @@
   {
     "country": "USA",
     "_id": "5b53cd820226b800147f375c",
-    "name": "Lake Tahoe \u2013 Nevada State Park",
+    "name": "Lake Tahoe – Nevada State Park",
     "location": "Carson City, Washoe County",
     "state": "Nevada",
     "imageURL": null,
@@ -39252,7 +39252,7 @@
     "location": "Washington",
     "state": "Minnesota",
     "imageURL": null,
-    "remarks": "44\u00b051\u203245\u2033N 92\u00b047\u203201\u2033W  /  44.8624675\u00b0N 92.7835367\u00b0W  / 44.8624675; -92.7835367  (Afton State Park)",
+    "remarks": "44°51′45″N 92°47′01″W  /  44.8624675°N 92.7835367°W  / 44.8624675; -92.7835367  (Afton State Park)",
     "__v": 0,
     "longitudeLatitude": [
       -92.7930736,
@@ -39267,7 +39267,7 @@
     "location": "Pine",
     "state": "Minnesota",
     "imageURL": null,
-    "remarks": "46\u00b010\u203215\u2033N 92\u00b050\u203239\u2033W  /  46.1707812\u00b0N 92.8440889\u00b0W  / 46.1707812; -92.8440889  (Banning State Park)",
+    "remarks": "46°10′15″N 92°50′39″W  /  46.1707812°N 92.8440889°W  / 46.1707812; -92.8440889  (Banning State Park)",
     "__v": 0,
     "longitudeLatitude": [
       -92.8487812,
@@ -39282,7 +39282,7 @@
     "location": "St. Louis",
     "state": "Minnesota",
     "imageURL": null,
-    "remarks": "47\u00b047\u203247\u2033N 92\u00b004\u203237\u2033W  /  47.7963051\u00b0N 92.0768231\u00b0W  / 47.7963051; -92.0768231  (Bear Head Lake State Park)",
+    "remarks": "47°47′47″N 92°04′37″W  /  47.7963051°N 92.0768231°W  / 47.7963051; -92.0768231  (Bear Head Lake State Park)",
     "__v": 0,
     "longitudeLatitude": [
       -92.07032029999999,
@@ -39297,7 +39297,7 @@
     "location": "Houston",
     "state": "Minnesota",
     "imageURL": null,
-    "remarks": "43\u00b038\u203234\u2033N 91\u00b034\u203255\u2033W  /  43.6427458\u00b0N 91.5818101\u00b0W  / 43.6427458; -91.5818101  (Beaver Creek Valley State Park)",
+    "remarks": "43°38′34″N 91°34′55″W  /  43.6427458°N 91.5818101°W  / 43.6427458; -91.5818101  (Beaver Creek Valley State Park)",
     "__v": 0,
     "longitudeLatitude": [
       -91.58084009999999,
@@ -39312,7 +39312,7 @@
     "location": "Beltrami",
     "state": "Minnesota",
     "imageURL": null,
-    "remarks": "48\u00b010\u203222\u2033N 94\u00b030\u203243\u2033W  /  48.172761\u00b0N 94.512033\u00b0W  / 48.172761; -94.512033  (Big Bog State Recreation Area)",
+    "remarks": "48°10′22″N 94°30′43″W  /  48.172761°N 94.512033°W  / 48.172761; -94.512033  (Big Bog State Recreation Area)",
     "__v": 0,
     "longitudeLatitude": [
       -94.5118548,
@@ -39327,7 +39327,7 @@
     "location": "Big Stone",
     "state": "Minnesota",
     "imageURL": null,
-    "remarks": "45\u00b022\u203257\u2033N 96\u00b030\u203247\u2033W  /  45.3824644\u00b0N 96.5131148\u00b0W  / 45.3824644; -96.5131148  (Big Stone Lake State Park)",
+    "remarks": "45°22′57″N 96°30′47″W  /  45.3824644°N 96.5131148°W  / 45.3824644; -96.5131148  (Big Stone Lake State Park)",
     "__v": 0,
     "longitudeLatitude": [
       -96.5303847,
@@ -39342,7 +39342,7 @@
     "location": "Rock",
     "state": "Minnesota",
     "imageURL": null,
-    "remarks": "43\u00b042\u203225\u2033N 96\u00b011\u203213\u2033W  /  43.7069134\u00b0N 96.1869728\u00b0W  / 43.7069134; -96.1869728  (Blue Mounds State Park)",
+    "remarks": "43°42′25″N 96°11′13″W  /  43.7069134°N 96.1869728°W  / 43.7069134; -96.1869728  (Blue Mounds State Park)",
     "__v": 0,
     "longitudeLatitude": [
       -96.1894669,
@@ -39357,7 +39357,7 @@
     "location": "Clay",
     "state": "Minnesota",
     "imageURL": null,
-    "remarks": "46\u00b051\u203256\u2033N 96\u00b028\u203204\u2033W  /  46.8655165\u00b0N 96.4678474\u00b0W  / 46.8655165; -96.4678474  (Buffalo River State Park)",
+    "remarks": "46°51′56″N 96°28′04″W  /  46.8655165°N 96.4678474°W  / 46.8655165; -96.4678474  (Buffalo River State Park)",
     "__v": 0,
     "longitudeLatitude": [
       -96.4745248,
@@ -39372,7 +39372,7 @@
     "location": "Lyon",
     "state": "Minnesota",
     "imageURL": null,
-    "remarks": "44\u00b021\u203245\u2033N 95\u00b055\u203230\u2033W  /  44.362462\u00b0N 95.9250247\u00b0W  / 44.362462; -95.9250247  (Camden State Park)",
+    "remarks": "44°21′45″N 95°55′30″W  /  44.362462°N 95.9250247°W  / 44.362462; -95.9250247  (Camden State Park)",
     "__v": 0,
     "longitudeLatitude": [
       -95.91775609999999,
@@ -39387,7 +39387,7 @@
     "location": "Wabasha",
     "state": "Minnesota",
     "imageURL": null,
-    "remarks": "44\u00b007\u203200\u2033N 92\u00b010\u203234\u2033W  /  44.1166318\u00b0N 92.1760002\u00b0W  / 44.1166318; -92.1760002  (Carley State Park)",
+    "remarks": "44°07′00″N 92°10′34″W  /  44.1166318°N 92.1760002°W  / 44.1166318; -92.1760002  (Carley State Park)",
     "__v": 0,
     "longitudeLatitude": [
       -92.1702724,
@@ -39402,7 +39402,7 @@
     "location": "Cook",
     "state": "Minnesota",
     "imageURL": null,
-    "remarks": "47\u00b042\u203235\u2033N 90\u00b031\u203220\u2033W  /  47.7097222\u00b0N 90.5222222\u00b0W  / 47.7097222; -90.5222222  (Cascade River State Park Recreation Site)",
+    "remarks": "47°42′35″N 90°31′20″W  /  47.7097222°N 90.5222222°W  / 47.7097222; -90.5222222  (Cascade River State Park Recreation Site)",
     "__v": 0,
     "longitudeLatitude": [
       -90.50687669999999,
@@ -39417,7 +39417,7 @@
     "location": "Morrison",
     "state": "Minnesota",
     "imageURL": null,
-    "remarks": "45\u00b057\u203232\u2033N 94\u00b023\u203243\u2033W  /  45.9588545\u00b0N 94.3952813\u00b0W  / 45.9588545; -94.3952813  (Charles A Lindbergh State Park)",
+    "remarks": "45°57′32″N 94°23′43″W  /  45.9588545°N 94.3952813°W  / 45.9588545; -94.3952813  (Charles A Lindbergh State Park)",
     "__v": 0,
     "longitudeLatitude": [
       -94.3885339,
@@ -39432,7 +39432,7 @@
     "location": "Crow Wing, Cass, and Morrison",
     "state": "Minnesota",
     "imageURL": null,
-    "remarks": "46\u00b016\u203220\u2033N 94\u00b020\u203200\u2033W  /  46.2722222\u00b0N 94.3333333\u00b0W  / 46.2722222; -94.3333333  (Crow Wing State Park)",
+    "remarks": "46°16′20″N 94°20′00″W  /  46.2722222°N 94.3333333°W  / 46.2722222; -94.3333333  (Crow Wing State Park)",
     "__v": 0,
     "longitudeLatitude": [
       -94.3189472,
@@ -39447,7 +39447,7 @@
     "location": "Crow Wing",
     "state": "Minnesota",
     "imageURL": null,
-    "remarks": "46\u00b029\u203222\u2033N 93\u00b058\u203239\u2033W  /  46.489550\u00b0N 93.977500\u00b0W  / 46.489550; -93.977500  (Cuyuna Country State Recreation Area)",
+    "remarks": "46°29′22″N 93°58′39″W  /  46.489550°N 93.977500°W  / 46.489550; -93.977500  (Cuyuna Country State Recreation Area)",
     "__v": 0,
     "longitudeLatitude": [
       -93.9796132,
@@ -39462,7 +39462,7 @@
     "location": "Mille Lacs",
     "state": "Minnesota",
     "imageURL": null,
-    "remarks": "46\u00b008\u203241\u2033N 93\u00b029\u203217\u2033W  /  46.1446779\u00b0N 93.4880157\u00b0W  / 46.1446779; -93.4880157  (Father Hennepin State Park)",
+    "remarks": "46°08′41″N 93°29′17″W  /  46.1446779°N 93.4880157°W  / 46.1446779; -93.4880157  (Father Hennepin State Park)",
     "__v": 0,
     "longitudeLatitude": [
       -93.4806567,
@@ -39477,7 +39477,7 @@
     "location": "Brown",
     "state": "Minnesota",
     "imageURL": null,
-    "remarks": "44\u00b017\u203218\u2033N 94\u00b028\u203225\u2033W  /  44.2882956\u00b0N 94.4735837\u00b0W  / 44.2882956; -94.4735837  (Flandrau State Park)",
+    "remarks": "44°17′18″N 94°28′25″W  /  44.2882956°N 94.4735837°W  / 44.2882956; -94.4735837  (Flandrau State Park)",
     "__v": 0,
     "longitudeLatitude": [
       -94.45947629999999,
@@ -39492,7 +39492,7 @@
     "location": "Fillmore",
     "state": "Minnesota",
     "imageURL": null,
-    "remarks": "43\u00b037\u203232\u2033N 92\u00b014\u203251\u2033W  /  43.6255204\u00b0N 92.247388\u00b0W  / 43.6255204; -92.247388  (Forestville Mystery Cave State Park)",
+    "remarks": "43°37′32″N 92°14′51″W  /  43.6255204°N 92.247388°W  / 43.6255204; -92.247388  (Forestville Mystery Cave State Park)",
     "__v": 0,
     "longitudeLatitude": [
       -92.2111903,
@@ -39507,7 +39507,7 @@
     "location": "Nicollet and Renville",
     "state": "Minnesota",
     "imageURL": null,
-    "remarks": "44\u00b027\u203209\u2033N 94\u00b043\u203251\u2033W  /  44.4524621\u00b0N 94.7308199\u00b0W  / 44.4524621; -94.7308199  (Fort Ridgely State Park)",
+    "remarks": "44°27′09″N 94°43′51″W  /  44.4524621°N 94.7308199°W  / 44.4524621; -94.7308199  (Fort Ridgely State Park)",
     "__v": 0,
     "longitudeLatitude": [
       -94.72563,
@@ -39522,7 +39522,7 @@
     "location": "Ramsey, Hennepin, and Dakota",
     "state": "Minnesota",
     "imageURL": null,
-    "remarks": "44\u00b053\u203209\u2033N 93\u00b010\u203241\u2033W  /  44.8857988\u00b0N 93.1779985\u00b0W  / 44.8857988; -93.1779985  (Fort Snelling State Park)",
+    "remarks": "44°53′09″N 93°10′41″W  /  44.8857988°N 93.1779985°W  / 44.8857988; -93.1779985  (Fort Snelling State Park)",
     "__v": 0,
     "longitudeLatitude": [
       -93.19859799999999,
@@ -39537,7 +39537,7 @@
     "location": "Koochiching",
     "state": "Minnesota",
     "imageURL": null,
-    "remarks": "48\u00b038\u203232\u2033N 94\u00b004\u203249\u2033W  /  48.642240\u00b0N 94.080410\u00b0W  / 48.642240; -94.080410  (Franz Jevne State Park)",
+    "remarks": "48°38′32″N 94°04′49″W  /  48.642240°N 94.080410°W  / 48.642240; -94.080410  (Franz Jevne State Park)",
     "__v": 0,
     "longitudeLatitude": [
       -94.058533,
@@ -39552,7 +39552,7 @@
     "location": "Goodhue",
     "state": "Minnesota",
     "imageURL": null,
-    "remarks": "44\u00b030\u203227\u2033N 92\u00b019\u203235\u2033W  /  44.5074677\u00b0N 92.3262914\u00b0W  / 44.5074677; -92.3262914  (Frontenac State Park)",
+    "remarks": "44°30′27″N 92°19′35″W  /  44.5074677°N 92.3262914°W  / 44.5074677; -92.3262914  (Frontenac State Park)",
     "__v": 0,
     "longitudeLatitude": [
       -92.34219399999999,
@@ -39567,7 +39567,7 @@
     "location": "Lake of the Woods",
     "state": "Minnesota",
     "imageURL": null,
-    "remarks": "49\u00b010\u203231\u2033N 94\u00b050\u203205\u2033W  /  49.175335\u00b0N 94.834671\u00b0W  / 49.175335; -94.834671  (Garden Island State Recreation Area)",
+    "remarks": "49°10′31″N 94°50′05″W  /  49.175335°N 94.834671°W  / 49.175335; -94.834671  (Garden Island State Recreation Area)",
     "__v": 0,
     "longitudeLatitude": [
       -94.85856079999999,
@@ -39582,7 +39582,7 @@
     "location": "Lake",
     "state": "Minnesota",
     "imageURL": null,
-    "remarks": "47\u00b030\u203222\u2033N 91\u00b006\u203233\u2033W  /  47.506018\u00b0N 91.109045\u00b0W  / 47.506018; -91.109045  (George H Crosby Manitou State Park)",
+    "remarks": "47°30′22″N 91°06′33″W  /  47.506018°N 91.109045°W  / 47.506018; -91.109045  (George H Crosby Manitou State Park)",
     "__v": 0,
     "longitudeLatitude": [
       -91.1229335,
@@ -39597,7 +39597,7 @@
     "location": "Pope",
     "state": "Minnesota",
     "imageURL": null,
-    "remarks": "45\u00b032\u203215\u2033N 95\u00b031\u203219\u2033W  /  45.537461\u00b0N 95.521983\u00b0W  / 45.537461; -95.521983  (Glacial Lakes State Park)",
+    "remarks": "45°32′15″N 95°31′19″W  /  45.537461°N 95.521983°W  / 45.537461; -95.521983  (Glacial Lakes State Park)",
     "__v": 0,
     "longitudeLatitude": [
       -95.531334,
@@ -39612,7 +39612,7 @@
     "location": "Otter Tail",
     "state": "Minnesota",
     "imageURL": null,
-    "remarks": "46\u00b020\u203200\u2033N 95\u00b040\u203200\u2033W  /  46.3333333\u00b0N 95.6666667\u00b0W  / 46.3333333; -95.6666667  (Glendalough State Park)",
+    "remarks": "46°20′00″N 95°40′00″W  /  46.3333333°N 95.6666667°W  / 46.3333333; -95.6666667  (Glendalough State Park)",
     "__v": 0,
     "longitudeLatitude": [
       -95.67866,
@@ -39627,7 +39627,7 @@
     "location": "Lake",
     "state": "Minnesota",
     "imageURL": null,
-    "remarks": "47\u00b008\u203249\u2033N 91\u00b027\u203248\u2033W  /  47.1468715\u00b0N 91.4632289\u00b0W  / 47.1468715; -91.4632289  (Gooseberry Falls State Park)",
+    "remarks": "47°08′49″N 91°27′48″W  /  47.1468715°N 91.4632289°W  / 47.1468715; -91.4632289  (Gooseberry Falls State Park)",
     "__v": 0,
     "longitudeLatitude": [
       -91.4642368,
@@ -39642,7 +39642,7 @@
     "location": "Cook",
     "state": "Minnesota",
     "imageURL": null,
-    "remarks": "48\u00b000\u203237\u2033N 89\u00b036\u203243\u2033W  /  48.0101633\u00b0N 89.6120317\u00b0W  / 48.0101633; -89.6120317  (Grand Portage State Park)",
+    "remarks": "48°00′37″N 89°36′43″W  /  48.0101633°N 89.6120317°W  / 48.0101633; -89.6120317  (Grand Portage State Park)",
     "__v": 0,
     "longitudeLatitude": [
       -89.59366849999999,
@@ -39657,7 +39657,7 @@
     "location": "Winona",
     "state": "Minnesota",
     "imageURL": null,
-    "remarks": "43\u00b056\u203247\u2033N 91\u00b023\u203258\u2033W  /  43.9463526\u00b0N 91.3993094\u00b0W  / 43.9463526; -91.3993094  (Great River Bluffs State Park)",
+    "remarks": "43°56′47″N 91°23′58″W  /  43.9463526°N 91.3993094°W  / 43.9463526; -91.3993094  (Great River Bluffs State Park)",
     "__v": 0,
     "longitudeLatitude": [
       -91.408548,
@@ -39672,7 +39672,7 @@
     "location": "Meeker",
     "state": "Minnesota",
     "imageURL": null,
-    "remarks": "45\u00b000\u203257\u2033N 94\u00b028\u203200\u2033W  /  45.01591\u00b0N 94.46671\u00b0W  / 45.01591; -94.46671  (Greenleaf Lake State Recreation Area)",
+    "remarks": "45°00′57″N 94°28′00″W  /  45.01591°N 94.46671°W  / 45.01591; -94.46671  (Greenleaf Lake State Recreation Area)",
     "__v": 0,
     "longitudeLatitude": [
       -94.466667,
@@ -39687,7 +39687,7 @@
     "location": "Roseau",
     "state": "Minnesota",
     "imageURL": null,
-    "remarks": "48\u00b037\u203224\u2033N 95\u00b030\u203228\u2033W  /  48.623309\u00b0N 95.507753\u00b0W  / 48.623309; -95.507753  (Hayes Lake State Park)",
+    "remarks": "48°37′24″N 95°30′28″W  /  48.623309°N 95.507753°W  / 48.623309; -95.507753  (Hayes Lake State Park)",
     "__v": 0,
     "longitudeLatitude": [
       -95.545271,
@@ -39702,7 +39702,7 @@
     "location": "Itasca",
     "state": "Minnesota",
     "imageURL": null,
-    "remarks": "47\u00b019\u203239\u2033N 93\u00b016\u203239\u2033W  /  47.327490\u00b0N 93.277520\u00b0W  / 47.327490; -93.277520  (Hill-Annex Mine State Park)",
+    "remarks": "47°19′39″N 93°16′39″W  /  47.327490°N 93.277520°W  / 47.327490; -93.277520  (Hill-Annex Mine State Park)",
     "__v": 0,
     "longitudeLatitude": [
       -93.277374,
@@ -39717,7 +39717,7 @@
     "location": "Chisago",
     "state": "Minnesota",
     "imageURL": null,
-    "remarks": "45\u00b023\u203242\u2033N 92\u00b040\u203211\u2033W  /  45.3949622\u00b0N 92.6696521\u00b0W  / 45.3949622; -92.6696521  (Interstate State Park)",
+    "remarks": "45°23′42″N 92°40′11″W  /  45.3949622°N 92.6696521°W  / 45.3949622; -92.6696521  (Interstate State Park)",
     "__v": 0,
     "longitudeLatitude": [
       -92.6677792,
@@ -39732,7 +39732,7 @@
     "location": "St. Louis",
     "state": "Minnesota",
     "imageURL": null,
-    "remarks": "47\u00b028\u203257\u2033N 92\u00b026\u203237\u2033W  /  47.48247\u00b0N 92.44349\u00b0W  / 47.48247; -92.44349  (Iron Range Off-Highway Vehicle State Recreation Area)",
+    "remarks": "47°28′57″N 92°26′37″W  /  47.48247°N 92.44349°W  / 47.48247; -92.44349  (Iron Range Off-Highway Vehicle State Recreation Area)",
     "__v": 0,
     "longitudeLatitude": [
       -92.4434361,
@@ -39747,7 +39747,7 @@
     "location": "Hubbard, Clearwater, and Becker",
     "state": "Minnesota",
     "imageURL": null,
-    "remarks": "47\u00b011\u203251\u2033N 95\u00b012\u203207\u2033W  /  47.1974579\u00b0N 95.2019642\u00b0W  / 47.1974579; -95.2019642  (Itasca State Park)",
+    "remarks": "47°11′51″N 95°12′07″W  /  47.1974579°N 95.2019642°W  / 47.1974579; -95.2019642  (Itasca State Park)",
     "__v": 0,
     "longitudeLatitude": [
       -95.16525299999999,
@@ -39762,7 +39762,7 @@
     "location": "Carlton",
     "state": "Minnesota",
     "imageURL": null,
-    "remarks": "46\u00b038\u203259\u2033N 92\u00b019\u203251\u2033W  /  46.6496646\u00b0N 92.330748\u00b0W  / 46.6496646; -92.330748  (Jay Cooke State Park)",
+    "remarks": "46°38′59″N 92°19′51″W  /  46.6496646°N 92.330748°W  / 46.6496646; -92.330748  (Jay Cooke State Park)",
     "__v": 0,
     "longitudeLatitude": [
       -92.34534599999999,
@@ -39777,7 +39777,7 @@
     "location": "Winona",
     "state": "Minnesota",
     "imageURL": null,
-    "remarks": "44\u00b009\u203243\u2033N 91\u00b049\u203220\u2033W  /  44.1619082\u00b0N 91.8220997\u00b0W  / 44.1619082; -91.8220997  (John Latsch State Park)",
+    "remarks": "44°09′43″N 91°49′20″W  /  44.1619082°N 91.8220997°W  / 44.1619082; -91.8220997  (John Latsch State Park)",
     "__v": 0,
     "longitudeLatitude": [
       -91.839126,
@@ -39792,7 +39792,7 @@
     "location": "Cook",
     "state": "Minnesota",
     "imageURL": null,
-    "remarks": "47\u00b051\u203205\u2033N 90\u00b003\u203230\u2033W  /  47.8512799\u00b0N 90.0584299\u00b0W  / 47.8512799; -90.0584299  (Judge C R Magney State Park)",
+    "remarks": "47°51′05″N 90°03′30″W  /  47.8512799°N 90.0584299°W  / 47.8512799; -90.0584299  (Judge C R Magney State Park)",
     "__v": 0,
     "longitudeLatitude": [
       -90.0531098,
@@ -39807,7 +39807,7 @@
     "location": "Jackson",
     "state": "Minnesota",
     "imageURL": null,
-    "remarks": "43\u00b043\u203236\u2033N 95\u00b003\u203247\u2033W  /  43.7266244\u00b0N 95.0630473\u00b0W  / 43.7266244; -95.0630473  (Kilen Woods State Park)",
+    "remarks": "43°43′36″N 95°03′47″W  /  43.7266244°N 95.0630473°W  / 43.7266244; -95.0630473  (Kilen Woods State Park)",
     "__v": 0,
     "longitudeLatitude": [
       -95.0666352,
@@ -39822,7 +39822,7 @@
     "location": "Hubbard",
     "state": "Minnesota",
     "imageURL": null,
-    "remarks": "47\u00b020\u203214\u2033N 95\u00b010\u203214\u2033W  /  47.33719\u00b0N 95.17061\u00b0W  / 47.33719; -95.17061  (La Salle Lake State Recreation Area)",
+    "remarks": "47°20′14″N 95°10′14″W  /  47.33719°N 95.17061°W  / 47.33719; -95.17061  (La Salle Lake State Recreation Area)",
     "__v": 0,
     "longitudeLatitude": [
       -95.158191,
@@ -39837,7 +39837,7 @@
     "location": "Lac qui Parle and Chippewa",
     "state": "Minnesota",
     "imageURL": null,
-    "remarks": "45\u00b001\u203214\u2033N 95\u00b053\u203220\u2033W  /  45.0205141\u00b0N 95.888921\u00b0W  / 45.0205141; -95.888921  (Lac qui Parle State Park)",
+    "remarks": "45°01′14″N 95°53′20″W  /  45.0205141°N 95.888921°W  / 45.0205141; -95.888921  (Lac qui Parle State Park)",
     "__v": 0,
     "longitudeLatitude": [
       -95.88169140000001,
@@ -39852,7 +39852,7 @@
     "location": "Beltrami",
     "state": "Minnesota",
     "imageURL": null,
-    "remarks": "47\u00b032\u203211\u2033N 94\u00b049\u203222\u2033W  /  47.5363413\u00b0N 94.8227704\u00b0W  / 47.5363413; -94.8227704  (Lake Bemidji State Park)",
+    "remarks": "47°32′11″N 94°49′22″W  /  47.5363413°N 94.8227704°W  / 47.5363413; -94.8227704  (Lake Bemidji State Park)",
     "__v": 0,
     "longitudeLatitude": [
       -94.82752300000001,
@@ -39867,7 +39867,7 @@
     "location": "Kittson",
     "state": "Minnesota",
     "imageURL": null,
-    "remarks": "48\u00b043\u203229\u2033N 96\u00b036\u203212\u2033W  /  48.7247004\u00b0N 96.6033741\u00b0W  / 48.7247004; -96.6033741  (Lake Bronson State Park)",
+    "remarks": "48°43′29″N 96°36′12″W  /  48.7247004°N 96.6033741°W  / 48.7247004; -96.6033741  (Lake Bronson State Park)",
     "__v": 0,
     "longitudeLatitude": [
       -96.625744,
@@ -39882,7 +39882,7 @@
     "location": "Douglas",
     "state": "Minnesota",
     "imageURL": null,
-    "remarks": "45\u00b059\u203212\u2033N 95\u00b019\u203240\u2033W  /  45.9866293\u00b0N 95.3278143\u00b0W  / 45.9866293; -95.3278143  (Lake Carlos State Park)",
+    "remarks": "45°59′12″N 95°19′40″W  /  45.9866293°N 95.3278143°W  / 45.9866293; -95.3278143  (Lake Carlos State Park)",
     "__v": 0,
     "longitudeLatitude": [
       -95.335146,
@@ -39897,7 +39897,7 @@
     "location": "Mower",
     "state": "Minnesota",
     "imageURL": null,
-    "remarks": "43\u00b032\u203201\u2033N 92\u00b031\u203232\u2033W  /  43.5335762\u00b0N 92.5254538\u00b0W  / 43.5335762; -92.5254538  (Lake Louise State Park)",
+    "remarks": "43°32′01″N 92°31′32″W  /  43.5335762°N 92.5254538°W  / 43.5335762; -92.5254538  (Lake Louise State Park)",
     "__v": 0,
     "longitudeLatitude": [
       -92.51234210000001,
@@ -39912,7 +39912,7 @@
     "location": "Wright",
     "state": "Minnesota",
     "imageURL": null,
-    "remarks": "45\u00b018\u203250\u2033N 93\u00b057\u203226\u2033W  /  45.3138543\u00b0N 93.9572003\u00b0W  / 45.3138543; -93.9572003  (Lake Maria State Park)",
+    "remarks": "45°18′50″N 93°57′26″W  /  45.3138543°N 93.9572003°W  / 45.3138543; -93.9572003  (Lake Maria State Park)",
     "__v": 0,
     "longitudeLatitude": [
       -93.93565699999999,
@@ -39927,7 +39927,7 @@
     "location": "Murray County",
     "state": "Minnesota",
     "imageURL": null,
-    "remarks": "44\u00b006\u203208\u2033N 95\u00b041\u203224\u2033W  /  44.1021838\u00b0N 95.6900114\u00b0W  / 44.1021838; -95.6900114  (Lake Shetek State Park)",
+    "remarks": "44°06′08″N 95°41′24″W  /  44.1021838°N 95.6900114°W  / 44.1021838; -95.6900114  (Lake Shetek State Park)",
     "__v": 0,
     "longitudeLatitude": [
       -95.68993340000002,
@@ -39942,7 +39942,7 @@
     "location": "St. Louis",
     "state": "Minnesota",
     "imageURL": null,
-    "remarks": "47\u00b050\u203205\u2033N 92\u00b011\u203253\u2033W  /  47.83471\u00b0N 92.19812\u00b0W  / 47.83471; -92.19812  (Lake Vermilion State Park)",
+    "remarks": "47°50′05″N 92°11′53″W  /  47.83471°N 92.19812°W  / 47.83471; -92.19812  (Lake Vermilion State Park)",
     "__v": 0,
     "longitudeLatitude": [
       -92.1865055,
@@ -39957,7 +39957,7 @@
     "location": "Otter Tail",
     "state": "Minnesota",
     "imageURL": null,
-    "remarks": "46\u00b032\u203201\u2033N 95\u00b056\u203257\u2033W  /  46.5335703\u00b0N 95.9492193\u00b0W  / 46.5335703; -95.9492193  (Maplewood State Park)",
+    "remarks": "46°32′01″N 95°56′57″W  /  46.5335703°N 95.9492193°W  / 46.5335703; -95.9492193  (Maplewood State Park)",
     "__v": 0,
     "longitudeLatitude": [
       -95.9514937,
@@ -39972,7 +39972,7 @@
     "location": "St. Louis",
     "state": "Minnesota",
     "imageURL": null,
-    "remarks": "47\u00b040\u203222\u2033N 93\u00b001\u203249\u2033W  /  47.6727068\u00b0N 93.0301834\u00b0W  / 47.6727068; -93.0301834  (McCarthy Beach State Park)",
+    "remarks": "47°40′22″N 93°01′49″W  /  47.6727068°N 93.0301834°W  / 47.6727068; -93.0301834  (McCarthy Beach State Park)",
     "__v": 0,
     "longitudeLatitude": [
       -93.031796,
@@ -39987,7 +39987,7 @@
     "location": "Mille Lacs",
     "state": "Minnesota",
     "imageURL": null,
-    "remarks": "46\u00b007\u203244\u2033N 93\u00b044\u203226\u2033W  /  46.1288485\u00b0N 93.7405269\u00b0W  / 46.1288485; -93.7405269  (Mille Lacs Kathio State Park)",
+    "remarks": "46°07′44″N 93°44′26″W  /  46.1288485°N 93.7405269°W  / 46.1288485; -93.7405269  (Mille Lacs Kathio State Park)",
     "__v": 0,
     "longitudeLatitude": [
       -93.7437133,
@@ -40002,7 +40002,7 @@
     "location": "Blue Earth",
     "state": "Minnesota",
     "imageURL": null,
-    "remarks": "44\u00b009\u203244\u2033N 94\u00b006\u203208\u2033W  /  44.1621879\u00b0N 94.1021803\u00b0W  / 44.1621879; -94.1021803  (Minneopa State Park)",
+    "remarks": "44°09′44″N 94°06′08″W  /  44.1621879°N 94.1021803°W  / 44.1621879; -94.1021803  (Minneopa State Park)",
     "__v": 0,
     "longitudeLatitude": [
       -94.0911643,
@@ -40017,7 +40017,7 @@
     "location": "Hennepin, Dakota, Scott, Carver, Sibley, and Le Sueur",
     "state": "Minnesota",
     "imageURL": null,
-    "remarks": "44\u00b039\u203243\u2033N 93\u00b042\u203212\u2033W  /  44.661999\u00b0N 93.703337\u00b0W  / 44.661999; -93.703337  (Minnesota Valley State Recreation Area)",
+    "remarks": "44°39′43″N 93°42′12″W  /  44.661999°N 93.703337°W  / 44.661999; -93.703337  (Minnesota Valley State Recreation Area)",
     "__v": 0,
     "longitudeLatitude": [
       -93.69679699999999,
@@ -40032,7 +40032,7 @@
     "location": "Swift",
     "state": "Minnesota",
     "imageURL": null,
-    "remarks": "45\u00b019\u203214\u2033N 95\u00b016\u203230\u2033W  /  45.3205175\u00b0N 95.2750235\u00b0W  / 45.3205175; -95.2750235  (Monson Lake Memorial State Park)",
+    "remarks": "45°19′14″N 95°16′30″W  /  45.3205175°N 95.2750235°W  / 45.3205175; -95.2750235  (Monson Lake Memorial State Park)",
     "__v": 0,
     "longitudeLatitude": [
       -95.27577579999999,
@@ -40047,7 +40047,7 @@
     "location": "Carlton",
     "state": "Minnesota",
     "imageURL": null,
-    "remarks": "46\u00b026\u203211\u2033N 92\u00b043\u203231\u2033W  /  46.436319\u00b0N 92.72521\u00b0W  / 46.436319; -92.72521  (Moose Lake State Park)",
+    "remarks": "46°26′11″N 92°43′31″W  /  46.436319°N 92.72521°W  / 46.436319; -92.72521  (Moose Lake State Park)",
     "__v": 0,
     "longitudeLatitude": [
       -92.736088,
@@ -40062,7 +40062,7 @@
     "location": "Freeborn",
     "state": "Minnesota",
     "imageURL": null,
-    "remarks": "43\u00b037\u203226\u2033N 93\u00b017\u203221\u2033W  /  43.6238465\u00b0N 93.2890959\u00b0W  / 43.6238465; -93.2890959  (Myre-Big Island State Park)",
+    "remarks": "43°37′26″N 93°17′21″W  /  43.6238465°N 93.2890959°W  / 43.6238465; -93.2890959  (Myre-Big Island State Park)",
     "__v": 0,
     "longitudeLatitude": [
       -93.3089334,
@@ -40077,7 +40077,7 @@
     "location": "Rice",
     "state": "Minnesota",
     "imageURL": null,
-    "remarks": "44\u00b020\u203243\u2033N 93\u00b006\u203227\u2033W  /  44.3452425\u00b0N 93.1074337\u00b0W  / 44.3452425; -93.1074337  (Nerstrand Big Woods State Park)",
+    "remarks": "44°20′43″N 93°06′27″W  /  44.3452425°N 93.1074337°W  / 44.3452425; -93.1074337  (Nerstrand Big Woods State Park)",
     "__v": 0,
     "longitudeLatitude": [
       -93.105167,
@@ -40092,7 +40092,7 @@
     "location": "Marshall",
     "state": "Minnesota",
     "imageURL": null,
-    "remarks": "48\u00b021\u203241\u2033N 96\u00b034\u203213\u2033W  /  48.361364\u00b0N 96.5703288\u00b0W  / 48.361364; -96.5703288  (Old Mill State Park)",
+    "remarks": "48°21′41″N 96°34′13″W  /  48.361364°N 96.5703288°W  / 48.361364; -96.5703288  (Old Mill State Park)",
     "__v": 0,
     "longitudeLatitude": [
       -96.566905,
@@ -40107,7 +40107,7 @@
     "location": "Polk",
     "state": "Minnesota",
     "imageURL": null,
-    "remarks": "47\u00b055\u203258\u2033N 97\u00b002\u203208\u2033W  /  47.9327778\u00b0N 97.0355556\u00b0W  / 47.9327778; -97.0355556  (Red River State Recreation Area)",
+    "remarks": "47°55′58″N 97°02′08″W  /  47.9327778°N 97.0355556°W  / 47.9327778; -97.0355556  (Red River State Recreation Area)",
     "__v": 0,
     "longitudeLatitude": [
       -97.0291599,
@@ -40122,7 +40122,7 @@
     "location": "Steele and Dodge",
     "state": "Minnesota",
     "imageURL": null,
-    "remarks": "44\u00b005\u203215\u2033N 93\u00b003\u203241\u2033W  /  44.0874639\u00b0N 93.061315\u00b0W  / 44.0874639; -93.061315  (Rice Lake State Park)",
+    "remarks": "44°05′15″N 93°03′41″W  /  44.0874639°N 93.061315°W  / 44.0874639; -93.061315  (Rice Lake State Park)",
     "__v": 0,
     "longitudeLatitude": [
       -93.0460373,
@@ -40137,7 +40137,7 @@
     "location": "Washington",
     "state": "Minnesota",
     "imageURL": null,
-    "remarks": "45\u00b005\u203207\u2033N 92\u00b047\u203210\u2033W  /  45.08524\u00b0N 92.78608\u00b0W  / 45.08524; -92.78608  (St. Croix Islands State Recreation Area)",
+    "remarks": "45°05′07″N 92°47′10″W  /  45.08524°N 92.78608°W  / 45.08524; -92.78608  (St. Croix Islands State Recreation Area)",
     "__v": 0,
     "longitudeLatitude": [
       -92.7966888,
@@ -40152,7 +40152,7 @@
     "location": "Pine",
     "state": "Minnesota",
     "imageURL": null,
-    "remarks": "45\u00b058\u203227\u2033N 92\u00b035\u203201\u2033W  /  45.9741154\u00b0N 92.5835304\u00b0W  / 45.9741154; -92.5835304  (Saint Croix State Park)",
+    "remarks": "45°58′27″N 92°35′01″W  /  45.9741154°N 92.5835304°W  / 45.9741154; -92.5835304  (Saint Croix State Park)",
     "__v": 0,
     "longitudeLatitude": [
       -92.61761690000002,
@@ -40167,7 +40167,7 @@
     "location": "Le Sueur and Rice",
     "state": "Minnesota",
     "imageURL": null,
-    "remarks": "44\u00b013\u203216\u2033N 93\u00b032\u203209\u2033W  /  44.2210746\u00b0N 93.5357792\u00b0W  / 44.2210746; -93.5357792  (Sakatah State Park)",
+    "remarks": "44°13′16″N 93°32′09″W  /  44.2210746°N 93.5357792°W  / 44.2210746; -93.5357792  (Sakatah State Park)",
     "__v": 0,
     "longitudeLatitude": [
       -93.531775,
@@ -40182,7 +40182,7 @@
     "location": "Aitkin and St. Louis",
     "state": "Minnesota",
     "imageURL": null,
-    "remarks": "46\u00b050\u203215\u2033N 93\u00b009\u203224\u2033W  /  46.8374455\u00b0N 93.1566054\u00b0W  / 46.8374455; -93.1566054  (Savanna Portage State Park)",
+    "remarks": "46°50′15″N 93°09′24″W  /  46.8374455°N 93.1566054°W  / 46.8374455; -93.1566054  (Savanna Portage State Park)",
     "__v": 0,
     "longitudeLatitude": [
       -93.17594299999999,
@@ -40197,7 +40197,7 @@
     "location": "Itasca",
     "state": "Minnesota",
     "imageURL": null,
-    "remarks": "47\u00b042\u203257\u2033N 93\u00b033\u203247\u2033W  /  47.7157733\u00b0N 93.5629701\u00b0W  / 47.7157733; -93.5629701  (Scenic State Park)",
+    "remarks": "47°42′57″N 93°33′47″W  /  47.7157733°N 93.5629701°W  / 47.7157733; -93.5629701  (Scenic State Park)",
     "__v": 0,
     "longitudeLatitude": [
       -93.56683609999999,
@@ -40212,7 +40212,7 @@
     "location": "Cass and Itasca",
     "state": "Minnesota",
     "imageURL": null,
-    "remarks": "47\u00b013\u203230\u2033N 93\u00b048\u203200\u2033W  /  47.2249502\u00b0N 93.7999449\u00b0W  / 47.2249502; -93.7999449  (Schoolcraft State Park)",
+    "remarks": "47°13′30″N 93°48′00″W  /  47.2249502°N 93.7999449°W  / 47.2249502; -93.7999449  (Schoolcraft State Park)",
     "__v": 0,
     "longitudeLatitude": [
       -93.8049416,
@@ -40227,7 +40227,7 @@
     "location": "Kandiyohi",
     "state": "Minnesota",
     "imageURL": null,
-    "remarks": "45\u00b019\u203211\u2033N 95\u00b001\u203223\u2033W  /  45.3196867\u00b0N 95.0230696\u00b0W  / 45.3196867; -95.0230696  (Sibley State Park)",
+    "remarks": "45°19′11″N 95°01′23″W  /  45.3196867°N 95.0230696°W  / 45.3196867; -95.0230696  (Sibley State Park)",
     "__v": 0,
     "longitudeLatitude": [
       -95.0486557,
@@ -40242,7 +40242,7 @@
     "location": "St. Louis",
     "state": "Minnesota",
     "imageURL": null,
-    "remarks": "47\u00b049\u203229\u2033N 92\u00b015\u203223\u2033W  /  47.8246403\u00b0N 92.2562691\u00b0W  / 47.8246403; -92.2562691  (Soudan Underground Mine State Park)",
+    "remarks": "47°49′29″N 92°15′23″W  /  47.8246403°N 92.2562691°W  / 47.8246403; -92.2562691  (Soudan Underground Mine State Park)",
     "__v": 0,
     "longitudeLatitude": [
       -92.2416908,
@@ -40257,7 +40257,7 @@
     "location": "Pipestone",
     "state": "Minnesota",
     "imageURL": null,
-    "remarks": "43\u00b053\u203253\u2033N 96\u00b021\u203251\u2033W  /  43.8980264\u00b0N 96.3642032\u00b0W  / 43.8980264; -96.3642032  (Split Rock Creek State Park)",
+    "remarks": "43°53′53″N 96°21′51″W  /  43.8980264°N 96.3642032°W  / 43.8980264; -96.3642032  (Split Rock Creek State Park)",
     "__v": 0,
     "longitudeLatitude": [
       -96.3668441,
@@ -40272,7 +40272,7 @@
     "location": "Lake",
     "state": "Minnesota",
     "imageURL": null,
-    "remarks": "47\u00b011\u203232\u2033N 91\u00b023\u203235\u2033W  /  47.1921472\u00b0N 91.3929484\u00b0W  / 47.1921472; -91.3929484  (Split Rock Lighthouse State Park)",
+    "remarks": "47°11′32″N 91°23′35″W  /  47.1921472°N 91.3929484°W  / 47.1921472; -91.3929484  (Split Rock Lighthouse State Park)",
     "__v": 0,
     "longitudeLatitude": [
       -91.395298,
@@ -40287,7 +40287,7 @@
     "location": "Cook",
     "state": "Minnesota",
     "imageURL": null,
-    "remarks": "47\u00b033\u203216\u2033N 90\u00b052\u203221\u2033W  /  47.5543466\u00b0N 90.8723722\u00b0W  / 47.5543466; -90.8723722  (Temperance River State Park)",
+    "remarks": "47°33′16″N 90°52′21″W  /  47.5543466°N 90.8723722°W  / 47.5543466; -90.8723722  (Temperance River State Park)",
     "__v": 0,
     "longitudeLatitude": [
       -90.871819,
@@ -40302,7 +40302,7 @@
     "location": "Lake",
     "state": "Minnesota",
     "imageURL": null,
-    "remarks": "47\u00b021\u203232\u2033N 91\u00b015\u203251\u2033W  /  47.358806\u00b0N 91.2640506\u00b0W  / 47.358806; -91.2640506  (Tettegouche State Park)",
+    "remarks": "47°21′32″N 91°15′51″W  /  47.358806°N 91.2640506°W  / 47.358806; -91.2640506  (Tettegouche State Park)",
     "__v": 0,
     "longitudeLatitude": [
       -91.206949,
@@ -40317,7 +40317,7 @@
     "location": "Yellow Medicine",
     "state": "Minnesota",
     "imageURL": null,
-    "remarks": "44\u00b044\u203217\u2033N 95\u00b027\u203214\u2033W  /  44.7380132\u00b0N 95.4539039\u00b0W  / 44.7380132; -95.4539039  (Upper Sioux Agency State Park)",
+    "remarks": "44°44′17″N 95°27′14″W  /  44.7380132°N 95.4539039°W  / 44.7380132; -95.4539039  (Upper Sioux Agency State Park)",
     "__v": 0,
     "longitudeLatitude": [
       -95.4601579,
@@ -40332,7 +40332,7 @@
     "location": "Winona",
     "state": "Minnesota",
     "imageURL": null,
-    "remarks": "44\u00b003\u203230\u2033N 92\u00b003\u203232\u2033W  /  44.058297\u00b0N 92.0587726\u00b0W  / 44.058297; -92.0587726  (Whitewater State Park)",
+    "remarks": "44°03′30″N 92°03′32″W  /  44.058297°N 92.0587726°W  / 44.058297; -92.0587726  (Whitewater State Park)",
     "__v": 0,
     "longitudeLatitude": [
       -92.04454199999999,
@@ -40347,7 +40347,7 @@
     "location": "Chisago",
     "state": "Minnesota",
     "imageURL": null,
-    "remarks": "45\u00b034\u203205\u2033N 92\u00b052\u203233\u2033W  /  45.5680159\u00b0N 92.8757696\u00b0W  / 45.5680159; -92.8757696  (Wild River State Park)",
+    "remarks": "45°34′05″N 92°52′33″W  /  45.5680159°N 92.8757696°W  / 45.5680159; -92.8757696  (Wild River State Park)",
     "__v": 0,
     "longitudeLatitude": [
       -92.7490594,
@@ -40362,7 +40362,7 @@
     "location": "Washington",
     "state": "Minnesota",
     "imageURL": null,
-    "remarks": "45\u00b013\u203210\u2033N 92\u00b045\u203258\u2033W  /  45.2194109\u00b0N 92.7660423\u00b0W  / 45.2194109; -92.7660423  (William O'Brien State Park)",
+    "remarks": "45°13′10″N 92°45′58″W  /  45.2194109°N 92.7660423°W  / 45.2194109; -92.7660423  (William O'Brien State Park)",
     "__v": 0,
     "longitudeLatitude": [
       -92.7802486,
@@ -40377,7 +40377,7 @@
     "location": "Lake of the Woods",
     "state": "Minnesota",
     "imageURL": null,
-    "remarks": "48\u00b051\u203250\u2033N 94\u00b051\u203234\u2033W  /  48.8638742\u00b0N 94.8593862\u00b0W  / 48.8638742; -94.8593862  (Zippel Bay State Park)",
+    "remarks": "48°51′50″N 94°51′34″W  /  48.8638742°N 94.8593862°W  / 48.8638742; -94.8593862  (Zippel Bay State Park)",
     "__v": 0,
     "longitudeLatitude": [
       -94.84966000000001,
@@ -42383,7 +42383,7 @@
   {
     "country": "USA",
     "_id": "5b53cd830226b800147f3845",
-    "name": "Ukiah\u2013Dale Forest State Scenic Corridor",
+    "name": "Ukiah–Dale Forest State Scenic Corridor",
     "location": "Eastern Oregon",
     "state": "Oregon",
     "imageURL": null,
@@ -43748,7 +43748,7 @@
   {
     "country": "USA",
     "_id": "5b53cd840226b800147f38a0",
-    "name": "Banks\u2013Vernonia State Trail",
+    "name": "Banks–Vernonia State Trail",
     "location": "Portland/Columbia Gorge",
     "state": "Oregon",
     "imageURL": null,
@@ -47214,7 +47214,7 @@
     "country": "USA",
     "_id": "5b53cd890226b800147f3cd9",
     "name": "Babcock",
-    "location": "Fayette 37\u00b059\u203238\u2033N 80\u00b058\u203216\u2033W  /  37.99389\u00b0N 80.97111\u00b0W  / 37.99389; -80.97111  (Babcock State Park)",
+    "location": "Fayette",
     "state": "West Virginia",
     "imageURL": null,
     "remarks": "Named for previous owner Edward V. Babcock, the park contains two architectural landmarks: its administration building, one of the major Civilian Conservation Corps (CCC) accomplishments in West Virginia, and Glade Creek Grist Mill, one of the most photographed structures in West Virginia. Completed in 1976, the mill is a working monument to the more than 500 mills formerly located in the state.",
@@ -47229,7 +47229,7 @@
     "country": "USA",
     "_id": "5b53cd890226b800147f3cda",
     "name": "Beartown",
-    "location": "Greenbrier and Pocahontas 38\u00b003\u203208\u2033N 80\u00b016\u203235\u2033W  /  38.05222\u00b0N 80.27639\u00b0W  / 38.05222; -80.27639  (Beartown State Park)",
+    "location": "Greenbrier and Pocahontas",
     "state": "West Virginia",
     "imageURL": null,
     "remarks": "Trails wind through a network of crevices between massive fragmented boulders, which are a part of the \"Droop Sandstone\" formation. Large elephant ear lichens (Lobaria pulmonaria) in the \"Big Beartown\" section of the park are more than 500 years old.",
@@ -47244,7 +47244,7 @@
     "country": "USA",
     "_id": "5b53cd890226b800147f3cdc",
     "name": "Berkeley Springs",
-    "location": "Morgan39\u00b037\u203235\u2033N 78\u00b013\u203245\u2033W  /  39.62639\u00b0N 78.22917\u00b0W  / 39.62639; -78.22917  (Berkeley Springs State Park)",
+    "location": "Morgan",
     "state": "West Virginia",
     "imageURL": null,
     "remarks": "Listed on the National Register of Historic Places (NRHP).The park's springs, held in trust for the public since 1776, were known by European settlers as early as 1736 and were frequented by Lord Fairfax and George Washington. The temperature of the spring water remains at a constant 74.3 degrees Fahrenheit (23.5 degrees Celsius).",
@@ -47259,7 +47259,7 @@
     "country": "USA",
     "_id": "5b53cd890226b800147f3cdd",
     "name": "Blackwater Falls",
-    "location": "Tucker39\u00b006\u203243\u2033N 79\u00b029\u203243\u2033W  /  39.11194\u00b0N 79.49528\u00b0W  / 39.11194; -79.49528  (Blackwater Falls State Park)",
+    "location": "Tucker",
     "state": "West Virginia",
     "imageURL": null,
     "remarks": "Major attractions include 63-foot (19 m) Blackwater Falls, 8-mile (13 km) Blackwater Canyon, Elakala Falls on Shays Run, and Pendleton Falls on Pendleton Run. The park's original forests were completely lumbered by 1924, and the current secondary forests were spurred by a CCC reforestation program in the 1930s.",
@@ -47274,10 +47274,10 @@
     "country": "USA",
     "_id": "5b53cd890226b800147f3cde",
     "name": "BlennerhassettIsland Historical",
-    "location": "Wood39\u00b016\u203216\u2033N 81\u00b037\u203234\u2033W  /  39.27111\u00b0N 81.62611\u00b0W  / 39.27111; -81.62611  (Blackwater Falls State Park)",
+    "location": "Wood",
     "state": "West Virginia",
     "imageURL": null,
-    "remarks": "The park is divided between two facilities: a museum in Parkersburg and 511-acre (207 ha) Blennerhassett Island, which contains the reconstructed (1984\u20131991) Palladian-style Blennerhassett Mansion, originally completed in 1800. The island is accessible by paddle steamers May through October and is listed on the NRHP.",
+    "remarks": "The park is divided between two facilities: a museum in Parkersburg and 511-acre (207 ha) Blennerhassett Island, which contains the reconstructed (1984–1991) Palladian-style Blennerhassett Mansion, originally completed in 1800. The island is accessible by paddle steamers May through October and is listed on the NRHP.",
     "__v": 0,
     "longitudeLatitude": [
       -81.6322776,
@@ -47289,10 +47289,10 @@
     "country": "USA",
     "_id": "5b53cd890226b800147f3ce0",
     "name": "Cacapon Resort",
-    "location": "Morgan 39\u00b031\u203206\u2033N 78\u00b018\u203234\u2033W  /  39.51833\u00b0N 78.30944\u00b0W  / 39.51833; -78.30944  (Cacapon Resort State Park)",
+    "location": "Morgan",
     "state": "West Virginia",
     "imageURL": null,
-    "remarks": "Initially constructed by the CCC beginning in 1937, with facility expansions in the 1950s and the addition of a Robert Trent Jones golf course in 1973, the park is considered a showcase of the state park system due its proximity to the Baltimore\u2013Washington metropolitan area. The state park system\u2019s first wobble clay shooting range was opened here in 2007.",
+    "remarks": "Initially constructed by the CCC beginning in 1937, with facility expansions in the 1950s and the addition of a Robert Trent Jones golf course in 1973, the park is considered a showcase of the state park system due its proximity to the Baltimore–Washington metropolitan area. The state park system’s first wobble clay shooting range was opened here in 2007.",
     "__v": 0,
     "longitudeLatitude": [
       -78.30525039999999,
@@ -47304,7 +47304,7 @@
     "country": "USA",
     "_id": "5b53cd890226b800147f3ce3",
     "name": "Carnifex FerryBattlefield",
-    "location": "Nicholas 38\u00b012\u203232\u2033N 80\u00b056\u203222\u2033W  /  38.20889\u00b0N 80.93944\u00b0W  / 38.20889; -80.93944  (Carnifex Ferry Battlefield State Park)",
+    "location": "Nicholas",
     "state": "West Virginia",
     "imageURL": null,
     "remarks": "Site of 1861 American Civil War Battle of Carnifex Ferry, which secured Union control of western Virginia and eventually led to the formation of West Virginia. The park, which includes Patteson House, a restored mid-19th-century farmhouse, is listed on the NRHP.",
@@ -47319,7 +47319,7 @@
     "country": "USA",
     "_id": "5b53cd890226b800147f3ce4",
     "name": "Cass ScenicRailroad",
-    "location": "Pocahontas 38\u00b026\u203255\u2033N 79\u00b055\u203238\u2033W  /  38.44861\u00b0N 79.92722\u00b0W  / 38.44861; -79.92722  (Cass Scenic Railroad State Park)",
+    "location": "Pocahontas",
     "state": "West Virginia",
     "imageURL": null,
     "remarks": "A former logging spur, the park's scenic railroad climbs West Virginia's second-tallest peak, Bald Knob. In addition to the railroad, the state acquired the town of Cass and restored 13 of its former company houses as rental units for park visitors, creating West Virginia's only restored company town complete with the Cass Country Store. The park is listed on the NRHP.",
@@ -47334,7 +47334,7 @@
     "country": "USA",
     "_id": "5b53cd890226b800147f3ce5",
     "name": "Cathedral",
-    "location": "Preston 39\u00b019\u203235\u2033N 79\u00b032\u203219\u2033W  /  39.32639\u00b0N 79.53861\u00b0W  / 39.32639; -79.53861  (Cathedral State Park)",
+    "location": "Preston",
     "state": "West Virginia",
     "imageURL": null,
     "remarks": "Formerly known as Brookside Woods, the park is a 133-acre (54 ha) stand of uncut old-growth forest and contains the only remaining stand of virgin Eastern hemlock (Tsuga canadensis) in West Virginia. The park is entirely contained within the Brookside Historic District, which is listed on the NRHP. It was also designated a National Natural Landmark by the National Park Service.",
@@ -47349,7 +47349,7 @@
     "country": "USA",
     "_id": "5b53cd890226b800147f3ce7",
     "name": "Chief Logan",
-    "location": "Logan 37\u00b053\u203257\u2033N 82\u00b000\u203246\u2033W  /  37.89917\u00b0N 82.01278\u00b0W  / 37.89917; -82.01278  (Chief Logan State Park)",
+    "location": "Logan",
     "state": "West Virginia",
     "imageURL": null,
     "remarks": "Formerly a part of the Merrill Coal Company camp, now minus the camp's houses, mining equipment, and tipple. Performed at the park is The Aracoma Story, a historical drama about Aracoma, the daughter of Cornstalk, and the Shawnee tribespeople who lived at the present-day location.",
@@ -47364,7 +47364,7 @@
     "country": "USA",
     "_id": "5b53cd890226b800147f3ce8",
     "name": "Droop MountainBattlefield",
-    "location": "Pocahontas 38\u00b006\u203243\u2033N 80\u00b016\u203217\u2033W  /  38.11194\u00b0N 80.27139\u00b0W  / 38.11194; -80.27139  (Droop Mountain Battlefield State Park)",
+    "location": "Pocahontas",
     "state": "West Virginia",
     "imageURL": null,
     "remarks": "Site of the one of West Virginia's largest engagements during the American Civil War, and listed on the NRHP. Dedicated on July 4, 1929, it was the first state park established in West Virginia. In 1935, the CCC built the park's iconic wooden observation tower and a rental cabin that now serves as a museum.",
@@ -47379,7 +47379,7 @@
     "country": "USA",
     "_id": "5b53cd890226b800147f3ce9",
     "name": "Fairfax StoneHistoricalMonument",
-    "location": "Grant, Preston, and Tucker 39\u00b011\u203242\u2033N 79\u00b029\u203214\u2033W  /  39.19500\u00b0N 79.48722\u00b0W  / 39.19500; -79.48722  (Fairfax Stone Historical Monument State Park)",
+    "location": "Grant, Preston, and Tucker",
     "state": "West Virginia",
     "imageURL": null,
     "remarks": "The park contains the Fairfax Stone historic marker, which traditionally marked the western boundary of Lord Fairfax's Northern Neck Proprietary and is responsible for the present-day boundary between Maryland and West Virginia. The park is listed on the NRHP.",
@@ -47394,7 +47394,7 @@
     "country": "USA",
     "_id": "5b53cd890226b800147f3ceb",
     "name": "Hawks Nest",
-    "location": "Fayette 38\u00b007\u203226\u2033N 81\u00b007\u203208\u2033W  /  38.12389\u00b0N 81.11889\u00b0W  / 38.12389; -81.11889  (Hawks Nest State Park)",
+    "location": "Fayette",
     "state": "West Virginia",
     "imageURL": null,
     "remarks": "Planned by the NPS and built by the CCC, the park features an aerial tramway to a marina on the New River, and its overlook allows for panoramic views of New River Gorge. Its lodge was designed by The Architects Collaborative (TAC). A 71-acre (29 ha) historic district containing the park's CCC resources is listed on the NRHP.",
@@ -47409,7 +47409,7 @@
     "country": "USA",
     "_id": "5b53cd890226b800147f3cec",
     "name": "Holly River",
-    "location": "Webster 38\u00b039\u203253\u2033N 80\u00b020\u203204\u2033W  /  38.66472\u00b0N 80.33444\u00b0W  / 38.66472; -80.33444  (Holly River State Park)",
+    "location": "Webster",
     "state": "West Virginia",
     "imageURL": null,
     "remarks": "The park's land was salvaged in 1937 following its purchase by the Farm Security Administration (FSA) for the purposes of reforestation and stream reclamation following extensive logging operations in the area. The park's historic district containing 93 Works Progress Administration (WPA) resources was listed on the NRHP.",
@@ -47424,7 +47424,7 @@
     "country": "USA",
     "_id": "5b53cd890226b800147f3ced",
     "name": "Little Beaver",
-    "location": "Raleigh 37\u00b044\u203242\u2033N 81\u00b005\u203202\u2033W  /  37.74500\u00b0N 81.08389\u00b0W  / 37.74500; -81.08389  (Little Beaver State Park)",
+    "location": "Raleigh",
     "state": "West Virginia",
     "imageURL": null,
     "remarks": "Originally developed as a Raleigh County recreation area by the CCC in the late 1930s. Used as a county 4-H camp from 1941 to 1965. The park's lake was created in 1941 when the CCC and WPA constructed the 400-foot (122 m) Little Beaver Dam on Little Beaver Creek.",
@@ -47439,7 +47439,7 @@
     "country": "USA",
     "_id": "5b53cd890226b800147f3cee",
     "name": "Lost River",
-    "location": "Hardy 38\u00b055\u203222\u2033N 78\u00b053\u203222\u2033W  /  38.92278\u00b0N 78.88944\u00b0W  / 38.92278; -78.88944  (Lost River State Park)",
+    "location": "Hardy",
     "state": "West Virginia",
     "imageURL": null,
     "remarks": "Henry Lee III received this land in 1796 for his American Revolutionary War service. His son Charles Carter Lee founded Hardy White Sulphur Springs resort here in 1852. Later renamed Lee White Sulphur Springs, it burned down in 1910. The state acquired the land in 1934, and the NPS and CCC developed the park and its recreational facilities. The park's 142 CCC resources and its Lighthorse Harry Lee Cabin (c. 1800) are listed on the NRHP.",
@@ -47454,7 +47454,7 @@
     "country": "USA",
     "_id": "5b53cd890226b800147f3cef",
     "name": "Moncove Lake",
-    "location": "Monroe 37\u00b037\u203219\u2033N 80\u00b021\u203204\u2033W  /  37.62194\u00b0N 80.35111\u00b0W  / 37.62194; -80.35111  (Moncove Lake State Park)",
+    "location": "Monroe",
     "state": "West Virginia",
     "imageURL": null,
     "remarks": "The park's 144-acre (58 ha) Moncove Lake was created in 1960 by the 1959 impoundment of Devil Creek. Formerly a wildlife management area, the park is located under an autumn flyway for migrating raptors, including broad-winged hawks (Buteo platypterus).",
@@ -47469,7 +47469,7 @@
     "country": "USA",
     "_id": "5b53cd890226b800147f3cf0",
     "name": "North Bend",
-    "location": "Ritchie 39\u00b013\u203223\u2033N 81\u00b006\u203237\u2033W  /  39.22306\u00b0N 81.11028\u00b0W  / 39.22306; -81.11028  (North Bend State Park)",
+    "location": "Ritchie",
     "state": "West Virginia",
     "imageURL": null,
     "remarks": "Named through a contest sponsored by the Ritchie Gazette in the 1950s, the park features the \"Extra Mile Trail\" for the disabled and hosts the annual International Sports Jamboree for physically or visually challenged athletes. The park's 305-acre (123 ha) North Bend Lake was created by an impoundment on the North Fork Hughes River in 2002.",
@@ -47484,7 +47484,7 @@
     "country": "USA",
     "_id": "5b53cd890226b800147f3cf1",
     "name": "North BendRail Trail",
-    "location": "Doddridge, Harrison, Ritchie, and Wood39\u00b017\u203206\u2033N 80\u00b058\u203214\u2033W  /  39.28500\u00b0N 80.97056\u00b0W  / 39.28500; -80.97056  (North Bend Rail Trail)",
+    "location": "Doddridge, Harrison, Ritchie, and Wood",
     "state": "West Virginia",
     "imageURL": null,
     "remarks": "Consists of a 72-mile (116 km) section of an abandoned spur of the CSX Transportation system between Parkersburg and Wolf Summit. Passes through 13 tunnels and over 36 bridges, and is part of the 5,500-mile (8,851 km) American Discovery Trail. The longest tunnel is the 2,207-foot (673 m) Tunnel No. 6 between West Union and Central Station.",
@@ -47499,7 +47499,7 @@
     "country": "USA",
     "_id": "5b53cd890226b800147f3cf3",
     "name": "Pipestem Resort",
-    "location": "Mercer and Summers37\u00b032\u203223\u2033N 80\u00b059\u203239\u2033W  /  37.53972\u00b0N 80.99417\u00b0W  / 37.53972; -80.99417  (Pipestem Resort State Park)",
+    "location": "Mercer and Summers",
     "state": "West Virginia",
     "imageURL": null,
     "remarks": "Named for the pipestem bush (Spiraea alba). Considered the \"crown jewel\" of the state park system upon its completion in 1971, it is one of three state parks, along with Twin Falls Resort and Canaan Valley Resort, to receive funding from the EDA. The park has a seasonal aerial tramway between the rim and floor of Bluestone Canyon, which features a vertical drop of approximately 1,200 feet (366 m).",
@@ -47514,7 +47514,7 @@
     "country": "USA",
     "_id": "5b53cd890226b800147f3cf4",
     "name": "Prickett's Fort",
-    "location": "Marion 39\u00b031\u203201\u2033N 80\u00b005\u203240\u2033W  /  39.51694\u00b0N 80.09444\u00b0W  / 39.51694; -80.09444  (Prickett's Fort State Park)",
+    "location": "Marion",
     "state": "West Virginia",
     "imageURL": null,
     "remarks": "Features a reconstruction of Prickett's Fort, an 18th-century fortification built to defend settlers against Native American attacks. Includes the Prickett cemetery (1772), the area's oldest burial ground. The park's Prickett's Fort and Jacob Prickett Jr. Log House are listed on the NRHP.",
@@ -47529,7 +47529,7 @@
     "country": "USA",
     "_id": "5b53cd890226b800147f3cf7",
     "name": "Tu-Endie-Wei",
-    "location": "Mason 38\u00b050\u203221\u2033N 82\u00b008\u203228\u2033W  /  38.83917\u00b0N 82.14111\u00b0W  / 38.83917; -82.14111  (Tu-Endie-Wei State Park)",
+    "location": "Mason",
     "state": "West Virginia",
     "imageURL": null,
     "remarks": "Located at the confluence of the Ohio and Kanawha rivers. Site of the only major action during Lord Dunmore's War, the Battle of Point Pleasant. Acquired by the state in 1901. The granite obelisk monument commemorating the battle was dedicated in 1909, and they were added to the state park system in 1956. The park features the Mansion House Museum (c. 1796) and a monument to Cornstalk who is buried there. The park is listed on the NRHP.",
@@ -47544,7 +47544,7 @@
     "country": "USA",
     "_id": "5b53cd890226b800147f3cf8",
     "name": "Twin Falls Resort",
-    "location": "Wyoming 37\u00b038\u203200\u2033N 81\u00b026\u203212\u2033W  /  37.63333\u00b0N 81.43667\u00b0W  / 37.63333; -81.43667  (Twin Falls Resort State Park)",
+    "location": "Wyoming",
     "state": "West Virginia",
     "imageURL": null,
     "remarks": "Named for two waterfalls about zero point five miles (0.80 km) apart: one on the Marsh Fork and one on the Black Fork of Cabin Creek. One of three resort state parks funded by the EDA along with Canaan Valley Resort and Pipestem Resort. Contains a golf course, a reconstructed pioneer homestead serving as a living museum, and a lodge designed by TAC. Its diverse species of flora reflect an overlap of northern and southern ecosystems.",
@@ -47559,7 +47559,7 @@
     "country": "USA",
     "_id": "5b53cd890226b800147f3cfb",
     "name": "Watoga",
-    "location": "Pocahontas38\u00b006\u203213\u2033N 80\u00b009\u203200\u2033W  /  38.10361\u00b0N 80.15000\u00b0W  / 38.10361; -80.15000  (Watoga State Park)",
+    "location": "Pocahontas",
     "state": "West Virginia",
     "imageURL": null,
     "remarks": "Initially developed as a state forest in 1926. One of West Virginia's first CCC camps was established here in 1933. The largest of West Virginia's state parks, it contains the 11-acre (4 ha) Watoga Lake. A historic district containing the park's 103 CCC resources is listed on the NRHP.",
@@ -47574,7 +47574,7 @@
     "country": "USA",
     "_id": "5b53cd890226b800147f3cfc",
     "name": "Watters SmithMemorial",
-    "location": "Harrison39\u00b010\u203210\u2033N 80\u00b024\u203240\u2033W  /  39.16944\u00b0N 80.41111\u00b0W  / 39.16944; -80.41111  (Watters Smith Memorial State Park)",
+    "location": "Harrison",
     "state": "West Virginia",
     "imageURL": null,
     "remarks": "Consists of the pioneer homestead of Watters Smith who moved here with his wife Elizabeth in 1796. A log cabin similar to the original was reconstructed at the park along with period farm buildings. The Smith family home (c. 1876) has also been restored as a museum. The park is listed on the NRHP.",
@@ -47589,7 +47589,7 @@
     "country": "USA",
     "_id": "5b53cd820226b800147f370a",
     "name": "Swartswood State Park",
-    "location": "Stillwater Township, Sussex County41\u00b04\u203225.07\u2033N 74\u00b049\u20327.62\u2033W  /  41.0736306\u00b0N 74.8187833\u00b0W  / 41.0736306; -74.8187833  (Swartswood State Park)",
+    "location": "Stillwater Township, Sussex County",
     "state": "New Jersey",
     "imageURL": null,
     "remarks": "New Jersey's first state park. The focus of the park was a place for recreation at the state's third-largest freshwater lake, Swartswood Lake (a glacial lake).",
@@ -47604,7 +47604,7 @@
     "country": "USA",
     "_id": "5b53cd820226b800147f3709",
     "name": "Stephens State Park",
-    "location": "near Hackettstown in Warren County; Mount Olive Township in Morris County40\u00b052\u20329.06\u2033N 74\u00b048\u203236.00\u2033W  /  40.8691833\u00b0N 74.8100000\u00b0W  / 40.8691833; -74.8100000  (Stephens State Park)",
+    "location": "near Hackettstown in Warren County; Mount Olive Township in Morris County",
     "state": "New Jersey",
     "imageURL": null,
     "remarks": "Located along Musconetcong River, features remnants of one of 23 locks and section of towpath of the Morris Canal. Highlands Trail runs through the park.",
@@ -47619,7 +47619,7 @@
     "country": "USA",
     "_id": "5b53cd820226b800147f3705",
     "name": "Pigeon Swamp State Park",
-    "location": "South Brunswick Township in Middlesex County40\u00b023\u203212.8\u2033N 74\u00b028\u203225.7\u2033W  /  40.386889\u00b0N 74.473806\u00b0W  / 40.386889; -74.473806  (Pigeon Swamp State Park)",
+    "location": "South Brunswick Township in Middlesex County",
     "state": "New Jersey",
     "imageURL": null,
     "remarks": "Located in the watershed of Lawrence Brook, an undeveloped park featuring open ponds and hardwood forests that were a major nesting site for the now-extinct passenger pigeon.",
@@ -47634,10 +47634,10 @@
     "country": "USA",
     "_id": "5b53cd820226b800147f3702",
     "name": "Long Pond Ironworks State Park",
-    "location": "Hewitt, West Milford Township in Passaic County41\u00b08\u203227.55\u2033N 74\u00b018\u203233.22\u2033W  /  41.1409861\u00b0N 74.3092278\u00b0W  / 41.1409861; -74.3092278  (Long Pond Ironworks State Park)",
+    "location": "Hewitt, West Milford Township in Passaic County",
     "state": "New Jersey",
     "imageURL": null,
-    "remarks": "Features Monksville Reservoir and ruins of Long Pond Ironworks, an eighteenth- and nineteenth-century ironworking community (1766\u20131882) along the Wanaque River.",
+    "remarks": "Features Monksville Reservoir and ruins of Long Pond Ironworks, an eighteenth- and nineteenth-century ironworking community (1766–1882) along the Wanaque River.",
     "__v": 0,
     "longitudeLatitude": [
       -74.3062877,
@@ -47649,10 +47649,10 @@
     "country": "USA",
     "_id": "5b53cd820226b800147f36fb",
     "name": "Fort Mott State Park",
-    "location": "Pennsville Township in Salem County39\u00b036\u20329.80\u2033N 75\u00b032\u203255.39\u2033W  /  39.6027222\u00b0N 75.5487194\u00b0W  / 39.6027222; -75.5487194  (Fort Mott State Park)",
+    "location": "Pennsville Township in Salem County",
     "state": "New Jersey",
     "imageURL": null,
-    "remarks": "Coastal defense battery built 1872\u20131902 to protect the Delaware River and Philadelphia after the American Civil War. Troops were stationed at site from 1897 to 1922.",
+    "remarks": "Coastal defense battery built 1872–1902 to protect the Delaware River and Philadelphia after the American Civil War. Troops were stationed at site from 1897 to 1922.",
     "__v": 0,
     "longitudeLatitude": [
       -75.5508639,
@@ -47664,7 +47664,7 @@
     "country": "USA",
     "_id": "5b53cd820226b800147f36f5",
     "name": "Cheesequake State Park",
-    "location": "Old Bridge Township in Middlesex County 40\u00b026\u20326\u2033N 74\u00b016\u203213\u2033W  /  40.43500\u00b0N 74.27028\u00b0W  / 40.43500; -74.27028  (Cheesequake State Park)",
+    "location": "Old Bridge Township in Middlesex County",
     "state": "New Jersey",
     "imageURL": null,
     "remarks": "Transitional zone between two different ecosystems featuring open fields, saltwater and freshwater marshes, Pine Barrens white cedar swamp, and northeastern hardwood forest.",
@@ -47679,7 +47679,7 @@
     "country": "USA",
     "_id": "5b53cd820226b800147f36f2",
     "name": "Barnegat Lighthouse State Park",
-    "location": "At the northern tip of Long Beach Island in Ocean County39\u00b045\u203246.91\u2033N 74\u00b06\u203228.74\u2033W  /  39.7630306\u00b0N 74.1079833\u00b0W  / 39.7630306; -74.1079833  (Barnegat Lighthouse State Park)",
+    "location": "At the northern tip of Long Beach Island in Ocean County",
     "state": "New Jersey",
     "imageURL": null,
     "remarks": "The site of Barnegat Lighthouse (1859); offers marine birdwatching and saltwater fishing, located along on New Jersey Coastal Heritage Trail Route.",
@@ -47859,7 +47859,7 @@
     "country": "USA",
     "_id": "5b53cd890226b800147f3cf9",
     "name": "Tygart Lake",
-    "location": "Barbour and Taylor39\u00b016\u203224\u2033N 80\u00b000\u203226\u2033W  /  39.27333\u00b0N 80.00722\u00b0W  / 39.27333; -80.00722  (Tygart Lake State Park)",
+    "location": "Barbour and Taylor",
     "state": "West Virginia",
     "imageURL": null,
     "remarks": "Contains the 1,750-acre (708 ha) USACE Tygart Lake, created as a result of the Public Works Administration's Tygart Dam in 1938. The dam, designed by Charles M. Wellons and Paul Philippe Cret, is listed on the NRHP.",
@@ -47874,10 +47874,10 @@
     "country": "USA",
     "_id": "5b53cd890226b800147f3cf5",
     "name": "Stonewall JacksonLake",
-    "location": "Lewis 38\u00b056\u203257\u2033N 80\u00b029\u203244\u2033W  /  38.94917\u00b0N 80.49556\u00b0W  / 38.94917; -80.49556  (Stonewall Jackson Lake State Park)",
+    "location": "Lewis",
     "state": "West Virginia",
     "imageURL": null,
-    "remarks": "Located along the 2,650-acre (1,072 ha) USACE Stonewall Jackson Lake, the park was developed, constructed, financed, and operated through a public\u2013private partnership between McCabe-Henley LP and WVDNR.",
+    "remarks": "Located along the 2,650-acre (1,072 ha) USACE Stonewall Jackson Lake, the park was developed, constructed, financed, and operated through a public–private partnership between McCabe-Henley LP and WVDNR.",
     "__v": 0,
     "longitudeLatitude": [
       -80.473889,
@@ -47889,7 +47889,7 @@
     "country": "USA",
     "_id": "5b53cd890226b800147f3cf2",
     "name": "Pinnacle Rock",
-    "location": "Mercer 37\u00b018\u203243\u2033N 81\u00b017\u203232\u2033W  /  37.31194\u00b0N 81.29222\u00b0W  / 37.31194; -81.29222  (Pinnacle Rock State Park)",
+    "location": "Mercer",
     "state": "West Virginia",
     "imageURL": null,
     "remarks": "Named for the 3,100-foot (945 m) tall Pinnacle Rock sandstone formation. Its rustic park facilities were built by the CCC in 1938 and the 15-acre (6 ha) Jimmy Lewis Lake was built between 1965 and 1968.",
@@ -47904,7 +47904,7 @@
     "country": "USA",
     "_id": "5b53cd890226b800147f3ce6",
     "name": "Cedar Creek",
-    "location": "Gilmer 38\u00b052\u203254\u2033N 80\u00b051\u203244\u2033W  /  38.88167\u00b0N 80.86222\u00b0W  / 38.88167; -80.86222  (Cedar Creek State Park)",
+    "location": "Gilmer",
     "state": "West Virginia",
     "imageURL": null,
     "remarks": "Contains two relocated structures of historic significance: the Log Cabin Service Station (1928), which now serves as the park office and nature center, and Pine Run School (1909), a one-room country schoolhouse with period furnishings.",
@@ -47919,7 +47919,7 @@
     "country": "USA",
     "_id": "5b53cd890226b800147f3ce2",
     "name": "Canaan ValleyResort",
-    "location": "Tucker 39\u00b001\u203238\u2033N 79\u00b027\u203243\u2033W  /  39.02722\u00b0N 79.46194\u00b0W  / 39.02722; -79.46194  (Canaan Valley Resort State Park)",
+    "location": "Tucker",
     "state": "West Virginia",
     "imageURL": null,
     "remarks": "One of three state parks, along with Pipestem Resort and Twin Falls Resort, planned in the 1960s with funds from the Economic Development Administration (EDA). Contains the first ski facility in West Virginia, opened in 1971.",
@@ -47934,7 +47934,7 @@
     "country": "USA",
     "_id": "5b53cd890226b800147f3cd8",
     "name": "Audra",
-    "location": "Barbour and Upshur 39\u00b002\u203225\u2033N 80\u00b003\u203255\u2033W  /  39.04028\u00b0N 80.06528\u00b0W  / 39.04028; -80.06528  (Audra State Park)",
+    "location": "Barbour and Upshur",
     "state": "West Virginia",
     "imageURL": null,
     "remarks": "Former site of the commercial logging town of Audra and of Barbour County's first 4-H camp. The park's Alum Cave is formed at the base of a sandstone formation, where it makes contact with pyritiferous shale.",
@@ -48667,18 +48667,6 @@
   },
   {
     "country": "USA",
-    "_id": "5b53cd7e0226b800147f32e7",
-    "name": "Lake Louise State Recreation Area",
-    "state": "Alaska",
-    "__v": 0,
-    "longitudeLatitude": [
-      -146.5429268,
-      62.2811914
-    ],
-    "address": "Lake Louise Recreation Area Rd, Glennallen, AK 99588, USA"
-  },
-  {
-    "country": "USA",
     "_id": "5b53cd7e0226b800147f32e6",
     "name": "Dry Creek State Recreation Site",
     "state": "Alaska",
@@ -48704,7 +48692,7 @@
   {
     "country": "USA",
     "_id": "5b53cd7b0226b800147f3170",
-    "name": "Ulu P\u014d Heiau State Monument",
+    "name": "Ulu Pō Heiau State Monument",
     "state": "Hawaii",
     "__v": 0,
     "longitudeLatitude": [
@@ -48835,36 +48823,6 @@
   },
   {
     "country": "USA",
-    "_id": "5b63b465d8c5bb70cfe4e24d",
-    "name": "Chesapeake Bay",
-    "location": "The Chesapeake Bay main office is in the Eastport neighborhood of Annapolis. Use the Rowe Boulevard exit off of Route 50 to enter the city of Annapolis. Drive along Rowe Boulevard and turn slightly right toward Northwest Street. Turn slightly left onto Northwest Street. Turn right onto Church Circle and use the right two lanes to turn right onto Duke of Gloucester Street. At dead-end, turn right onto the Sixth Street bridge. At traffic light, turn left onto Severn Avenue. The office building is on the left. https://www.nps.gov/chba/planyourvisit/directions-and-transportation.htm",
-    "longitudeLatitude": [
-      -76.483355,
-      38.971601
-    ],
-    "address": "410 Severn Avenue Suite 314, Annapolis, MD, 21403",
-    "state": "Delaware",
-    "imageURL": "https://www.nps.gov/common/uploads/structured_data/3C825EB4-1DD8-B71B-0BCF3FF1FE0211DA.jpg",
-    "remarks": "NPS helps you learn about and enjoy the Chesapeake Bay, the largest estuary in North America. \n\nHere, you can visit major league cities, colonial towns, American Indian landscapes, farms and fishing villages. You can learn to kayak, pick crabs, go fishing, tour a lighthouse, slurp oysters, and slow down to enjoy the natural beauty of the Chesapeake. https://www.nps.gov/cbpo/index.htm",
-    "__v": 0
-  },
-  {
-    "country": "USA",
-    "_id": "5b63b465d8c5bb70cfe4e25a",
-    "name": "Natchez Trace Parkway",
-    "location": "Directions to the Natchez Trace Parkway vary greatly depending on what part of the tri-state Parkway you are trying to reach. There are more than 50 roads that access the Parkway in Tennessee, Alabama, and Mississippi. For specific questions concerning how to get to a certain portion of the Parkway, please call the Visitor Center at 1-800-305-7417. http://www.nps.gov/natr/planyourvisit/directions.htm",
-    "longitudeLatitude": [
-      -89.03092439,
-      33.78002293
-    ],
-    "address": "2680 Natchez Trace Parkway , Tupelo, MS, 38804",
-    "state": "Alabama",
-    "imageURL": "https://www.nps.gov/common/uploads/structured_data/3C7FF945-1DD8-B71B-0B72BD6958885204.jpg",
-    "remarks": "The Natchez Trace Parkway is a 444-mile recreational road and scenic drive through three states. It roughly follows the \"Old Natchez Trace\" a historic travel corridor used by American Indians, \"Kaintucks,\" European settlers, slave traders, soldiers, and future presidents. Today, people can enjoy not only a scenic drive but also hiking, biking, horseback riding, and camping along the parkway. https://www.nps.gov/natr/index.htm",
-    "__v": 0
-  },
-  {
-    "country": "USA",
     "_id": "5b63b465d8c5bb70cfe4e260",
     "name": "Alagnak Wild River",
     "location": "Alagnak Wild River is located in a remote part of the Alaska Peninsula, about 290 miles southwest of Anchorage. Access is by boat or small floatplane. http://www.nps.gov/alag/planyourvisit/directions.htm",
@@ -48880,18 +48838,6 @@
   },
   {
     "country": "USA",
-    "_id": "5b63b465d8c5bb70cfe4e261",
-    "name": "Alaska Public Lands",
-    "location": "Anchorage APLIC is located in downtown Anchorage on 4th Avenue, in the Federal Building. http://alaskacenters.gov/anchorage-directions.cfm",
-    "longitudeLatitude": null,
-    "address": "605 West 4th Avenue Suite 105, Anchorage, AK, 99501",
-    "state": "Alaska",
-    "imageURL": "https://www.nps.gov/common/uploads/structured_data/3C860F61-1DD8-B71B-0B4E7399BE80347C.jpg",
-    "remarks": "Alaska\u2019s parks, forests and refuges are rich and varied. The Anchorage Interagency Visitor Center helps visitors and residents to have meaningful, safe, enjoyable experiences on public lands, and encourages them to sustain the natural and cultural resources of Alaska. This center and three others statewide provide trip-planning, interpretation, and education for all ages. https://www.nps.gov/anch/index.htm",
-    "__v": 0
-  },
-  {
-    "country": "USA",
     "_id": "5b63b465d8c5bb70cfe4e269",
     "name": "I&#241;upiat Heritage Center",
     "location": "The Inupiat Heritage Center is located in Barrow, Alaska, the largest city in the North Slope Borough and the northernmost city in the United States. Barrow can be reached via commercial and charter flights from Anchorage and Fairbanks. http://www.nps.gov/inup/planyourvisit/directions.htm",
@@ -48902,7 +48848,7 @@
     "address": "P.O Box 69 , Barrow, AK, 99723",
     "state": "Alaska",
     "imageURL": "https://www.nps.gov/common/uploads/structured_data/3C8130DF-1DD8-B71B-0B99B1F06EB07E76.jpg",
-    "remarks": "On the rooftop of the world, the I\u00f1upiat Heritage Center in Barrow, Alaska, tells the story of the I\u00f1upiat people. They have thrived for thousands of years in one of the harshest climates on Earth, hunting the bowhead, or \"Agviq.\" In the 19th century, these lonely seas swarmed with commercial whalemen from New England, who also sought the bowhead for its valuable baleen and blubber. https://www.nps.gov/inup/index.htm",
+    "remarks": "On the rooftop of the world, the Iñupiat Heritage Center in Barrow, Alaska, tells the story of the Iñupiat people. They have thrived for thousands of years in one of the harshest climates on Earth, hunting the bowhead, or \"Agviq.\" In the 19th century, these lonely seas swarmed with commercial whalemen from New England, who also sought the bowhead for its valuable baleen and blubber. https://www.nps.gov/inup/index.htm",
     "__v": 0
   },
   {
@@ -48917,7 +48863,7 @@
     "address": "Alcatraz Island Golden Gate National Recreation Area, San Francisco, CA, 94123",
     "state": "California",
     "imageURL": "https://www.nps.gov/common/uploads/structured_data/3C8747FB-1DD8-B71B-0B28706835D9F177.jpg",
-    "remarks": "Alcatraz Island offers a close-up look at the site of the first lighthouse and US built fort on the West Coast, the infamous federal penitentiary long off-limits to the public, and the history making 18 month occupation by Indians of All Tribes. Rich in history, there is also a natural side to the Rock\u2014gardens, tide pools, bird colonies, and bay views beyond compare. https://www.nps.gov/alca/index.htm",
+    "remarks": "Alcatraz Island offers a close-up look at the site of the first lighthouse and US built fort on the West Coast, the infamous federal penitentiary long off-limits to the public, and the history making 18 month occupation by Indians of All Tribes. Rich in history, there is also a natural side to the Rock—gardens, tide pools, bird colonies, and bay views beyond compare. https://www.nps.gov/alca/index.htm",
     "__v": 0
   },
   {
@@ -48952,21 +48898,6 @@
   },
   {
     "country": "USA",
-    "_id": "5b63b465d8c5bb70cfe4e2b9",
-    "name": "Baltimore-Washington Parkway",
-    "location": "This 29-mile highway connects Baltimore, MD and Washington, D.C http://www.nps.gov/bawa/planyourvisit/directions.htm",
-    "longitudeLatitude": [
-      -76.85410921,
-      39.02604289
-    ],
-    "address": "6565 Greenbelt Road , Greenbelt, MD, 20770",
-    "state": "Maryland",
-    "imageURL": "https://www.nps.gov/common/uploads/structured_data/3C7F83E6-1DD8-B71B-0BD4AB5763204C1E.jpg",
-    "remarks": "This 29-mile highway connects Baltimore, MD and Washington, D.C. The parkway has carried visitors to and from the capital city since 1954. https://www.nps.gov/bawa/index.htm",
-    "__v": 0
-  },
-  {
-    "country": "USA",
     "_id": "5b63b465d8c5bb70cfe4e2bb",
     "name": "Catoctin Mountain Park",
     "location": "To reach the visitor center from the east, follow US Route 15 to MD Route 77 and go west about 3 miles.  The visitor center is on the right side of the road.  From the west, take I 70 to MD 66 at exit 35.  Turn left onto MD 66 north and travel about 5 miles, passing through the roundabout.  Turn right onto MD 64 and drive 1 mile.  Turn right onto MD 77.  Drive on MD 77 about 7.5 miles.  The visitor center is on the left. http://www.nps.gov/cato/planyourvisit/directions.htm",
@@ -48978,51 +48909,6 @@
     "state": "Maryland",
     "imageURL": "https://www.nps.gov/common/uploads/structured_data/3C7F62BC-1DD8-B71B-0BECAED2A35E0591.jpg",
     "remarks": "President Franklin D. Roosevelt created programs to give people a chance to rebuild their lives from the Great Depression. The Works Progress Administration and the Civilian Conservation Corps gave this land a second opportunity and through re-growth, a new role as a recreation area. https://www.nps.gov/cato/index.htm",
-    "__v": 0
-  },
-  {
-    "country": "USA",
-    "_id": "5b63b465d8c5bb70cfe4e2bd",
-    "name": "Chesapeake Bay",
-    "location": "The Chesapeake Bay main office is in the Eastport neighborhood of Annapolis. Use the Rowe Boulevard exit off of Route 50 to enter the city of Annapolis. Drive along Rowe Boulevard and turn slightly right toward Northwest Street. Turn slightly left onto Northwest Street. Turn right onto Church Circle and use the right two lanes to turn right onto Duke of Gloucester Street. At dead-end, turn right onto the Sixth Street bridge. At traffic light, turn left onto Severn Avenue. The office building is on the left. https://www.nps.gov/chba/planyourvisit/directions-and-transportation.htm",
-    "longitudeLatitude": [
-      -76.483355,
-      38.971601
-    ],
-    "address": "410 Severn Avenue Suite 314, Annapolis, MD, 21403",
-    "state": "Maryland",
-    "imageURL": "https://www.nps.gov/common/uploads/structured_data/3C825EB4-1DD8-B71B-0BCF3FF1FE0211DA.jpg",
-    "remarks": "NPS helps you learn about and enjoy the Chesapeake Bay, the largest estuary in North America. \n\nHere, you can visit major league cities, colonial towns, American Indian landscapes, farms and fishing villages. You can learn to kayak, pick crabs, go fishing, tour a lighthouse, slurp oysters, and slow down to enjoy the natural beauty of the Chesapeake. https://www.nps.gov/cbpo/index.htm",
-    "__v": 0
-  },
-  {
-    "country": "USA",
-    "_id": "5b63b465d8c5bb70cfe4e2be",
-    "name": "Chesapeake Bay Gateways and Watertrails Network",
-    "location": " ",
-    "longitudeLatitude": [
-      -76.4834695,
-      38.9715758
-    ],
-    "address": "410 Severn Ave, Annapolis, MD 21403, USA",
-    "state": "Maryland",
-    "imageURL": null,
-    "remarks": "The Chesapeake Bay Gateways and Watertrails Network connects you with the natural and cultural heritage of the Chesapeake Bay watershed through more than 170 exceptional parks, wildlife refuges, museums, sailing ships, historic communities, trails and more. Gateways Network partner sites and water trails are the special places where you can experience the authentic Chesapeake. https://www.nps.gov/cbgn/index.htm",
-    "__v": 0
-  },
-  {
-    "country": "USA",
-    "_id": "5b63b465d8c5bb70cfe4e2bf",
-    "name": "Civil War Defenses of Washington",
-    "location": "Please call 202-829-4650. Directions vary based on your preference of site. http://www.nps.gov/cwdw/index.htm",
-    "longitudeLatitude": [
-      -77.04998374,
-      38.93596206
-    ],
-    "address": "Civil War Defenses of Washington 3545 Williamsburg Lane N.W., Washington, DC, 200008",
-    "state": "Maryland",
-    "imageURL": "https://www.nps.gov/common/uploads/structured_data/3C82F2B8-1DD8-B71B-0BEE3AC8B175885F.jpg",
-    "remarks": "On forested hills surrounding the nation's capital are the remnants of a complex system of Civil War fortifications. Built by Union forces, these strategic buttresses transformed the young capital into one of the world's most fortified cities. This month, we will feature Fort Totten, part of the Northern Defenses and engaged during the Battle of Fort Stevens. https://www.nps.gov/cwdw/index.htm",
     "__v": 0
   },
   {
@@ -49044,7 +48930,7 @@
     "country": "USA",
     "_id": "5b63b465d8c5bb70cfe4e2c3",
     "name": "Fort Washington Park",
-    "location": "From I-95/495 take exit 3, Indian Head Highway South/MD 210. Travel about 4 miles to Fort Washington Road, turn right. The park is located at the end of the road.\n\nFrom Waldorf, MD: MD228 to Indian Head Highway/MD210 North. Turn left onto Old Fort Road. Continue to end of road, at the stop sign turn left onto Fort Washington Road, continue to park entrance. http://www.nps.gov/fowa/planyourvisit/directions.htm",
+    "location": "",
     "longitudeLatitude": [
       -77.02174195,
       38.70875364
@@ -49053,21 +48939,6 @@
     "state": "Maryland",
     "imageURL": "https://www.nps.gov/common/uploads/structured_data/3C790972-1DD8-B71B-0B0A04671AEA6E07.jpg",
     "remarks": "Built to defend the river approach to  Washington, DC, Fort Washington has stood as silent sentry for over 200 years. As technologies advanced so did Fort Washington, from the brick and stone of the 19th century to the concrete and steel of the 20th century.  Joining the National Park Service in 1946, the park continues to protect the Potomac River. https://www.nps.gov/fowa/index.htm",
-    "__v": 0
-  },
-  {
-    "country": "USA",
-    "_id": "5b63b465d8c5bb70cfe4e2c4",
-    "name": "George Washington Memorial Parkway",
-    "location": "Directions to Parkway Headquarters\nFrom the south, take the George Washington Memorial Parkway north. Just past the CIA exit turn right into the parking lot for the US Park Police and parkway headquarters. Go through the chain link fence and take an immediate right. Follow the road down to a stop sign and turn right into the parking lot for the headquarters building. http://www.nps.gov/gwmp/planyourvisit/directions.htm",
-    "longitudeLatitude": [
-      -77.08528147,
-      38.85452263
-    ],
-    "address": "George Washington Memorial Parkway Headquarters 700 George Washington Memorial Parkway, McLean, VA, 22101",
-    "state": "Maryland",
-    "imageURL": "https://www.nps.gov/common/uploads/structured_data/3C828BAC-1DD8-B71B-0B1A9857AB2A50E1.jpg",
-    "remarks": "The George Washington Memorial Parkway was designed for recreational driving. It links sites that commemorate important episodes in American history and preserve habitat for local wildlife. The parkway and its associated trails provide a scenic place to play and rest in the busy Washington, DC metropolitan area. https://www.nps.gov/gwmp/index.htm",
     "__v": 0
   },
   {
@@ -49162,21 +49033,6 @@
   },
   {
     "country": "USA",
-    "_id": "5b63b465d8c5bb70cfe4e2f2",
-    "name": "Gullah/Geechee Cultural Heritage Corridor",
-    "location": "The corridor encompasses a cultural and linguistic area along the southeastern coast of the United States from the northern border of Pender County, North Carolina to the southern border of St. Johns County, Florida and 30 miles inland.  The Commission operates a small business office on Johns Island, SC., but there are many sites to explore within the Corridor. http://www.gullahgeecheecorridor.org",
-    "longitudeLatitude": [
-      -79.8232242465019,
-      32.8470785915852
-    ],
-    "address": "Gullah Geechee Cultural Heritage Corridor 2817 Maybank Highway, Johns Island, SC, 29455",
-    "state": "Florida",
-    "imageURL": "https://www.nps.gov/common/uploads/structured_data/170E08FC-1DD8-B71B-0BDF8703204B9907.jpg",
-    "remarks": "Designated by Congress in 2006, the Gullah Geechee Cultural Heritage Corridor extends from Wilmington, North Carolina in the north to Jacksonville, Florida in the south. It is home to one of America's most unique cultures, a tradition first shaped by captive Africans brought to the southern United States from West Africa and continued in later generations by their descendents. https://www.nps.gov/guge/index.htm",
-    "__v": 0
-  },
-  {
-    "country": "USA",
     "_id": "5b63b465d8c5bb70cfe4e2f3",
     "name": "Timucuan Ecological & Historic Preserve",
     "location": "The beautiful expanse of the Timucuan Preserve is located within the city limits of Jacksonville, Florida.  The Preserve can be accessed from major roads and highways in and around Jacksonville. Directions to individual park sites such as Kingsley Plantation, American Beach and the Ribault Column can be found on our website.  Our main visitor center is located at Fort Caroline, about 14 miles northeast of downtown. http://www.nps.gov/timu/planyourvisit/directions.htm",
@@ -49207,36 +49063,6 @@
   },
   {
     "country": "USA",
-    "_id": "5b63b465d8c5bb70cfe4e305",
-    "name": "Chesapeake Bay",
-    "location": "The Chesapeake Bay main office is in the Eastport neighborhood of Annapolis. Use the Rowe Boulevard exit off of Route 50 to enter the city of Annapolis. Drive along Rowe Boulevard and turn slightly right toward Northwest Street. Turn slightly left onto Northwest Street. Turn right onto Church Circle and use the right two lanes to turn right onto Duke of Gloucester Street. At dead-end, turn right onto the Sixth Street bridge. At traffic light, turn left onto Severn Avenue. The office building is on the left. https://www.nps.gov/chba/planyourvisit/directions-and-transportation.htm",
-    "longitudeLatitude": [
-      -76.483355,
-      38.971601
-    ],
-    "address": "410 Severn Avenue Suite 314, Annapolis, MD, 21403",
-    "state": "New York",
-    "imageURL": "https://www.nps.gov/common/uploads/structured_data/3C825EB4-1DD8-B71B-0BCF3FF1FE0211DA.jpg",
-    "remarks": "NPS helps you learn about and enjoy the Chesapeake Bay, the largest estuary in North America. \n\nHere, you can visit major league cities, colonial towns, American Indian landscapes, farms and fishing villages. You can learn to kayak, pick crabs, go fishing, tour a lighthouse, slurp oysters, and slow down to enjoy the natural beauty of the Chesapeake. https://www.nps.gov/cbpo/index.htm",
-    "__v": 0
-  },
-  {
-    "country": "USA",
-    "_id": "5b63b465d8c5bb70cfe4e306",
-    "name": "Chesapeake Bay Gateways and Watertrails Network",
-    "location": " ",
-    "longitudeLatitude": [
-      -76.1050092,
-      37.5213728
-    ],
-    "address": "Chesapeake Bay, United States",
-    "state": "New York",
-    "imageURL": null,
-    "remarks": "The Chesapeake Bay Gateways and Watertrails Network connects you with the natural and cultural heritage of the Chesapeake Bay watershed through more than 170 exceptional parks, wildlife refuges, museums, sailing ships, historic communities, trails and more. Gateways Network partner sites and water trails are the special places where you can experience the authentic Chesapeake. https://www.nps.gov/cbgn/index.htm",
-    "__v": 0
-  },
-  {
-    "country": "USA",
     "_id": "5b63b465d8c5bb70cfe4e321",
     "name": "Upper Delaware Scenic & Recreational River",
     "location": "See complete directions on Upper Delaware S&RR's webpage. http://www.nps.gov/upde/planyourvisit/directions.htm",
@@ -49252,81 +49078,6 @@
   },
   {
     "country": "USA",
-    "_id": "5b63b465d8c5bb70cfe4e32c",
-    "name": "Natchez Trace Parkway",
-    "location": "Directions to the Natchez Trace Parkway vary greatly depending on what part of the tri-state Parkway you are trying to reach. There are more than 50 roads that access the Parkway in Tennessee, Alabama, and Mississippi. For specific questions concerning how to get to a certain portion of the Parkway, please call the Visitor Center at 1-800-305-7417. http://www.nps.gov/natr/planyourvisit/directions.htm",
-    "longitudeLatitude": [
-      -89.03092439,
-      33.78002293
-    ],
-    "address": "2680 Natchez Trace Parkway , Tupelo, MS, 38804",
-    "state": "Mississippi",
-    "imageURL": "https://www.nps.gov/common/uploads/structured_data/3C7FF945-1DD8-B71B-0B72BD6958885204.jpg",
-    "remarks": "The Natchez Trace Parkway is a 444-mile recreational road and scenic drive through three states. It roughly follows the \"Old Natchez Trace\" a historic travel corridor used by American Indians, \"Kaintucks,\" European settlers, slave traders, soldiers, and future presidents. Today, people can enjoy not only a scenic drive but also hiking, biking, horseback riding, and camping along the parkway. https://www.nps.gov/natr/index.htm",
-    "__v": 0
-  },
-  {
-    "country": "USA",
-    "_id": "5b63b465d8c5bb70cfe4e348",
-    "name": "Gullah/Geechee Cultural Heritage Corridor",
-    "location": "The corridor encompasses a cultural and linguistic area along the southeastern coast of the United States from the northern border of Pender County, North Carolina to the southern border of St. Johns County, Florida and 30 miles inland.  The Commission operates a small business office on Johns Island, SC., but there are many sites to explore within the Corridor. http://www.gullahgeecheecorridor.org",
-    "longitudeLatitude": [
-      -79.8232242465019,
-      32.8470785915852
-    ],
-    "address": "Gullah Geechee Cultural Heritage Corridor 2817 Maybank Highway, Johns Island, SC, 29455",
-    "state": "South Carolina",
-    "imageURL": "https://www.nps.gov/common/uploads/structured_data/170E08FC-1DD8-B71B-0BDF8703204B9907.jpg",
-    "remarks": "Designated by Congress in 2006, the Gullah Geechee Cultural Heritage Corridor extends from Wilmington, North Carolina in the north to Jacksonville, Florida in the south. It is home to one of America's most unique cultures, a tradition first shaped by captive Africans brought to the southern United States from West Africa and continued in later generations by their descendents. https://www.nps.gov/guge/index.htm",
-    "__v": 0
-  },
-  {
-    "country": "USA",
-    "_id": "5b63b465d8c5bb70cfe4e356",
-    "name": "Blue Ridge Parkway",
-    "location": "The Parkway is a 469 mile long scenic road connecting Shenandoah National Park in Virginia to Great Smoky Mountains National Park in North Carolina. There are numerous places to get on and off near interstate crossings and other federal and state highways. There are markers every mile along the Parkway, counting from 0-469 through Virginia and North Carolina. We suggest using a map and identifying the area you want to go, as GPS directions often do not understand our milepost system. http://www.nps.gov/blri/planyourvisit/directions.htm",
-    "longitudeLatitude": [
-      -81.0420999,
-      36.53386746
-    ],
-    "address": "199 Hemphill Knob Rd , Asheville, NC, 28803",
-    "state": "North Carolina",
-    "imageURL": "https://www.nps.gov/common/uploads/structured_data/3C80E2B3-1DD8-B71B-0BA7DD3027C447F9.jpg",
-    "remarks": "A Blue Ridge Parkway experience is unlike any other: a slow-paced and relaxing drive revealing stunning long-range vistas and close-up views of the rugged mountains and pastoral landscapes of the Appalachian Highlands. The Parkway meanders for 469 miles, protecting a diversity of plants and animals, and providing opportunities for enjoying all that makes this region of the country so special. https://www.nps.gov/blri/index.htm",
-    "__v": 0
-  },
-  {
-    "country": "USA",
-    "_id": "5b63b465d8c5bb70cfe4e35d",
-    "name": "Gullah/Geechee Cultural Heritage Corridor",
-    "location": "The corridor encompasses a cultural and linguistic area along the southeastern coast of the United States from the northern border of Pender County, North Carolina to the southern border of St. Johns County, Florida and 30 miles inland.  The Commission operates a small business office on Johns Island, SC., but there are many sites to explore within the Corridor. http://www.gullahgeecheecorridor.org",
-    "longitudeLatitude": [
-      -79.8232242465019,
-      32.8470785915852
-    ],
-    "address": "Gullah Geechee Cultural Heritage Corridor 2817 Maybank Highway, Johns Island, SC, 29455",
-    "state": "North Carolina",
-    "imageURL": "https://www.nps.gov/common/uploads/structured_data/170E08FC-1DD8-B71B-0BDF8703204B9907.jpg",
-    "remarks": "Designated by Congress in 2006, the Gullah Geechee Cultural Heritage Corridor extends from Wilmington, North Carolina in the north to Jacksonville, Florida in the south. It is home to one of America's most unique cultures, a tradition first shaped by captive Africans brought to the southern United States from West Africa and continued in later generations by their descendents. https://www.nps.gov/guge/index.htm",
-    "__v": 0
-  },
-  {
-    "country": "USA",
-    "_id": "5b63b465d8c5bb70cfe4e3c7",
-    "name": "Gullah/Geechee Cultural Heritage Corridor",
-    "location": "The corridor encompasses a cultural and linguistic area along the southeastern coast of the United States from the northern border of Pender County, North Carolina to the southern border of St. Johns County, Florida and 30 miles inland.  The Commission operates a small business office on Johns Island, SC., but there are many sites to explore within the Corridor. http://www.gullahgeecheecorridor.org",
-    "longitudeLatitude": [
-      -79.8232242465019,
-      32.8470785915852
-    ],
-    "address": "Gullah Geechee Cultural Heritage Corridor 2817 Maybank Highway, Johns Island, SC, 29455",
-    "state": "Georgia",
-    "imageURL": "https://www.nps.gov/common/uploads/structured_data/170E08FC-1DD8-B71B-0BDF8703204B9907.jpg",
-    "remarks": "Designated by Congress in 2006, the Gullah Geechee Cultural Heritage Corridor extends from Wilmington, North Carolina in the north to Jacksonville, Florida in the south. It is home to one of America's most unique cultures, a tradition first shaped by captive Africans brought to the southern United States from West Africa and continued in later generations by their descendents. https://www.nps.gov/guge/index.htm",
-    "__v": 0
-  },
-  {
-    "country": "USA",
     "_id": "5b63b465d8c5bb70cfe4e3e6",
     "name": "Rio Grande Wild & Scenic River",
     "location": "Hwy 118 south from Alpine; Hwy 385 south from Marathon; FM 170 from Presidio through Study Butte. http://www.nps.gov/rigr/planyourvisit/directions.htm",
@@ -49337,37 +49088,7 @@
     "address": "Rio Grande Wild & Scenic River c/o Big Bend National Park, Big Bend National Park, TX, 79834",
     "state": "Texas",
     "imageURL": "https://www.nps.gov/common/uploads/structured_data/3C8426FF-1DD8-B71B-0B98D6CA5C81BC50.jpg",
-    "remarks": "It is an irresistible playground where unruly rapids check your skills as a canyon wren\u2019s definitive call cascades down ancient limestone cliffs. Below the chasm, the canyon\u2019s raw beauty dances across mirrored water. While the primal nature of the river stirs hunger for spirited adventure, the river is also an undulant ribbon of wetland corridor and, against all odds, the lifeblood of the desert. https://www.nps.gov/rigr/index.htm",
-    "__v": 0
-  },
-  {
-    "country": "USA",
-    "_id": "5b63b465d8c5bb70cfe4e3f4",
-    "name": "Chesapeake Bay",
-    "location": "The Chesapeake Bay main office is in the Eastport neighborhood of Annapolis. Use the Rowe Boulevard exit off of Route 50 to enter the city of Annapolis. Drive along Rowe Boulevard and turn slightly right toward Northwest Street. Turn slightly left onto Northwest Street. Turn right onto Church Circle and use the right two lanes to turn right onto Duke of Gloucester Street. At dead-end, turn right onto the Sixth Street bridge. At traffic light, turn left onto Severn Avenue. The office building is on the left. https://www.nps.gov/chba/planyourvisit/directions-and-transportation.htm",
-    "longitudeLatitude": [
-      -76.483355,
-      38.971601
-    ],
-    "address": "410 Severn Avenue Suite 314, Annapolis, MD, 21403",
-    "state": "Pennsylvania",
-    "imageURL": "https://www.nps.gov/common/uploads/structured_data/3C825EB4-1DD8-B71B-0BCF3FF1FE0211DA.jpg",
-    "remarks": "NPS helps you learn about and enjoy the Chesapeake Bay, the largest estuary in North America. \n\nHere, you can visit major league cities, colonial towns, American Indian landscapes, farms and fishing villages. You can learn to kayak, pick crabs, go fishing, tour a lighthouse, slurp oysters, and slow down to enjoy the natural beauty of the Chesapeake. https://www.nps.gov/cbpo/index.htm",
-    "__v": 0
-  },
-  {
-    "country": "USA",
-    "_id": "5b63b465d8c5bb70cfe4e3f5",
-    "name": "Chesapeake Bay Gateways and Watertrails Network",
-    "location": " ",
-    "longitudeLatitude": [
-      -76.1050092,
-      37.5213728
-    ],
-    "address": "Chesapeake Bay, United States",
-    "state": "Pennsylvania",
-    "imageURL": null,
-    "remarks": "The Chesapeake Bay Gateways and Watertrails Network connects you with the natural and cultural heritage of the Chesapeake Bay watershed through more than 170 exceptional parks, wildlife refuges, museums, sailing ships, historic communities, trails and more. Gateways Network partner sites and water trails are the special places where you can experience the authentic Chesapeake. https://www.nps.gov/cbgn/index.htm",
+    "remarks": "It is an irresistible playground where unruly rapids check your skills as a canyon wren’s definitive call cascades down ancient limestone cliffs. Below the chasm, the canyon’s raw beauty dances across mirrored water. While the primal nature of the river stirs hunger for spirited adventure, the river is also an undulant ribbon of wetland corridor and, against all odds, the lifeblood of the desert. https://www.nps.gov/rigr/index.htm",
     "__v": 0
   },
   {
@@ -49397,67 +49118,7 @@
     "address": "Arlington House, The Robert E. Lee Memorial George Washington Memorial Parkway, McLean, VA, 22101",
     "state": "Virginia",
     "imageURL": "https://www.nps.gov/common/uploads/structured_data/3C825BCA-1DD8-B71B-0BD9E4A2521DE2FD.jpg",
-    "remarks": "Arlington House is the nation\u2019s memorial to Robert E. Lee. It honors him for specific reasons, including his role in promoting peace and reunion after the Civil War. In a larger sense it exists as a place of study and contemplation of the meaning of some of the most difficult aspects of American History: military service; sacrifice; citizenship; duty; loyalty; slavery and freedom. https://www.nps.gov/arho/index.htm",
-    "__v": 0
-  },
-  {
-    "country": "USA",
-    "_id": "5b63b465d8c5bb70cfe4e413",
-    "name": "Blue Ridge Parkway",
-    "location": "The Parkway is a 469 mile long scenic road connecting Shenandoah National Park in Virginia to Great Smoky Mountains National Park in North Carolina. There are numerous places to get on and off near interstate crossings and other federal and state highways. There are markers every mile along the Parkway, counting from 0-469 through Virginia and North Carolina. We suggest using a map and identifying the area you want to go, as GPS directions often do not understand our milepost system. http://www.nps.gov/blri/planyourvisit/directions.htm",
-    "longitudeLatitude": [
-      -81.0420999,
-      36.53386746
-    ],
-    "address": "199 Hemphill Knob Rd , Asheville, NC, 28803",
-    "state": "Virginia",
-    "imageURL": "https://www.nps.gov/common/uploads/structured_data/3C80E2B3-1DD8-B71B-0BA7DD3027C447F9.jpg",
-    "remarks": "A Blue Ridge Parkway experience is unlike any other: a slow-paced and relaxing drive revealing stunning long-range vistas and close-up views of the rugged mountains and pastoral landscapes of the Appalachian Highlands. The Parkway meanders for 469 miles, protecting a diversity of plants and animals, and providing opportunities for enjoying all that makes this region of the country so special. https://www.nps.gov/blri/index.htm",
-    "__v": 0
-  },
-  {
-    "country": "USA",
-    "_id": "5b63b465d8c5bb70cfe4e418",
-    "name": "Chesapeake Bay",
-    "location": "The Chesapeake Bay main office is in the Eastport neighborhood of Annapolis. Use the Rowe Boulevard exit off of Route 50 to enter the city of Annapolis. Drive along Rowe Boulevard and turn slightly right toward Northwest Street. Turn slightly left onto Northwest Street. Turn right onto Church Circle and use the right two lanes to turn right onto Duke of Gloucester Street. At dead-end, turn right onto the Sixth Street bridge. At traffic light, turn left onto Severn Avenue. The office building is on the left. https://www.nps.gov/chba/planyourvisit/directions-and-transportation.htm",
-    "longitudeLatitude": [
-      -76.483355,
-      38.971601
-    ],
-    "address": "410 Severn Avenue Suite 314, Annapolis, MD, 21403",
-    "state": "Virginia",
-    "imageURL": "https://www.nps.gov/common/uploads/structured_data/3C825EB4-1DD8-B71B-0BCF3FF1FE0211DA.jpg",
-    "remarks": "NPS helps you learn about and enjoy the Chesapeake Bay, the largest estuary in North America. \n\nHere, you can visit major league cities, colonial towns, American Indian landscapes, farms and fishing villages. You can learn to kayak, pick crabs, go fishing, tour a lighthouse, slurp oysters, and slow down to enjoy the natural beauty of the Chesapeake. https://www.nps.gov/cbpo/index.htm",
-    "__v": 0
-  },
-  {
-    "country": "USA",
-    "_id": "5b63b465d8c5bb70cfe4e419",
-    "name": "Chesapeake Bay Gateways and Watertrails Network",
-    "location": " ",
-    "longitudeLatitude": [
-      -76.1050092,
-      37.5213728
-    ],
-    "address": "Chesapeake Bay, United States",
-    "state": "Virginia",
-    "imageURL": null,
-    "remarks": "The Chesapeake Bay Gateways and Watertrails Network connects you with the natural and cultural heritage of the Chesapeake Bay watershed through more than 170 exceptional parks, wildlife refuges, museums, sailing ships, historic communities, trails and more. Gateways Network partner sites and water trails are the special places where you can experience the authentic Chesapeake. https://www.nps.gov/cbgn/index.htm",
-    "__v": 0
-  },
-  {
-    "country": "USA",
-    "_id": "5b63b465d8c5bb70cfe4e41a",
-    "name": "Civil War Defenses of Washington",
-    "location": "Please call 202-829-4650. Directions vary based on your preference of site. http://www.nps.gov/cwdw/index.htm",
-    "longitudeLatitude": [
-      -77.04998374,
-      38.93596206
-    ],
-    "address": "Civil War Defenses of Washington 3545 Williamsburg Lane N.W., Washington, DC, 200008",
-    "state": "Virginia",
-    "imageURL": "https://www.nps.gov/common/uploads/structured_data/3C82F2B8-1DD8-B71B-0BEE3AC8B175885F.jpg",
-    "remarks": "On forested hills surrounding the nation's capital are the remnants of a complex system of Civil War fortifications. Built by Union forces, these strategic buttresses transformed the young capital into one of the world's most fortified cities. This month, we will feature Fort Totten, part of the Northern Defenses and engaged during the Battle of Fort Stevens. https://www.nps.gov/cwdw/index.htm",
+    "remarks": "Arlington House is the nation’s memorial to Robert E. Lee. It honors him for specific reasons, including his role in promoting peace and reunion after the Civil War. In a larger sense it exists as a place of study and contemplation of the meaning of some of the most difficult aspects of American History: military service; sacrifice; citizenship; duty; loyalty; slavery and freedom. https://www.nps.gov/arho/index.htm",
     "__v": 0
   },
   {
@@ -49477,24 +49138,9 @@
   },
   {
     "country": "USA",
-    "_id": "5b63b465d8c5bb70cfe4e421",
-    "name": "George Washington Memorial Parkway",
-    "location": "Directions to Parkway Headquarters\nFrom the south, take the George Washington Memorial Parkway north. Just past the CIA exit turn right into the parking lot for the US Park Police and parkway headquarters. Go through the chain link fence and take an immediate right. Follow the road down to a stop sign and turn right into the parking lot for the headquarters building. http://www.nps.gov/gwmp/planyourvisit/directions.htm",
-    "longitudeLatitude": [
-      -77.08528147,
-      38.85452263
-    ],
-    "address": "George Washington Memorial Parkway Headquarters 700 George Washington Memorial Parkway, McLean, VA, 22101",
-    "state": "Virginia",
-    "imageURL": "https://www.nps.gov/common/uploads/structured_data/3C828BAC-1DD8-B71B-0B1A9857AB2A50E1.jpg",
-    "remarks": "The George Washington Memorial Parkway was designed for recreational driving. It links sites that commemorate important episodes in American history and preserve habitat for local wildlife. The parkway and its associated trails provide a scenic place to play and rest in the busy Washington, DC metropolitan area. https://www.nps.gov/gwmp/index.htm",
-    "__v": 0
-  },
-  {
-    "country": "USA",
     "_id": "5b63b465d8c5bb70cfe4e422",
     "name": "Great Falls Park",
-    "location": "From I-495, take exit 44 for route 193 west; continue 4 miles. Turn right on Old Dominion Drive. http://www.nps.gov/grfa/planyourvisit/directions.htm",
+    "location": "",
     "longitudeLatitude": [
       -77.25128326,
       38.98776107
@@ -49517,7 +49163,7 @@
     "address": "No Physical Address , Louisa, VA, 23093",
     "state": "Virginia",
     "imageURL": "https://www.nps.gov/common/uploads/structured_data/00E4FBBD-1DD8-B71B-0B674A3BE15ACF42.jpg",
-    "remarks": "Green Springs National Historic Landmark District in Virginia\u2019s Piedmont encompasses over 14,000 acres. Its farmsteads offer a continuum of rural vernacular architecture in original context with minimal alteration. Landscapes and buildings, many predating the Civil War and connected to one another visually and through family relationships of early occupants, are today preserved through easements. https://www.nps.gov/grsp/index.htm",
+    "remarks": "Green Springs National Historic Landmark District in Virginia’s Piedmont encompasses over 14,000 acres. Its farmsteads offer a continuum of rural vernacular architecture in original context with minimal alteration. Landscapes and buildings, many predating the Civil War and connected to one another visually and through family relationships of early occupants, are today preserved through easements. https://www.nps.gov/grsp/index.htm",
     "__v": 0
   },
   {
@@ -49537,21 +49183,6 @@
   },
   {
     "country": "USA",
-    "_id": "5b63b465d8c5bb70cfe4e46f",
-    "name": "Natchez Trace Parkway",
-    "location": "Directions to the Natchez Trace Parkway vary greatly depending on what part of the tri-state Parkway you are trying to reach. There are more than 50 roads that access the Parkway in Tennessee, Alabama, and Mississippi. For specific questions concerning how to get to a certain portion of the Parkway, please call the Visitor Center at 1-800-305-7417. http://www.nps.gov/natr/planyourvisit/directions.htm",
-    "longitudeLatitude": [
-      -89.03092439,
-      33.78002293
-    ],
-    "address": "2680 Natchez Trace Parkway , Tupelo, MS, 38804",
-    "state": "Tennessee",
-    "imageURL": "https://www.nps.gov/common/uploads/structured_data/3C7FF945-1DD8-B71B-0B72BD6958885204.jpg",
-    "remarks": "The Natchez Trace Parkway is a 444-mile recreational road and scenic drive through three states. It roughly follows the \"Old Natchez Trace\" a historic travel corridor used by American Indians, \"Kaintucks,\" European settlers, slave traders, soldiers, and future presidents. Today, people can enjoy not only a scenic drive but also hiking, biking, horseback riding, and camping along the parkway. https://www.nps.gov/natr/index.htm",
-    "__v": 0
-  },
-  {
-    "country": "USA",
     "_id": "5b63b465d8c5bb70cfe4e470",
     "name": "Obed Wild & Scenic River",
     "location": "The Obed Wild & Scenic River Visitor Center is located at 208 North Maiden Street in downtown Wartburg, Tennessee.\n\nPlease use the link for more information. http://www.nps.gov/obed/planyourvisit/directions.htm",
@@ -49563,48 +49194,6 @@
     "state": "Tennessee",
     "imageURL": "https://www.nps.gov/common/uploads/structured_data/3C792DFB-1DD8-B71B-0B5E8EB41685A5BB.jpg",
     "remarks": "The Obed Wild and Scenic River looks much the same today as it did when the first white settlers strolled its banks in the late 1700s. While meagerly populated due to poor farming soil, the river was a hospitable fishing and hunting area for trappers and pioneers. Today, the Obed stretches along the Cumberland Plateau and offers visitors a variety of outdoor recreational opportunities. https://www.nps.gov/obed/index.htm",
-    "__v": 0
-  },
-  {
-    "country": "USA",
-    "_id": "5b63b465d8c5bb70cfe4e47d",
-    "name": "Chesapeake Bay",
-    "location": "The Chesapeake Bay main office is in the Eastport neighborhood of Annapolis. Use the Rowe Boulevard exit off of Route 50 to enter the city of Annapolis. Drive along Rowe Boulevard and turn slightly right toward Northwest Street. Turn slightly left onto Northwest Street. Turn right onto Church Circle and use the right two lanes to turn right onto Duke of Gloucester Street. At dead-end, turn right onto the Sixth Street bridge. At traffic light, turn left onto Severn Avenue. The office building is on the left. https://www.nps.gov/chba/planyourvisit/directions-and-transportation.htm",
-    "longitudeLatitude": [
-      -76.483355,
-      38.971601
-    ],
-    "address": "410 Severn Avenue Suite 314, Annapolis, MD, 21403",
-    "state": "West Virginia",
-    "imageURL": "https://www.nps.gov/common/uploads/structured_data/3C825EB4-1DD8-B71B-0BCF3FF1FE0211DA.jpg",
-    "remarks": "NPS helps you learn about and enjoy the Chesapeake Bay, the largest estuary in North America. \n\nHere, you can visit major league cities, colonial towns, American Indian landscapes, farms and fishing villages. You can learn to kayak, pick crabs, go fishing, tour a lighthouse, slurp oysters, and slow down to enjoy the natural beauty of the Chesapeake. https://www.nps.gov/cbpo/index.htm",
-    "__v": 0
-  },
-  {
-    "country": "USA",
-    "_id": "5b63b465d8c5bb70cfe4e47e",
-    "name": "Chesapeake Bay Gateways and Watertrails Network",
-    "location": " ",
-    "longitudeLatitude": [
-      -76.1050092,
-      37.5213728
-    ],
-    "address": "Chesapeake Bay, United States",
-    "state": "West Virginia",
-    "imageURL": null,
-    "remarks": "The Chesapeake Bay Gateways and Watertrails Network connects you with the natural and cultural heritage of the Chesapeake Bay watershed through more than 170 exceptional parks, wildlife refuges, museums, sailing ships, historic communities, trails and more. Gateways Network partner sites and water trails are the special places where you can experience the authentic Chesapeake. https://www.nps.gov/cbgn/index.htm",
-    "__v": 0
-  },
-  {
-    "country": "USA",
-    "_id": "5b63b466d8c5bb70cfe4e495",
-    "name": "Wing Luke Museum Affiliated Area",
-    "location": "Coming from North of I-5: Take exit 165A toward James St. Once you get off the highway, merge right onto 6th Ave and follow the road. You will enter the heart of the district after passing Jackson Street.\n\nComing from South of I-5: Take exit 164A toward James St./Madison St./Dearborn St. Follow signs for Dearborn St. and then turn left at S.Dearborn St. Turn right at 6th Ave S. and you will enter the heart of the district. http://www.nps.gov/wing/planyourvisit/directions.htm",
-    "longitudeLatitude": null,
-    "address": "719 South King Street , Seattle, WA, 98104",
-    "state": "Washington",
-    "imageURL": "https://www.nps.gov/common/uploads/structured_data/3C81CB2F-1DD8-B71B-0B90378FD5C9894B.jpg",
-    "remarks": "More than a museum, the Wing is an experience. A chance to truly understand what it was - and is - to be Asian American in the Pacific Northwest. Take a guided tour of a historic hotel and learn the inside story about what makes the local Chinatown-International District unique. Visitors explore thought-provoking exhibitions of real stories, including actor and martial arts master Bruce Lee. https://www.nps.gov/wing/index.htm",
     "__v": 0
   },
   {
@@ -49654,51 +49243,6 @@
   },
   {
     "country": "USA",
-    "_id": "5b63b466d8c5bb70cfe4e4bc",
-    "name": "Chesapeake Bay",
-    "location": "The Chesapeake Bay main office is in the Eastport neighborhood of Annapolis. Use the Rowe Boulevard exit off of Route 50 to enter the city of Annapolis. Drive along Rowe Boulevard and turn slightly right toward Northwest Street. Turn slightly left onto Northwest Street. Turn right onto Church Circle and use the right two lanes to turn right onto Duke of Gloucester Street. At dead-end, turn right onto the Sixth Street bridge. At traffic light, turn left onto Severn Avenue. The office building is on the left. https://www.nps.gov/chba/planyourvisit/directions-and-transportation.htm",
-    "longitudeLatitude": [
-      -76.483355,
-      38.971601
-    ],
-    "address": "410 Severn Avenue Suite 314, Annapolis, MD, 21403",
-    "state": "District of Columbia",
-    "imageURL": "https://www.nps.gov/common/uploads/structured_data/3C825EB4-1DD8-B71B-0BCF3FF1FE0211DA.jpg",
-    "remarks": "NPS helps you learn about and enjoy the Chesapeake Bay, the largest estuary in North America. \n\nHere, you can visit major league cities, colonial towns, American Indian landscapes, farms and fishing villages. You can learn to kayak, pick crabs, go fishing, tour a lighthouse, slurp oysters, and slow down to enjoy the natural beauty of the Chesapeake. https://www.nps.gov/cbpo/index.htm",
-    "__v": 0
-  },
-  {
-    "country": "USA",
-    "_id": "5b63b466d8c5bb70cfe4e4bd",
-    "name": "Chesapeake Bay Gateways and Watertrails Network",
-    "location": " ",
-    "longitudeLatitude": [
-      -76.1050092,
-      37.5213728
-    ],
-    "address": "Chesapeake Bay, United States",
-    "state": "District of Columbia",
-    "imageURL": null,
-    "remarks": "The Chesapeake Bay Gateways and Watertrails Network connects you with the natural and cultural heritage of the Chesapeake Bay watershed through more than 170 exceptional parks, wildlife refuges, museums, sailing ships, historic communities, trails and more. Gateways Network partner sites and water trails are the special places where you can experience the authentic Chesapeake. https://www.nps.gov/cbgn/index.htm",
-    "__v": 0
-  },
-  {
-    "country": "USA",
-    "_id": "5b63b466d8c5bb70cfe4e4be",
-    "name": "Civil War Defenses of Washington",
-    "location": "Please call 202-829-4650. Directions vary based on your preference of site. http://www.nps.gov/cwdw/index.htm",
-    "longitudeLatitude": [
-      -77.04998374,
-      38.93596206
-    ],
-    "address": "Civil War Defenses of Washington 3545 Williamsburg Lane N.W., Washington, DC, 200008",
-    "state": "District of Columbia",
-    "imageURL": "https://www.nps.gov/common/uploads/structured_data/3C82F2B8-1DD8-B71B-0BEE3AC8B175885F.jpg",
-    "remarks": "On forested hills surrounding the nation's capital are the remnants of a complex system of Civil War fortifications. Built by Union forces, these strategic buttresses transformed the young capital into one of the world's most fortified cities. This month, we will feature Fort Totten, part of the Northern Defenses and engaged during the Battle of Fort Stevens. https://www.nps.gov/cwdw/index.htm",
-    "__v": 0
-  },
-  {
-    "country": "USA",
     "_id": "5b63b466d8c5bb70cfe4e4bf",
     "name": "Constitution Gardens",
     "location": "Parking\nBecause of limited parking availability, public transportation is recommended. Street parking is available on Constitution Ave. during posted hours.\n\nBicycle\nSidewalks and paved paths are open to bicycles in the park. Please walk your bicycle across the footbridge to Signers Island.\n\nPublic Transportation\nConstitution Gardens is approximately 1 mile from three Metro stops: Foggy Bottom, Farragut West http://www.nps.gov/coga/planyourvisit/directions.htm",
@@ -49709,7 +49253,7 @@
     "address": "900 Ohio Drive SW , Washington, DC, 20024",
     "state": "District of Columbia",
     "imageURL": "https://www.nps.gov/common/uploads/structured_data/3C815721-1DD8-B71B-0B6B84757C7F343E.jpg",
-    "remarks": "Officially established in 1965, National Mall\u00a0and Memorial Parks actually protects\u00a0some of the older parkland in the National Park System.\u00a0Areas within\u00a0this premier park\u00a0provide visitors with ample opportunities to commemorate presidential legacies; honor the courage and sacrifice of war veterans; and celebrate the United States commitment to freedom and equality. https://www.nps.gov/coga/index.htm",
+    "remarks": "Officially established in 1965, National Mall and Memorial Parks actually protects some of the older parkland in the National Park System. Areas within this premier park provide visitors with ample opportunities to commemorate presidential legacies; honor the courage and sacrifice of war veterans; and celebrate the United States commitment to freedom and equality. https://www.nps.gov/coga/index.htm",
     "__v": 0
   },
   {
@@ -49755,21 +49299,6 @@
     "state": "District of Columbia",
     "imageURL": "https://www.nps.gov/common/uploads/structured_data/3C822603-1DD8-B71B-0BADCFA6633AC4D6.jpg",
     "remarks": "These words by President Roosevelt ushered the United States into World War Two and defined what it is to be an American. Stop by this secluded memorial and begin to understand the Roosevelt legacy in the park's largest memorial. https://www.nps.gov/frde/index.htm",
-    "__v": 0
-  },
-  {
-    "country": "USA",
-    "_id": "5b63b466d8c5bb70cfe4e4c4",
-    "name": "George Washington Memorial Parkway",
-    "location": "Directions to Parkway Headquarters\nFrom the south, take the George Washington Memorial Parkway north. Just past the CIA exit turn right into the parking lot for the US Park Police and parkway headquarters. Go through the chain link fence and take an immediate right. Follow the road down to a stop sign and turn right into the parking lot for the headquarters building. http://www.nps.gov/gwmp/planyourvisit/directions.htm",
-    "longitudeLatitude": [
-      -77.08528147,
-      38.85452263
-    ],
-    "address": "George Washington Memorial Parkway Headquarters 700 George Washington Memorial Parkway, McLean, VA, 22101",
-    "state": "District of Columbia",
-    "imageURL": "https://www.nps.gov/common/uploads/structured_data/3C828BAC-1DD8-B71B-0B1A9857AB2A50E1.jpg",
-    "remarks": "The George Washington Memorial Parkway was designed for recreational driving. It links sites that commemorate important episodes in American history and preserve habitat for local wildlife. The parkway and its associated trails provide a scenic place to play and rest in the busy Washington, DC metropolitan area. https://www.nps.gov/gwmp/index.htm",
     "__v": 0
   },
   {
@@ -49904,7 +49433,7 @@
     "address": "700 George Washington Memorial Parkway , McLean, VA, 22101",
     "state": "District of Columbia",
     "imageURL": "https://www.nps.gov/common/uploads/structured_data/3C85E097-1DD8-B71B-0BA63E687BBA913E.jpg",
-    "remarks": "In the 1930s, landscape architects transformed Mason\u2019s Island from neglected, overgrown farmland into Theodore Roosevelt Island, a memorial to America\u2019s 26th president. They conceived a \u201creal forest\u201d designed to mimic the natural forest that once covered the island. Today miles of trails through wooded uplands and swampy bottomlands honor the legacy of a great outdoorsman and conservationist. https://www.nps.gov/this/index.htm",
+    "remarks": "In the 1930s, landscape architects transformed Mason’s Island from neglected, overgrown farmland into Theodore Roosevelt Island, a memorial to America’s 26th president. They conceived a “real forest” designed to mimic the natural forest that once covered the island. Today miles of trails through wooded uplands and swampy bottomlands honor the legacy of a great outdoorsman and conservationist. https://www.nps.gov/this/index.htm",
     "__v": 0
   },
   {
@@ -49964,7 +49493,7 @@
     "address": "National Mall, Washington, DC, USA",
     "state": "District of Columbia",
     "imageURL": null,
-    "remarks": "There\u2019s no better place to be on Independence Day than the National Mall! https://www.nps.gov/foju/index.htm",
+    "remarks": "There’s no better place to be on Independence Day than the National Mall! https://www.nps.gov/foju/index.htm",
     "__v": 0
   },
   {
