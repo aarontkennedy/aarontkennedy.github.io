@@ -102,18 +102,29 @@ export const validateParkData = (park: any): park is Park => {
 
 const convertParkDataToHtml = (park: Park): JSX.Element => {
   const name = park.name || "Unknown";
-  const location = park.location || "Unknown location";
-  const state = park.state || "Unknown state";
   const address = park.address || "Address not available";
   const remarks = park.remarks || "No remarks available";
 
   return (
     <div>
-      <div>{name}</div>
       <div>
-        {location}, {state}
+        <a
+          href={`https://www.google.com/search?q=${encodeURIComponent(name)}`}
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          {name}
+        </a>
       </div>
-      <div>{address}</div>
+      <div>
+        <a
+          href={`https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(address)}`}
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          {address}
+        </a>
+      </div>
       <div>{remarks}</div>
     </div>
   );
