@@ -97,8 +97,7 @@ const getMarkerHtmlStyles = (color: string): string => `
 const centerOfUsa: LatLngExpression = [39.8283, -98.5795];
 
 const createParkMarkers = (parksData: Park[]) => {
-  return parksData.map((parkRaw: any, index: number) => {
-    const park: Park = parkRaw;
+  return parksData.map((park: Park, index: number) => {
     const id = park.name + index;
     const contents = convertParkDataToHtml(park);
     if (!park.longitudeLatitude || park.longitudeLatitude.length !== 2) {
