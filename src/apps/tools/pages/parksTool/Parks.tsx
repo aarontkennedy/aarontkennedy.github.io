@@ -107,6 +107,14 @@ const convertParkDataToHtml = (park: Park): JSX.Element => {
 
   return (
     <div>
+      {park.imageURL && (
+        <img
+          src={park.imageURL}
+          alt={name}
+          className="parks__popup-image"
+          onError={(e) => { (e.target as HTMLImageElement).style.display = "none"; }}
+        />
+      )}
       <div>
         <a
           href={`https://www.google.com/search?q=${encodeURIComponent(name)}`}
