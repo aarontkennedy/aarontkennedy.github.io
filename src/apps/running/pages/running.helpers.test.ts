@@ -3,48 +3,110 @@ import { describe, it, expect, vi } from "vitest";
 vi.mock("leaflet", () => {
   const MockClass = vi.fn().mockImplementation(() => ({}));
   return {
-    default: { Icon: MockClass, DivIcon: MockClass, divIcon: vi.fn().mockReturnValue({}) },
+    default: {
+      Icon: MockClass,
+      DivIcon: MockClass,
+      divIcon: vi.fn().mockReturnValue({}),
+    },
     Icon: MockClass,
     DivIcon: MockClass,
     Marker: class {},
   };
 });
 
-vi.mock("../../../images/running/GrandMesa50.jpg", () => ({ default: "img.jpg" }));
+vi.mock("../../../images/running/GrandMesa50.jpg", () => ({
+  default: "img.jpg",
+}));
 vi.mock("../../../images/running/RockinK.jpg", () => ({ default: "img.jpg" }));
-vi.mock("../../../images/running/aaronCrossCountry.jpg", () => ({ default: "img.jpg" }));
-vi.mock("../../../images/running/mountainmist.jpg", () => ({ default: "img.jpg" }));
-vi.mock("../../../images/running/paavonurmi.jpg", () => ({ default: "img.jpg" }));
+vi.mock("../../../images/running/aaronCrossCountry.jpg", () => ({
+  default: "img.jpg",
+}));
+vi.mock("../../../images/running/mountainmist.jpg", () => ({
+  default: "img.jpg",
+}));
+vi.mock("../../../images/running/paavonurmi.jpg", () => ({
+  default: "img.jpg",
+}));
 vi.mock("../../../images/running/pikes50.jpg", () => ({ default: "img.jpg" }));
-vi.mock("../../../images/running/twinCities1Mile2007.jpg", () => ({ default: "img.jpg" }));
+vi.mock("../../../images/running/twinCities1Mile2007.jpg", () => ({
+  default: "img.jpg",
+}));
 vi.mock("../../../images/running/zumbro.jpg", () => ({ default: "img.jpg" }));
-vi.mock("../../../images/running/zumbroDark.jpg", () => ({ default: "img.jpg" }));
-vi.mock("../../../images/running/medals/bearBrook.jpg", () => ({ default: "img.jpg" }));
-vi.mock("../../../images/running/medals/bemidji.jpg", () => ({ default: "img.jpg" }));
-vi.mock("../../../images/running/medals/blazePioneer.jpg", () => ({ default: "img.jpg" }));
-vi.mock("../../../images/running/medals/boston.jpg", () => ({ default: "img.jpg" }));
-vi.mock("../../../images/running/medals/dafunskie.jpg", () => ({ default: "img.jpg" }));
-vi.mock("../../../images/running/medals/ely.jpg", () => ({ default: "img.jpg" }));
-vi.mock("../../../images/running/medals/eugene.jpg", () => ({ default: "img.jpg" }));
-vi.mock("../../../images/running/medals/grandmas.jpg", () => ({ default: "img.jpg" }));
-vi.mock("../../../images/running/medals/leanhorse.jpg", () => ({ default: "img.jpg" }));
-vi.mock("../../../images/running/medals/moosalamoo.jpg", () => ({ default: "img.jpg" }));
-vi.mock("../../../images/running/medals/oldPueblo.jpg", () => ({ default: "img.jpg" }));
-vi.mock("../../../images/running/medals/philadelphia.jpg", () => ({ default: "img.jpg" }));
-vi.mock("../../../images/running/medals/psychoWyco.jpg", () => ({ default: "img.jpg" }));
-vi.mock("../../../images/running/medals/rocky.jpg", () => ({ default: "img.jpg" }));
-vi.mock("../../../images/running/medals/rehoboth.jpg", () => ({ default: "img.jpg" }));
-vi.mock("../../../images/running/medals/superior.jpg", () => ({ default: "img.jpg" }));
-vi.mock("../../../images/running/medals/zumbro.jpg", () => ({ default: "img.jpg" }));
+vi.mock("../../../images/running/zumbroDark.jpg", () => ({
+  default: "img.jpg",
+}));
+vi.mock("../../../images/running/medals/bearBrook.jpg", () => ({
+  default: "img.jpg",
+}));
+vi.mock("../../../images/running/medals/bemidji.jpg", () => ({
+  default: "img.jpg",
+}));
+vi.mock("../../../images/running/medals/blazePioneer.jpg", () => ({
+  default: "img.jpg",
+}));
+vi.mock("../../../images/running/medals/boston.jpg", () => ({
+  default: "img.jpg",
+}));
+vi.mock("../../../images/running/medals/dafunskie.jpg", () => ({
+  default: "img.jpg",
+}));
+vi.mock("../../../images/running/medals/ely.jpg", () => ({
+  default: "img.jpg",
+}));
+vi.mock("../../../images/running/medals/eugene.jpg", () => ({
+  default: "img.jpg",
+}));
+vi.mock("../../../images/running/medals/grandmas.jpg", () => ({
+  default: "img.jpg",
+}));
+vi.mock("../../../images/running/medals/leanhorse.jpg", () => ({
+  default: "img.jpg",
+}));
+vi.mock("../../../images/running/medals/moosalamoo.jpg", () => ({
+  default: "img.jpg",
+}));
+vi.mock("../../../images/running/medals/oldPueblo.jpg", () => ({
+  default: "img.jpg",
+}));
+vi.mock("../../../images/running/medals/philadelphia.jpg", () => ({
+  default: "img.jpg",
+}));
+vi.mock("../../../images/running/medals/psychoWyco.jpg", () => ({
+  default: "img.jpg",
+}));
+vi.mock("../../../images/running/medals/rocky.jpg", () => ({
+  default: "img.jpg",
+}));
+vi.mock("../../../images/running/medals/rehoboth.jpg", () => ({
+  default: "img.jpg",
+}));
+vi.mock("../../../images/running/medals/superior.jpg", () => ({
+  default: "img.jpg",
+}));
+vi.mock("../../../images/running/medals/zumbro.jpg", () => ({
+  default: "img.jpg",
+}));
 
-vi.mock("react-leaflet", () => ({ TileLayer: () => null, ZoomControl: () => null, Marker: () => null, Popup: () => null, Tooltip: () => null }));
-vi.mock("react-leaflet/MapContainer", () => ({ MapContainer: ({ children }: any) => children }));
+vi.mock("react-leaflet", () => ({
+  TileLayer: () => null,
+  ZoomControl: () => null,
+  Marker: () => null,
+  Popup: () => null,
+  Tooltip: () => null,
+}));
+vi.mock("react-leaflet/MapContainer", () => ({
+  MapContainer: ({ children }: any) => children,
+}));
 vi.mock("react-leaflet/hooks", () => ({ useMap: () => ({}) }));
-vi.mock("react-leaflet-cluster", () => ({ default: ({ children }: any) => children }));
-vi.mock("../../../components/map/MinimapControl", () => ({ default: () => null }));
+vi.mock("react-leaflet-cluster", () => ({
+  default: ({ children }: any) => children,
+}));
+vi.mock("../../../components/map/MinimapControl", () => ({
+  default: () => null,
+}));
 
 import { formatIfTime, convertRunToColor } from "./Running";
-import { Run } from "./data/run";
+import { Run } from "../data/run";
 
 // ---------------------------------------------------------------------------
 // formatIfTime

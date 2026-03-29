@@ -8,7 +8,10 @@
     "imageURL": null,
     "remarks": "Legendary roadside stop famous for hundreds of highway billboards and free ice water since 1936.",
     "__v": 0,
-    "longitudeLatitude": [-102.2396, 43.9925],
+    "longitudeLatitude": [
+      -102.2396,
+      43.9925
+    ],
     "address": "510 Main St, Wall, SD 57790"
   },
   {
@@ -20,7 +23,10 @@
     "imageURL": null,
     "remarks": "Unique arena decorated annually with murals made entirely from corn and grain, rebuilt each year with new themes.",
     "__v": 0,
-    "longitudeLatitude": [-98.0298, 43.7094],
+    "longitudeLatitude": [
+      -98.0298,
+      43.7094
+    ],
     "address": "604 N Main St, Mitchell, SD 57301"
   },
   {
@@ -32,7 +38,10 @@
     "imageURL": null,
     "remarks": "Seven life-sized concrete dinosaur sculptures built in 1936 overlooking the city from a hilltop park.",
     "__v": 0,
-    "longitudeLatitude": [-103.2281, 44.0817],
+    "longitudeLatitude": [
+      -103.2281,
+      44.0817
+    ],
     "address": "940 Skyline Dr, Rapid City, SD 57701"
   },
   {
@@ -44,7 +53,10 @@
     "imageURL": null,
     "remarks": "Ten Cadillacs half-buried nose-first in the Texas Panhandle, a public art installation created in 1974 by the Ant Farm collective.",
     "__v": 0,
-    "longitudeLatitude": [-101.9872, 35.1872],
+    "longitudeLatitude": [
+      -101.9872,
+      35.1872
+    ],
     "address": "13651 I-40 Frontage Rd, Amarillo, TX 79124"
   },
   {
@@ -56,7 +68,10 @@
     "imageURL": null,
     "remarks": "Famous Route 66 steakhouse offering a free 72-oz steak challenge if eaten in under one hour.",
     "__v": 0,
-    "longitudeLatitude": [-101.9186, 35.1978],
+    "longitudeLatitude": [
+      -101.9186,
+      35.1978
+    ],
     "address": "7701 I-40 East, Amarillo, TX 79118"
   },
   {
@@ -68,7 +83,10 @@
     "imageURL": null,
     "remarks": "A deliberately tilted water tower built as a marketing gimmick by Ralph Britten to lure drivers off I-40 into his truck stop.",
     "__v": 0,
-    "longitudeLatitude": [-100.8972, 35.2039],
+    "longitudeLatitude": [
+      -100.8972,
+      35.2039
+    ],
     "address": "I-40, Groom, TX 79039"
   },
   {
@@ -80,7 +98,10 @@
     "imageURL": null,
     "remarks": "A stunning 1936 Art Deco roadside masterpiece on Route 66, now a welcome center listed on the National Register of Historic Places.",
     "__v": 0,
-    "longitudeLatitude": [-100.2503, 35.2183],
+    "longitudeLatitude": [
+      -100.2503,
+      35.2183
+    ],
     "address": "101 E 12th St, Shamrock, TX 79079"
   },
   {
@@ -92,7 +113,10 @@
     "imageURL": null,
     "remarks": "A Route 66 museum housing the world's largest collection of barbed wire and publications about its history.",
     "__v": 0,
-    "longitudeLatitude": [-100.6028, 35.2278],
+    "longitudeLatitude": [
+      -100.6028,
+      35.2278
+    ],
     "address": "100 Kingsley St, McLean, TX 79057"
   },
   {
@@ -104,7 +128,10 @@
     "imageURL": null,
     "remarks": "A 90%-scale Stonehenge replica accompanied by two Easter Island moai replicas, built by Al Shepperd in a Texas Hill Country field.",
     "__v": 0,
-    "longitudeLatitude": [-99.2453, 30.0736],
+    "longitudeLatitude": [
+      -99.2453,
+      30.0736
+    ],
     "address": "887 TX-39, Ingram, TX 78025"
   },
   {
@@ -114,9 +141,12 @@
     "location": "Cabazon",
     "state": "California",
     "imageURL": null,
-    "remarks": "Iconic giant concrete dinosaurs \u2014 Mr. Rex and Dinny \u2014 visible from I-10, featured in Pee-wee's Big Adventure.",
+    "remarks": "Iconic giant concrete dinosaurs — Mr. Rex and Dinny — visible from I-10, featured in Pee-wee's Big Adventure.",
     "__v": 0,
-    "longitudeLatitude": [-116.9877, 33.9178],
+    "longitudeLatitude": [
+      -116.9877,
+      33.9178
+    ],
     "address": "50770 Seminole Dr, Cabazon, CA 92230"
   },
   {
@@ -128,7 +158,10 @@
     "imageURL": null,
     "remarks": "Eccentric hotel with 110 uniquely themed rooms, a famous waterfall urinal in the men's room, and pink everywhere.",
     "__v": 0,
-    "longitudeLatitude": [-120.6625, 35.2658],
+    "longitudeLatitude": [
+      -120.6625,
+      35.2658
+    ],
     "address": "100 Madonna Rd, San Luis Obispo, CA 93405"
   },
   {
@@ -140,7 +173,10 @@
     "imageURL": null,
     "remarks": "Colorful folk art installation in the Sonoran Desert created by Leonard Knight over two decades using adobe and paint.",
     "__v": 0,
-    "longitudeLatitude": [-115.4686, 33.2516],
+    "longitudeLatitude": [
+      -115.4686,
+      33.2516
+    ],
     "address": "Beal Rd, Niland, CA 92257"
   },
   {
@@ -152,7 +188,10 @@
     "imageURL": null,
     "remarks": "A gravity-defying tourist attraction in the redwoods where balls roll uphill and people stand at impossible angles.",
     "__v": 0,
-    "longitudeLatitude": [-122.0033, 37.0164],
+    "longitudeLatitude": [
+      -122.0033,
+      37.0164
+    ],
     "address": "465 Mystery Spot Rd, Santa Cruz, CA 95065"
   },
   {
@@ -164,7 +203,10 @@
     "imageURL": null,
     "remarks": "A Victorian mansion with 160 rooms, staircases to nowhere, and doors opening into walls, built continuously for 38 years by Sarah Winchester.",
     "__v": 0,
-    "longitudeLatitude": [-121.9511, 37.3184],
+    "longitudeLatitude": [
+      -121.9511,
+      37.3184
+    ],
     "address": "525 S Winchester Blvd, San Jose, CA 95128"
   },
   {
@@ -176,7 +218,10 @@
     "imageURL": null,
     "remarks": "A surreal forest of welded metal trees adorned with thousands of colorful glass bottles along Route 66, created by Elmer Long.",
     "__v": 0,
-    "longitudeLatitude": [-117.3428, 34.605],
+    "longitudeLatitude": [
+      -117.3428,
+      34.605
+    ],
     "address": "24266 National Trails Hwy, Oro Grande, CA 92368"
   },
   {
@@ -188,7 +233,10 @@
     "imageURL": null,
     "remarks": "A small museum in the Santa Cruz Mountains with footprint casts, the Patterson-Gimlin film, and a 9-foot Bigfoot statue out front.",
     "__v": 0,
-    "longitudeLatitude": [-122.072, 37.0513],
+    "longitudeLatitude": [
+      -122.072,
+      37.0513
+    ],
     "address": "5497 CA-9, Felton, CA 95018"
   },
   {
@@ -200,7 +248,10 @@
     "imageURL": null,
     "remarks": "A former dump site turned tourist gem where decades of ocean tumbling transformed broken glass into smooth colorful sea glass pebbles.",
     "__v": 0,
-    "longitudeLatitude": [-123.8093, 39.4571],
+    "longitudeLatitude": [
+      -123.8093,
+      39.4571
+    ],
     "address": "Glass Beach Dr, Fort Bragg, CA 95437"
   },
   {
@@ -212,7 +263,10 @@
     "imageURL": null,
     "remarks": "A restored Googie-architecture gas station and motel in a Mojave ghost town, an iconic Route 66 relic.",
     "__v": 0,
-    "longitudeLatitude": [-115.7432, 34.5583],
+    "longitudeLatitude": [
+      -115.7432,
+      34.5583
+    ],
     "address": "87520 National Trails Hwy, Amboy, CA 92304"
   },
   {
@@ -224,7 +278,10 @@
     "imageURL": null,
     "remarks": "A non-metallic all-wood dome built by UFO contactee George Van Tassel in the Mojave Desert, used today for sound bath healing sessions.",
     "__v": 0,
-    "longitudeLatitude": [-116.3919, 34.2928],
+    "longitudeLatitude": [
+      -116.3919,
+      34.2928
+    ],
     "address": "2477 Belfield Blvd, Landers, CA 92285"
   },
   {
@@ -236,7 +293,10 @@
     "imageURL": null,
     "remarks": "A replica of England's Stonehenge built from 38 vintage American automobiles spray-painted gray, on the Nebraska plains.",
     "__v": 0,
-    "longitudeLatitude": [-102.8563, 42.1436],
+    "longitudeLatitude": [
+      -102.8563,
+      42.1436
+    ],
     "address": "2151 County Rd 59, Alliance, NE 69301"
   },
   {
@@ -248,7 +308,10 @@
     "imageURL": null,
     "remarks": "The famous village for troubled youth founded by Father Flanagan in 1917, known for the iconic statue of a boy carrying another with the motto 'He ain't heavy.'",
     "__v": 0,
-    "longitudeLatitude": [-96.1511, 41.2575],
+    "longitudeLatitude": [
+      -96.1511,
+      41.2575
+    ],
     "address": "14057 Flanagan Blvd, Boys Town, NE 68010"
   },
   {
@@ -260,7 +323,10 @@
     "imageURL": null,
     "remarks": "A smiling 80-foot blue whale sculpture built in the 1970s beside a pond on historic Route 66.",
     "__v": 0,
-    "longitudeLatitude": [-95.7544, 36.1978],
+    "longitudeLatitude": [
+      -95.7544,
+      36.1978
+    ],
     "address": "2680 OK-66, Catoosa, OK 74015"
   },
   {
@@ -272,7 +338,10 @@
     "imageURL": null,
     "remarks": "A 76-foot, 43,500-pound statue of a shirtless oil worker, the fifth-tallest free-standing statue in the United States.",
     "__v": 0,
-    "longitudeLatitude": [-95.9447, 36.1539],
+    "longitudeLatitude": [
+      -95.9447,
+      36.1539
+    ],
     "address": "4145 E 21st St, Tulsa, OK 74114"
   },
   {
@@ -284,7 +353,10 @@
     "imageURL": null,
     "remarks": "A Route 66 restaurant and soda shop with over 700 varieties of soda and a massive glowing soda bottle sculpture out front.",
     "__v": 0,
-    "longitudeLatitude": [-97.3228, 35.6653],
+    "longitudeLatitude": [
+      -97.3228,
+      35.6653
+    ],
     "address": "660 OK-66, Arcadia, OK 73007"
   },
   {
@@ -296,7 +368,10 @@
     "imageURL": null,
     "remarks": "A rare 1898 round barn on Route 66 restored by volunteers in 1992, now housing a local history museum and gift shop.",
     "__v": 0,
-    "longitudeLatitude": [-97.3242, 35.6661],
+    "longitudeLatitude": [
+      -97.3242,
+      35.6661
+    ],
     "address": "107 E OK-66, Arcadia, OK 73007"
   },
   {
@@ -308,7 +383,10 @@
     "imageURL": null,
     "remarks": "The original London Bridge purchased from the City of London in 1968 and rebuilt stone by stone in the Arizona desert.",
     "__v": 0,
-    "longitudeLatitude": [-114.3414, 34.4839],
+    "longitudeLatitude": [
+      -114.3414,
+      34.4839
+    ],
     "address": "1340 McCulloch Blvd N, Lake Havasu City, AZ 86403"
   },
   {
@@ -320,7 +398,10 @@
     "imageURL": null,
     "remarks": "A 3.14-acre enclosed research facility that housed eight scientists in a sealed ecological experiment from 1991 to 1993.",
     "__v": 0,
-    "longitudeLatitude": [-110.8515, 32.5789],
+    "longitudeLatitude": [
+      -110.8515,
+      32.5789
+    ],
     "address": "32540 S Biosphere Rd, Oracle, AZ 85623"
   },
   {
@@ -332,7 +413,10 @@
     "imageURL": null,
     "remarks": "A small Route 66 park commemorating the Eagles lyric about standing on a corner in Winslow, Arizona.",
     "__v": 0,
-    "longitudeLatitude": [-110.6973, 35.0244],
+    "longitudeLatitude": [
+      -110.6973,
+      35.0244
+    ],
     "address": "101 W 2nd St, Winslow, AZ 86047"
   },
   {
@@ -344,7 +428,10 @@
     "imageURL": null,
     "remarks": "A mid-century sideshow attraction teased for miles by billboards on I-10, featuring alleged mummies, aliens, and Cold War curiosities.",
     "__v": 0,
-    "longitudeLatitude": [-110.0375, 32.0239],
+    "longitudeLatitude": [
+      -110.0375,
+      32.0239
+    ],
     "address": "I-10 Exit 322, Dragoon, AZ 85609"
   },
   {
@@ -356,7 +443,10 @@
     "imageURL": null,
     "remarks": "One of three surviving Wigwam Village motels in the US, with air-conditioned concrete teepee-shaped rooms on Route 66 since the 1950s.",
     "__v": 0,
-    "longitudeLatitude": [-110.1715, 34.9027],
+    "longitudeLatitude": [
+      -110.1715,
+      34.9027
+    ],
     "address": "811 W Hopi Dr, Holbrook, AZ 86025"
   },
   {
@@ -368,7 +458,10 @@
     "imageURL": null,
     "remarks": "A 55-foot fiberglass statue of the Jolly Green Giant, accompanied by a museum celebrating the canned vegetable mascot.",
     "__v": 0,
-    "longitudeLatitude": [-94.1013, 43.6388],
+    "longitudeLatitude": [
+      -94.1013,
+      43.6388
+    ],
     "address": "1126 Giant Dr, Blue Earth, MN 56013"
   },
   {
@@ -380,7 +473,10 @@
     "imageURL": null,
     "remarks": "A free museum dedicated entirely to SPAM canned meat, created by Hormel Foods in the product's hometown.",
     "__v": 0,
-    "longitudeLatitude": [-92.9741, 43.6666],
+    "longitudeLatitude": [
+      -92.9741,
+      43.6666
+    ],
     "address": "101 3rd Ave NE, Austin, MN 55912"
   },
   {
@@ -392,7 +488,10 @@
     "imageURL": null,
     "remarks": "A 12-foot, 17,400-pound ball of twine wound entirely by one man, Francis A. Johnson, over 29 years.",
     "__v": 0,
-    "longitudeLatitude": [-94.4127, 45.093],
+    "longitudeLatitude": [
+      -94.4127,
+      45.093
+    ],
     "address": "County Rd 14, Darwin, MN 55324"
   },
   {
@@ -402,9 +501,12 @@
     "location": "Cawker City",
     "state": "Kansas",
     "imageURL": null,
-    "remarks": "A community-grown ball of twine started in 1953 by Frank Stoeber, now weighing over 26,000 lbs \u2014 the largest by weight.",
+    "remarks": "A community-grown ball of twine started in 1953 by Frank Stoeber, now weighing over 26,000 lbs — the largest by weight.",
     "__v": 0,
-    "longitudeLatitude": [-98.4343, 39.5094],
+    "longitudeLatitude": [
+      -98.4343,
+      39.5094
+    ],
     "address": "Wisconsin St, Cawker City, KS 67430"
   },
   {
@@ -416,7 +518,10 @@
     "imageURL": null,
     "remarks": "A restored 1934 gas station on Route 66 said to have inspired Tow Mater from Pixar's Cars, featuring a grinning tow truck out front.",
     "__v": 0,
-    "longitudeLatitude": [-94.6461, 37.0786],
+    "longitudeLatitude": [
+      -94.6461,
+      37.0786
+    ],
     "address": "119 N Main St, Galena, KS 66739"
   },
   {
@@ -428,7 +533,10 @@
     "imageURL": null,
     "remarks": "An 80-foot steel easel on the Kansas plains displaying a giant reproduction of Van Gogh's Three Sunflowers, visible from I-70.",
     "__v": 0,
-    "longitudeLatitude": [-101.7107, 39.3478],
+    "longitudeLatitude": [
+      -101.7107,
+      39.3478
+    ],
     "address": "I-70 & US-24, Goodland, KS 67735"
   },
   {
@@ -440,7 +548,10 @@
     "imageURL": null,
     "remarks": "A tiny one-room church seating exactly one person, built in 1934 and still standing as a roadside curiosity on the Kansas plains.",
     "__v": 0,
-    "longitudeLatitude": [-96.968, 38.5648],
+    "longitudeLatitude": [
+      -96.968,
+      38.5648
+    ],
     "address": "Lost Springs, KS 66859"
   },
   {
@@ -452,7 +563,10 @@
     "imageURL": null,
     "remarks": "A towering smiling peanut statue built to celebrate Jimmy Carter's 1976 presidential campaign in his hometown.",
     "__v": 0,
-    "longitudeLatitude": [-84.3977, 32.0343],
+    "longitudeLatitude": [
+      -84.3977,
+      32.0343
+    ],
     "address": "Main St, Plains, GA 31780"
   },
   {
@@ -464,7 +578,10 @@
     "imageURL": null,
     "remarks": "A giant peanut on a pedestal celebrating Georgia's status as a leading peanut-producing state.",
     "__v": 0,
-    "longitudeLatitude": [-83.6524, 31.7046],
+    "longitudeLatitude": [
+      -83.6524,
+      31.7046
+    ],
     "address": "US-280, Ashburn, GA 31714"
   },
   {
@@ -476,7 +593,10 @@
     "imageURL": null,
     "remarks": "A museum dedicated to the world's most famous soft drink, with secret vault, memorabilia, and a global soda tasting room.",
     "__v": 0,
-    "longitudeLatitude": [-84.3921, 33.7625],
+    "longitudeLatitude": [
+      -84.3921,
+      33.7625
+    ],
     "address": "121 Baker St NW, Atlanta, GA 30313"
   },
   {
@@ -488,7 +608,10 @@
     "imageURL": null,
     "remarks": "A half-scale replica of Italy's Leaning Tower of Pisa built in 1934 by Robert Ilg as a water tank for a nearby pool.",
     "__v": 0,
-    "longitudeLatitude": [-87.8036, 42.0214],
+    "longitudeLatitude": [
+      -87.8036,
+      42.0214
+    ],
     "address": "6300 W Touhy Ave, Niles, IL 60714"
   },
   {
@@ -500,7 +623,10 @@
     "imageURL": null,
     "remarks": "A 170-foot water tower shaped like a bottle of Brooks Catsup, built in 1949 and now a beloved Route 66 icon.",
     "__v": 0,
-    "longitudeLatitude": [-89.9845, 38.6706],
+    "longitudeLatitude": [
+      -89.9845,
+      38.6706
+    ],
     "address": "800 S Morrison Ave, Collinsville, IL 62234"
   },
   {
@@ -512,7 +638,10 @@
     "imageURL": null,
     "remarks": "A 15-foot bronze statue of Superman in the town that officially adopted the name of his fictional home city.",
     "__v": 0,
-    "longitudeLatitude": [-88.7323, 37.1517],
+    "longitudeLatitude": [
+      -88.7323,
+      37.1517
+    ],
     "address": "Superman Square, Metropolis, IL 62960"
   },
   {
@@ -524,7 +653,10 @@
     "imageURL": null,
     "remarks": "A 30-foot fiberglass Muffler Man spaceman holding a rocket, named after NASA's Gemini program, on Route 66 since the 1960s.",
     "__v": 0,
-    "longitudeLatitude": [-88.1445, 41.3056],
+    "longitudeLatitude": [
+      -88.1445,
+      41.3056
+    ],
     "address": "810 E Baltimore St, Wilmington, IL 60481"
   },
   {
@@ -536,7 +668,10 @@
     "imageURL": null,
     "remarks": "A 19-foot fiberglass giant brandishing an oversized hot dog, saved by locals after his advertising restaurant closed in 2002.",
     "__v": 0,
-    "longitudeLatitude": [-89.2345, 40.2603],
+    "longitudeLatitude": [
+      -89.2345,
+      40.2603
+    ],
     "address": "301 N Arch St, Atlanta, IL 61723"
   },
   {
@@ -548,7 +683,10 @@
     "imageURL": null,
     "remarks": "The world's largest covered wagon at 24 feet tall, featuring a statue of Abraham Lincoln perched on top along Route 66.",
     "__v": 0,
-    "longitudeLatitude": [-89.3659, 40.1481],
+    "longitudeLatitude": [
+      -89.3659,
+      40.1481
+    ],
     "address": "1750 5th St, Lincoln, IL 62656"
   },
   {
@@ -560,7 +698,10 @@
     "imageURL": null,
     "remarks": "A Route 66 stop mixing live bunnies with retired Volkswagen Rabbits in an elaborate pun-filled roadside display.",
     "__v": 0,
-    "longitudeLatitude": [-89.7939, 38.9987],
+    "longitudeLatitude": [
+      -89.7939,
+      38.9987
+    ],
     "address": "1107 Historic Rt 66, Staunton, IL 62088"
   },
   {
@@ -572,7 +713,10 @@
     "imageURL": null,
     "remarks": "An 18-foot concrete sculpture of a troll clutching a real VW Beetle beneath the Aurora Bridge, built by artists in 1990.",
     "__v": 0,
-    "longitudeLatitude": [-122.3472, 47.651],
+    "longitudeLatitude": [
+      -122.3472,
+      47.651
+    ],
     "address": "N 36th St & Troll Ave N, Seattle, WA 98103"
   },
   {
@@ -584,7 +728,10 @@
     "imageURL": null,
     "remarks": "Fifteen life-sized steel horse silhouettes galloping across a basalt ridge overlooking the Columbia River, installed in 1989.",
     "__v": 0,
-    "longitudeLatitude": [-119.9886, 46.9476],
+    "longitudeLatitude": [
+      -119.9886,
+      46.9476
+    ],
     "address": "Wild Horse Monument Rd, Vantage, WA 98950"
   },
   {
@@ -596,7 +743,10 @@
     "imageURL": null,
     "remarks": "A giant milk bottle-shaped building that has been a Spokane landmark since 1935, now home to Dry Fly Distilling.",
     "__v": 0,
-    "longitudeLatitude": [-117.4071, 47.6615],
+    "longitudeLatitude": [
+      -117.4071,
+      47.6615
+    ],
     "address": "1021 W Pacific Ave, Spokane, WA 99201"
   },
   {
@@ -608,7 +758,10 @@
     "imageURL": null,
     "remarks": "A hand-built fantasy theme park carved out of wilderness starting in 1964 by Roger Tofte, still family-owned and operated.",
     "__v": 0,
-    "longitudeLatitude": [-122.9454, 44.8438],
+    "longitudeLatitude": [
+      -122.9454,
+      44.8438
+    ],
     "address": "8462 Enchanted Way SE, Turner, OR 97392"
   },
   {
@@ -620,7 +773,10 @@
     "imageURL": null,
     "remarks": "A classic mystery spot where brooms stand on their own, people appear to change height, and balls roll uphill in a former assay office.",
     "__v": 0,
-    "longitudeLatitude": [-123.0563, 42.4215],
+    "longitudeLatitude": [
+      -123.0563,
+      42.4215
+    ],
     "address": "4303 Sardine Creek L Fork Rd, Gold Hill, OR 97525"
   },
   {
@@ -632,7 +788,10 @@
     "imageURL": null,
     "remarks": "A 4-acre park with 125 miniature reproductions of famous religious sites built by Benedictine monk Brother Joseph Zoettl.",
     "__v": 0,
-    "longitudeLatitude": [-86.8427, 34.1748],
+    "longitudeLatitude": [
+      -86.8427,
+      34.1748
+    ],
     "address": "1600 St Bernard Dr SE, Cullman, AL 35055"
   },
   {
@@ -642,9 +801,12 @@
     "location": "Birmingham",
     "state": "Alabama",
     "imageURL": null,
-    "remarks": "A 56-foot iron statue of the Roman god Vulcan on a 124-foot pedestal overlooking Birmingham \u2014 the world's largest cast iron statue.",
+    "remarks": "A 56-foot iron statue of the Roman god Vulcan on a 124-foot pedestal overlooking Birmingham — the world's largest cast iron statue.",
     "__v": 0,
-    "longitudeLatitude": [-86.8129, 33.4912],
+    "longitudeLatitude": [
+      -86.8129,
+      33.4912
+    ],
     "address": "1701 Valley View Dr, Birmingham, AL 35209"
   },
   {
@@ -654,9 +816,12 @@
     "location": "Scottsboro",
     "state": "Alabama",
     "imageURL": null,
-    "remarks": "The only store in the US selling unclaimed airline luggage \u2014 50,000 square feet of lost clothing, electronics, and oddities.",
+    "remarks": "The only store in the US selling unclaimed airline luggage — 50,000 square feet of lost clothing, electronics, and oddities.",
     "__v": 0,
-    "longitudeLatitude": [-86.0344, 34.672],
+    "longitudeLatitude": [
+      -86.0344,
+      34.672
+    ],
     "address": "509 W Willow St, Scottsboro, AL 35768"
   },
   {
@@ -668,7 +833,10 @@
     "imageURL": null,
     "remarks": "A 33-foot steel office chair erected in 2009 outside a furniture company to claim the world record for largest office chair.",
     "__v": 0,
-    "longitudeLatitude": [-85.8316, 33.6598],
+    "longitudeLatitude": [
+      -85.8316,
+      33.6598
+    ],
     "address": "4401 McClellan Blvd, Anniston, AL 36206"
   },
   {
@@ -680,7 +848,10 @@
     "imageURL": null,
     "remarks": "The legendary intersection where blues icon Robert Johnson is said to have sold his soul to the devil in exchange for his guitar mastery.",
     "__v": 0,
-    "longitudeLatitude": [-90.5712, 34.2005],
+    "longitudeLatitude": [
+      -90.5712,
+      34.2005
+    ],
     "address": "US-61 & US-49, Clarksdale, MS 38614"
   },
   {
@@ -692,7 +863,10 @@
     "imageURL": null,
     "remarks": "Dozens of cars and trucks planted nose-first into the Nevada desert in the tradition of Cadillac Ranch.",
     "__v": 0,
-    "longitudeLatitude": [-117.2333, 37.6957],
+    "longitudeLatitude": [
+      -117.2333,
+      37.6957
+    ],
     "address": "US-95, Goldfield, NV 89013"
   },
   {
@@ -704,7 +878,10 @@
     "imageURL": null,
     "remarks": "The official highway sign for Nevada SR-375, dubbed the Extraterrestrial Highway by the state legislature due to UFO reports near Area 51.",
     "__v": 0,
-    "longitudeLatitude": [-115.7412, 37.6406],
+    "longitudeLatitude": [
+      -115.7412,
+      37.6406
+    ],
     "address": "NV-375, Rachel, NV 89001"
   },
   {
@@ -716,7 +893,10 @@
     "imageURL": null,
     "remarks": "A museum dedicated to the 1947 Roswell incident, featuring alien exhibits, crash site theories, and extraterrestrial memorabilia.",
     "__v": 0,
-    "longitudeLatitude": [-104.523, 33.3943],
+    "longitudeLatitude": [
+      -104.523,
+      33.3943
+    ],
     "address": "114 N Main St, Roswell, NM 88203"
   },
   {
@@ -728,7 +908,10 @@
     "imageURL": null,
     "remarks": "A mind-bending immersive art installation and entertainment complex with interconnected surrealist rooms to explore.",
     "__v": 0,
-    "longitudeLatitude": [-105.9653, 35.698],
+    "longitudeLatitude": [
+      -105.9653,
+      35.698
+    ],
     "address": "1352 Rufina Cir, Santa Fe, NM 87507"
   },
   {
@@ -740,7 +923,10 @@
     "imageURL": null,
     "remarks": "A roadside pistachio farm and gift shop crowned by a 30-foot pistachio statue built in 2008 to honor the farm's founder.",
     "__v": 0,
-    "longitudeLatitude": [-106.0336, 32.8473],
+    "longitudeLatitude": [
+      -106.0336,
+      32.8473
+    ],
     "address": "7320 US-54, Alamogordo, NM 88310"
   },
   {
@@ -752,7 +938,10 @@
     "imageURL": null,
     "remarks": "A towering hand-built stone castle constructed single-handedly by Jim Bishop starting in 1969, entirely without permits.",
     "__v": 0,
-    "longitudeLatitude": [-105.0258, 37.9444],
+    "longitudeLatitude": [
+      -105.0258,
+      37.9444
+    ],
     "address": "12705 CO-165, Rye, CO 81069"
   },
   {
@@ -764,7 +953,10 @@
     "imageURL": null,
     "remarks": "A legendary Mexican restaurant with cliff divers, caves, and entertainment inside a pink castle, made famous by South Park.",
     "__v": 0,
-    "longitudeLatitude": [-105.0797, 39.7086],
+    "longitudeLatitude": [
+      -105.0797,
+      39.7086
+    ],
     "address": "6715 W Colfax Ave, Lakewood, CO 80214"
   },
   {
@@ -776,7 +968,10 @@
     "imageURL": null,
     "remarks": "Free tours of the famous herbal tea factory including a nose-clearing Peppermint Room and a look at their iconic box artwork.",
     "__v": 0,
-    "longitudeLatitude": [-105.1985, 40.0555],
+    "longitudeLatitude": [
+      -105.1985,
+      40.0555
+    ],
     "address": "4600 Sleepytime Dr, Boulder, CO 80301"
   },
   {
@@ -788,7 +983,10 @@
     "imageURL": null,
     "remarks": "A 45-foot, 45-ton concrete Hereford bull billed as the world's largest bull statue.",
     "__v": 0,
-    "longitudeLatitude": [-94.933, 41.7213],
+    "longitudeLatitude": [
+      -94.933,
+      41.7213
+    ],
     "address": "800 N Park Dr, Audubon, IA 50025"
   },
   {
@@ -800,7 +998,10 @@
     "imageURL": null,
     "remarks": "The world's largest man-made grotto, built by Father Paul Dobberstein from millions of rocks, gems, and minerals over 42 years.",
     "__v": 0,
-    "longitudeLatitude": [-94.4487, 42.9572],
+    "longitudeLatitude": [
+      -94.4487,
+      42.9572
+    ],
     "address": "300 N Broadway St, West Bend, IA 50597"
   },
   {
@@ -812,7 +1013,10 @@
     "imageURL": null,
     "remarks": "Located at the world's largest truck stop, this free museum displays vintage trucks and extensive trucking memorabilia.",
     "__v": 0,
-    "longitudeLatitude": [-90.7779, 41.5855],
+    "longitudeLatitude": [
+      -90.7779,
+      41.5855
+    ],
     "address": "755 W Iowa 80 Rd, Walcott, IA 52773"
   },
   {
@@ -824,7 +1028,10 @@
     "imageURL": null,
     "remarks": "The iconic 630-foot stainless steel arch on the Mississippi riverfront, the tallest monument in the Western Hemisphere.",
     "__v": 0,
-    "longitudeLatitude": [-90.1849, 38.6247],
+    "longitudeLatitude": [
+      -90.1849,
+      38.6247
+    ],
     "address": "11 N 4th St, St. Louis, MO 63102"
   },
   {
@@ -836,7 +1043,10 @@
     "imageURL": null,
     "remarks": "A 42-foot rocking chair towering over Route 66 in Fanning, built to claim the world record before being surpassed.",
     "__v": 0,
-    "longitudeLatitude": [-91.3528, 37.87],
+    "longitudeLatitude": [
+      -91.3528,
+      37.87
+    ],
     "address": "MO-66, Fanning, MO 63548"
   },
   {
@@ -848,7 +1058,10 @@
     "imageURL": null,
     "remarks": "A Route 66 stop with fudge, two-headed animal oddities, a magic shop, and a name engineered purely for pun value.",
     "__v": 0,
-    "longitudeLatitude": [-92.146, 37.837],
+    "longitudeLatitude": [
+      -92.146,
+      37.837
+    ],
     "address": "1200 MO-66, St. Robert, MO 65584"
   },
   {
@@ -860,7 +1073,10 @@
     "imageURL": null,
     "remarks": "A surreal complex built atop a 60-foot rock chimney, filled with massive collections of oddities, automated orchestras, and the world's largest indoor carousel.",
     "__v": 0,
-    "longitudeLatitude": [-90.1624, 43.098],
+    "longitudeLatitude": [
+      -90.1624,
+      43.098
+    ],
     "address": "5754 WI-23, Spring Green, WI 53588"
   },
   {
@@ -872,7 +1088,10 @@
     "imageURL": null,
     "remarks": "A beloved Wisconsin roadside institution shaped like a castle and stocked wall-to-wall with Wisconsin cheeses and local foods.",
     "__v": 0,
-    "longitudeLatitude": [-87.8965, 42.5614],
+    "longitudeLatitude": [
+      -87.8965,
+      42.5614
+    ],
     "address": "2800 W Frontage Rd, Kenosha, WI 53144"
   },
   {
@@ -882,9 +1101,12 @@
     "location": "Hayward",
     "state": "Wisconsin",
     "imageURL": null,
-    "remarks": "A 143-foot fiberglass muskie \u2014 the world's largest fish statue and largest fiberglass sculpture \u2014 with an observation deck inside its mouth.",
+    "remarks": "A 143-foot fiberglass muskie — the world's largest fish statue and largest fiberglass sculpture — with an observation deck inside its mouth.",
     "__v": 0,
-    "longitudeLatitude": [-91.484, 45.9877],
+    "longitudeLatitude": [
+      -91.484,
+      45.9877
+    ],
     "address": "10360 Hall of Fame Dr, Hayward, WI 54843"
   },
   {
@@ -896,7 +1118,10 @@
     "imageURL": null,
     "remarks": "Life-sized concrete dinosaur sculptures in a wooded setting along US-23, featuring over 20 prehistoric creatures since the 1930s.",
     "__v": 0,
-    "longitudeLatitude": [-83.4483, 45.0302],
+    "longitudeLatitude": [
+      -83.4483,
+      45.0302
+    ],
     "address": "11160 US-23, Ossineke, MI 49766"
   },
   {
@@ -908,7 +1133,10 @@
     "imageURL": null,
     "remarks": "A small town famous entirely for its name, with punny shops, a dam, and a tourism industry built around visiting Hell.",
     "__v": 0,
-    "longitudeLatitude": [-84.0989, 42.4367],
+    "longitudeLatitude": [
+      -84.0989,
+      42.4367
+    ],
     "address": "Hell, MI 48169"
   },
   {
@@ -920,7 +1148,10 @@
     "imageURL": null,
     "remarks": "A seven-story office building shaped exactly like a giant Longaberger picnic basket, complete with handles, built in 1997.",
     "__v": 0,
-    "longitudeLatitude": [-82.4268, 40.0648],
+    "longitudeLatitude": [
+      -82.4268,
+      40.0648
+    ],
     "address": "1 Market Square, Newark, OH 43055"
   },
   {
@@ -932,7 +1163,10 @@
     "imageURL": null,
     "remarks": "An iconic I.M. Pei-designed glass pyramid on Lake Erie honoring the history of rock and roll music.",
     "__v": 0,
-    "longitudeLatitude": [-81.6954, 41.5086],
+    "longitudeLatitude": [
+      -81.6954,
+      41.5086
+    ],
     "address": "1100 E 9th St, Cleveland, OH 44114"
   },
   {
@@ -944,7 +1178,10 @@
     "imageURL": null,
     "remarks": "A meticulously detailed miniature village of concrete sculptures built by Depression-era worker Ben Hartman starting in 1932.",
     "__v": 0,
-    "longitudeLatitude": [-83.8219, 39.9098],
+    "longitudeLatitude": [
+      -83.8219,
+      39.9098
+    ],
     "address": "1905 Russell Ave, Springfield, OH 45506"
   },
   {
@@ -956,7 +1193,10 @@
     "imageURL": null,
     "remarks": "A bronze statue of Fred Rogers on the North Shore waterfront commemorating the beloved TV host's Pittsburgh connection.",
     "__v": 0,
-    "longitudeLatitude": [-80.0016, 40.4477],
+    "longitudeLatitude": [
+      -80.0016,
+      40.4477
+    ],
     "address": "North Shore Dr & Federal St, Pittsburgh, PA 15212"
   },
   {
@@ -968,7 +1208,10 @@
     "imageURL": null,
     "remarks": "An Amish village in Lancaster County famous for its name and as a gateway to Pennsylvania Dutch country, with dozens of craft shops.",
     "__v": 0,
-    "longitudeLatitude": [-76.0393, 40.0337],
+    "longitudeLatitude": [
+      -76.0393,
+      40.0337
+    ],
     "address": "Main St, Intercourse, PA 17534"
   },
   {
@@ -980,7 +1223,10 @@
     "imageURL": null,
     "remarks": "An enormous indoor miniature village built over 60 years by Laurence Gieringer, featuring hundreds of hand-crafted scenes of American life.",
     "__v": 0,
-    "longitudeLatitude": [-76.1112, 40.5005],
+    "longitudeLatitude": [
+      -76.1112,
+      40.5005
+    ],
     "address": "109 Roadside Dr, Shartlesville, PA 19554"
   },
   {
@@ -992,7 +1238,10 @@
     "imageURL": null,
     "remarks": "A converted grain silo housing a 60-foot kaleidoscope with psychedelic 8-minute light shows, the largest kaleidoscope in the world.",
     "__v": 0,
-    "longitudeLatitude": [-74.2701, 42.0517],
+    "longitudeLatitude": [
+      -74.2701,
+      42.0517
+    ],
     "address": "6 Rock City Rd, Mount Tremper, NY 12457"
   },
   {
@@ -1004,7 +1253,10 @@
     "imageURL": null,
     "remarks": "A 6-story, 120-room castle on Heart Island in the Thousand Islands, begun in 1900 as a gift of love and left unfinished after a tragedy.",
     "__v": 0,
-    "longitudeLatitude": [-75.9959, 44.3525],
+    "longitudeLatitude": [
+      -75.9959,
+      44.3525
+    ],
     "address": "Heart Island, Alexandria Bay, NY 13607"
   },
   {
@@ -1016,7 +1268,10 @@
     "imageURL": null,
     "remarks": "A dramatic commercial cave attraction open since 1843, featuring an underground boat ride on a subterranean lake.",
     "__v": 0,
-    "longitudeLatitude": [-74.3887, 42.6948],
+    "longitudeLatitude": [
+      -74.3887,
+      42.6948
+    ],
     "address": "255 Discovery Dr, Howes Cave, NY 12092"
   },
   {
@@ -1028,7 +1283,10 @@
     "imageURL": null,
     "remarks": "A mysterious structure of massive coral rock sculptures built entirely in secret by one man, Ed Leedskalnin, over 28 years.",
     "__v": 0,
-    "longitudeLatitude": [-80.4443, 25.5005],
+    "longitudeLatitude": [
+      -80.4443,
+      25.5005
+    ],
     "address": "28655 S Dixie Hwy, Homestead, FL 33033"
   },
   {
@@ -1040,7 +1298,10 @@
     "imageURL": null,
     "remarks": "A castle constructed from recycled newspaper printing plates by sculptor Howard Solomon, deep in the Florida swamplands.",
     "__v": 0,
-    "longitudeLatitude": [-81.9185, 27.383],
+    "longitudeLatitude": [
+      -81.9185,
+      27.383
+    ],
     "address": "4533 Solomon Rd, Ona, FL 33865"
   },
   {
@@ -1052,7 +1313,10 @@
     "imageURL": null,
     "remarks": "An Old Florida classic open since 1949 with alligator and crocodile encounters, live shows, and a gaping gator-jaw entrance gate.",
     "__v": 0,
-    "longitudeLatitude": [-81.4129, 28.4353],
+    "longitudeLatitude": [
+      -81.4129,
+      28.4353
+    ],
     "address": "14501 S Orange Blossom Trail, Orlando, FL 32837"
   },
   {
@@ -1064,7 +1328,10 @@
     "imageURL": null,
     "remarks": "A colorful concrete buoy marking the southernmost point in the continental US, one of the most photographed roadside spots in the country.",
     "__v": 0,
-    "longitudeLatitude": [-81.7999, 24.5465],
+    "longitudeLatitude": [
+      -81.7999,
+      24.5465
+    ],
     "address": "Whitehead St & South St, Key West, FL 33040"
   },
   {
@@ -1076,7 +1343,10 @@
     "imageURL": null,
     "remarks": "A roadside theater since 1947 where live performers in mermaid costumes put on underwater shows in a natural freshwater spring.",
     "__v": 0,
-    "longitudeLatitude": [-82.5695, 28.5161],
+    "longitudeLatitude": [
+      -82.5695,
+      28.5161
+    ],
     "address": "6131 Commercial Way, Weeki Wachee, FL 34606"
   },
   {
@@ -1088,7 +1358,10 @@
     "imageURL": null,
     "remarks": "Elvis Presley's iconic home, now a museum and global pilgrimage site attracting over 600,000 fans annually.",
     "__v": 0,
-    "longitudeLatitude": [-90.0234, 35.0469],
+    "longitudeLatitude": [
+      -90.0234,
+      35.0469
+    ],
     "address": "3764 Elvis Presley Blvd, Memphis, TN 38116"
   },
   {
@@ -1100,7 +1373,10 @@
     "imageURL": null,
     "remarks": "A 266-foot golden sphere-topped tower built for the 1982 World's Fair, offering 360-degree views of Knoxville and the Smokies.",
     "__v": 0,
-    "longitudeLatitude": [-83.9308, 35.9637],
+    "longitudeLatitude": [
+      -83.9308,
+      35.9637
+    ],
     "address": "810 Clinch Ave, Knoxville, TN 37902"
   },
   {
@@ -1112,7 +1388,10 @@
     "imageURL": null,
     "remarks": "America's largest privately-owned home at 178,926 square feet, a Gilded Age chateau built by George Vanderbilt in 1895.",
     "__v": 0,
-    "longitudeLatitude": [-82.5516, 35.54],
+    "longitudeLatitude": [
+      -82.5516,
+      35.54
+    ],
     "address": "1 Lodge St, Asheville, NC 28803"
   },
   {
@@ -1124,7 +1403,10 @@
     "imageURL": null,
     "remarks": "A park of massive hand-built wind-powered whirligig machines by folk artist Vollis Simpson, now a beloved public art landmark.",
     "__v": 0,
-    "longitudeLatitude": [-77.9199, 35.7232],
+    "longitudeLatitude": [
+      -77.9199,
+      35.7232
+    ],
     "address": "301 S Goldsboro St, Wilson, NC 27893"
   },
   {
@@ -1136,7 +1418,10 @@
     "imageURL": null,
     "remarks": "A kitschy roadside complex of motels, restaurants, and attractions straddling the NC-SC border, famous for its mile-long billboard campaign.",
     "__v": 0,
-    "longitudeLatitude": [-79.3725, 34.6228],
+    "longitudeLatitude": [
+      -79.3725,
+      34.6228
+    ],
     "address": "3346 US-301, Dillon, SC 29536"
   },
   {
@@ -1148,7 +1433,10 @@
     "imageURL": null,
     "remarks": "A million-gallon water tower shaped and painted to look exactly like a giant peach, visible for miles along I-85.",
     "__v": 0,
-    "longitudeLatitude": [-81.6601, 35.0635],
+    "longitudeLatitude": [
+      -81.6601,
+      35.0635
+    ],
     "address": "I-85, Gaffney, SC 29341"
   },
   {
@@ -1158,9 +1446,12 @@
     "location": "Luray",
     "state": "Virginia",
     "imageURL": null,
-    "remarks": "The largest caverns in the eastern US, featuring the Great Stalacpipe Organ \u2014 the world's largest natural musical instrument.",
+    "remarks": "The largest caverns in the eastern US, featuring the Great Stalacpipe Organ — the world's largest natural musical instrument.",
     "__v": 0,
-    "longitudeLatitude": [-78.4644, 38.6651],
+    "longitudeLatitude": [
+      -78.4644,
+      38.6651
+    ],
     "address": "101 Cave Hill Rd, Luray, VA 22835"
   },
   {
@@ -1172,7 +1463,10 @@
     "imageURL": null,
     "remarks": "A full-scale Stonehenge replica made entirely of Styrofoam by artist Mark Cline, periodically relocated to new spots around Virginia.",
     "__v": 0,
-    "longitudeLatitude": [-77.4561, 38.8399],
+    "longitudeLatitude": [
+      -77.4561,
+      38.8399
+    ],
     "address": "US-29, Centreville, VA 20120"
   },
   {
@@ -1184,7 +1478,10 @@
     "imageURL": null,
     "remarks": "A 27-foot concrete penguin welcoming travelers to Cut Bank, which bills itself as the coldest spot in the lower 48.",
     "__v": 0,
-    "longitudeLatitude": [-112.3244, 48.6328],
+    "longitudeLatitude": [
+      -112.3244,
+      48.6328
+    ],
     "address": "1 S Central Ave, Cut Bank, MT 59427"
   },
   {
@@ -1196,7 +1493,10 @@
     "imageURL": null,
     "remarks": "A quirky free museum celebrating Idaho's most famous crop, including the world's largest potato chip and dehydrated potato exhibits.",
     "__v": 0,
-    "longitudeLatitude": [-112.3432, 43.1908],
+    "longitudeLatitude": [
+      -112.3432,
+      43.1908
+    ],
     "address": "130 NW Main St, Blackfoot, ID 83221"
   },
   {
@@ -1208,7 +1508,10 @@
     "imageURL": null,
     "remarks": "A 5,000-square-foot home carved entirely out of a sandstone rock face by Albert and Gladys Christensen over 12 years.",
     "__v": 0,
-    "longitudeLatitude": [-109.5446, 38.4789],
+    "longitudeLatitude": [
+      -109.5446,
+      38.4789
+    ],
     "address": "11037 US-191, Moab, UT 84532"
   },
   {
@@ -1220,7 +1523,10 @@
     "imageURL": null,
     "remarks": "A hidden public garden with 12 original sculptures including a Sphinx bearing the face of Joseph Smith, built by Thomas Child.",
     "__v": 0,
-    "longitudeLatitude": [-111.8714, 40.7219],
+    "longitudeLatitude": [
+      -111.8714,
+      40.7219
+    ],
     "address": "749 E 500 S, Salt Lake City, UT 84102"
   },
   {
@@ -1232,7 +1538,10 @@
     "imageURL": null,
     "remarks": "A small wooden church in Kona whose interior is painted with colorful biblical scenes created to teach scripture to early Hawaiian converts.",
     "__v": 0,
-    "longitudeLatitude": [-155.9117, 19.4983],
+    "longitudeLatitude": [
+      -155.9117,
+      19.4983
+    ],
     "address": "84-5140 Painted Church Rd, Captain Cook, HI 96704"
   },
   {
@@ -1244,7 +1553,10 @@
     "imageURL": null,
     "remarks": "An abandoned four-story hotel shaped like a giant igloo built in the 1970s along the Parks Highway, never completed due to code issues.",
     "__v": 0,
-    "longitudeLatitude": [-148.9219, 63.3919],
+    "longitudeLatitude": [
+      -148.9219,
+      63.3919
+    ],
     "address": "Parks Hwy, Cantwell, AK 99729"
   },
   {
@@ -1256,7 +1568,10 @@
     "imageURL": null,
     "remarks": "A 170-acre botanical garden and bird sanctuary on the private island home of the McIlhenny Company, makers of Tabasco sauce.",
     "__v": 0,
-    "longitudeLatitude": [-91.9016, 29.9069],
+    "longitudeLatitude": [
+      -91.9016,
+      29.9069
+    ],
     "address": "5505 Rte 329, Avery Island, LA 70513"
   },
   {
@@ -1268,7 +1583,10 @@
     "imageURL": null,
     "remarks": "A folk art museum crammed with bizarre dioramas, the UnUsual Collection of Marvels, and a giant mechanical alligator named Darrell.",
     "__v": 0,
-    "longitudeLatitude": [-90.0418, 30.4838],
+    "longitudeLatitude": [
+      -90.0418,
+      30.4838
+    ],
     "address": "22275 LA-36, Abita Springs, LA 70420"
   },
   {
@@ -1278,9 +1596,12 @@
     "location": "Murfreesboro",
     "state": "Arkansas",
     "imageURL": null,
-    "remarks": "The world's only diamond-producing site open to the public where visitors dig and keep any gems they find \u2014 a real working diamond mine.",
+    "remarks": "The world's only diamond-producing site open to the public where visitors dig and keep any gems they find — a real working diamond mine.",
     "__v": 0,
-    "longitudeLatitude": [-93.6702, 34.0387],
+    "longitudeLatitude": [
+      -93.6702,
+      34.0387
+    ],
     "address": "209 State Park Rd, Murfreesboro, AR 71958"
   },
   {
@@ -1292,7 +1613,10 @@
     "imageURL": null,
     "remarks": "A baseball that has had over 25,000 layers of paint applied by visitors since 1977, now weighing over 4,000 pounds.",
     "__v": 0,
-    "longitudeLatitude": [-85.6766, 40.2639],
+    "longitudeLatitude": [
+      -85.6766,
+      40.2639
+    ],
     "address": "10696 N 200 W, Alexandria, IN 46001"
   },
   {
@@ -1304,7 +1628,10 @@
     "imageURL": null,
     "remarks": "A 1937 motel with 15 concrete teepee-shaped rooms, one of only three surviving Wigwam Village motels left in the US.",
     "__v": 0,
-    "longitudeLatitude": [-85.958, 37.1249],
+    "longitudeLatitude": [
+      -85.958,
+      37.1249
+    ],
     "address": "601 N Dixie Hwy, Cave City, KY 42127"
   },
   {
@@ -1316,7 +1643,10 @@
     "imageURL": null,
     "remarks": "The Shinner Building, recognized by Ripley's Believe It or Not as the world's tallest three-story building due to its unusually high ceilings.",
     "__v": 0,
-    "longitudeLatitude": [-84.253, 38.2098],
+    "longitudeLatitude": [
+      -84.253,
+      38.2098
+    ],
     "address": "8th & Main St, Paris, KY 40361"
   },
   {
@@ -1328,7 +1658,10 @@
     "imageURL": null,
     "remarks": "The original L.L. Bean store, open 24 hours a day 365 days a year since 1951, with a giant boot sculpture at the entrance.",
     "__v": 0,
-    "longitudeLatitude": [-70.1047, 43.8578],
+    "longitudeLatitude": [
+      -70.1047,
+      43.8578
+    ],
     "address": "95 Main St, Freeport, ME 04032"
   },
   {
@@ -1340,7 +1673,10 @@
     "imageURL": null,
     "remarks": "A 31-foot fiberglass statue of Paul Bunyan in his supposed birthplace, erected in 1959 to celebrate the city's centennial.",
     "__v": 0,
-    "longitudeLatitude": [-68.7773, 44.8012],
+    "longitudeLatitude": [
+      -68.7773,
+      44.8012
+    ],
     "address": "519 Main St, Bangor, ME 04401"
   },
   {
@@ -1352,7 +1688,10 @@
     "imageURL": null,
     "remarks": "A 4,000-year-old stone complex of chambers and astronomical alignments, sometimes called Mystery Hill, possibly pre-Columbian in origin.",
     "__v": 0,
-    "longitudeLatitude": [-71.2271, 42.8395],
+    "longitudeLatitude": [
+      -71.2271,
+      42.8395
+    ],
     "address": "105 Haverhill Rd, Salem, NH 03079"
   },
   {
@@ -1364,7 +1703,10 @@
     "imageURL": null,
     "remarks": "A 24-room medieval-style stone castle built by eccentric actor William Gillette of Sherlock Holmes fame between 1914 and 1919.",
     "__v": 0,
-    "longitudeLatitude": [-72.4314, 41.4317],
+    "longitudeLatitude": [
+      -72.4314,
+      41.4317
+    ],
     "address": "67 River Rd, East Haddam, CT 06423"
   },
   {
@@ -1376,7 +1718,10 @@
     "imageURL": null,
     "remarks": "An award-winning public art installation of over 80 bonfires lit on the rivers of downtown Providence with live music accompaniment.",
     "__v": 0,
-    "longitudeLatitude": [-71.4128, 41.8232],
+    "longitudeLatitude": [
+      -71.4128,
+      41.8232
+    ],
     "address": "Waterplace Park, Providence, RI 02903"
   },
   {
@@ -1388,7 +1733,10 @@
     "imageURL": null,
     "remarks": "A 40-foot milk bottle-shaped snack stand outside the Boston Children's Museum on Fort Point Channel, a landmark since 1977.",
     "__v": 0,
-    "longitudeLatitude": [-71.0495, 42.3517],
+    "longitudeLatitude": [
+      -71.0495,
+      42.3517
+    ],
     "address": "300 Congress St, Boston, MA 02210"
   },
   {
@@ -1400,7 +1748,10 @@
     "imageURL": null,
     "remarks": "A six-story National Historic Landmark elephant structure built in 1881 as a real estate gimmick, once used as a tavern and hotel.",
     "__v": 0,
-    "longitudeLatitude": [-74.3107, 39.3257],
+    "longitudeLatitude": [
+      -74.3107,
+      39.3257
+    ],
     "address": "9200 Atlantic Ave, Margate City, NJ 08402"
   },
   {
@@ -1412,7 +1763,10 @@
     "imageURL": null,
     "remarks": "A giant lightbulb sculpture in the town where Thomas Edison invented the incandescent bulb, honoring his enduring legacy.",
     "__v": 0,
-    "longitudeLatitude": [-74.3618, 40.5187],
+    "longitudeLatitude": [
+      -74.3618,
+      40.5187
+    ],
     "address": "37 Christie St, Edison, NJ 08820"
   },
   {
@@ -1424,7 +1778,10 @@
     "imageURL": null,
     "remarks": "A 42-acre sculpture park with over 270 works of contemporary art set among trees, ponds, and gardens on a former state fairgrounds.",
     "__v": 0,
-    "longitudeLatitude": [-74.7338, 40.2226],
+    "longitudeLatitude": [
+      -74.7338,
+      40.2226
+    ],
     "address": "80 Sculptors Way, Hamilton, NJ 08619"
   },
   {
@@ -1436,7 +1793,10 @@
     "imageURL": null,
     "remarks": "The flagship brewery of the famous Dogfish Head craft beer brand, with tours, tasting rooms, and creative seasonal beers.",
     "__v": 0,
-    "longitudeLatitude": [-75.3115, 38.772],
+    "longitudeLatitude": [
+      -75.3115,
+      38.772
+    ],
     "address": "6 Cannery Village Center, Milton, DE 19968"
   },
   {
@@ -1448,7 +1808,10 @@
     "imageURL": null,
     "remarks": "A 26-foot, 60-ton concrete bison sculpture towering over the North Dakota plains, completed in 1959.",
     "__v": 0,
-    "longitudeLatitude": [-98.6843, 46.9146],
+    "longitudeLatitude": [
+      -98.6843,
+      46.9146
+    ],
     "address": "500 17th St SE, Jamestown, ND 58401"
   },
   {
@@ -1460,7 +1823,10 @@
     "imageURL": null,
     "remarks": "A 32-mile stretch of highway lined with massive scrap-metal sculptures by Gary Greff, including the world's largest scrap metal sculpture Geese in Flight.",
     "__v": 0,
-    "longitudeLatitude": [-102.5561, 46.4228],
+    "longitudeLatitude": [
+      -102.5561,
+      46.4228
+    ],
     "address": "ND-21, Regent, ND 58650"
   },
   {
@@ -1472,7 +1838,10 @@
     "imageURL": null,
     "remarks": "The actual woodchipper prop from the Coen Brothers' film Fargo, on display at the Visitor Center alongside a celebrity handprint walk.",
     "__v": 0,
-    "longitudeLatitude": [-96.797, 46.8772],
+    "longitudeLatitude": [
+      -96.797,
+      46.8772
+    ],
     "address": "2001 44th St S, Fargo, ND 58103"
   },
   {
@@ -1484,7 +1853,10 @@
     "imageURL": null,
     "remarks": "A giant statue of the mythical jackalope in the town that claims to be its birthplace and sells official jackalope hunting licenses.",
     "__v": 0,
-    "longitudeLatitude": [-105.3811, 42.7597],
+    "longitudeLatitude": [
+      -105.3811,
+      42.7597
+    ],
     "address": "3rd St & Center St, Douglas, WY 82633"
   },
   {
@@ -1496,7 +1868,10 @@
     "imageURL": null,
     "remarks": "A classic gravity-defying mystery spot attraction on Route 60 near the New River Gorge area.",
     "__v": 0,
-    "longitudeLatitude": [-81.1024, 38.1369],
+    "longitudeLatitude": [
+      -81.1024,
+      38.1369
+    ],
     "address": "Chimney Corner Rd, Ansted, WV 25812"
   },
   {
@@ -1508,7 +1883,10 @@
     "imageURL": null,
     "remarks": "A 14-foot-tall and 14-foot-wide teapot-shaped roadside attraction originally built in 1938 as a root beer stand in the pottery capital of the US.",
     "__v": 0,
-    "longitudeLatitude": [-80.5629, 40.6112],
+    "longitudeLatitude": [
+      -80.5629,
+      40.6112
+    ],
     "address": "600 Washington Ave, Chester, WV 26034"
   },
   {
@@ -1520,7 +1898,10 @@
     "imageURL": null,
     "remarks": "A free museum in a converted barn displaying enormous papier-mache puppets used in decades of political street theater performances.",
     "__v": 0,
-    "longitudeLatitude": [-72.2037, 44.723],
+    "longitudeLatitude": [
+      -72.2037,
+      44.723
+    ],
     "address": "753 Heights Rd, Glover, VT 05839"
   },
   {
@@ -1532,7 +1913,10 @@
     "imageURL": null,
     "remarks": "One of the most visited aquariums in the US at Baltimore's Inner Harbor, housing over 20,000 animals across multiple ecosystems.",
     "__v": 0,
-    "longitudeLatitude": [-76.608, 39.2847],
+    "longitudeLatitude": [
+      -76.608,
+      39.2847
+    ],
     "address": "501 E Pratt St, Baltimore, MD 21202"
   },
   {
@@ -1542,9 +1926,12 @@
     "location": "Washington",
     "state": "DC",
     "imageURL": null,
-    "remarks": "A massive Victorian-era building whose 75-foot Great Hall has hosted presidential inaugural balls \u2014 a jaw-dropping architectural detour in DC.",
+    "remarks": "A massive Victorian-era building whose 75-foot Great Hall has hosted presidential inaugural balls — a jaw-dropping architectural detour in DC.",
     "__v": 0,
-    "longitudeLatitude": [-77.017, 38.8973],
+    "longitudeLatitude": [
+      -77.017,
+      38.8973
+    ],
     "address": "401 F St NW, Washington, DC 20001"
   },
   {
@@ -1556,7 +1943,10 @@
     "imageURL": null,
     "remarks": "Giant peach-shaped water tower visible from I-65.",
     "__v": 0,
-    "longitudeLatitude": [-86.6267, 32.8876],
+    "longitudeLatitude": [
+      -86.6267,
+      32.8876
+    ],
     "address": "Clanton, AL, USA"
   },
   {
@@ -1568,7 +1958,10 @@
     "imageURL": null,
     "remarks": "Quirky oversized roadside sign with a long legal history.",
     "__v": 0,
-    "longitudeLatitude": [-149.498, 60.9853],
+    "longitudeLatitude": [
+      -149.498,
+      60.9853
+    ],
     "address": "Anchorage, AK, USA"
   },
   {
@@ -1580,7 +1973,10 @@
     "imageURL": null,
     "remarks": "Iconic abandoned car along historic Route 66.",
     "__v": 0,
-    "longitudeLatitude": [-109.8053, 35.0513],
+    "longitudeLatitude": [
+      -109.8053,
+      35.0513
+    ],
     "address": "Holbrook, AZ, USA"
   },
   {
@@ -1592,7 +1988,10 @@
     "imageURL": null,
     "remarks": "Gravity-defying rock formations in a roadside park.",
     "__v": 0,
-    "longitudeLatitude": [-93.7474, 36.4329],
+    "longitudeLatitude": [
+      -93.7474,
+      36.4329
+    ],
     "address": "Eureka Springs, AR, USA"
   },
   {
@@ -1604,7 +2003,10 @@
     "imageURL": null,
     "remarks": "68-foot-tall cup monument to a former factory.",
     "__v": 0,
-    "longitudeLatitude": [-117.3394, 34.0066],
+    "longitudeLatitude": [
+      -117.3394,
+      34.0066
+    ],
     "address": "Riverside, CA, USA"
   },
   {
@@ -1616,7 +2018,10 @@
     "imageURL": null,
     "remarks": "Bee-themed roadside stop with unusual honey products.",
     "__v": 0,
-    "longitudeLatitude": [-107.8186, 37.4264],
+    "longitudeLatitude": [
+      -107.8186,
+      37.4264
+    ],
     "address": "Durango, CO, USA"
   },
   {
@@ -1628,7 +2033,10 @@
     "imageURL": null,
     "remarks": "38-foot-tall patriotic roadside figure.",
     "__v": 0,
-    "longitudeLatitude": [-73.4501, 41.3979],
+    "longitudeLatitude": [
+      -73.4501,
+      41.3979
+    ],
     "address": "Danbury, CT, USA"
   },
   {
@@ -1640,7 +2048,10 @@
     "imageURL": null,
     "remarks": "Chainsaw-carved tiki statues along the roadside.",
     "__v": 0,
-    "longitudeLatitude": [-75.4323, 38.9676],
+    "longitudeLatitude": [
+      -75.4323,
+      38.9676
+    ],
     "address": "Milford, DE, USA"
   },
   {
@@ -1652,7 +2063,10 @@
     "imageURL": null,
     "remarks": "Southernmost point of the famous highway.",
     "__v": 0,
-    "longitudeLatitude": [-81.8039, 24.5553],
+    "longitudeLatitude": [
+      -81.8039,
+      24.5553
+    ],
     "address": "Key West, FL, USA"
   },
   {
@@ -1664,7 +2078,10 @@
     "imageURL": null,
     "remarks": "Transmission tower decorated with dozens of cows.",
     "__v": 0,
-    "longitudeLatitude": [-84.085, 33.6556],
+    "longitudeLatitude": [
+      -84.085,
+      33.6556
+    ],
     "address": "Conyers, GA, USA"
   },
   {
@@ -1676,7 +2093,10 @@
     "imageURL": null,
     "remarks": "Roadside park built by a UFO religion.",
     "__v": 0,
-    "longitudeLatitude": [-155.1853, 19.4521],
+    "longitudeLatitude": [
+      -155.1853,
+      19.4521
+    ],
     "address": "Pahoa, HI, USA"
   },
   {
@@ -1688,7 +2108,10 @@
     "imageURL": null,
     "remarks": "Handmade folk-art fountain hidden off the road.",
     "__v": 0,
-    "longitudeLatitude": [-115.8231, 47.4607],
+    "longitudeLatitude": [
+      -115.8231,
+      47.4607
+    ],
     "address": "Mullan, ID, USA"
   },
   {
@@ -1700,7 +2123,10 @@
     "imageURL": null,
     "remarks": "Museum dedicated to fiberglass roadside giants.",
     "__v": 0,
-    "longitudeLatitude": [-89.2337, 40.2592],
+    "longitudeLatitude": [
+      -89.2337,
+      40.2592
+    ],
     "address": "Atlanta, IL, USA"
   },
   {
@@ -1712,7 +2138,10 @@
     "imageURL": null,
     "remarks": "Urban park designed around highway watching.",
     "__v": 0,
-    "longitudeLatitude": [-86.1441, 39.7557],
+    "longitudeLatitude": [
+      -86.1441,
+      39.7557
+    ],
     "address": "Indianapolis, IN, USA"
   },
   {
@@ -1724,7 +2153,10 @@
     "imageURL": null,
     "remarks": "Early animatronic dinosaur roadside attraction.",
     "__v": 0,
-    "longitudeLatitude": [-96.5678, 42.8159],
+    "longitudeLatitude": [
+      -96.5678,
+      42.8159
+    ],
     "address": "Akron, IA, USA"
   },
   {
@@ -1736,7 +2168,10 @@
     "imageURL": null,
     "remarks": "Giant souvenir plate in grassroots art town.",
     "__v": 0,
-    "longitudeLatitude": [-98.5282, 39.0577],
+    "longitudeLatitude": [
+      -98.5282,
+      39.0577
+    ],
     "address": "Lucas, KS, USA"
   },
   {
@@ -1748,7 +2183,10 @@
     "imageURL": null,
     "remarks": "Birthplace of KFC turned roadside museum.",
     "__v": 0,
-    "longitudeLatitude": [-84.0938, 36.9599],
+    "longitudeLatitude": [
+      -84.0938,
+      36.9599
+    ],
     "address": "Corbin, KY, USA"
   },
   {
@@ -1760,7 +2198,10 @@
     "imageURL": null,
     "remarks": "Eclectic roadside taxidermy museum.",
     "__v": 0,
-    "longitudeLatitude": [-93.5925, 32.5556],
+    "longitudeLatitude": [
+      -93.5925,
+      32.5556
+    ],
     "address": "Haughton, LA, USA"
   },
   {
@@ -1772,7 +2213,10 @@
     "imageURL": null,
     "remarks": "Tiny roadside bookstand.",
     "__v": 0,
-    "longitudeLatitude": [-68.6384, 44.323],
+    "longitudeLatitude": [
+      -68.6384,
+      44.323
+    ],
     "address": "Sedgwick, ME, USA"
   },
   {
@@ -1784,7 +2228,10 @@
     "imageURL": null,
     "remarks": "Colorful junk-art house and cars.",
     "__v": 0,
-    "longitudeLatitude": [-76.9541, 38.9607],
+    "longitudeLatitude": [
+      -76.9541,
+      38.9607
+    ],
     "address": "Hyattsville, MD, USA"
   },
   {
@@ -1796,7 +2243,10 @@
     "imageURL": null,
     "remarks": "One of the smallest churches in the U.S.",
     "__v": 0,
-    "longitudeLatitude": [-71.5376, 42.3817],
+    "longitudeLatitude": [
+      -71.5376,
+      42.3817
+    ],
     "address": "Hudson, MA, USA"
   },
   {
@@ -1808,7 +2258,10 @@
     "imageURL": null,
     "remarks": "30-foot steer honoring local industry.",
     "__v": 0,
-    "longitudeLatitude": [-84.2346, 45.3556],
+    "longitudeLatitude": [
+      -84.2346,
+      45.3556
+    ],
     "address": "Onaway, MI, USA"
   },
   {
@@ -1820,7 +2273,10 @@
     "imageURL": null,
     "remarks": "Giant boot inside Red Wing Shoe Museum.",
     "__v": 0,
-    "longitudeLatitude": [-92.5344, 44.5661],
+    "longitudeLatitude": [
+      -92.5344,
+      44.5661
+    ],
     "address": "Red Wing, MN, USA"
   },
   {
@@ -1832,7 +2288,10 @@
     "imageURL": null,
     "remarks": "Miniature biblical landscape hidden in woods.",
     "__v": 0,
-    "longitudeLatitude": [-88.6205, 30.9938],
+    "longitudeLatitude": [
+      -88.6205,
+      30.9938
+    ],
     "address": "Lucedale, MS, USA"
   },
   {
@@ -1844,7 +2303,10 @@
     "imageURL": null,
     "remarks": "Massive spool outside quilt museum.",
     "__v": 0,
-    "longitudeLatitude": [-93.9949, 39.7449],
+    "longitudeLatitude": [
+      -93.9949,
+      39.7449
+    ],
     "address": "Hamilton, MO, USA"
   },
   {
@@ -1856,7 +2318,10 @@
     "imageURL": null,
     "remarks": "Giant blue horse sculptures on a hill.",
     "__v": 0,
-    "longitudeLatitude": [-111.5962, 45.9788],
+    "longitudeLatitude": [
+      -111.5962,
+      45.9788
+    ],
     "address": "Three Forks, MT, USA"
   },
   {
@@ -1868,7 +2333,10 @@
     "imageURL": null,
     "remarks": "Whimsical roadside marble collection.",
     "__v": 0,
-    "longitudeLatitude": [-97.5984, 40.833],
+    "longitudeLatitude": [
+      -97.5984,
+      40.833
+    ],
     "address": "York, NE, USA"
   },
   {
@@ -1880,7 +2348,10 @@
     "imageURL": null,
     "remarks": "Giant spider made from a Volkswagen.",
     "__v": 0,
-    "longitudeLatitude": [-119.6687, 39.2137],
+    "longitudeLatitude": [
+      -119.6687,
+      39.2137
+    ],
     "address": "Mound House, NV, USA"
   },
   {
@@ -1892,7 +2363,10 @@
     "imageURL": null,
     "remarks": "Working medieval-style trebuchet.",
     "__v": 0,
-    "longitudeLatitude": [-71.9217, 42.9543],
+    "longitudeLatitude": [
+      -71.9217,
+      42.9543
+    ],
     "address": "Greenfield, NH, USA"
   },
   {
@@ -1904,7 +2378,10 @@
     "imageURL": null,
     "remarks": "25-foot gorilla statue at roadside market.",
     "__v": 0,
-    "longitudeLatitude": [-74.7368, 39.8102],
+    "longitudeLatitude": [
+      -74.7368,
+      39.8102
+    ],
     "address": "Shamong, NJ, USA"
   },
   {
@@ -1916,7 +2393,10 @@
     "imageURL": null,
     "remarks": "Massive chile sculpture.",
     "__v": 0,
-    "longitudeLatitude": [-106.8079, 32.3122],
+    "longitudeLatitude": [
+      -106.8079,
+      32.3122
+    ],
     "address": "Las Cruces, NM, USA"
   },
   {
@@ -1928,7 +2408,10 @@
     "imageURL": null,
     "remarks": "Classic Route 20 roadside shop.",
     "__v": 0,
-    "longitudeLatitude": [-74.6845, 42.8078],
+    "longitudeLatitude": [
+      -74.6845,
+      42.8078
+    ],
     "address": "Cherry Valley, NY, USA"
   },
   {
@@ -1940,7 +2423,10 @@
     "imageURL": null,
     "remarks": "Giant coffee pot-shaped building.",
     "__v": 0,
-    "longitudeLatitude": [-80.2428, 36.0908],
+    "longitudeLatitude": [
+      -80.2428,
+      36.0908
+    ],
     "address": "Winston-Salem, NC, USA"
   },
   {
@@ -1952,7 +2438,10 @@
     "imageURL": null,
     "remarks": "40-foot crane sculpture.",
     "__v": 0,
-    "longitudeLatitude": [-99.9137, 46.8618],
+    "longitudeLatitude": [
+      -99.9137,
+      46.8618
+    ],
     "address": "Steele, ND, USA"
   },
   {
@@ -1964,20 +2453,11 @@
     "imageURL": null,
     "remarks": "35-foot chef bobblehead.",
     "__v": 0,
-    "longitudeLatitude": [-82.5407, 40.6473],
+    "longitudeLatitude": [
+      -82.5407,
+      40.6473
+    ],
     "address": "Bellville, OH, USA"
-  },
-  {
-    "country": "USA",
-    "_id": "ok0165",
-    "name": "POPS Soda Ranch",
-    "location": "Arcadia",
-    "state": "Oklahoma",
-    "imageURL": null,
-    "remarks": "66-foot neon soda bottle landmark.",
-    "__v": 0,
-    "longitudeLatitude": [-97.3355, 35.6582],
-    "address": "Arcadia, OK, USA"
   },
   {
     "country": "USA",
@@ -1988,7 +2468,10 @@
     "imageURL": null,
     "remarks": "Hidden whale sculpture in coastal park.",
     "__v": 0,
-    "longitudeLatitude": [-124.102, 44.3105],
+    "longitudeLatitude": [
+      -124.102,
+      44.3105
+    ],
     "address": "Yachats, OR, USA"
   },
   {
@@ -2000,7 +2483,10 @@
     "imageURL": null,
     "remarks": "Miniature roadside village.",
     "__v": 0,
-    "longitudeLatitude": [-78.6442, 40.1954],
+    "longitudeLatitude": [
+      -78.6442,
+      40.1954
+    ],
     "address": "Pleasantville, PA, USA"
   },
   {
@@ -2012,7 +2498,10 @@
     "imageURL": null,
     "remarks": "Tribute to famous chicken breed.",
     "__v": 0,
-    "longitudeLatitude": [-71.1289, 41.5536],
+    "longitudeLatitude": [
+      -71.1289,
+      41.5536
+    ],
     "address": "Little Compton, RI, USA"
   },
   {
@@ -2024,7 +2513,10 @@
     "imageURL": null,
     "remarks": "Replica vintage gas station.",
     "__v": 0,
-    "longitudeLatitude": [-82.2251, 35.1949],
+    "longitudeLatitude": [
+      -82.2251,
+      35.1949
+    ],
     "address": "Landrum, SC, USA"
   },
   {
@@ -2036,7 +2528,10 @@
     "imageURL": null,
     "remarks": "Classic early roadside dinosaur.",
     "__v": 0,
-    "longitudeLatitude": [-102.6957, 43.912],
+    "longitudeLatitude": [
+      -102.6957,
+      43.912
+    ],
     "address": "Creston, SD, USA"
   },
   {
@@ -2048,7 +2543,10 @@
     "imageURL": null,
     "remarks": "Colorful cave attraction.",
     "__v": 0,
-    "longitudeLatitude": [-83.3468, 35.9042],
+    "longitudeLatitude": [
+      -83.3468,
+      35.9042
+    ],
     "address": "Sevierville, TN, USA"
   },
   {
@@ -2060,7 +2558,10 @@
     "imageURL": null,
     "remarks": "Cartoon-filled roadside attraction.",
     "__v": 0,
-    "longitudeLatitude": [-98.831, 29.9972],
+    "longitudeLatitude": [
+      -98.831,
+      29.9972
+    ],
     "address": "Comfort, TX, USA"
   },
   {
@@ -2072,7 +2573,10 @@
     "imageURL": null,
     "remarks": "Gas station carved into rock.",
     "__v": 0,
-    "longitudeLatitude": [-110.7048, 38.3736],
+    "longitudeLatitude": [
+      -110.7048,
+      38.3736
+    ],
     "address": "Hanksville, UT, USA"
   },
   {
@@ -2084,7 +2588,10 @@
     "imageURL": null,
     "remarks": "Gorilla holding a VW Beetle.",
     "__v": 0,
-    "longitudeLatitude": [-73.1079, 43.8667],
+    "longitudeLatitude": [
+      -73.1079,
+      43.8667
+    ],
     "address": "Leicester, VT, USA"
   },
   {
@@ -2096,7 +2603,10 @@
     "imageURL": null,
     "remarks": "Classic roadside mascot statue.",
     "__v": 0,
-    "longitudeLatitude": [-77.1898, 38.8929],
+    "longitudeLatitude": [
+      -77.1898,
+      38.8929
+    ],
     "address": "Falls Church, VA, USA"
   },
   {
@@ -2108,7 +2618,10 @@
     "imageURL": null,
     "remarks": "Massive historic tree stump.",
     "__v": 0,
-    "longitudeLatitude": [-122.1892, 48.1687],
+    "longitudeLatitude": [
+      -122.1892,
+      48.1687
+    ],
     "address": "Arlington, WA, USA"
   },
   {
@@ -2120,7 +2633,10 @@
     "imageURL": null,
     "remarks": "Scrap-metal coal miner statue.",
     "__v": 0,
-    "longitudeLatitude": [-80.3144, 39.3802],
+    "longitudeLatitude": [
+      -80.3144,
+      39.3802
+    ],
     "address": "Shinnston, WV, USA"
   },
   {
@@ -2132,20 +2648,11 @@
     "imageURL": null,
     "remarks": "Year-round Christmas attraction with giant Santa statue.",
     "__v": 0,
-    "longitudeLatitude": [-147.3494, 64.7511],
+    "longitudeLatitude": [
+      -147.3494,
+      64.7511
+    ],
     "address": "101 St Nicholas Dr, North Pole, AK"
-  },
-  {
-    "country": "USA",
-    "_id": "ar0179",
-    "name": "The Thing?",
-    "location": "Dragoon",
-    "state": "Arizona",
-    "imageURL": null,
-    "remarks": "Infamous mystery attraction advertised for miles on I-10.",
-    "__v": 0,
-    "longitudeLatitude": [-110.041, 32.0034],
-    "address": "2631 N Johnson Rd, Dragoon, AZ"
   },
   {
     "country": "USA",
@@ -2156,7 +2663,10 @@
     "imageURL": null,
     "remarks": "67-foot-tall statue overlooking the Ozarks.",
     "__v": 0,
-    "longitudeLatitude": [-93.737, 36.4204],
+    "longitudeLatitude": [
+      -93.737,
+      36.4204
+    ],
     "address": "935 Passion Play Rd, Eureka Springs, AR"
   },
   {
@@ -2168,7 +2678,10 @@
     "imageURL": null,
     "remarks": "Factory museum dedicated to PEZ candy.",
     "__v": 0,
-    "longitudeLatitude": [-73.0126, 41.2784],
+    "longitudeLatitude": [
+      -73.0126,
+      41.2784
+    ],
     "address": "35 Prindle Hill Rd, Orange, CT"
   },
   {
@@ -2180,20 +2693,11 @@
     "imageURL": null,
     "remarks": "46-foot NASCAR monster statue holding a car.",
     "__v": 0,
-    "longitudeLatitude": [-75.5244, 39.189],
+    "longitudeLatitude": [
+      -75.5244,
+      39.189
+    ],
     "address": "1131 N Dupont Hwy, Dover, DE"
-  },
-  {
-    "country": "USA",
-    "_id": "fl0183",
-    "name": "Weeki Wachee Mermaids",
-    "location": "Spring Hill",
-    "state": "Florida",
-    "imageURL": null,
-    "remarks": "Live mermaid shows in a natural spring.",
-    "__v": 0,
-    "longitudeLatitude": [-82.5754, 28.5169],
-    "address": "6131 Commercial Way, Spring Hill, FL"
   },
   {
     "country": "USA",
@@ -2204,7 +2708,10 @@
     "imageURL": null,
     "remarks": "Birthplace of Cabbage Patch Kids.",
     "__v": 0,
-    "longitudeLatitude": [-83.7666, 34.5973],
+    "longitudeLatitude": [
+      -83.7666,
+      34.5973
+    ],
     "address": "300 NOK Dr, Cleveland, GA"
   },
   {
@@ -2216,7 +2723,10 @@
     "imageURL": null,
     "remarks": "Famous pineapple attraction and giant maze.",
     "__v": 0,
-    "longitudeLatitude": [-158.017, 21.5403],
+    "longitudeLatitude": [
+      -158.017,
+      21.5403
+    ],
     "address": "64-1550 Kamehameha Hwy, Wahiawa, HI"
   },
   {
@@ -2228,20 +2738,11 @@
     "imageURL": null,
     "remarks": "Beagle-shaped bed and breakfast.",
     "__v": 0,
-    "longitudeLatitude": [-116.3545, 46.0541],
+    "longitudeLatitude": [
+      -116.3545,
+      46.0541
+    ],
     "address": "2421 Business Loop 95, Cottonwood, ID"
-  },
-  {
-    "country": "USA",
-    "_id": "il0187",
-    "name": "Gemini Giant",
-    "location": "Wilmington",
-    "state": "Illinois",
-    "imageURL": null,
-    "remarks": "Classic Route 66 fiberglass giant.",
-    "__v": 0,
-    "longitudeLatitude": [-88.1467, 41.2853],
-    "address": "810 S Water St, Wilmington, IL"
   },
   {
     "country": "USA",
@@ -2252,7 +2753,10 @@
     "imageURL": null,
     "remarks": "Star Trek-themed roadside stop.",
     "__v": 0,
-    "longitudeLatitude": [-91.5316, 41.4797],
+    "longitudeLatitude": [
+      -91.5316,
+      41.4797
+    ],
     "address": "Riverside, IA"
   },
   {
@@ -2264,7 +2768,10 @@
     "imageURL": null,
     "remarks": "Continuously growing ball of twine.",
     "__v": 0,
-    "longitudeLatitude": [-98.4337, 39.5097],
+    "longitudeLatitude": [
+      -98.4337,
+      39.5097
+    ],
     "address": "719 Wisconsin St, Cawker City, KS"
   },
   {
@@ -2276,20 +2783,11 @@
     "imageURL": null,
     "remarks": "Life-size dinosaur park off I-65.",
     "__v": 0,
-    "longitudeLatitude": [-85.9712, 37.136],
+    "longitudeLatitude": [
+      -85.9712,
+      37.136
+    ],
     "address": "711 Mammoth Cave Rd, Cave City, KY"
-  },
-  {
-    "country": "USA",
-    "_id": "lo0191",
-    "name": "Abita Mystery House",
-    "location": "Abita Springs",
-    "state": "Louisiana",
-    "imageURL": null,
-    "remarks": "Eclectic roadside museum of oddities.",
-    "__v": 0,
-    "longitudeLatitude": [-90.0042, 30.4755],
-    "address": "22275 LA-36, Abita Springs, LA"
   },
   {
     "country": "USA",
@@ -2300,20 +2798,11 @@
     "imageURL": null,
     "remarks": "Natural sand dunes in the forest.",
     "__v": 0,
-    "longitudeLatitude": [-70.1337, 43.825],
+    "longitudeLatitude": [
+      -70.1337,
+      43.825
+    ],
     "address": "95 Desert Rd, Freeport, ME"
-  },
-  {
-    "country": "USA",
-    "_id": "ma0193",
-    "name": "Roadside America Miniature Village",
-    "location": "Shartlesville",
-    "state": "Maryland",
-    "imageURL": null,
-    "remarks": "Massive miniature town display.",
-    "__v": 0,
-    "longitudeLatitude": [-76.0044, 40.5115],
-    "address": "Shartlesville, MD"
   },
   {
     "country": "USA",
@@ -2324,7 +2813,10 @@
     "imageURL": null,
     "remarks": "Real fossilized dinosaur tracks.",
     "__v": 0,
-    "longitudeLatitude": [-72.6207, 42.2334],
+    "longitudeLatitude": [
+      -72.6207,
+      42.2334
+    ],
     "address": "Holyoke, MA"
   },
   {
@@ -2336,7 +2828,10 @@
     "imageURL": null,
     "remarks": "Gravity-defying roadside attraction.",
     "__v": 0,
-    "longitudeLatitude": [-84.734, 45.8772],
+    "longitudeLatitude": [
+      -84.734,
+      45.8772
+    ],
     "address": "N916 Martin Lake Rd, St Ignace, MI"
   },
   {
@@ -2348,7 +2843,10 @@
     "imageURL": null,
     "remarks": "Iconic giant statues and photo stop.",
     "__v": 0,
-    "longitudeLatitude": [-94.8796, 47.4736],
+    "longitudeLatitude": [
+      -94.8796,
+      47.4736
+    ],
     "address": "Bemidji, MN"
   },
   {
@@ -2360,20 +2858,11 @@
     "imageURL": null,
     "remarks": "Drive-through buffalo park.",
     "__v": 0,
-    "longitudeLatitude": [-88.7034, 34.2576],
+    "longitudeLatitude": [
+      -88.7034,
+      34.2576
+    ],
     "address": "2272 N Coley Rd, Tupelo, MS"
-  },
-  {
-    "country": "USA",
-    "_id": "mi0198",
-    "name": "World's Largest Rocking Chair",
-    "location": "Fanning",
-    "state": "Missouri",
-    "imageURL": null,
-    "remarks": "Route 66 giant rocking chair.",
-    "__v": 0,
-    "longitudeLatitude": [-91.4101, 38.265],
-    "address": "Fanning, MO"
   },
   {
     "country": "USA",
@@ -2384,7 +2873,10 @@
     "imageURL": null,
     "remarks": "Peaceful outdoor installation.",
     "__v": 0,
-    "longitudeLatitude": [-114.0917, 47.1686],
+    "longitudeLatitude": [
+      -114.0917,
+      47.1686
+    ],
     "address": "Arlee, MT"
   },
   {
@@ -2396,20 +2888,11 @@
     "imageURL": null,
     "remarks": "Colorful stacked boulder art installation.",
     "__v": 0,
-    "longitudeLatitude": [-115.2685, 35.8395],
+    "longitudeLatitude": [
+      -115.2685,
+      35.8395
+    ],
     "address": "Las Vegas, NV"
-  },
-  {
-    "country": "USA",
-    "_id": "ne0201",
-    "name": "Meow Wolf",
-    "location": "Santa Fe",
-    "state": "New Mexico",
-    "imageURL": null,
-    "remarks": "Immersive art experience.",
-    "__v": 0,
-    "longitudeLatitude": [-105.9915, 35.6869],
-    "address": "1352 Rufina Cir, Santa Fe, NM"
   },
   {
     "country": "USA",
@@ -2420,7 +2903,10 @@
     "imageURL": null,
     "remarks": "32-foot chair landmark.",
     "__v": 0,
-    "longitudeLatitude": [-80.0817, 35.8826],
+    "longitudeLatitude": [
+      -80.0817,
+      35.8826
+    ],
     "address": "Thomasville, NC"
   },
   {
@@ -2432,7 +2918,10 @@
     "imageURL": null,
     "remarks": "109 giant concrete corn sculptures.",
     "__v": 0,
-    "longitudeLatitude": [-83.1141, 40.0992],
+    "longitudeLatitude": [
+      -83.1141,
+      40.0992
+    ],
     "address": "Dublin, OH"
   },
   {
@@ -2444,20 +2933,11 @@
     "imageURL": null,
     "remarks": "Life-size dinosaur park in forest.",
     "__v": 0,
-    "longitudeLatitude": [-124.4085, 42.4073],
+    "longitudeLatitude": [
+      -124.4085,
+      42.4073
+    ],
     "address": "36848 US-101, Gold Beach, OR"
-  },
-  {
-    "country": "USA",
-    "_id": "pe0205",
-    "name": "Roadside America",
-    "location": "Shartlesville",
-    "state": "Pennsylvania",
-    "imageURL": null,
-    "remarks": "Massive miniature village display.",
-    "__v": 0,
-    "longitudeLatitude": [-76.0044, 40.5115],
-    "address": "Shartlesville, PA"
   },
   {
     "country": "USA",
@@ -2468,7 +2948,10 @@
     "imageURL": null,
     "remarks": "Giant termite on rooftop.",
     "__v": 0,
-    "longitudeLatitude": [-71.4372, 41.8236],
+    "longitudeLatitude": [
+      -71.4372,
+      41.8236
+    ],
     "address": "Providence, RI"
   },
   {
@@ -2480,7 +2963,10 @@
     "imageURL": null,
     "remarks": "America's largest underground lake.",
     "__v": 0,
-    "longitudeLatitude": [-84.4615, 35.6017],
+    "longitudeLatitude": [
+      -84.4615,
+      35.6017
+    ],
     "address": "Sweetwater, TN"
   },
   {
@@ -2492,20 +2978,11 @@
     "imageURL": null,
     "remarks": "Graveyard of discontinued ice cream flavors.",
     "__v": 0,
-    "longitudeLatitude": [-72.7566, 44.337],
+    "longitudeLatitude": [
+      -72.7566,
+      44.337
+    ],
     "address": "Waterbury, VT"
-  },
-  {
-    "country": "USA",
-    "_id": "vi0209",
-    "name": "Foamhenge",
-    "location": "Natural Bridge",
-    "state": "Virginia",
-    "imageURL": null,
-    "remarks": "Full-scale foam Stonehenge replica.",
-    "__v": 0,
-    "longitudeLatitude": [-79.5431, 37.6299],
-    "address": "Natural Bridge, VA"
   },
   {
     "country": "USA",
@@ -2516,7 +2993,10 @@
     "imageURL": null,
     "remarks": "Tribute to legendary cryptid.",
     "__v": 0,
-    "longitudeLatitude": [-82.1324, 38.844],
+    "longitudeLatitude": [
+      -82.1324,
+      38.844
+    ],
     "address": "Point Pleasant, WV"
   },
   {
@@ -2528,7 +3008,10 @@
     "imageURL": null,
     "remarks": "Pyramid monument on the plains.",
     "__v": 0,
-    "longitudeLatitude": [-105.3863, 41.1313],
+    "longitudeLatitude": [
+      -105.3863,
+      41.1313
+    ],
     "address": "Laramie, WY"
   }
 ]

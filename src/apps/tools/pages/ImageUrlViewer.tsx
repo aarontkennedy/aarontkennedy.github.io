@@ -1,5 +1,6 @@
 import React, { useState } from "react";
 import "./ImageUrlViewer.scss";
+import Header from "../../../components/header/Header";
 
 const ImageUrlViewer = () => {
   const [input, setInput] = useState("");
@@ -51,7 +52,8 @@ const ImageUrlViewer = () => {
 
   return (
     <div className="image-url-viewer">
-      <header className="header">
+      <Header />
+      <div className="header">
         <h1>Image Url Viewer</h1>
         <div>
           <label htmlFor="delimiter">Delimiter</label>
@@ -66,7 +68,7 @@ const ImageUrlViewer = () => {
             <option value="space">space</option>
           </select>
         </div>
-      </header>
+      </div>
       <div className="content">
         <textarea
           className="url-input"
