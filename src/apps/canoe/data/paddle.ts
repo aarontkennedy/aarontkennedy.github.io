@@ -10,4 +10,5 @@ export interface Paddle {
   name: string;
   urls: Url[];
   route: LatLngExpression[];
+  distanceMiles: number; // in miles
 }

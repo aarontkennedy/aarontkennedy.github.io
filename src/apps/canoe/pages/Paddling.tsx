@@ -11,46 +11,11 @@ import MarkerWithPolyline from "../../../components/map/MarkerWithPolyline";
 import { Paddle, Url } from "../data/paddle";
 import "./Paddling.scss";
 import { formatDate, getYear } from "../../../util/dates";
-// import { shuffleArray } from "../../../util/shuffle";
-
-// import bluebirdPhoto from "../../../images/paddling/bluebird.jpeg";
-// import chickadeePhoto from "../../../images/paddling/chickadee.jpeg";
-// import craneBeaverPhoto from "../../../images/paddling/craneBeaver.jpeg";
-// import damselPhoto from "../../../images/paddling/damsel.jpeg";
-// import deerPhoto from "../../../images/paddling/deer.jpeg";
-// import eaglePhoto from "../../../images/paddling/eagle.jpeg";
-// import fallMoonPhoto from "../../../images/paddling/fallMoon.jpeg";
-// import greenHeronPhoto from "../../../images/paddling/greenHeron.jpeg";
-// import gullsPhoto from "../../../images/paddling/gulls.jpeg";
-// import heronPhoto from "../../../images/paddling/heron.jpeg";
-// import pelicansPhoto from "../../../images/paddling/pelicans.jpeg";
-// import racoonPhoto from "../../../images/paddling/racoon.jpeg";
-// import sunrisePhoto from "../../../images/paddling/sunrise.jpeg";
-// import surfingPhoto from "../../../images/paddling/surfing.jpeg";
-// import whitewaterPhoto from "../../../images/paddling/whitewater.jpeg";
 import { useEffect, useState } from "react";
 import EllipsisText from "../../../components/EllipsisText/EllipsisText";
 import CustomClearInput from "../../../components/CustomClearInput/CustomClearInput";
 
 const youtubeBackgroundVideoId = "1AdQTKX82Mc";
-
-// const photoArray = [
-//   bluebirdPhoto,
-//   chickadeePhoto,
-//   craneBeaverPhoto,
-//   damselPhoto,
-//   deerPhoto,
-//   eaglePhoto,
-//   fallMoonPhoto,
-//   greenHeronPhoto,
-//   gullsPhoto,
-//   heronPhoto,
-//   pelicansPhoto,
-//   racoonPhoto,
-//   sunrisePhoto,
-//   surfingPhoto,
-//   whitewaterPhoto,
-// ];
 
 const canoeIcon = new Icon({
   iconUrl: canoeImage,
@@ -110,6 +75,10 @@ export const convertYoutubeUrlToThumbnailUrl = (youtubeURL: string): string => {
 };
 
 const tags = [...new Set(paddleData.map((record) => record.tags).flat())];
+const totalMilesPaddled = paddleData.reduce(
+  (acc, record) => acc + record.distanceMiles,
+  0,
+);
 
 class VideoLink {
   name: string;
@@ -125,7 +94,7 @@ class VideoLink {
 
 const allVideos = paddleData
   .map((record) =>
-    record.urls.map((u) => new VideoLink(record.name, u.url, u.date))
+    record.urls.map((u) => new VideoLink(record.name, u.url, u.date)),
   )
   .flat()
   .sort((v1, v2) => {
@@ -141,12 +110,12 @@ const Paddling = () => {
     const filtered = paddleData.filter(
       (p) =>
         p.name.toLowerCase().includes(value.toLowerCase()) ||
-        p.tags.includes(value.toLowerCase())
+        p.tags.includes(value.toLowerCase()),
     );
 
     const converted = filtered
       .map((record) =>
-        record.urls.map((u) => new VideoLink(record.name, u.url, u.date))
+        record.urls.map((u) => new VideoLink(record.name, u.url, u.date)),
       )
       .flat()
       .sort((v1, v2) => {
@@ -276,14 +245,9 @@ const Paddling = () => {
           <MinimapControl position="topright" zoom={2} />
         )}
       </MapContainer>
-
-      {/* <div className="carousel">
-        {shuffleArray(photoArray)
-          .slice(0, 10)
-          .map((photo: string) => (
-            <img key={photo} className="" src={photo} />
-          ))}
-      </div> */}
+      <div className="paddling__total-miles">
+        Miles paddled: {totalMilesPaddled.toFixed(0)}
+      </div>
     </>
   );
 };

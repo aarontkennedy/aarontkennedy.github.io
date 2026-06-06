@@ -5,23 +5,28 @@ body {
 
 .paddling__map {
   width: 100%;
-  margin-bottom: 75px;
-  // .leaflet-control-container .leaflet-top.leaflet-left {
-  //   top: $menuHeight;
-  // }
+  margin-bottom: 5px;
 
-  // .leaflet-control.leaflet-bar {
-  //   top: $menuHeight;
-  // }
-
-  // .leaflet-control-zoom.leaflet-bar.leaflet-control {
-  //   top: unset;
-  // }
   @media (min-width: 768px) {
     max-width: 800px;
     margin-right: auto;
     margin-left: auto;
     border-radius: 8px;
+  }
+}
+
+.paddling__total-miles {
+  width: 100%;
+  text-align: right;
+  font-size: 18px;
+  margin-top: 0px;
+  margin-bottom: 75px;
+  color: gray;
+
+  @media (min-width: 768px) {
+    max-width: 800px;
+    margin-right: auto;
+    margin-left: auto;
   }
 }
 
