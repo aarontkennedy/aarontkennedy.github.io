@@ -98,7 +98,7 @@
       [45.40592270582534, -93.68282318115236],
       [45.401824879771254, -93.68385314941408]
     ],
-    "distanceMiles": 6.74
+    "distanceMiles": 12
   },
   {
     "name": "St. Francis South of Sherburne NWR to Elk River",
@@ -133,7 +133,7 @@
       [45.36058903822181, -93.73294830322266],
       [45.35721167246838, -93.7398147583008]
     ],
-    "distanceMiles": 5.57
+    "distanceMiles": 12
   },
   {
     "name": "St. Croix (Interstate to William O'Brien)",
@@ -162,7 +162,7 @@
       [45.23138207178167, -92.75962829589844],
       [45.21638951846553, -92.76168823242189]
     ],
-    "distanceMiles": 14.35
+    "distanceMiles": 15
   },
   {
     "name": "Phalen Chain of Lakes",
@@ -244,7 +244,7 @@
       [44.408059312935585, -92.08431243896486],
       [44.411492865273296, -92.13512420654298]
     ],
-    "distanceMiles": 41.86
+    "distanceMiles": 45
   },
   {
     "name": "Missisippi (Reads Landing to Wabasha)",
@@ -269,7 +269,7 @@
       [44.389114288363054, -92.03689098358154],
       [44.3874582174954, -92.03255653381349]
     ],
-    "distanceMiles": 2.8
+    "distanceMiles": 5
   },
   {
     "name": "Whitewater River",
@@ -325,7 +325,7 @@
       [44.220599591069444, -91.92440986633302],
       [44.220353544901755, -91.92526817321777]
     ],
-    "distanceMiles": 14.58
+    "distanceMiles": 17
   },
   {
     "name": "Cannon River",
@@ -363,7 +363,7 @@
       [44.567235529641245, -92.74010181427002],
       [44.567449547733645, -92.73808479309083]
     ],
-    "distanceMiles": 11.04
+    "distanceMiles": 11.5
   },
   {
     "name": "Bald Eagle-Otter Lakes",
@@ -407,7 +407,7 @@
       [44.91601202628432, -93.13050270080568],
       [44.91807852144088, -93.12904357910158]
     ],
-    "distanceMiles": 12.06
+    "distanceMiles": 12
   },
   {
     "name": "Lake Josephine & Johanna",
@@ -461,7 +461,7 @@
       [44.88810706789497, -93.01900863647462],
       [44.88342451729211, -93.01746368408205]
     ],
-    "distanceMiles": 6.95
+    "distanceMiles": 9
   },
   {
     "name": "Mississippi (Minneapolis to St. Paul)",
@@ -507,7 +507,7 @@
       [44.89418773349613, -93.02330017089845],
       [44.88202575941478, -93.01703453063966]
     ],
-    "distanceMiles": 18.92
+    "distanceMiles": 20
   },
   {
     "name": "Highland Lake",
@@ -604,7 +604,7 @@
       [45.24431601647197, -93.52214813232422],
       [45.246008090499224, -93.52137565612794]
     ],
-    "distanceMiles": 23.15
+    "distanceMiles": 24
   },
   {
     "name": "Rum River (St. Francis to Mississippi)",
@@ -712,7 +712,7 @@
       [45.19715941066172, -93.39288711547853],
       [45.189538135754134, -93.39082717895509]
     ],
-    "distanceMiles": 21.61
+    "distanceMiles": 23
   },
   {
     "name": "Minneapolis Chain of Lakes",
@@ -795,7 +795,7 @@
       [45.08964153237946, -93.27564239501955],
       [45.08964153237946, -93.27959060668945]
     ],
-    "distanceMiles": 16.03
+    "distanceMiles": 20
   },
   {
     "name": "Mississippi (Coon Rapids to Boom Island)",
@@ -834,7 +834,7 @@
       [44.992695998855226, -93.27186584472658],
       [44.99315124103393, -93.27079296112062]
     ],
-    "distanceMiles": 11.11
+    "distanceMiles": 11
   },
   {
     "name": "Lake Rebecca",
@@ -951,7 +951,7 @@
       [44.915233272616724, -93.21638703346254],
       [44.915107911284075, -93.21624755859376]
     ],
-    "distanceMiles": 17.45
+    "distanceMiles": 22
   },
   {
     "name": "Murphy Lake",
@@ -1039,7 +1039,7 @@
       [44.795175445182075, -93.30130577087402],
       [44.79986517347141, -93.29014778137208]
     ],
-    "distanceMiles": 14.42
+    "distanceMiles": 17
   },
   {
     "name": "Wirth Lake",
@@ -1120,7 +1120,7 @@
       [44.97721561312754, -93.29654216766359],
       [44.97729909700548, -93.29619884490968]
     ],
-    "distanceMiles": 9.83
+    "distanceMiles": 12
   },
   {
     "name": "Mississippi: Nelson Trevino Water Trail",
@@ -1187,7 +1187,7 @@
       [44.567510695615404, -92.55110263824464],
       [44.56637944939722, -92.55045890808107]
     ],
-    "distanceMiles": 9.2
+    "distanceMiles": 7
   },
   {
     "name": "Kinnickinnic (River Falls Powell dam to St Croix)",
@@ -1237,7 +1237,7 @@
       [44.83166304376071, -92.76840448379517],
       [44.83277390167151, -92.76353359222412]
     ],
-    "distanceMiles": 9.2
+    "distanceMiles": 10
   },
   {
     "name": "Minnesota River - Thompson Ferry to Shakopee",
@@ -1286,7 +1286,7 @@
       [44.799560657232036, -93.53176116943361],
       [44.800291493506485, -93.52729797363283]
     ],
-    "distanceMiles": 13.97
+    "distanceMiles": 15
   },
   {
     "name": "Zumbro (Zumbro Falls to Alma, WI)",
@@ -1360,7 +1360,7 @@
       [44.31721612575094, -91.91539764404298],
       [44.319181225164634, -91.91539764404298]
     ],
-    "distanceMiles": 39.49
+    "distanceMiles": 50
   },
   {
     "name": "Crow River South Fork (Watertown to Rockford)",
@@ -1425,7 +1425,7 @@
       [45.08044528339556, -93.75640153884889],
       [45.07959679044761, -93.75380516052248]
     ],
-    "distanceMiles": 12.61
+    "distanceMiles": 14.3
   },
   {
     "name": "Mississippi (Halfmoon Landing)",
@@ -1480,7 +1480,7 @@
       [44.96261165407722, -93.84701728820801],
       [44.966376855809024, -93.84379863739015]
     ],
-    "distanceMiles": 12.68
+    "distanceMiles": 14
   },
   {
     "name": "Minnesota River (Courtland to Minneopa Creek)",
@@ -1531,7 +1531,7 @@
       [44.15961022449012, -94.0787172317505],
       [44.15911762165198, -94.07888889312746]
     ],
-    "distanceMiles": 18.88
+    "distanceMiles": 18
   },
   {
     "name": "Blue Earth (Rapidan to Mankato)",
@@ -1576,7 +1576,7 @@
       [44.161642167725134, -94.03726100921631],
       [44.16401267971887, -94.03601646423341]
     ],
-    "distanceMiles": 10.9
+    "distanceMiles": 12
   },
   {
     "name": "Crow River South Fork (Cedar Mill to Hutchinson)",
@@ -1639,7 +1639,7 @@
       [44.88999214298725, -94.41161155700685],
       [44.88828949721689, -94.40517425537111]
     ],
-    "distanceMiles": 9.47
+    "distanceMiles": 11
   },
   {
     "name": "Root River (Houston to La Crosse)",
@@ -1679,7 +1679,7 @@
       [43.78782584459156, -91.25149726867677],
       [43.78860036205685, -91.25158309936525]
     ],
-    "distanceMiles": 19.78
+    "distanceMiles": 20
   },
   {
     "name": "BWCA #16 Moose River, Ramshead, Oyster, Nina Moose",
@@ -1788,7 +1788,7 @@
       [48.12662720337877, -92.09795951843262],
       [48.12413499170132, -92.09894657135011]
     ],
-    "distanceMiles": 25.18
+    "distanceMiles": 27
   },
   {
     "name": "Lake De Montreville & Lake Olson",
@@ -1869,7 +1869,7 @@
       [45.16355159709078, -92.59260177612306],
       [45.16292371968993, -92.59258031845094]
     ],
-    "distanceMiles": 5.07
+    "distanceMiles": 5.5
   },
   {
     "name": "Sunrise River",
@@ -1908,7 +1908,7 @@
       [45.56523567814019, -92.86386966705324],
       [45.56643746095344, -92.86262512207031]
     ],
-    "distanceMiles": 7.65
+    "distanceMiles": 11
   },
   {
     "name": "Rum River - Isanti to St. Francis",
@@ -1971,7 +1971,7 @@
       [45.39028308123063, -93.35827589035036],
       [45.38865558842534, -93.35836172103883]
     ],
-    "distanceMiles": 11.13
+    "distanceMiles": 11
   },
   {
     "name": "St. Louis River near Sax Zim Bog",
@@ -2023,7 +2023,7 @@
       [47.17326135721027, -92.77851104736328],
       [47.166726169741494, -92.77971267700197]
     ],
-    "distanceMiles": 16.03
+    "distanceMiles": 19
   },
   {
     "name": "Rum River - Becklin Homestead to Isanti",
@@ -2112,7 +2112,7 @@
       [45.48968645757065, -93.26620101928712],
       [45.48821225996457, -93.26723098754884]
     ],
-    "distanceMiles": 16.39
+    "distanceMiles": 16.9
   },
   {
     "name": "Snake River, Little Walleye PWA to Pine City",
@@ -2177,7 +2177,7 @@
       [45.839503715552226, -92.94562339782715],
       [45.84028105450088, -92.94158935546876]
     ],
-    "distanceMiles": 10.13
+    "distanceMiles": 10.2
   },
   {
     "name": "St. Louis River: Fond Du Lac Campground",
@@ -2255,7 +2255,7 @@
       [45.247337541877606, -93.5259246826172],
       [45.24298649437897, -93.51562500000001]
     ],
-    "distanceMiles": 16.77
+    "distanceMiles": 16
   },
   {
     "name": "Belle Creek",
@@ -2340,7 +2340,7 @@
       [44.58073081086777, -92.65461444854736],
       [44.580791944786135, -92.65409946441652]
     ],
-    "distanceMiles": 7.23
+    "distanceMiles": 8
   },
   {
     "name": "St. Croix: Lake St. Croix Beach to Prescott, Wisconsin",
@@ -2368,7 +2368,7 @@
       [44.75697346938202, -92.80769348144533],
       [44.74380712723563, -92.80494689941408]
     ],
-    "distanceMiles": 13.24
+    "distanceMiles": 11
   },
   {
     "name": "Mississippi: Clearwater to Montissippi Park",
@@ -2407,7 +2407,7 @@
       [45.32897866218559, -93.82736206054689],
       [45.32704768567266, -93.82530212402345]
     ],
-    "distanceMiles": 14.61
+    "distanceMiles": 14.5
   },
   {
     "name": "Plymouth Creek",
@@ -2452,7 +2452,7 @@
       [45.00128429180728, -93.42790603637695],
       [45.00219463609633, -93.42945098876955]
     ],
-    "distanceMiles": 3.3
+    "distanceMiles": 4
   },
   {
     "name": "Bois Brule",
@@ -2512,7 +2512,7 @@
       [46.540384538209494, -91.59296367645265],
       [46.54026646198233, -91.59184787750245]
     ],
-    "distanceMiles": 2.61
+    "distanceMiles": 12
   },
   {
     "name": "Mississippi (Minneapolis to Lake City)",
@@ -2650,7 +2650,7 @@
       [44.41318336041361, -92.1522903442383],
       [44.41128272378633, -92.14284896850587]
     ],
-    "distanceMiles": 89.02
+    "distanceMiles": 91.5
   },
   {
     "name": "BWCA Iron Lake Loop",
@@ -3234,7 +3234,7 @@
       [48.122266579688, -91.829620708955],
       [48.121037672115, -91.830946170448]
     ],
-    "distanceMiles": 37.03
+    "distanceMiles": 50
   },
   {
     "name": "Minnesota River (Belle Plaine to Jordan)",
@@ -3282,7 +3282,7 @@
       [44.69404054463804, -93.6444188468925],
       [44.69239312464674, -93.64218724899213]
     ],
-    "distanceMiles": 10.13
+    "distanceMiles": 10
   },
   {
     "name": "Snail Lake",
@@ -3410,7 +3410,7 @@
       [45.080581647158354, -93.7568521499634],
       [45.07973315623549, -93.7538480758667]
     ],
-    "distanceMiles": 11.26
+    "distanceMiles": 11
   },
   {
     "name": "North Fork Crow River from Humphry Arends to Crow Springs Park",
@@ -3525,7 +3525,7 @@
       [45.09730646682798, -93.87079238891602],
       [45.094791996977975, -93.87126445770265]
     ],
-    "distanceMiles": 9.43
+    "distanceMiles": 9.5
   },
   {
     "name": "North Fork Crow River from Albright Mill County Park to Humphrey Arends Memorial Country Park",
@@ -3812,7 +3812,7 @@
       [45.10083829692783, -93.95570268444531],
       [45.10079285849473, -93.95248403362747]
     ],
-    "distanceMiles": 18
+    "distanceMiles": 17.5
   },
   {
     "name": "Sauk River",
@@ -3918,7 +3918,7 @@
       [45.591428714455105, -94.17686462402344],
       [45.591759053159635, -94.17686462402344]
     ],
-    "distanceMiles": 9.87
+    "distanceMiles": 10
   },
   {
     "name": "Upper Kettle (Banning to Robinson)",
@@ -4124,7 +4124,7 @@
       [45.297742647491965, -93.57278823852539],
       [45.29811999158133, -93.57278823852539]
     ],
-    "distanceMiles": 15.02
+    "distanceMiles": 15
   },
   {
     "name": "Vermillion River (Hastings to South Boat Access)",
@@ -4289,7 +4289,7 @@
       [44.66737098807476, -92.73812770843507],
       [44.66593646500206, -92.73490905761719]
     ],
-    "distanceMiles": 11.17
+    "distanceMiles": 11
   },
   {
     "name": "Cannon River: Faribault to Dundas",
@@ -4419,7 +4419,7 @@
       [44.430899226566126, -93.20504665374757],
       [44.43065406090345, -93.20530414581299]
     ],
-    "distanceMiles": 13.58
+    "distanceMiles": 13.5
   },
   {
     "name": "Straight River: Medford to Teepee Tonka",
@@ -4585,7 +4585,7 @@
       [44.28926774786557, -93.2622528076172],
       [44.29046580838405, -93.26414108276369]
     ],
-    "distanceMiles": 14.75
+    "distanceMiles": 15
   },
   {
     "name": "Cottonwood River",
@@ -4695,7 +4695,7 @@
       [44.29011253666922, -94.44042921066286],
       [44.289083428693665, -94.43957090377808]
     ],
-    "distanceMiles": 13.23
+    "distanceMiles": 14
   },
   {
     "name": "Mississippi: Beaver Island to Snuffy's",
@@ -4771,7 +4771,7 @@
       [45.38600181065017, -93.9224624633789],
       [45.38515786742284, -93.91834259033205]
     ],
-    "distanceMiles": 19.89
+    "distanceMiles": 20
   },
   {
     "name": "Vermillion River: Hwy 52 to Hastings",
@@ -5009,7 +5009,7 @@
       [44.72148569590311, -92.85818338394166],
       [44.7238640918232, -92.85353779792786]
     ],
-    "distanceMiles": 11.95
+    "distanceMiles": 12
   },
   {
     "name": "Cherokee, Sawbill, Gillis Lake Voyage",
@@ -5219,7 +5219,7 @@
       [48.06887642239898, -90.84425702849124],
       [48.07429620550197, -90.83674684324953]
     ],
-    "distanceMiles": 57.89
+    "distanceMiles": 62
   },
   {
     "name": "South Branch Middle Fork Zumbro River",
@@ -5354,7 +5354,7 @@
       [44.16248879008585, -92.53505229949953],
       [44.16264272011887, -92.53458023071289]
     ],
-    "distanceMiles": 8.19
+    "distanceMiles": 8.5
   },
   {
     "name": "Halls Creek",
@@ -5475,7 +5475,7 @@
       [44.36205926354024, -90.78663825988771],
       [44.358837594637265, -90.78432083129884]
     ],
-    "distanceMiles": 10.69
+    "distanceMiles": 11.5
   },
   {
     "name": "North Fork Crow River: Finnish Memorial Park to Betty T Mason County Park",
@@ -5589,7 +5589,7 @@
       [45.18978009667531, -94.19179916381836],
       [45.1889332289511, -94.1905975341797]
     ],
-    "distanceMiles": 13.24
+    "distanceMiles": 15
   },
   {
     "name": "Upper St. Louis River",
@@ -5626,6 +5626,6 @@
       [46.66822817502446, -92.4062204360962],
       [46.66593106947641, -92.40210056304933]
     ],
-    "distanceMiles": 3.94
+    "distanceMiles": 4
   }
 ]
